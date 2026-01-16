@@ -2,63 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevCompare</title>
-    <link>https://devcompare.github.io</link>
+    <link>https://onlythejoe.github.io/DevCompare</link>
     <description>Automated developer tools comparisons.</description>
-    <atom:link href="https://devcompare.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://onlythejoe.github.io/DevCompare/rss.xml" rel="self" type="application/rss+xml" />
     
         <item>
           <title>Best Developer Tools for Productivity Workflows</title>
-          <link>best-dev-tools-for-productivity.html</link>
+          <link>https://onlythejoe.github.io/DevCompare/pages/2026-01-16-015509150-best-dev-tools-for-productivity.html</link>
           <description>Daily curated picks for developer tools that accelerate workflows.</description>
-          <pubDate>Fri, 16 Jan 2026 01:39:24 GMT</pubDate>
+          <pubDate>Fri, 16 Jan 2026 01:55:09 GMT</pubDate>
         </item>
       
-
         <item>
           <title>Top Software for Remote Debugging and Observability</title>
-          <link>top-software-for-remote-debugging.html</link>
+          <link>https://onlythejoe.github.io/DevCompare/pages/2026-01-16-015509150-top-software-for-remote-debugging.html</link>
           <description>The most cited tools for tracing, remote debugging, and incident analysis.</description>
-          <pubDate>Fri, 16 Jan 2026 01:39:24 GMT</pubDate>
+          <pubDate>Fri, 16 Jan 2026 01:55:09 GMT</pubDate>
         </item>
       
-
         <item>
           <title>Gitpod vs VS Code: Browser IDE vs Desktop Power</title>
-          <link>gitpod-vscode-comparison.html</link>
+          <link>https://onlythejoe.github.io/DevCompare/pages/2026-01-16-015509150-gitpod-vscode-comparison.html</link>
           <description>Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.</description>
-          <pubDate>Fri, 16 Jan 2026 01:39:24 GMT</pubDate>
+          <pubDate>Fri, 16 Jan 2026 01:55:09 GMT</pubDate>
         </item>
       
-
         <item>
           <title>New Tools This Week: Fresh Releases in Dev Productivity</title>
-          <link>new-collections-this-week.html</link>
+          <link>https://onlythejoe.github.io/DevCompare/pages/2026-01-16-015509150-new-collections-this-week.html</link>
           <description>Summaries of the newest developer tools pulled from developer feeds.</description>
-          <pubDate>Fri, 16 Jan 2026 01:39:24 GMT</pubDate>
-        </item>
-      
-
-        <item>
-          <title>CI/CD Tool Directory</title>
-          <link>directory-ci-cd.html</link>
-          <description>Structured directory of CI/CD tooling for AI assistants and search agents.</description>
-          <pubDate>Fri, 16 Jan 2026 01:39:24 GMT</pubDate>
-        </item>
-      
-
-        <item>
-          <title>Developer Productivity Tool Directory</title>
-          <link>directory-developer-productivity.html</link>
-          <description>Structured directory of Developer Productivity tooling for AI assistants and search agents.</description>
-          <pubDate>Fri, 16 Jan 2026 01:39:24 GMT</pubDate>
-        </item>
-      
-
-        <item>
-          <title>Design & Prototyping Tool Directory</title>
-          <link>directory-design-prototyping.html</link>
-          <description>Structured directory of Design & Prototyping tooling for AI assistants and search agents.</description>
-          <pubDate>Fri, 16 Jan 2026 01:39:24 GMT</pubDate>
+          <pubDate>Fri, 16 Jan 2026 01:55:09 GMT</pubDate>
         </item>
       
   </channel>

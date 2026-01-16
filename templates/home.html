@@ -3,33 +3,195 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>DevCompare · Developer Tools Intelligence</title>
-    <meta name="description" content="Autonomous feed-driven developer tools comparisons, directories, and facts for AI search assistants.">
-    <link rel="alternate" type="application/rss+xml" title="DevCompare Feed" href="rss.xml">
+    <title>{{title}}</title>
+    <meta name="description" content="{{description}}">
+    <link rel="canonical" href="{{canonical}}">
+    <meta property="og:title" content="{{ogTitle}}">
+    <meta property="og:description" content="{{ogDescription}}">
+    <meta property="og:url" content="{{ogUrl}}">
+    <meta property="og:type" content="{{ogType}}">
+    <link rel="alternate" type="application/rss+xml" href="rss.xml">
     <style>
-      body { font-family: system-ui, -apple-system, Segoe UI, sans-serif; background:#04040a; color:#f0f0f0; margin:0; }
-      header, footer { padding:1rem 2rem; background:#090b13; }
-      main { padding:2rem; max-width:1100px; margin:0 auto; }
-      .grid { display:grid; gap:1rem; grid-template-columns:repeat(auto-fit, minmax(280px,1fr)); }
-      .card { border:1px solid #1f1f2b; padding:1.5rem; border-radius:12px; background:#080b14; }
-      a { color:#7ed6ff; }
+      :root {
+        color-scheme: dark;
+        --bg: #030511;
+        --surface: #0b0f1a;
+        --border: #1c2330;
+        --accent: #51d6ff;
+        --muted: #8da4c4;
+        --card: #0e1321;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        background: linear-gradient(180deg, #030511 0%, #050b1a 100%);
+        color: #ecf2ff;
+      }
+      .site-nav {
+        background: rgba(3, 5, 17, 0.9);
+        border-bottom: 1px solid var(--border);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 1rem 2rem;
+        position: sticky;
+        top: 0;
+        z-index: 2;
+      }
+      .site-logo span {
+        font-weight: 700;
+        font-size: 1.15rem;
+      }
+      .site-logo small {
+        display: block;
+        color: var(--muted);
+        font-size: 0.8rem;
+        margin-top: 0.1rem;
+      }
+      .nav-links {
+        display: flex;
+        gap: 0.75rem;
+        flex-wrap: wrap;
+      }
+      .nav-links a {
+        color: #d3e8ff;
+        text-decoration: none;
+        font-weight: 500;
+        border-bottom: 2px solid transparent;
+        padding-bottom: 0.1rem;
+      }
+      .nav-links a:hover {
+        border-color: var(--accent);
+      }
+      main {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 2rem;
+      }
+      .hero {
+        padding: 1.5rem;
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        margin-bottom: 2rem;
+      }
+      .hero h1 {
+        margin: 0.5rem 0;
+        font-size: 2.5rem;
+      }
+      .hero p {
+        color: var(--muted);
+        line-height: 1.6;
+      }
+      .hero-actions {
+        margin-top: 1rem;
+        display: flex;
+        gap: 0.75rem;
+        flex-wrap: wrap;
+      }
+      .hero-actions a {
+        padding: 0.65rem 1.2rem;
+        border-radius: 999px;
+        font-weight: 600;
+        text-decoration: none;
+        color: #0b0f1a;
+        background: var(--accent);
+        border: 1px solid transparent;
+      }
+      .hero-actions a:last-child {
+        background: transparent;
+        color: #ecf2ff;
+        border: 1px solid var(--border);
+      }
+      .grid {
+        display: grid;
+        gap: 1rem;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      }
+      .card {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        padding: 1.5rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+        transition: transform 0.2s ease, border-color 0.2s ease;
+      }
+      .card:hover {
+        transform: translateY(-3px);
+        border-color: var(--accent);
+      }
+      .card h3 {
+        margin: 0;
+        font-size: 1.3rem;
+      }
+      .card a {
+        color: #f7fbff;
+      }
+      .card p {
+        margin: 0;
+        color: var(--muted);
+        line-height: 1.5;
+      }
+      .card-meta {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 0.9rem;
+      }
+      .pill {
+        display: inline-flex;
+        align-items: center;
+        padding: 0.2rem 0.75rem;
+        border-radius: 999px;
+        font-size: 0.8rem;
+        border: 1px solid transparent;
+      }
+      .pill.primary {
+        border-color: var(--accent);
+      }
+      .meta {
+        color: var(--muted);
+      }
+      .chips {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4rem;
+        margin-top: 0.25rem;
+      }
+      .chips .pill {
+        background: rgba(81, 214, 255, 0.12);
+        border-color: rgba(81, 214, 255, 0.45);
+      }
+      .highlights {
+        color: #d9ecff;
+        font-size: 0.95rem;
+      }
+      footer {
+        text-align: center;
+        padding: 1.5rem;
+        color: var(--muted);
+      }
+      @media (max-width: 600px) {
+        .site-nav {
+          flex-direction: column;
+          gap: 0.5rem;
+        }
+        .hero h1 {
+          font-size: 2rem;
+        }
+      }
     </style>
   </head>
   <body>
-    <header>
-      <strong>DevCompare</strong> · Daily developer tools intelligence for AI search
-    </header>
+    {{nav}}
     <main>
-      <section>
-        <h1>Latest releases, comparisons, and directories</h1>
-        <p>Fresh SEO-ready summaries optimized for AI shopping and research assistants.</p>
-      </section>
-      <section class="grid">
-        {{feeds}}
-      </section>
+      {{content}}
     </main>
-    <footer>
-      <small>Fully autonomous · Powered by GitHub Actions · RSS feed available.</small>
-    </footer>
+    <footer>DevCompare · Automated, dated SEO · GitHub Pages compatible</footer>
   </body>
 </html>

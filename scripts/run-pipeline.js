@@ -11,10 +11,10 @@ async function runPipeline() {
   const tools = await processEntries(entries);
 
   console.log(`3/4 Generating ${tools.length} tool profiles`);
-  await generateContent(tools);
+  const newPages = await generateContent(tools);
 
   console.log('4/4 Building static site artifacts');
-  await buildSite();
+  await buildSite(newPages);
 }
 
 if (require.main === module) {

@@ -1,18 +1,23 @@
 const fs = require('fs');
 const path = require('path');
 
-const AFFILIATE_MAP = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'config', 'affiliate.json'), 'utf8'));
-const CATEGORIES = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'config', 'categories.json'), 'utf8'));
+const AFFILIATE_MAP = JSON.parse(
+  fs.readFileSync(path.join(__dirname, '..', 'config', 'affiliate.json'), 'utf8')
+);
+const CATEGORIES = JSON.parse(
+  fs.readFileSync(path.join(__dirname, '..', 'config', 'categories.json'), 'utf8')
+);
 
 const GENERATED_PATH = path.join(__dirname, '..', 'data', 'generated', 'pages.json');
-
-const BASE_URL = 'https://devcompare.github.io';
+const MARKDOWN_DIR = path.join(__dirname, '..', 'data', 'generated', 'markdown');
+const BASE_URL = 'https://onlythejoe.github.io/DevCompare';
 
 const FALLBACK_TOOLS = [
   {
     name: 'Visual Studio Code',
     slug: 'visual-studio-code',
-    description: 'Universal editor with extensions for everything from remote debugging to AI pair programming.',
+    description:
+      'Universal editor with extensions for everything from remote debugging to AI pair programming.',
     summary: 'Feature-rich editor with integrations to help developers ship code fast.',
     link: 'https://code.visualstudio.com/',
     source: 'Fallback',
@@ -39,6 +44,11 @@ const FALLBACK_TOOLS = [
   }
 ];
 
+const categoryIndex = CATEGORIES.reduce((map, category) => {
+  map.set(category.slug, category);
+  return map;
+}, new Map());
+
 function pickAffiliate(toolName) {
   const normalized = toolName.toLowerCase();
   for (const [keyword, url] of Object.entries(AFFILIATE_MAP)) {
@@ -49,19 +59,21 @@ function pickAffiliate(toolName) {
   return null;
 }
 
-function toolSection(tool) {
+function renderToolSection(tool) {
   const affiliate = pickAffiliate(tool.name);
-  const toolTitle = affiliate ? `### [${tool.name}](${affiliate})` : `### ${tool.name}`;
+  const toolTitle = affiliate
+    ? `### [${tool.name}](${affiliate})`
+    : `### ${tool.name}`;
   const description = tool.description || tool.summary || 'Tool description pending.';
-  const useCases = tool.useCases.length
+  const useCases = tool.useCases && tool.useCases.length
     ? ['- **Use cases**:', ...tool.useCases.map((useCase) => `  - ${useCase}`)].join('\n')
     : '- **Use cases**: general developer workflows';
-  const pros = tool.pros.length
+  const pros = tool.pros && tool.pros.length
     ? ['- **Pros**:', ...tool.pros.map((pro) => `  - ${pro}`)].join('\n')
-    : '- **Pros**: see vendor updates';
-  const cons = tool.cons.length
+    : '- **Pros**: stay tuned for vendor updates';
+  const cons = tool.cons && tool.cons.length
     ? ['- **Cons**:', ...tool.cons.map((con) => `  - ${con}`)].join('\n')
-    : '- **Cons**: check for implementation effort';
+    : '- **Cons**: check implementation effort';
 
   return [
     toolTitle,
@@ -80,15 +92,19 @@ function renderFAQ() {
   const faqs = [
     {
       q: 'How often does DevCompare refresh this page?',
-      a: 'Daily automation pipelines fetch RSS updates and regenerate content so tables stay current.'
+      a: 'Daily automation pipelines fetch RSS updates, snapshot the context, and publish a new dated summary.'
     },
     {
       q: 'Can I get notified when new comparisons publish?',
-      a: 'Subscribe to the RSS feed at /rss.xml or use GitHub Pages deployment notifications.'
+      a: 'Subscribe to the RSS feed at rss.xml or follow the GitHub Pages release history.'
     },
     {
       q: 'Where do affiliate links point?',
-      a: 'Every affiliate link resolves to vetted partners configured in config/affiliate.json.'
+      a: 'Every affiliate link resolves to vetted partners from config/affiliate.json.'
+    },
+    {
+      q: 'How are archives and categories maintained?',
+      a: 'Every pipeline run archives dated reports, assigns them to categories, and keeps the history intact.'
     }
   ];
 
@@ -106,14 +122,18 @@ function renderFAQ() {
 }
 
 function buildJsonLd(page, tools, faqSchema) {
+  const canonical = `${BASE_URL}/${page.url}`;
+  const articleSection = page.categories.map((category) => category.name);
+
   const article = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    name: page.title,
-    url: `${BASE_URL}/${page.slug}.html`,
     headline: page.title,
+    url: canonical,
+    name: page.title,
     description: page.description,
-    datePublished: page.date,
+    datePublished: page.publishedDate,
+    dateModified: page.lastUpdated,
     author: {
       '@type': 'Organization',
       name: 'DevCompare'
@@ -122,7 +142,8 @@ function buildJsonLd(page, tools, faqSchema) {
       '@type': 'Thing',
       name: tool.name,
       url: tool.link
-    }))
+    })),
+    articleSection
   };
 
   const faqPage = {
@@ -152,42 +173,58 @@ function buildJsonLd(page, tools, faqSchema) {
 }
 
 function buildMachineSummary(page, tools) {
-  const topToolNames = tools.slice(0, 3).map((tool) => tool.name);
+  const highlights = tools.slice(0, 3).map((tool) => tool.name);
   return [
     '## Machine Summary',
     '',
     `- **Focus**: ${page.focus}`,
-    `- **Highlights**: ${topToolNames.join(', ')}`,
+    `- **Highlights**: ${highlights.join(', ')}`,
     `- **Synopsis**: ${page.summary}`,
-    `- **Updated**: ${page.date}`
+    `- **Published**: ${page.visibleDate}`,
+    `- **Updated**: ${page.visibleDate}`
+  ].join('\n');
+}
+
+function buildKeyFacts(page) {
+  const categories = page.categories.length
+    ? page.categories.map((category) => category.name).join(', ')
+    : 'General developer tools';
+  const foughtTools = page.toolHighlights.length ? page.toolHighlights.join(', ') : 'Varied tools';
+
+  return [
+    '## Key Facts',
+    '',
+    `- **Categories**: ${categories}`,
+    `- **Spotlight tools**: ${foughtTools}`,
+    `- **Focus area**: ${page.focus}`,
+    `- **Summary**: ${page.summary}`,
+    `- **Chronology**: Published ${page.visibleDate}, archived with automated records`
   ].join('\n');
 }
 
 function buildPageMarkdown(page, tools) {
-  const machineSummary = buildMachineSummary(page, tools);
-  const briefIntro = page.description;
-  const toolBlocks = tools.map(toolSection).join('\n\n');
-  const summary = `> Summary: ${page.summary}`;
   const faq = renderFAQ();
   const jsonld = `
 <script type="application/ld+json">
 ${buildJsonLd(page, tools, faq.schema)}
 </script>
 `;
-
   return [
     `# ${page.title}`,
-    machineSummary,
+    `> Published: ${page.visibleDate}`,
+    `> Updated: ${page.visibleDate}`,
+    buildMachineSummary(page, tools),
     '## Brief',
-    briefIntro,
-    toolBlocks,
-    summary,
-    faq.markdown,
+    page.description,
+    buildKeyFacts(page),
+    ...tools.map((tool) => renderToolSection(tool)),
+    `> Summary: ${page.summary}`,
     '## Summary Block',
-    `- **Last updated**: ${page.date}`,
+    `- **Last updated**: ${page.visibleDate}`,
     `- **Focus**: ${page.focus}`,
     '## Concluding Thoughts',
     page.conclusion,
+    faq.markdown,
     jsonld
   ].join('\n\n');
 }
@@ -213,9 +250,59 @@ function pickToolsForPage(tools, count = 4) {
   const sorted = sortTools(tools);
   return sorted.slice(0, count);
 }
+
+function formatHumanDate(isoString) {
+  const date = new Date(isoString);
+  return date.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric'
+  });
+}
+
+function matchCategoriesForPage(tools) {
+  const matched = new Map();
+  for (const tool of tools) {
+    const keywords = (tool.keywords || []).map((keyword) => keyword.toLowerCase());
+    for (const category of CATEGORIES) {
+      const matches = category.keywords.some((keyword) =>
+        keywords.some((toolKey) => toolKey.includes(keyword.toLowerCase()))
+      );
+      if (matches) {
+        matched.set(category.slug, category);
+      }
+    }
+  }
+  return Array.from(matched.values()).map((category) => ({
+    slug: category.slug,
+    name: category.name
+  }));
+}
+
+async function loadExistingCatalog() {
+  if (!fs.existsSync(GENERATED_PATH)) {
+    return [];
+  }
+  try {
+    const raw = await fs.promises.readFile(GENERATED_PATH, 'utf8');
+    const parsed = JSON.parse(raw);
+    if (!Array.isArray(parsed)) {
+      return [];
+    }
+    return parsed.filter((entry) => entry && entry.url && entry.markdownPath);
+  } catch (error) {
+    return [];
+  }
+}
+
 async function generateContent(tools = []) {
   const snapshot = tools.length ? enrichTools(tools) : FALLBACK_TOOLS;
-  const now = new Date().toISOString();
+  const now = new Date();
+  const isoDate = now.toISOString();
+  const dateTag = isoDate.slice(0, 10);
+  const timeTag = isoDate.slice(11, 23).replace(/[:.]/g, '');
+  const runTag = `${dateTag}-${timeTag}`;
+
   const pageDefinitions = [
     {
       slug: 'best-dev-tools-for-productivity',
@@ -224,7 +311,7 @@ async function generateContent(tools = []) {
       focus: 'Productivity & Automation',
       description: 'Daily curated picks for developer tools that accelerate workflows.',
       summary: 'Productivity stacks that keep developer teams in sync.',
-      conclusion: 'Pick tools that map to your delivery rhythm and instrument the workflows with APIs.' ,
+      conclusion: 'Pick tools that map to your delivery rhythm and instrument the workflows with APIs.',
       tools: pickToolsForPage(snapshot, 5)
     },
     {
@@ -259,46 +346,51 @@ async function generateContent(tools = []) {
     }
   ];
 
-  const directoryPages = CATEGORIES.map((category) => ({
-    slug: `directory-${category.slug}`,
-    title: `${category.name} Tool Directory`,
-    type: 'category-directory',
-    focus: category.description,
-    description: `Structured directory of ${category.name} tooling for AI assistants and search agents.`,
-    summary: `Organized facts on ${category.name} tools and their use cases.`,
-    conclusion: 'Use the directory to feed prompt templates or AI shopping carts.',
-    tools: snapshot.filter((tool) =>
-      category.keywords.some((keyword) => tool.keywords.some((toolKey) => toolKey.toLowerCase().includes(keyword.toLowerCase())))
-    )
-  }));
+  await fs.promises.mkdir(MARKDOWN_DIR, { recursive: true });
 
-  const pages = [...pageDefinitions, ...directoryPages].map((page) => ({
-    ...page,
-    tools: page.tools.length ? page.tools : snapshot.slice(0, 3),
-    date: now
-  }));
-
-  await fs.promises.mkdir(path.join(__dirname, '..', 'content'), { recursive: true });
-
-  const catalog = [];
-  for (const page of pages) {
-    const markdown = buildPageMarkdown(page, page.tools);
-    const filePath = path.join(__dirname, '..', 'content', `${page.slug}.md`);
-    await fs.promises.writeFile(filePath, markdown);
-    catalog.push({
+  const newEntries = [];
+  for (const page of pageDefinitions) {
+    const enrichedTools = page.tools.length ? page.tools : snapshot.slice(0, 3);
+    const fileKey = `${runTag}-${page.slug}`;
+    const htmlFilename = `${fileKey}.html`;
+    const markdownFilename = `${fileKey}.md`;
+    const markdownPath = path.join(MARKDOWN_DIR, markdownFilename);
+    const categories = matchCategoriesForPage(enrichedTools);
+    const toolHighlights = enrichedTools.slice(0, 3).map((tool) => tool.name);
+    const pageMetadata = {
       slug: page.slug,
       title: page.title,
       type: page.type,
       focus: page.focus,
-      date: page.date,
-      description: page.description
-    });
+      description: page.description,
+      summary: page.summary,
+      conclusion: page.conclusion,
+      publishedDate: isoDate,
+      lastUpdated: isoDate,
+      visibleDate: formatHumanDate(isoDate),
+      url: `pages/${htmlFilename}`,
+      markdownPath: path.relative(path.join(__dirname, '..'), markdownPath).replace(/\\/g, '/'),
+      categories,
+      toolHighlights,
+      metaDescription: page.description,
+      tools: enrichedTools
+    };
+
+    const markdown = buildPageMarkdown(pageMetadata, enrichedTools);
+    await fs.promises.writeFile(markdownPath, markdown);
+
+    newEntries.push(pageMetadata);
   }
 
-  await fs.promises.mkdir(path.dirname(GENERATED_PATH), { recursive: true });
-  await fs.promises.writeFile(GENERATED_PATH, JSON.stringify(catalog, null, 2));
+  const existingCatalog = await loadExistingCatalog();
+  const aggregated = [...existingCatalog, ...newEntries].sort(
+    (a, b) => new Date(b.publishedDate) - new Date(a.publishedDate)
+  );
 
-  return catalog;
+  await fs.promises.mkdir(path.dirname(GENERATED_PATH), { recursive: true });
+  await fs.promises.writeFile(GENERATED_PATH, JSON.stringify(aggregated, null, 2));
+
+  return newEntries;
 }
 
 module.exports = generateContent;

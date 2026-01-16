@@ -5,7 +5,7 @@
 - **Focus**: Fresh Releases
 - **Highlights**: Visual Studio Code, Figma Dev Mode
 - **Synopsis**: New launches that are shipping with automation-friendly APIs.
-- **Updated**: 2026-01-16T00:40:11.673Z
+- **Updated**: 2026-01-16T01:29:54.090Z
 
 ## Brief
 
@@ -50,7 +50,7 @@ Design-to-code workspace that surfaces specs directly to engineers.
 
 ## Summary Block
 
-- **Last updated**: 2026-01-16T00:40:11.673Z
+- **Last updated**: 2026-01-16T01:29:54.090Z
 
 - **Focus**: Fresh Releases
 
@@ -68,7 +68,7 @@ Bookmark this page and refresh the RSS for the latest releases.
     "url": "https://devcompare.github.io/new-collections-this-week.html",
     "headline": "New Tools This Week: Fresh Releases in Dev Productivity",
     "description": "Summaries of the newest developer tools pulled from developer feeds.",
-    "datePublished": "2026-01-16T00:40:11.673Z",
+    "datePublished": "2026-01-16T01:29:54.090Z",
     "author": {
       "@type": "Organization",
       "name": "DevCompare"

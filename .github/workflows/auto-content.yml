@@ -32,8 +32,7 @@ jobs:
         run: |
           git config user.name "DevCompare Bot"
           git config user.email "bot@devcompare.local"
-          git add content data/generated 
-          git add -f public
+          git add -A docs content data/generated
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

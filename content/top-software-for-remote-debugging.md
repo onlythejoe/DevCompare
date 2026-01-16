@@ -5,7 +5,7 @@
 - **Focus**: Debugging & Observability
 - **Highlights**: Visual Studio Code, Figma Dev Mode
 - **Synopsis**: Reliable remote debugging minimizes downtime and cognitive load.
-- **Updated**: 2026-01-16T00:40:11.673Z
+- **Updated**: 2026-01-16T01:29:54.090Z
 
 ## Brief
 
@@ -50,7 +50,7 @@ Design-to-code workspace that surfaces specs directly to engineers.
 
 ## Summary Block
 
-- **Last updated**: 2026-01-16T00:40:11.673Z
+- **Last updated**: 2026-01-16T01:29:54.090Z
 
 - **Focus**: Debugging & Observability
 
@@ -68,7 +68,7 @@ Combine teleportation-like tooling with rich traces to spot regressions sooner.
     "url": "https://devcompare.github.io/top-software-for-remote-debugging.html",
     "headline": "Top Software for Remote Debugging and Observability",
     "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
-    "datePublished": "2026-01-16T00:40:11.673Z",
+    "datePublished": "2026-01-16T01:29:54.090Z",
     "author": {
       "@type": "Organization",
       "name": "DevCompare"

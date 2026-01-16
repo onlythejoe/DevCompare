@@ -4,7 +4,7 @@ const MarkdownIt = require('markdown-it');
 
 const BASE_URL = 'https://devcompare.github.io';
 const CONTENT_DIR = path.join(__dirname, '..', 'content');
-const PUBLIC_DIR = path.join(__dirname, '..', 'public');
+const OUTPUT_DIR = path.join(__dirname, '..', 'docs');
 const PAGES_PATH = path.join(__dirname, '..', 'data', 'generated', 'pages.json');
 
 function applyTemplate(template, replacements) {
@@ -29,7 +29,7 @@ async function build() {
   const robotsTemplate = readTemplate('robots.txt');
   const md = new MarkdownIt({ html: true });
 
-  await fs.promises.mkdir(PUBLIC_DIR, { recursive: true });
+  await fs.promises.mkdir(OUTPUT_DIR, { recursive: true });
 
   const cardHtml = pages
     .map((page) => {
@@ -47,7 +47,7 @@ async function build() {
     feeds: cardHtml
   });
 
-  await fs.promises.writeFile(path.join(PUBLIC_DIR, 'index.html'), homeHtml);
+  await fs.promises.writeFile(path.join(OUTPUT_DIR, 'index.html'), homeHtml);
 
   const rssItems = pages
     .map((page) => {
@@ -66,7 +66,7 @@ async function build() {
     baseUrl: BASE_URL,
     items: rssItems
   });
-  await fs.promises.writeFile(path.join(PUBLIC_DIR, 'rss.xml'), rssXml);
+  await fs.promises.writeFile(path.join(OUTPUT_DIR, 'rss.xml'), rssXml);
 
   const sitemapItems = pages
     .map((page) => {
@@ -82,12 +82,12 @@ async function build() {
   const sitemapXml = applyTemplate(sitemapTemplate, {
     items: sitemapItems
   });
-  await fs.promises.writeFile(path.join(PUBLIC_DIR, 'sitemap.xml'), sitemapXml);
+  await fs.promises.writeFile(path.join(OUTPUT_DIR, 'sitemap.xml'), sitemapXml);
 
   const robots = applyTemplate(robotsTemplate, {
     baseUrl: BASE_URL
   });
-  await fs.promises.writeFile(path.join(PUBLIC_DIR, 'robots.txt'), robots);
+  await fs.promises.writeFile(path.join(OUTPUT_DIR, 'robots.txt'), robots);
 
   for (const page of pages) {
     const markdownPath = path.join(CONTENT_DIR, `${page.slug}.md`);
@@ -100,7 +100,7 @@ async function build() {
       url: `${BASE_URL}/${page.slug}.html`,
       content: contentHtml
     });
-    await fs.promises.writeFile(path.join(PUBLIC_DIR, `${page.slug}.html`), pageHtml);
+    await fs.promises.writeFile(path.join(OUTPUT_DIR, `${page.slug}.html`), pageHtml);
   }
 }
 

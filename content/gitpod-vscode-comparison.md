@@ -5,7 +5,7 @@
 - **Focus**: IDE Experience
 - **Highlights**: Visual Studio Code, Figma Dev Mode
 - **Synopsis**: Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.
-- **Updated**: 2026-01-16T00:40:11.673Z
+- **Updated**: 2026-01-16T01:29:54.090Z
 
 ## Brief
 
@@ -50,7 +50,7 @@ Design-to-code workspace that surfaces specs directly to engineers.
 
 ## Summary Block
 
-- **Last updated**: 2026-01-16T00:40:11.673Z
+- **Last updated**: 2026-01-16T01:29:54.090Z
 
 - **Focus**: IDE Experience
 
@@ -68,7 +68,7 @@ Use Gitpod when environment parity matters and VS Code when hardware access is c
     "url": "https://devcompare.github.io/gitpod-vscode-comparison.html",
     "headline": "Gitpod vs VS Code: Browser IDE vs Desktop Power",
     "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
-    "datePublished": "2026-01-16T00:40:11.673Z",
+    "datePublished": "2026-01-16T01:29:54.090Z",
     "author": {
       "@type": "Organization",
       "name": "DevCompare"

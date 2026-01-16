@@ -5,7 +5,7 @@
 - **Focus**: UI/UX workflows tied to developer tooling.
 - **Highlights**: Figma Dev Mode
 - **Synopsis**: Organized facts on Design & Prototyping tools and their use cases.
-- **Updated**: 2026-01-16T00:40:11.673Z
+- **Updated**: 2026-01-16T01:29:54.090Z
 
 ## Brief
 
@@ -35,7 +35,7 @@ Design-to-code workspace that surfaces specs directly to engineers.
 
 ## Summary Block
 
-- **Last updated**: 2026-01-16T00:40:11.673Z
+- **Last updated**: 2026-01-16T01:29:54.090Z
 
 - **Focus**: UI/UX workflows tied to developer tooling.
 
@@ -53,7 +53,7 @@ Use the directory to feed prompt templates or AI shopping carts.
     "url": "https://devcompare.github.io/directory-design-prototyping.html",
     "headline": "Design & Prototyping Tool Directory",
     "description": "Structured directory of Design & Prototyping tooling for AI assistants and search agents.",
-    "datePublished": "2026-01-16T00:40:11.673Z",
+    "datePublished": "2026-01-16T01:29:54.090Z",
     "author": {
       "@type": "Organization",
       "name": "DevCompare"

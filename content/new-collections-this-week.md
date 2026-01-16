@@ -3,42 +3,69 @@
 ## Machine Summary
 
 - **Focus**: Fresh Releases
-- **Highlights**: Visual Studio Code, Figma Dev Mode
+- **Highlights**: Show HN, My Gripes with, Tldraw pauses external
 - **Synopsis**: New launches that are shipping with automation-friendly APIs.
-- **Updated**: 2026-01-16T01:29:54.090Z
+- **Updated**: 2026-01-16T01:34:39.735Z
 
 ## Brief
 
 Summaries of the newest developer tools pulled from developer feeds.
 
-### [Visual Studio Code](https://affiliate.example.com/vscode)
-Universal editor with extensions for everything from remote debugging to AI pair programming.
-- **Source**: [Fallback](https://code.visualstudio.com/)
-- **Pricing**: Free with paid Codespaces add-ons
+### Show HN
+A grader is another deck type… but it’s designed to evaluate and score conversations (or individual conversation turns).<p>We also have test agents you can define on a deck-by-deck basis, that are designed to mimic scenarios your agent would face and generate synthetic data for either humans or graders to grade.<p>Prior to Gambit, we had built an LLM based video editor, and we weren’t happy with the results, which is what brought us down this path of improving inference time LLM quality.<p>We know it’s missing some obvious parts, but we wanted to get this out there to see how it could help people or start conversations. We’re really happy with how it’s working with some of our early design partners, and we think it’s a way to implement a lot of interesting applications:<p>- Truly open source agents and assistants, where logic, code, and prompts can be easily shared with the community.<p>- Rubric based grading to guarantee you (for instance) don’t leak PII accidentally<p>- Spin up a usable bot in minutes and have Codex or Claude Code use our command line runner / graders to build a first version that is pretty good w/ very little human intervention.<p>We’ll be around if ya’ll have any questions or thoughts.
+- **Source**: [Hacker News](https://github.com/bolt-foundry/gambit)
+- **Pricing**: Open source / self-hosted
 - **Use cases**:
-  - remote debugging
-  - multi-lang projects
+  - dev
+  - tools
+  - saas
 - **Pros**:
-  - Great for remote debugging
-  - Extensions-ready automation
+  - Great for dev
+  - tools-ready automation
+  - Great for dev
 - **Cons**:
-  - Overkill for micro prototypes
-- **Affiliate**: [Redeem offer](https://affiliate.example.com/vscode)
+  - Overkill for dev experiments
+  - Needs extra setup for tools workflows
+  - Overkill for dev experiments
 
 
-### [Figma Dev Mode](https://affiliate.example.com/figma)
-Design-to-code workspace that surfaces specs directly to engineers.
-- **Source**: [Fallback](https://www.figma.com/)
-- **Pricing**: Free tier plus team plans
+
+### My Gripes with
+Article URL: https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/ Comments URL: https://news.ycombinator.com/item?id=46641348 Points: 17 # Comments: 5 <p>Article URL: <a href="https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/">https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46641348">https://news.ycombinator.com/item?id=46641348</a></p> <p>Points: 17</p> <p># Comments: 5</p>
+- **Source**: [Hacker News](https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/)
+- **Pricing**: Pricing varies; check vendor site
 - **Use cases**:
-  - UI handoff
-  - component specs
+  - dev
+  - tools
+  - saas
 - **Pros**:
-  - Smooth for UI contracts
-  - Strong collaboration coverage
+  - Great for dev
+  - tools-ready automation
+  - Great for dev
 - **Cons**:
-  - Needs extra setup for React ecosystems
-- **Affiliate**: [Redeem offer](https://affiliate.example.com/figma)
+  - Overkill for dev experiments
+  - Needs extra setup for tools workflows
+  - Overkill for dev experiments
+
+
+
+### Tldraw pauses external
+Article URL: https://github.com/tldraw/tldraw/issues/7695 Comments URL: https://news.ycombinator.com/item?id=46641042 Points: 29 # Comments: 6 <p>Article URL: <a href="https://github.com/tldraw/tldraw/issues/7695">https://github.com/tldraw/tldraw/issues/7695</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46641042">https://news.ycombinator.com/item?id=46641042</a></p> <p>Points: 29</p> <p># Comments: 6</p>
+- **Source**: [Hacker News](https://github.com/tldraw/tldraw/issues/7695)
+- **Pricing**: Pricing varies; check vendor site
+- **Use cases**:
+  - dev
+  - tools
+  - saas
+- **Pros**:
+  - Great for dev
+  - tools-ready automation
+  - Great for dev
+- **Cons**:
+  - Overkill for dev experiments
+  - Needs extra setup for tools workflows
+  - Overkill for dev experiments
+
 
 
 > Summary: New launches that are shipping with automation-friendly APIs.
@@ -50,7 +77,7 @@ Design-to-code workspace that surfaces specs directly to engineers.
 
 ## Summary Block
 
-- **Last updated**: 2026-01-16T01:29:54.090Z
+- **Last updated**: 2026-01-16T01:34:39.735Z
 
 - **Focus**: Fresh Releases
 
@@ -68,7 +95,7 @@ Bookmark this page and refresh the RSS for the latest releases.
     "url": "https://devcompare.github.io/new-collections-this-week.html",
     "headline": "New Tools This Week: Fresh Releases in Dev Productivity",
     "description": "Summaries of the newest developer tools pulled from developer feeds.",
-    "datePublished": "2026-01-16T01:29:54.090Z",
+    "datePublished": "2026-01-16T01:34:39.735Z",
     "author": {
       "@type": "Organization",
       "name": "DevCompare"
@@ -76,13 +103,18 @@ Bookmark this page and refresh the RSS for the latest releases.
     "about": [
       {
         "@type": "Thing",
-        "name": "Visual Studio Code",
-        "url": "https://code.visualstudio.com/"
+        "name": "Show HN",
+        "url": "https://github.com/bolt-foundry/gambit"
       },
       {
         "@type": "Thing",
-        "name": "Figma Dev Mode",
-        "url": "https://www.figma.com/"
+        "name": "My Gripes with",
+        "url": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/"
+      },
+      {
+        "@type": "Thing",
+        "name": "Tldraw pauses external",
+        "url": "https://github.com/tldraw/tldraw/issues/7695"
       }
     ]
   },
@@ -119,33 +151,49 @@ Bookmark this page and refresh the RSS for the latest releases.
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Visual Studio Code",
-    "description": "Universal editor with extensions for everything from remote debugging to AI pair programming.",
-    "url": "https://code.visualstudio.com/",
+    "name": "Show HN",
+    "description": "A grader is another deck type… but it’s designed to evaluate and score conversations (or individual conversation turns).<p>We also have test agents you can define on a deck-by-deck basis, that are designed to mimic scenarios your agent would face and generate synthetic data for either humans or graders to grade.<p>Prior to Gambit, we had built an LLM based video editor, and we weren’t happy with the results, which is what brought us down this path of improving inference time LLM quality.<p>We know it’s missing some obvious parts, but we wanted to get this out there to see how it could help people or start conversations. We’re really happy with how it’s working with some of our early design partners, and we think it’s a way to implement a lot of interesting applications:<p>- Truly open source agents and assistants, where logic, code, and prompts can be easily shared with the community.<p>- Rubric based grading to guarantee you (for instance) don’t leak PII accidentally<p>- Spin up a usable bot in minutes and have Codex or Claude Code use our command line runner / graders to build a first version that is pretty good w/ very little human intervention.<p>We’ll be around if ya’ll have any questions or thoughts.",
+    "url": "https://github.com/bolt-foundry/gambit",
     "brand": {
       "@type": "Thing",
-      "name": "Fallback"
+      "name": "Hacker News"
     },
     "offers": {
       "@type": "Offer",
-      "description": "Free with paid Codespaces add-ons",
-      "url": "https://code.visualstudio.com/"
+      "description": "Open source / self-hosted",
+      "url": "https://github.com/bolt-foundry/gambit"
     }
   },
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Figma Dev Mode",
-    "description": "Design-to-code workspace that surfaces specs directly to engineers.",
-    "url": "https://www.figma.com/",
+    "name": "My Gripes with",
+    "description": "Article URL: https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/ Comments URL: https://news.ycombinator.com/item?id=46641348 Points: 17 # Comments: 5 <p>Article URL: <a href=\"https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/\">https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46641348\">https://news.ycombinator.com/item?id=46641348</a></p> <p>Points: 17</p> <p># Comments: 5</p>",
+    "url": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/",
     "brand": {
       "@type": "Thing",
-      "name": "Fallback"
+      "name": "Hacker News"
     },
     "offers": {
       "@type": "Offer",
-      "description": "Free tier plus team plans",
-      "url": "https://www.figma.com/"
+      "description": "Pricing varies; check vendor site",
+      "url": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Tldraw pauses external",
+    "description": "Article URL: https://github.com/tldraw/tldraw/issues/7695 Comments URL: https://news.ycombinator.com/item?id=46641042 Points: 29 # Comments: 6 <p>Article URL: <a href=\"https://github.com/tldraw/tldraw/issues/7695\">https://github.com/tldraw/tldraw/issues/7695</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46641042\">https://news.ycombinator.com/item?id=46641042</a></p> <p>Points: 29</p> <p># Comments: 6</p>",
+    "url": "https://github.com/tldraw/tldraw/issues/7695",
+    "brand": {
+      "@type": "Thing",
+      "name": "Hacker News"
+    },
+    "offers": {
+      "@type": "Offer",
+      "description": "Pricing varies; check vendor site",
+      "url": "https://github.com/tldraw/tldraw/issues/7695"
     }
   }
 ]

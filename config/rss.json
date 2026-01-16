@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Product Hunt",
+    "url": "https://www.producthunt.com/feed",
+    "category": "productivity",
+    "defaultTags": ["dev", "tools", "saas", "software", "productivity"]
+  },
+  {
+    "name": "Hacker News",
+    "url": "https://hnrss.org/frontpage",
+    "category": "news",
+    "defaultTags": ["dev", "tools", "saas", "software", "productivity"]
+  },
+  {
+    "name": "GitHub Trending",
+    "url": "https://github.com/trending/rss",
+    "category": "open-source",
+    "defaultTags": ["dev", "tools", "saas", "software", "productivity"]
+  },
+  {
+    "name": "Dev.to Tools",
+    "url": "https://dev.to/feed/tag/tools",
+    "category": "developer-tools",
+    "defaultTags": ["dev", "tools", "saas", "software", "productivity"]
+  },
+  {
+    "name": "StackOverflow Blog",
+    "url": "https://stackoverflow.blog/feed/",
+    "category": "engineering",
+    "defaultTags": ["dev", "tools", "saas", "software", "productivity"]
+  }
+]

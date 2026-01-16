@@ -1,0 +1,17 @@
+{
+  "name": "devcompare",
+  "version": "0.1.0",
+  "description": "Autonomous DevCompare content engine for developer tools and software comparisons.",
+  "main": "scripts/run-pipeline.js",
+  "scripts": {
+    "pipeline": "node scripts/run-pipeline.js",
+    "build": "node scripts/build-site.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "markdown-it": "^13.0.1",
+    "rss-parser": "^3.12.0"
+  }
+}

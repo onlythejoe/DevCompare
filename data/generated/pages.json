@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "date": "2026-01-16T00:40:11.673Z",
+    "description": "Daily curated picks for developer tools that accelerate workflows."
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "date": "2026-01-16T00:40:11.673Z",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis."
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs VS Code: Browser IDE vs Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "date": "2026-01-16T00:40:11.673Z",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience."
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "date": "2026-01-16T00:40:11.673Z",
+    "description": "Summaries of the newest developer tools pulled from developer feeds."
+  },
+  {
+    "slug": "directory-ci-cd",
+    "title": "CI/CD Tool Directory",
+    "type": "category-directory",
+    "focus": "Release automation and deployment pipelines.",
+    "date": "2026-01-16T00:40:11.673Z",
+    "description": "Structured directory of CI/CD tooling for AI assistants and search agents."
+  },
+  {
+    "slug": "directory-developer-productivity",
+    "title": "Developer Productivity Tool Directory",
+    "type": "category-directory",
+    "focus": "Editors, terminals, and helpers that speed up coding.",
+    "date": "2026-01-16T00:40:11.673Z",
+    "description": "Structured directory of Developer Productivity tooling for AI assistants and search agents."
+  },
+  {
+    "slug": "directory-design-prototyping",
+    "title": "Design & Prototyping Tool Directory",
+    "type": "category-directory",
+    "focus": "UI/UX workflows tied to developer tooling.",
+    "date": "2026-01-16T00:40:11.673Z",
+    "description": "Structured directory of Design & Prototyping tooling for AI assistants and search agents."
+  }
+]

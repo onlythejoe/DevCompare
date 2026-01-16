@@ -1,0 +1,23 @@
+[
+  {
+    "name": "CI/CD",
+    "slug": "ci-cd",
+    "description": "Release automation and deployment pipelines.",
+    "keywords": ["CI", "CD", "pipeline", "deploy"],
+    "typicalTools": ["GitHub Actions", "CircleCI", "Drone CI"]
+  },
+  {
+    "name": "Developer Productivity",
+    "slug": "developer-productivity",
+    "description": "Editors, terminals, and helpers that speed up coding.",
+    "keywords": ["IDE", "editor", "productivity", "workflow"],
+    "typicalTools": ["Visual Studio Code", "Linear", "Raycast"]
+  },
+  {
+    "name": "Design & Prototyping",
+    "slug": "design-prototyping",
+    "description": "UI/UX workflows tied to developer tooling.",
+    "keywords": ["design", "prototype", "figma", "ui"],
+    "typicalTools": ["Figma", "Framer", "Zeroheight"]
+  }
+]

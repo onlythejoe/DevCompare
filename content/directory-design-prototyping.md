@@ -3,31 +3,27 @@
 ## Machine Summary
 
 - **Focus**: UI/UX workflows tied to developer tooling.
-- **Highlights**: Bring Your Own Laptop
+- **Highlights**: Figma Dev Mode
 - **Synopsis**: Organized facts on Design & Prototyping tools and their use cases.
-- **Updated**: 2026-01-16T01:34:39.735Z
+- **Updated**: 2026-01-16T01:39:24.696Z
 
 ## Brief
 
 Structured directory of Design & Prototyping tooling for AI assistants and search agents.
 
-### Bring Your Own Laptop
-It's perfect for beginners, content creators, or anyone who's opened Resolve and quickly closed it again.</p> <p>You'll get hands-on experience, learning to navigate the software, create slick edits, design motion graphics, and even nail color correction, all while building a portfolio of finished projects like social clips and mini-documentaries. Best of all, you'll gain the confidence to tell better stories without fighting the software – and there's even a New Year Sale with 30% off your membership!</p> <p><em>Watch on <a href="https://www.youtube.com/watch?v=awqMd5UdyvU" rel="noopener noreferrer">YouTube</a></em></p>
-- **Source**: [Dev.to Tools](https://dev.to/design_youtube/bring-your-own-laptop-new-course-davinci-resolve-essentials-4ile)
-- **Pricing**: Free tier available
+### [Figma Dev Mode](https://affiliate.example.com/figma)
+Design-to-code workspace that surfaces specs directly to engineers.
+- **Source**: [Fallback](https://www.figma.com/)
+- **Pricing**: Free tier plus team plans
 - **Use cases**:
-  - design
-  - tools
-  - recommendations
+  - UI handoff
+  - component specs
 - **Pros**:
-  - Great for design
-  - tools-ready automation
-  - Great for design
+  - Smooth for UI contracts
+  - Strong collaboration coverage
 - **Cons**:
-  - Overkill for design experiments
-  - Needs extra setup for tools workflows
-  - Overkill for design experiments
-
+  - Needs extra setup for React ecosystems
+- **Affiliate**: [Redeem offer](https://affiliate.example.com/figma)
 
 
 > Summary: Organized facts on Design & Prototyping tools and their use cases.
@@ -39,7 +35,7 @@ It's perfect for beginners, content creators, or anyone who's opened Resolve and
 
 ## Summary Block
 
-- **Last updated**: 2026-01-16T01:34:39.735Z
+- **Last updated**: 2026-01-16T01:39:24.696Z
 
 - **Focus**: UI/UX workflows tied to developer tooling.
 
@@ -57,7 +53,7 @@ Use the directory to feed prompt templates or AI shopping carts.
     "url": "https://devcompare.github.io/directory-design-prototyping.html",
     "headline": "Design & Prototyping Tool Directory",
     "description": "Structured directory of Design & Prototyping tooling for AI assistants and search agents.",
-    "datePublished": "2026-01-16T01:34:39.735Z",
+    "datePublished": "2026-01-16T01:39:24.696Z",
     "author": {
       "@type": "Organization",
       "name": "DevCompare"
@@ -65,8 +61,8 @@ Use the directory to feed prompt templates or AI shopping carts.
     "about": [
       {
         "@type": "Thing",
-        "name": "Bring Your Own Laptop",
-        "url": "https://dev.to/design_youtube/bring-your-own-laptop-new-course-davinci-resolve-essentials-4ile"
+        "name": "Figma Dev Mode",
+        "url": "https://www.figma.com/"
       }
     ]
   },
@@ -103,17 +99,17 @@ Use the directory to feed prompt templates or AI shopping carts.
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Bring Your Own Laptop",
-    "description": "It's perfect for beginners, content creators, or anyone who's opened Resolve and quickly closed it again.</p> <p>You'll get hands-on experience, learning to navigate the software, create slick edits, design motion graphics, and even nail color correction, all while building a portfolio of finished projects like social clips and mini-documentaries. Best of all, you'll gain the confidence to tell better stories without fighting the software – and there's even a New Year Sale with 30% off your membership!</p> <p><em>Watch on <a href=\"https://www.youtube.com/watch?v=awqMd5UdyvU\" rel=\"noopener noreferrer\">YouTube</a></em></p>",
-    "url": "https://dev.to/design_youtube/bring-your-own-laptop-new-course-davinci-resolve-essentials-4ile",
+    "name": "Figma Dev Mode",
+    "description": "Design-to-code workspace that surfaces specs directly to engineers.",
+    "url": "https://www.figma.com/",
     "brand": {
       "@type": "Thing",
-      "name": "Dev.to Tools"
+      "name": "Fallback"
     },
     "offers": {
       "@type": "Offer",
-      "description": "Free tier available",
-      "url": "https://dev.to/design_youtube/bring-your-own-laptop-new-course-davinci-resolve-essentials-4ile"
+      "description": "Free tier plus team plans",
+      "url": "https://www.figma.com/"
     }
   }
 ]

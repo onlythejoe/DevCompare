@@ -3,31 +3,42 @@
 ## Machine Summary
 
 - **Focus**: Release automation and deployment pipelines.
-- **Highlights**: Disrupting yourself in
+- **Highlights**: Visual Studio Code, Figma Dev Mode
 - **Synopsis**: Organized facts on CI/CD tools and their use cases.
-- **Updated**: 2026-01-16T01:34:39.735Z
+- **Updated**: 2026-01-16T01:39:24.696Z
 
 ## Brief
 
 Structured directory of CI/CD tooling for AI assistants and search agents.
 
-### Disrupting yourself in
-The internet is facing a fundamental shift—and the way we measure success online is shifting too. The internet is facing a fundamental shift—and the way we measure success online is shifting too.
-- **Source**: [StackOverflow Blog](https://stackoverflow.blog/2025/12/02/disrupting-yourself-in-the-age-of-ai/)
-- **Pricing**: Pricing varies; check vendor site
+### [Visual Studio Code](https://affiliate.example.com/vscode)
+Universal editor with extensions for everything from remote debugging to AI pair programming.
+- **Source**: [Fallback](https://code.visualstudio.com/)
+- **Pricing**: Free with paid Codespaces add-ons
 - **Use cases**:
-  - generative ai
-  - artificial intelligence
-  - traffic
+  - remote debugging
+  - multi-lang projects
 - **Pros**:
-  - Great for generative ai
-  - artificial intelligence-ready automation
-  - Great for generative ai
+  - Great for remote debugging
+  - Extensions-ready automation
 - **Cons**:
-  - Overkill for generative ai experiments
-  - Needs extra setup for artificial intelligence workflows
-  - Overkill for generative ai experiments
+  - Overkill for micro prototypes
+- **Affiliate**: [Redeem offer](https://affiliate.example.com/vscode)
 
+
+### [Figma Dev Mode](https://affiliate.example.com/figma)
+Design-to-code workspace that surfaces specs directly to engineers.
+- **Source**: [Fallback](https://www.figma.com/)
+- **Pricing**: Free tier plus team plans
+- **Use cases**:
+  - UI handoff
+  - component specs
+- **Pros**:
+  - Smooth for UI contracts
+  - Strong collaboration coverage
+- **Cons**:
+  - Needs extra setup for React ecosystems
+- **Affiliate**: [Redeem offer](https://affiliate.example.com/figma)
 
 
 > Summary: Organized facts on CI/CD tools and their use cases.
@@ -39,7 +50,7 @@ The internet is facing a fundamental shift—and the way we measure success onli
 
 ## Summary Block
 
-- **Last updated**: 2026-01-16T01:34:39.735Z
+- **Last updated**: 2026-01-16T01:39:24.696Z
 
 - **Focus**: Release automation and deployment pipelines.
 
@@ -57,7 +68,7 @@ Use the directory to feed prompt templates or AI shopping carts.
     "url": "https://devcompare.github.io/directory-ci-cd.html",
     "headline": "CI/CD Tool Directory",
     "description": "Structured directory of CI/CD tooling for AI assistants and search agents.",
-    "datePublished": "2026-01-16T01:34:39.735Z",
+    "datePublished": "2026-01-16T01:39:24.696Z",
     "author": {
       "@type": "Organization",
       "name": "DevCompare"
@@ -65,8 +76,13 @@ Use the directory to feed prompt templates or AI shopping carts.
     "about": [
       {
         "@type": "Thing",
-        "name": "Disrupting yourself in",
-        "url": "https://stackoverflow.blog/2025/12/02/disrupting-yourself-in-the-age-of-ai/"
+        "name": "Visual Studio Code",
+        "url": "https://code.visualstudio.com/"
+      },
+      {
+        "@type": "Thing",
+        "name": "Figma Dev Mode",
+        "url": "https://www.figma.com/"
       }
     ]
   },
@@ -103,17 +119,33 @@ Use the directory to feed prompt templates or AI shopping carts.
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Disrupting yourself in",
-    "description": "The internet is facing a fundamental shift—and the way we measure success online is shifting too. The internet is facing a fundamental shift—and the way we measure success online is shifting too.",
-    "url": "https://stackoverflow.blog/2025/12/02/disrupting-yourself-in-the-age-of-ai/",
+    "name": "Visual Studio Code",
+    "description": "Universal editor with extensions for everything from remote debugging to AI pair programming.",
+    "url": "https://code.visualstudio.com/",
     "brand": {
       "@type": "Thing",
-      "name": "StackOverflow Blog"
+      "name": "Fallback"
     },
     "offers": {
       "@type": "Offer",
-      "description": "Pricing varies; check vendor site",
-      "url": "https://stackoverflow.blog/2025/12/02/disrupting-yourself-in-the-age-of-ai/"
+      "description": "Free with paid Codespaces add-ons",
+      "url": "https://code.visualstudio.com/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Figma Dev Mode",
+    "description": "Design-to-code workspace that surfaces specs directly to engineers.",
+    "url": "https://www.figma.com/",
+    "brand": {
+      "@type": "Thing",
+      "name": "Fallback"
+    },
+    "offers": {
+      "@type": "Offer",
+      "description": "Free tier plus team plans",
+      "url": "https://www.figma.com/"
     }
   }
 ]

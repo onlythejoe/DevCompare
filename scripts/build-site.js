@@ -35,7 +35,7 @@ async function build() {
     .map((page) => {
       return `
         <article class="card">
-          <h3><a href="/${page.slug}.html">${page.title}</a></h3>
+          <h3><a href="${page.slug}.html">${page.title}</a></h3>
           <p>${page.description}</p>
           <small>${page.type} · Updated ${new Date(page.date).toLocaleDateString()}</small>
         </article>
@@ -54,7 +54,7 @@ async function build() {
       return `
         <item>
           <title>${page.title}</title>
-          <link>${BASE_URL}/${page.slug}.html</link>
+          <link>${page.slug}.html</link>
           <description>${page.description}</description>
           <pubDate>${new Date(page.date).toUTCString()}</pubDate>
         </item>
@@ -72,7 +72,7 @@ async function build() {
     .map((page) => {
       return `
         <url>
-          <loc>${BASE_URL}/${page.slug}.html</loc>
+          <loc>${page.slug}.html</loc>
           <lastmod>${page.date}</lastmod>
         </url>
       `;

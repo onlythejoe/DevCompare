@@ -3,50 +3,42 @@
 ## Machine Summary
 
 - **Focus**: IDE Experience
-- **Highlights**: Show HN, My Gripes with
+- **Highlights**: Visual Studio Code, Figma Dev Mode
 - **Synopsis**: Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.
-- **Updated**: 2026-01-16T01:34:39.735Z
+- **Updated**: 2026-01-16T01:39:24.696Z
 
 ## Brief
 
 Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.
 
-### Show HN
-A grader is another deck type… but it’s designed to evaluate and score conversations (or individual conversation turns).<p>We also have test agents you can define on a deck-by-deck basis, that are designed to mimic scenarios your agent would face and generate synthetic data for either humans or graders to grade.<p>Prior to Gambit, we had built an LLM based video editor, and we weren’t happy with the results, which is what brought us down this path of improving inference time LLM quality.<p>We know it’s missing some obvious parts, but we wanted to get this out there to see how it could help people or start conversations. We’re really happy with how it’s working with some of our early design partners, and we think it’s a way to implement a lot of interesting applications:<p>- Truly open source agents and assistants, where logic, code, and prompts can be easily shared with the community.<p>- Rubric based grading to guarantee you (for instance) don’t leak PII accidentally<p>- Spin up a usable bot in minutes and have Codex or Claude Code use our command line runner / graders to build a first version that is pretty good w/ very little human intervention.<p>We’ll be around if ya’ll have any questions or thoughts.
-- **Source**: [Hacker News](https://github.com/bolt-foundry/gambit)
-- **Pricing**: Open source / self-hosted
+### [Visual Studio Code](https://affiliate.example.com/vscode)
+Universal editor with extensions for everything from remote debugging to AI pair programming.
+- **Source**: [Fallback](https://code.visualstudio.com/)
+- **Pricing**: Free with paid Codespaces add-ons
 - **Use cases**:
-  - dev
-  - tools
-  - saas
+  - remote debugging
+  - multi-lang projects
 - **Pros**:
-  - Great for dev
-  - tools-ready automation
-  - Great for dev
+  - Great for remote debugging
+  - Extensions-ready automation
 - **Cons**:
-  - Overkill for dev experiments
-  - Needs extra setup for tools workflows
-  - Overkill for dev experiments
+  - Overkill for micro prototypes
+- **Affiliate**: [Redeem offer](https://affiliate.example.com/vscode)
 
 
-
-### My Gripes with
-Article URL: https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/ Comments URL: https://news.ycombinator.com/item?id=46641348 Points: 17 # Comments: 5 <p>Article URL: <a href="https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/">https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46641348">https://news.ycombinator.com/item?id=46641348</a></p> <p>Points: 17</p> <p># Comments: 5</p>
-- **Source**: [Hacker News](https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/)
-- **Pricing**: Pricing varies; check vendor site
+### [Figma Dev Mode](https://affiliate.example.com/figma)
+Design-to-code workspace that surfaces specs directly to engineers.
+- **Source**: [Fallback](https://www.figma.com/)
+- **Pricing**: Free tier plus team plans
 - **Use cases**:
-  - dev
-  - tools
-  - saas
+  - UI handoff
+  - component specs
 - **Pros**:
-  - Great for dev
-  - tools-ready automation
-  - Great for dev
+  - Smooth for UI contracts
+  - Strong collaboration coverage
 - **Cons**:
-  - Overkill for dev experiments
-  - Needs extra setup for tools workflows
-  - Overkill for dev experiments
-
+  - Needs extra setup for React ecosystems
+- **Affiliate**: [Redeem offer](https://affiliate.example.com/figma)
 
 
 > Summary: Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.
@@ -58,7 +50,7 @@ Article URL: https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/ C
 
 ## Summary Block
 
-- **Last updated**: 2026-01-16T01:34:39.735Z
+- **Last updated**: 2026-01-16T01:39:24.696Z
 
 - **Focus**: IDE Experience
 
@@ -76,7 +68,7 @@ Use Gitpod when environment parity matters and VS Code when hardware access is c
     "url": "https://devcompare.github.io/gitpod-vscode-comparison.html",
     "headline": "Gitpod vs VS Code: Browser IDE vs Desktop Power",
     "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
-    "datePublished": "2026-01-16T01:34:39.735Z",
+    "datePublished": "2026-01-16T01:39:24.696Z",
     "author": {
       "@type": "Organization",
       "name": "DevCompare"
@@ -84,13 +76,13 @@ Use Gitpod when environment parity matters and VS Code when hardware access is c
     "about": [
       {
         "@type": "Thing",
-        "name": "Show HN",
-        "url": "https://github.com/bolt-foundry/gambit"
+        "name": "Visual Studio Code",
+        "url": "https://code.visualstudio.com/"
       },
       {
         "@type": "Thing",
-        "name": "My Gripes with",
-        "url": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/"
+        "name": "Figma Dev Mode",
+        "url": "https://www.figma.com/"
       }
     ]
   },
@@ -127,33 +119,33 @@ Use Gitpod when environment parity matters and VS Code when hardware access is c
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Show HN",
-    "description": "A grader is another deck type… but it’s designed to evaluate and score conversations (or individual conversation turns).<p>We also have test agents you can define on a deck-by-deck basis, that are designed to mimic scenarios your agent would face and generate synthetic data for either humans or graders to grade.<p>Prior to Gambit, we had built an LLM based video editor, and we weren’t happy with the results, which is what brought us down this path of improving inference time LLM quality.<p>We know it’s missing some obvious parts, but we wanted to get this out there to see how it could help people or start conversations. We’re really happy with how it’s working with some of our early design partners, and we think it’s a way to implement a lot of interesting applications:<p>- Truly open source agents and assistants, where logic, code, and prompts can be easily shared with the community.<p>- Rubric based grading to guarantee you (for instance) don’t leak PII accidentally<p>- Spin up a usable bot in minutes and have Codex or Claude Code use our command line runner / graders to build a first version that is pretty good w/ very little human intervention.<p>We’ll be around if ya’ll have any questions or thoughts.",
-    "url": "https://github.com/bolt-foundry/gambit",
+    "name": "Visual Studio Code",
+    "description": "Universal editor with extensions for everything from remote debugging to AI pair programming.",
+    "url": "https://code.visualstudio.com/",
     "brand": {
       "@type": "Thing",
-      "name": "Hacker News"
+      "name": "Fallback"
     },
     "offers": {
       "@type": "Offer",
-      "description": "Open source / self-hosted",
-      "url": "https://github.com/bolt-foundry/gambit"
+      "description": "Free with paid Codespaces add-ons",
+      "url": "https://code.visualstudio.com/"
     }
   },
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "My Gripes with",
-    "description": "Article URL: https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/ Comments URL: https://news.ycombinator.com/item?id=46641348 Points: 17 # Comments: 5 <p>Article URL: <a href=\"https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/\">https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46641348\">https://news.ycombinator.com/item?id=46641348</a></p> <p>Points: 17</p> <p># Comments: 5</p>",
-    "url": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/",
+    "name": "Figma Dev Mode",
+    "description": "Design-to-code workspace that surfaces specs directly to engineers.",
+    "url": "https://www.figma.com/",
     "brand": {
       "@type": "Thing",
-      "name": "Hacker News"
+      "name": "Fallback"
     },
     "offers": {
       "@type": "Offer",
-      "description": "Pricing varies; check vendor site",
-      "url": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/"
+      "description": "Free tier plus team plans",
+      "url": "https://www.figma.com/"
     }
   }
 ]

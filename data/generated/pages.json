@@ -7,6 +7,621 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-01-18T06:01:18.593Z",
+    "lastUpdated": "2026-01-18T06:01:18.593Z",
+    "visibleDate": "Jan 18, 2026",
+    "url": "pages/2026-01-18-060118593-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-01-18-060118593-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why Your URL",
+      "The relentless rule",
+      "jQuery 4.0.0 Released"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows.",
+    "tools": [
+      {
+        "name": "Why Your URL",
+        "slug": "why-your-url",
+        "description": "Your audience sees:</p> <ul> <li> <strong>bit.ly/xyz123</strong> or <strong>tiny.url/abc</strong> </li> <li>Zero trust signals (looks suspicious)</li> <li>No way to track comprehensive analytics</li> <li>Wasted opportunity to reinforce your brand</li> </ul> <p>Studies show that generic links have <strong>34% lower click-through rates</strong> than branded alternatives.</p> <h2> The Real Costs </h2> <p>Let me break this down:</p> <ol> <li> <strong>Lost Conversions</strong>: A 34% CTR drop on 1,000 link clicks = 340 fewer conversions</li> <li> <strong>Zero Brand Touchpoint</strong>: Every shared link is a chance to build brand recall</li> <li> <strong>Limited Analytics</strong>: You can't see device types, referrer sources, or geographic data</li> <li> <strong>No Retargeting</strong>: Generic links don't let you build audiences based on click behavior</li> </ol> <h2> The Solution: Branded Links </h2> <p>Instead of bit.ly/xyz, use <strong>go.yourbrand.com/offer</strong> or <strong>links.yourcompany.com/campaign</strong>.</p> <p>With branded short links, you get:</p> <ul> <li>✅ Instant trust (your domain = credibility)</li> <li>✅ Better CTR (up to 34% higher)</li> <li>✅ Deep analytics (device, location, referrer data)</li> <li>✅ QR codes for campaigns</li> <li>✅ No extra domains to manage</li> <li>✅ Built-in retargeting capabilities</li> </ul> <h2> Real-World Example </h2> <p>Imagine you're running a product launch campaign with 10,000 people on your email list:</p> <p><strong>Using Bitly:</strong></p> <ul> <li>Assume 5% CTR = 500 clicks</li> <li>Expected conversions at 2% = 10 sales</li> </ul> <p><strong>Using Branded Links:</strong></p> <ul> <li>5% + 34% improvement = 6.7% CTR = 670 clicks </li> <li>Same 2% conversion = 13+ sales</li> <li>30% more revenue from the same effort</li> </ul> <p>That's not a coincidence. With branded short links, you get: ✅ Instant trust (your domain = credibility) ✅ Better CTR (up to 34% higher) ✅ Deep analytics (device, location, referrer data) ✅ QR codes for campaigns ✅ No extra domains to manage ✅ Built-in retargeting capabilities Imagine you're running a product launch campaign with 10,000 people on your email list: Using Bitly: Assume 5% CTR = 500 clicks Expected conversions at 2% = 10 sales Using Branded Links: 5% + 34% improvement = 6.7% CTR = 670 clicks Same 2% conversion = 13+ sales 30% more revenue from the same effort That's not a coincidence.",
+        "summary": "Your audience sees:</p> <ul> <li> <strong>bit.ly/xyz123</strong> or <strong>tiny.url/abc</strong> </li> <li>Zero trust signals (looks suspicious)</li> <li>No way to track comprehensive analytics</li> <li>Wasted opportunity to reinforce your brand</li> </ul> <p>Studies show that generic links have <strong>34% lower click-through rates</strong> than branded alternatives.</p> <h2> The Real Costs </h2> <p>Let me break this down:</p> <ol> <li> <strong>Lost Conversions</strong>: A 34% CTR drop on 1,000 link clicks = 340 fewer conversions</li> <li> <strong>Zero Brand Touchpoint</strong>: Every shared link is a chance to build brand recall</li> <li> <strong>Limited Analytics</strong>: You can't see device types, referrer sources, or geographic data</li> <li> <strong>No Retargeting</strong>: Generic links don't let you build audiences based on click behavior</li> </ol> <h2> The Solution: Branded Links </h2> <p>Instead of bit.ly/xyz, use <strong>go.yourbrand.com/offer</strong> or <strong>links.yourcompany.com/campaign</strong>.</p> <p>With branded short links, you get:</p> <ul> <li>✅ Instant trust (your domain = credibility)</li> <li>✅ Better CTR (up to 34% higher)</li> <li>✅ Deep analytics (device, location, referrer data)</li> <li>✅ QR codes for campaigns</li> <li>✅ No extra domains to manage</li> <li>✅ Built-in retargeting capabilities</li> </ul> <h2> Real-World Example </h2> <p>Imagine you're running a product launch campaign with 10,000 people on your email list:</p> <p><strong>Using Bitly:</strong></p> <ul> <li>Assume 5% CTR = 500 clicks</li> <li>Expected conversions at 2% = 10 sales</li> </ul> <p><strong>Using Branded Links:</strong></p> <ul> <li>5% + 34% improvement = 6.7% CTR = 670 clicks </li> <li>Same 2% conversion = 13+ sales</li> <li>30% more revenue from the same effort</li> </ul> <p>That's not a coincidence. With branded short links, you get: ✅ Instant trust (your domain = credibility) ✅ Better CTR (up to 34% higher) ✅ Deep analytics (device, location, referrer data) ✅ QR codes for campaigns ✅ No extra domains to manage ✅ Built-in retargeting capabilities Imagine you're running a product launch campaign with 10,000 people on your email list: Using Bitly: Assume 5% CTR = 500 clicks Expected conversions at 2% = 10 sales Using Branded Links: 5% + 34% improvement = 6.7% CTR = 670 clicks Same 2% conversion = 13+ sales 30% more revenue from the same effort That's not a coincidence.",
+        "link": "https://dev.to/buildingsaasly/why-your-url-shortener-is-killing-your-brand-and-what-to-do-about-it-2o9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-18T05:01:34.000Z",
+        "keywords": [
+          "marketing",
+          "saas",
+          "productivity",
+          "tools",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "marketing",
+          "saas",
+          "productivity"
+        ],
+        "pros": [
+          "Great for marketing",
+          "saas-ready automation",
+          "Great for marketing"
+        ],
+        "cons": [
+          "Overkill for marketing experiments",
+          "Needs extra setup for saas workflows",
+          "Overkill for marketing experiments"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The relentless rule",
+        "slug": "the-relentless-rule",
+        "description": "Article URL: https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/ Comments URL: https://news.ycombinator.com/item?id=46664771 Points: 10 # Comments: 2 <p>Article URL: <a href=\"https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/\">https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664771\">https://news.ycombinator.com/item?id=46664771</a></p> <p>Points: 10</p> <p># Comments: 2</p>",
+        "summary": "Article URL: https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/ Comments URL: https://news.ycombinator.com/item?id=46664771 Points: 10 # Comments: 2 <p>Article URL: <a href=\"https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/\">https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664771\">https://news.ycombinator.com/item?id=46664771</a></p> <p>Points: 10</p> <p># Comments: 2</p>",
+        "link": "https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-18T04:26:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "10"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "jQuery 4.0.0 Released",
+        "slug": "jquery-4-0-0-released",
+        "description": "Article URL: https://blog.jquery.com/2026/01/17/jquery-4-0-0/ Comments URL: https://news.ycombinator.com/item?id=46664755 Points: 62 # Comments: 13 <p>Article URL: <a href=\"https://blog.jquery.com/2026/01/17/jquery-4-0-0/\">https://blog.jquery.com/2026/01/17/jquery-4-0-0/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664755\">https://news.ycombinator.com/item?id=46664755</a></p> <p>Points: 62</p> <p># Comments: 13</p>",
+        "summary": "Article URL: https://blog.jquery.com/2026/01/17/jquery-4-0-0/ Comments URL: https://news.ycombinator.com/item?id=46664755 Points: 62 # Comments: 13 <p>Article URL: <a href=\"https://blog.jquery.com/2026/01/17/jquery-4-0-0/\">https://blog.jquery.com/2026/01/17/jquery-4-0-0/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664755\">https://news.ycombinator.com/item?id=46664755</a></p> <p>Points: 62</p> <p># Comments: 13</p>",
+        "link": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-18T04:23:28.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "0"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "U.S. Court Order",
+        "slug": "u-s-court-order",
+        "description": "Article URL: https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/ Comments URL: https://news.ycombinator.com/item?id=46664646 Points: 33 # Comments: 12 <p>Article URL: <a href=\"https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/\">https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664646\">https://news.ycombinator.com/item?id=46664646</a></p> <p>Points: 33</p> <p># Comments: 12</p>",
+        "summary": "Article URL: https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/ Comments URL: https://news.ycombinator.com/item?id=46664646 Points: 33 # Comments: 12 <p>Article URL: <a href=\"https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/\">https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664646\">https://news.ycombinator.com/item?id=46664646</a></p> <p>Points: 33</p> <p># Comments: 12</p>",
+        "link": "https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-18T03:52:10.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Lopado­temacho­selacho­galeo­kranio­leipsano­drim­hypo­trimmato­silphio­karab",
+        "slug": "lopado-temacho-selacho-galeo-kranio-leipsano-drim-hypo-trimmato-silphio-karab",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon Comments URL: https://news.ycombinator.com/item?id=46664638 Points: 46 # Comments: 17 <p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon\">https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664638\">https://news.ycombinator.com/item?id=46664638</a></p> <p>Points: 46</p> <p># Comments: 17</p>",
+        "summary": "Article URL: https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon Comments URL: https://news.ycombinator.com/item?id=46664638 Points: 46 # Comments: 17 <p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon\">https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664638\">https://news.ycombinator.com/item?id=46664638</a></p> <p>Points: 46</p> <p># Comments: 17</p>",
+        "link": "https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon",
+        "source": "Hacker News",
+        "isoDate": "2026-01-18T03:49:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "c2"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-01-18T06:01:18.593Z",
+    "lastUpdated": "2026-01-18T06:01:18.593Z",
+    "visibleDate": "Jan 18, 2026",
+    "url": "pages/2026-01-18-060118593-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-01-18-060118593-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why Your URL",
+      "The relentless rule",
+      "jQuery 4.0.0 Released"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "tools": [
+      {
+        "name": "Why Your URL",
+        "slug": "why-your-url",
+        "description": "Your audience sees:</p> <ul> <li> <strong>bit.ly/xyz123</strong> or <strong>tiny.url/abc</strong> </li> <li>Zero trust signals (looks suspicious)</li> <li>No way to track comprehensive analytics</li> <li>Wasted opportunity to reinforce your brand</li> </ul> <p>Studies show that generic links have <strong>34% lower click-through rates</strong> than branded alternatives.</p> <h2> The Real Costs </h2> <p>Let me break this down:</p> <ol> <li> <strong>Lost Conversions</strong>: A 34% CTR drop on 1,000 link clicks = 340 fewer conversions</li> <li> <strong>Zero Brand Touchpoint</strong>: Every shared link is a chance to build brand recall</li> <li> <strong>Limited Analytics</strong>: You can't see device types, referrer sources, or geographic data</li> <li> <strong>No Retargeting</strong>: Generic links don't let you build audiences based on click behavior</li> </ol> <h2> The Solution: Branded Links </h2> <p>Instead of bit.ly/xyz, use <strong>go.yourbrand.com/offer</strong> or <strong>links.yourcompany.com/campaign</strong>.</p> <p>With branded short links, you get:</p> <ul> <li>✅ Instant trust (your domain = credibility)</li> <li>✅ Better CTR (up to 34% higher)</li> <li>✅ Deep analytics (device, location, referrer data)</li> <li>✅ QR codes for campaigns</li> <li>✅ No extra domains to manage</li> <li>✅ Built-in retargeting capabilities</li> </ul> <h2> Real-World Example </h2> <p>Imagine you're running a product launch campaign with 10,000 people on your email list:</p> <p><strong>Using Bitly:</strong></p> <ul> <li>Assume 5% CTR = 500 clicks</li> <li>Expected conversions at 2% = 10 sales</li> </ul> <p><strong>Using Branded Links:</strong></p> <ul> <li>5% + 34% improvement = 6.7% CTR = 670 clicks </li> <li>Same 2% conversion = 13+ sales</li> <li>30% more revenue from the same effort</li> </ul> <p>That's not a coincidence. With branded short links, you get: ✅ Instant trust (your domain = credibility) ✅ Better CTR (up to 34% higher) ✅ Deep analytics (device, location, referrer data) ✅ QR codes for campaigns ✅ No extra domains to manage ✅ Built-in retargeting capabilities Imagine you're running a product launch campaign with 10,000 people on your email list: Using Bitly: Assume 5% CTR = 500 clicks Expected conversions at 2% = 10 sales Using Branded Links: 5% + 34% improvement = 6.7% CTR = 670 clicks Same 2% conversion = 13+ sales 30% more revenue from the same effort That's not a coincidence.",
+        "summary": "Your audience sees:</p> <ul> <li> <strong>bit.ly/xyz123</strong> or <strong>tiny.url/abc</strong> </li> <li>Zero trust signals (looks suspicious)</li> <li>No way to track comprehensive analytics</li> <li>Wasted opportunity to reinforce your brand</li> </ul> <p>Studies show that generic links have <strong>34% lower click-through rates</strong> than branded alternatives.</p> <h2> The Real Costs </h2> <p>Let me break this down:</p> <ol> <li> <strong>Lost Conversions</strong>: A 34% CTR drop on 1,000 link clicks = 340 fewer conversions</li> <li> <strong>Zero Brand Touchpoint</strong>: Every shared link is a chance to build brand recall</li> <li> <strong>Limited Analytics</strong>: You can't see device types, referrer sources, or geographic data</li> <li> <strong>No Retargeting</strong>: Generic links don't let you build audiences based on click behavior</li> </ol> <h2> The Solution: Branded Links </h2> <p>Instead of bit.ly/xyz, use <strong>go.yourbrand.com/offer</strong> or <strong>links.yourcompany.com/campaign</strong>.</p> <p>With branded short links, you get:</p> <ul> <li>✅ Instant trust (your domain = credibility)</li> <li>✅ Better CTR (up to 34% higher)</li> <li>✅ Deep analytics (device, location, referrer data)</li> <li>✅ QR codes for campaigns</li> <li>✅ No extra domains to manage</li> <li>✅ Built-in retargeting capabilities</li> </ul> <h2> Real-World Example </h2> <p>Imagine you're running a product launch campaign with 10,000 people on your email list:</p> <p><strong>Using Bitly:</strong></p> <ul> <li>Assume 5% CTR = 500 clicks</li> <li>Expected conversions at 2% = 10 sales</li> </ul> <p><strong>Using Branded Links:</strong></p> <ul> <li>5% + 34% improvement = 6.7% CTR = 670 clicks </li> <li>Same 2% conversion = 13+ sales</li> <li>30% more revenue from the same effort</li> </ul> <p>That's not a coincidence. With branded short links, you get: ✅ Instant trust (your domain = credibility) ✅ Better CTR (up to 34% higher) ✅ Deep analytics (device, location, referrer data) ✅ QR codes for campaigns ✅ No extra domains to manage ✅ Built-in retargeting capabilities Imagine you're running a product launch campaign with 10,000 people on your email list: Using Bitly: Assume 5% CTR = 500 clicks Expected conversions at 2% = 10 sales Using Branded Links: 5% + 34% improvement = 6.7% CTR = 670 clicks Same 2% conversion = 13+ sales 30% more revenue from the same effort That's not a coincidence.",
+        "link": "https://dev.to/buildingsaasly/why-your-url-shortener-is-killing-your-brand-and-what-to-do-about-it-2o9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-18T05:01:34.000Z",
+        "keywords": [
+          "marketing",
+          "saas",
+          "productivity",
+          "tools",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "marketing",
+          "saas",
+          "productivity"
+        ],
+        "pros": [
+          "Great for marketing",
+          "saas-ready automation",
+          "Great for marketing"
+        ],
+        "cons": [
+          "Overkill for marketing experiments",
+          "Needs extra setup for saas workflows",
+          "Overkill for marketing experiments"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The relentless rule",
+        "slug": "the-relentless-rule",
+        "description": "Article URL: https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/ Comments URL: https://news.ycombinator.com/item?id=46664771 Points: 10 # Comments: 2 <p>Article URL: <a href=\"https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/\">https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664771\">https://news.ycombinator.com/item?id=46664771</a></p> <p>Points: 10</p> <p># Comments: 2</p>",
+        "summary": "Article URL: https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/ Comments URL: https://news.ycombinator.com/item?id=46664771 Points: 10 # Comments: 2 <p>Article URL: <a href=\"https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/\">https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664771\">https://news.ycombinator.com/item?id=46664771</a></p> <p>Points: 10</p> <p># Comments: 2</p>",
+        "link": "https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-18T04:26:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "10"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "jQuery 4.0.0 Released",
+        "slug": "jquery-4-0-0-released",
+        "description": "Article URL: https://blog.jquery.com/2026/01/17/jquery-4-0-0/ Comments URL: https://news.ycombinator.com/item?id=46664755 Points: 62 # Comments: 13 <p>Article URL: <a href=\"https://blog.jquery.com/2026/01/17/jquery-4-0-0/\">https://blog.jquery.com/2026/01/17/jquery-4-0-0/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664755\">https://news.ycombinator.com/item?id=46664755</a></p> <p>Points: 62</p> <p># Comments: 13</p>",
+        "summary": "Article URL: https://blog.jquery.com/2026/01/17/jquery-4-0-0/ Comments URL: https://news.ycombinator.com/item?id=46664755 Points: 62 # Comments: 13 <p>Article URL: <a href=\"https://blog.jquery.com/2026/01/17/jquery-4-0-0/\">https://blog.jquery.com/2026/01/17/jquery-4-0-0/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664755\">https://news.ycombinator.com/item?id=46664755</a></p> <p>Points: 62</p> <p># Comments: 13</p>",
+        "link": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-18T04:23:28.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "0"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "U.S. Court Order",
+        "slug": "u-s-court-order",
+        "description": "Article URL: https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/ Comments URL: https://news.ycombinator.com/item?id=46664646 Points: 33 # Comments: 12 <p>Article URL: <a href=\"https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/\">https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664646\">https://news.ycombinator.com/item?id=46664646</a></p> <p>Points: 33</p> <p># Comments: 12</p>",
+        "summary": "Article URL: https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/ Comments URL: https://news.ycombinator.com/item?id=46664646 Points: 33 # Comments: 12 <p>Article URL: <a href=\"https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/\">https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664646\">https://news.ycombinator.com/item?id=46664646</a></p> <p>Points: 33</p> <p># Comments: 12</p>",
+        "link": "https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-18T03:52:10.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs VS Code: Browser IDE vs Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-01-18T06:01:18.593Z",
+    "lastUpdated": "2026-01-18T06:01:18.593Z",
+    "visibleDate": "Jan 18, 2026",
+    "url": "pages/2026-01-18-060118593-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-01-18-060118593-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why Your URL",
+      "The relentless rule"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "tools": [
+      {
+        "name": "Why Your URL",
+        "slug": "why-your-url",
+        "description": "Your audience sees:</p> <ul> <li> <strong>bit.ly/xyz123</strong> or <strong>tiny.url/abc</strong> </li> <li>Zero trust signals (looks suspicious)</li> <li>No way to track comprehensive analytics</li> <li>Wasted opportunity to reinforce your brand</li> </ul> <p>Studies show that generic links have <strong>34% lower click-through rates</strong> than branded alternatives.</p> <h2> The Real Costs </h2> <p>Let me break this down:</p> <ol> <li> <strong>Lost Conversions</strong>: A 34% CTR drop on 1,000 link clicks = 340 fewer conversions</li> <li> <strong>Zero Brand Touchpoint</strong>: Every shared link is a chance to build brand recall</li> <li> <strong>Limited Analytics</strong>: You can't see device types, referrer sources, or geographic data</li> <li> <strong>No Retargeting</strong>: Generic links don't let you build audiences based on click behavior</li> </ol> <h2> The Solution: Branded Links </h2> <p>Instead of bit.ly/xyz, use <strong>go.yourbrand.com/offer</strong> or <strong>links.yourcompany.com/campaign</strong>.</p> <p>With branded short links, you get:</p> <ul> <li>✅ Instant trust (your domain = credibility)</li> <li>✅ Better CTR (up to 34% higher)</li> <li>✅ Deep analytics (device, location, referrer data)</li> <li>✅ QR codes for campaigns</li> <li>✅ No extra domains to manage</li> <li>✅ Built-in retargeting capabilities</li> </ul> <h2> Real-World Example </h2> <p>Imagine you're running a product launch campaign with 10,000 people on your email list:</p> <p><strong>Using Bitly:</strong></p> <ul> <li>Assume 5% CTR = 500 clicks</li> <li>Expected conversions at 2% = 10 sales</li> </ul> <p><strong>Using Branded Links:</strong></p> <ul> <li>5% + 34% improvement = 6.7% CTR = 670 clicks </li> <li>Same 2% conversion = 13+ sales</li> <li>30% more revenue from the same effort</li> </ul> <p>That's not a coincidence. With branded short links, you get: ✅ Instant trust (your domain = credibility) ✅ Better CTR (up to 34% higher) ✅ Deep analytics (device, location, referrer data) ✅ QR codes for campaigns ✅ No extra domains to manage ✅ Built-in retargeting capabilities Imagine you're running a product launch campaign with 10,000 people on your email list: Using Bitly: Assume 5% CTR = 500 clicks Expected conversions at 2% = 10 sales Using Branded Links: 5% + 34% improvement = 6.7% CTR = 670 clicks Same 2% conversion = 13+ sales 30% more revenue from the same effort That's not a coincidence.",
+        "summary": "Your audience sees:</p> <ul> <li> <strong>bit.ly/xyz123</strong> or <strong>tiny.url/abc</strong> </li> <li>Zero trust signals (looks suspicious)</li> <li>No way to track comprehensive analytics</li> <li>Wasted opportunity to reinforce your brand</li> </ul> <p>Studies show that generic links have <strong>34% lower click-through rates</strong> than branded alternatives.</p> <h2> The Real Costs </h2> <p>Let me break this down:</p> <ol> <li> <strong>Lost Conversions</strong>: A 34% CTR drop on 1,000 link clicks = 340 fewer conversions</li> <li> <strong>Zero Brand Touchpoint</strong>: Every shared link is a chance to build brand recall</li> <li> <strong>Limited Analytics</strong>: You can't see device types, referrer sources, or geographic data</li> <li> <strong>No Retargeting</strong>: Generic links don't let you build audiences based on click behavior</li> </ol> <h2> The Solution: Branded Links </h2> <p>Instead of bit.ly/xyz, use <strong>go.yourbrand.com/offer</strong> or <strong>links.yourcompany.com/campaign</strong>.</p> <p>With branded short links, you get:</p> <ul> <li>✅ Instant trust (your domain = credibility)</li> <li>✅ Better CTR (up to 34% higher)</li> <li>✅ Deep analytics (device, location, referrer data)</li> <li>✅ QR codes for campaigns</li> <li>✅ No extra domains to manage</li> <li>✅ Built-in retargeting capabilities</li> </ul> <h2> Real-World Example </h2> <p>Imagine you're running a product launch campaign with 10,000 people on your email list:</p> <p><strong>Using Bitly:</strong></p> <ul> <li>Assume 5% CTR = 500 clicks</li> <li>Expected conversions at 2% = 10 sales</li> </ul> <p><strong>Using Branded Links:</strong></p> <ul> <li>5% + 34% improvement = 6.7% CTR = 670 clicks </li> <li>Same 2% conversion = 13+ sales</li> <li>30% more revenue from the same effort</li> </ul> <p>That's not a coincidence. With branded short links, you get: ✅ Instant trust (your domain = credibility) ✅ Better CTR (up to 34% higher) ✅ Deep analytics (device, location, referrer data) ✅ QR codes for campaigns ✅ No extra domains to manage ✅ Built-in retargeting capabilities Imagine you're running a product launch campaign with 10,000 people on your email list: Using Bitly: Assume 5% CTR = 500 clicks Expected conversions at 2% = 10 sales Using Branded Links: 5% + 34% improvement = 6.7% CTR = 670 clicks Same 2% conversion = 13+ sales 30% more revenue from the same effort That's not a coincidence.",
+        "link": "https://dev.to/buildingsaasly/why-your-url-shortener-is-killing-your-brand-and-what-to-do-about-it-2o9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-18T05:01:34.000Z",
+        "keywords": [
+          "marketing",
+          "saas",
+          "productivity",
+          "tools",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "marketing",
+          "saas",
+          "productivity"
+        ],
+        "pros": [
+          "Great for marketing",
+          "saas-ready automation",
+          "Great for marketing"
+        ],
+        "cons": [
+          "Overkill for marketing experiments",
+          "Needs extra setup for saas workflows",
+          "Overkill for marketing experiments"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The relentless rule",
+        "slug": "the-relentless-rule",
+        "description": "Article URL: https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/ Comments URL: https://news.ycombinator.com/item?id=46664771 Points: 10 # Comments: 2 <p>Article URL: <a href=\"https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/\">https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664771\">https://news.ycombinator.com/item?id=46664771</a></p> <p>Points: 10</p> <p># Comments: 2</p>",
+        "summary": "Article URL: https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/ Comments URL: https://news.ycombinator.com/item?id=46664771 Points: 10 # Comments: 2 <p>Article URL: <a href=\"https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/\">https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664771\">https://news.ycombinator.com/item?id=46664771</a></p> <p>Points: 10</p> <p># Comments: 2</p>",
+        "link": "https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-18T04:26:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "10"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-01-18T06:01:18.593Z",
+    "lastUpdated": "2026-01-18T06:01:18.593Z",
+    "visibleDate": "Jan 18, 2026",
+    "url": "pages/2026-01-18-060118593-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-01-18-060118593-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why Your URL",
+      "The relentless rule",
+      "jQuery 4.0.0 Released"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds.",
+    "tools": [
+      {
+        "name": "Why Your URL",
+        "slug": "why-your-url",
+        "description": "Your audience sees:</p> <ul> <li> <strong>bit.ly/xyz123</strong> or <strong>tiny.url/abc</strong> </li> <li>Zero trust signals (looks suspicious)</li> <li>No way to track comprehensive analytics</li> <li>Wasted opportunity to reinforce your brand</li> </ul> <p>Studies show that generic links have <strong>34% lower click-through rates</strong> than branded alternatives.</p> <h2> The Real Costs </h2> <p>Let me break this down:</p> <ol> <li> <strong>Lost Conversions</strong>: A 34% CTR drop on 1,000 link clicks = 340 fewer conversions</li> <li> <strong>Zero Brand Touchpoint</strong>: Every shared link is a chance to build brand recall</li> <li> <strong>Limited Analytics</strong>: You can't see device types, referrer sources, or geographic data</li> <li> <strong>No Retargeting</strong>: Generic links don't let you build audiences based on click behavior</li> </ol> <h2> The Solution: Branded Links </h2> <p>Instead of bit.ly/xyz, use <strong>go.yourbrand.com/offer</strong> or <strong>links.yourcompany.com/campaign</strong>.</p> <p>With branded short links, you get:</p> <ul> <li>✅ Instant trust (your domain = credibility)</li> <li>✅ Better CTR (up to 34% higher)</li> <li>✅ Deep analytics (device, location, referrer data)</li> <li>✅ QR codes for campaigns</li> <li>✅ No extra domains to manage</li> <li>✅ Built-in retargeting capabilities</li> </ul> <h2> Real-World Example </h2> <p>Imagine you're running a product launch campaign with 10,000 people on your email list:</p> <p><strong>Using Bitly:</strong></p> <ul> <li>Assume 5% CTR = 500 clicks</li> <li>Expected conversions at 2% = 10 sales</li> </ul> <p><strong>Using Branded Links:</strong></p> <ul> <li>5% + 34% improvement = 6.7% CTR = 670 clicks </li> <li>Same 2% conversion = 13+ sales</li> <li>30% more revenue from the same effort</li> </ul> <p>That's not a coincidence. With branded short links, you get: ✅ Instant trust (your domain = credibility) ✅ Better CTR (up to 34% higher) ✅ Deep analytics (device, location, referrer data) ✅ QR codes for campaigns ✅ No extra domains to manage ✅ Built-in retargeting capabilities Imagine you're running a product launch campaign with 10,000 people on your email list: Using Bitly: Assume 5% CTR = 500 clicks Expected conversions at 2% = 10 sales Using Branded Links: 5% + 34% improvement = 6.7% CTR = 670 clicks Same 2% conversion = 13+ sales 30% more revenue from the same effort That's not a coincidence.",
+        "summary": "Your audience sees:</p> <ul> <li> <strong>bit.ly/xyz123</strong> or <strong>tiny.url/abc</strong> </li> <li>Zero trust signals (looks suspicious)</li> <li>No way to track comprehensive analytics</li> <li>Wasted opportunity to reinforce your brand</li> </ul> <p>Studies show that generic links have <strong>34% lower click-through rates</strong> than branded alternatives.</p> <h2> The Real Costs </h2> <p>Let me break this down:</p> <ol> <li> <strong>Lost Conversions</strong>: A 34% CTR drop on 1,000 link clicks = 340 fewer conversions</li> <li> <strong>Zero Brand Touchpoint</strong>: Every shared link is a chance to build brand recall</li> <li> <strong>Limited Analytics</strong>: You can't see device types, referrer sources, or geographic data</li> <li> <strong>No Retargeting</strong>: Generic links don't let you build audiences based on click behavior</li> </ol> <h2> The Solution: Branded Links </h2> <p>Instead of bit.ly/xyz, use <strong>go.yourbrand.com/offer</strong> or <strong>links.yourcompany.com/campaign</strong>.</p> <p>With branded short links, you get:</p> <ul> <li>✅ Instant trust (your domain = credibility)</li> <li>✅ Better CTR (up to 34% higher)</li> <li>✅ Deep analytics (device, location, referrer data)</li> <li>✅ QR codes for campaigns</li> <li>✅ No extra domains to manage</li> <li>✅ Built-in retargeting capabilities</li> </ul> <h2> Real-World Example </h2> <p>Imagine you're running a product launch campaign with 10,000 people on your email list:</p> <p><strong>Using Bitly:</strong></p> <ul> <li>Assume 5% CTR = 500 clicks</li> <li>Expected conversions at 2% = 10 sales</li> </ul> <p><strong>Using Branded Links:</strong></p> <ul> <li>5% + 34% improvement = 6.7% CTR = 670 clicks </li> <li>Same 2% conversion = 13+ sales</li> <li>30% more revenue from the same effort</li> </ul> <p>That's not a coincidence. With branded short links, you get: ✅ Instant trust (your domain = credibility) ✅ Better CTR (up to 34% higher) ✅ Deep analytics (device, location, referrer data) ✅ QR codes for campaigns ✅ No extra domains to manage ✅ Built-in retargeting capabilities Imagine you're running a product launch campaign with 10,000 people on your email list: Using Bitly: Assume 5% CTR = 500 clicks Expected conversions at 2% = 10 sales Using Branded Links: 5% + 34% improvement = 6.7% CTR = 670 clicks Same 2% conversion = 13+ sales 30% more revenue from the same effort That's not a coincidence.",
+        "link": "https://dev.to/buildingsaasly/why-your-url-shortener-is-killing-your-brand-and-what-to-do-about-it-2o9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-18T05:01:34.000Z",
+        "keywords": [
+          "marketing",
+          "saas",
+          "productivity",
+          "tools",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "marketing",
+          "saas",
+          "productivity"
+        ],
+        "pros": [
+          "Great for marketing",
+          "saas-ready automation",
+          "Great for marketing"
+        ],
+        "cons": [
+          "Overkill for marketing experiments",
+          "Needs extra setup for saas workflows",
+          "Overkill for marketing experiments"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The relentless rule",
+        "slug": "the-relentless-rule",
+        "description": "Article URL: https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/ Comments URL: https://news.ycombinator.com/item?id=46664771 Points: 10 # Comments: 2 <p>Article URL: <a href=\"https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/\">https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664771\">https://news.ycombinator.com/item?id=46664771</a></p> <p>Points: 10</p> <p># Comments: 2</p>",
+        "summary": "Article URL: https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/ Comments URL: https://news.ycombinator.com/item?id=46664771 Points: 10 # Comments: 2 <p>Article URL: <a href=\"https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/\">https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664771\">https://news.ycombinator.com/item?id=46664771</a></p> <p>Points: 10</p> <p># Comments: 2</p>",
+        "link": "https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-18T04:26:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "10"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "jQuery 4.0.0 Released",
+        "slug": "jquery-4-0-0-released",
+        "description": "Article URL: https://blog.jquery.com/2026/01/17/jquery-4-0-0/ Comments URL: https://news.ycombinator.com/item?id=46664755 Points: 62 # Comments: 13 <p>Article URL: <a href=\"https://blog.jquery.com/2026/01/17/jquery-4-0-0/\">https://blog.jquery.com/2026/01/17/jquery-4-0-0/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664755\">https://news.ycombinator.com/item?id=46664755</a></p> <p>Points: 62</p> <p># Comments: 13</p>",
+        "summary": "Article URL: https://blog.jquery.com/2026/01/17/jquery-4-0-0/ Comments URL: https://news.ycombinator.com/item?id=46664755 Points: 62 # Comments: 13 <p>Article URL: <a href=\"https://blog.jquery.com/2026/01/17/jquery-4-0-0/\">https://blog.jquery.com/2026/01/17/jquery-4-0-0/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46664755\">https://news.ycombinator.com/item?id=46664755</a></p> <p>Points: 62</p> <p># Comments: 13</p>",
+        "link": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-18T04:23:28.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "0"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-01-17T06:01:04.328Z",
     "lastUpdated": "2026-01-17T06:01:04.328Z",
     "visibleDate": "Jan 17, 2026",

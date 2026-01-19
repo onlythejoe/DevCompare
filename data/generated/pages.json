@@ -7,6 +7,621 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-01-19T06:20:18.565Z",
+    "lastUpdated": "2026-01-19T06:20:18.565Z",
+    "visibleDate": "Jan 19, 2026",
+    "url": "pages/2026-01-19-062018565-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-01-19-062018565-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Local-First vs Cloud",
+      "Show HN",
+      "CD Projekt issue"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows.",
+    "tools": [
+      {
+        "name": "Local-First vs Cloud",
+        "slug": "local-first-vs-cloud",
+        "description": "<strong><a href=\"https://vector.hyper-tools.online\" rel=\"noopener noreferrer\">Vector Gnome</a></strong> is built on a <strong>Local-First architecture</strong>.</p> <ul> <li> <strong>No Uploads:</strong> The \"File\" input stays in the browser's memory.</li> <li> <strong>No Servers:</strong> The optimization engine is a static bundle of JS/WASM.</li> <li> <strong>No Tracking:</strong> Your assets are yours. That SVG could contain company-sensitive icons, proprietary UI layouts, or even hidden metadata with your OS path.</p> <h4> Why I built Vector Gnome </h4> <p>I wanted a tool that felt like a cloud app but acted like a local binary.",
+        "summary": "<strong><a href=\"https://vector.hyper-tools.online\" rel=\"noopener noreferrer\">Vector Gnome</a></strong> is built on a <strong>Local-First architecture</strong>.</p> <ul> <li> <strong>No Uploads:</strong> The \"File\" input stays in the browser's memory.</li> <li> <strong>No Servers:</strong> The optimization engine is a static bundle of JS/WASM.</li> <li> <strong>No Tracking:</strong> Your assets are yours. That SVG could contain company-sensitive icons, proprietary UI layouts, or even hidden metadata with your OS path.</p> <h4> Why I built Vector Gnome </h4> <p>I wanted a tool that felt like a cloud app but acted like a local binary.",
+        "link": "https://dev.to/hypertools/local-first-vs-cloud-why-i-stopped-using-online-svg-optimizers-ol3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-19T04:46:34.000Z",
+        "keywords": [
+          "privacy",
+          "webdev",
+          "security",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "privacy",
+          "webdev",
+          "security"
+        ],
+        "pros": [
+          "Great for privacy",
+          "webdev-ready automation",
+          "Great for privacy"
+        ],
+        "cons": [
+          "Overkill for privacy experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for privacy experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Article URL: https://github.com/elC0mpa/aws-doctor Comments URL: https://news.ycombinator.com/item?id=46675092 Points: 3 # Comments: 1 <p>Article URL: <a href=\"https://github.com/elC0mpa/aws-doctor\">https://github.com/elC0mpa/aws-doctor</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675092\">https://news.ycombinator.com/item?id=46675092</a></p> <p>Points: 3</p> <p># Comments: 1</p>",
+        "summary": "Article URL: https://github.com/elC0mpa/aws-doctor Comments URL: https://news.ycombinator.com/item?id=46675092 Points: 3 # Comments: 1 <p>Article URL: <a href=\"https://github.com/elC0mpa/aws-doctor\">https://github.com/elC0mpa/aws-doctor</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675092\">https://news.ycombinator.com/item?id=46675092</a></p> <p>Points: 3</p> <p># Comments: 1</p>",
+        "link": "https://github.com/elC0mpa/aws-doctor",
+        "source": "Hacker News",
+        "isoDate": "2026-01-19T04:35:05.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 5,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "CD Projekt issue",
+        "slug": "cd-projekt-issue",
+        "description": "Article URL: https://www.patreon.com/posts/another-one-dust-148437771 Comments URL: https://news.ycombinator.com/item?id=46674505 Points: 41 # Comments: 16 <p>Article URL: <a href=\"https://www.patreon.com/posts/another-one-dust-148437771\">https://www.patreon.com/posts/another-one-dust-148437771</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46674505\">https://news.ycombinator.com/item?id=46674505</a></p> <p>Points: 41</p> <p># Comments: 16</p>",
+        "summary": "Article URL: https://www.patreon.com/posts/another-one-dust-148437771 Comments URL: https://news.ycombinator.com/item?id=46674505 Points: 41 # Comments: 16 <p>Article URL: <a href=\"https://www.patreon.com/posts/another-one-dust-148437771\">https://www.patreon.com/posts/another-one-dust-148437771</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46674505\">https://news.ycombinator.com/item?id=46674505</a></p> <p>Points: 41</p> <p># Comments: 16</p>",
+        "link": "https://www.patreon.com/posts/another-one-dust-148437771",
+        "source": "Hacker News",
+        "isoDate": "2026-01-19T02:42:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Code-Only Agent",
+        "slug": "the-code-only-agent",
+        "description": "Article URL: https://rijnard.com/blog/the-code-only-agent Comments URL: https://news.ycombinator.com/item?id=46674416 Points: 35 # Comments: 12 <p>Article URL: <a href=\"https://rijnard.com/blog/the-code-only-agent\">https://rijnard.com/blog/the-code-only-agent</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46674416\">https://news.ycombinator.com/item?id=46674416</a></p> <p>Points: 35</p> <p># Comments: 12</p>",
+        "summary": "Article URL: https://rijnard.com/blog/the-code-only-agent Comments URL: https://news.ycombinator.com/item?id=46674416 Points: 35 # Comments: 12 <p>Article URL: <a href=\"https://rijnard.com/blog/the-code-only-agent\">https://rijnard.com/blog/the-code-only-agent</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46674416\">https://news.ycombinator.com/item?id=46674416</a></p> <p>Points: 35</p> <p># Comments: 12</p>",
+        "link": "https://rijnard.com/blog/the-code-only-agent",
+        "source": "Hacker News",
+        "isoDate": "2026-01-19T02:27:07.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "High-speed train collision",
+        "slug": "high-speed-train-collision",
+        "description": "Article URL: https://www.bbc.com/news/articles/cedw6ylpynyo Comments URL: https://news.ycombinator.com/item?id=46673453 Points: 64 # Comments: 40 <p>Article URL: <a href=\"https://www.bbc.com/news/articles/cedw6ylpynyo\">https://www.bbc.com/news/articles/cedw6ylpynyo</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46673453\">https://news.ycombinator.com/item?id=46673453</a></p> <p>Points: 64</p> <p># Comments: 40</p>",
+        "summary": "Article URL: https://www.bbc.com/news/articles/cedw6ylpynyo Comments URL: https://news.ycombinator.com/item?id=46673453 Points: 64 # Comments: 40 <p>Article URL: <a href=\"https://www.bbc.com/news/articles/cedw6ylpynyo\">https://www.bbc.com/news/articles/cedw6ylpynyo</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46673453\">https://news.ycombinator.com/item?id=46673453</a></p> <p>Points: 64</p> <p># Comments: 40</p>",
+        "link": "https://www.bbc.com/news/articles/cedw6ylpynyo",
+        "source": "Hacker News",
+        "isoDate": "2026-01-18T23:54:43.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-01-19T06:20:18.565Z",
+    "lastUpdated": "2026-01-19T06:20:18.565Z",
+    "visibleDate": "Jan 19, 2026",
+    "url": "pages/2026-01-19-062018565-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-01-19-062018565-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Local-First vs Cloud",
+      "Show HN",
+      "CD Projekt issue"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "tools": [
+      {
+        "name": "Local-First vs Cloud",
+        "slug": "local-first-vs-cloud",
+        "description": "<strong><a href=\"https://vector.hyper-tools.online\" rel=\"noopener noreferrer\">Vector Gnome</a></strong> is built on a <strong>Local-First architecture</strong>.</p> <ul> <li> <strong>No Uploads:</strong> The \"File\" input stays in the browser's memory.</li> <li> <strong>No Servers:</strong> The optimization engine is a static bundle of JS/WASM.</li> <li> <strong>No Tracking:</strong> Your assets are yours. That SVG could contain company-sensitive icons, proprietary UI layouts, or even hidden metadata with your OS path.</p> <h4> Why I built Vector Gnome </h4> <p>I wanted a tool that felt like a cloud app but acted like a local binary.",
+        "summary": "<strong><a href=\"https://vector.hyper-tools.online\" rel=\"noopener noreferrer\">Vector Gnome</a></strong> is built on a <strong>Local-First architecture</strong>.</p> <ul> <li> <strong>No Uploads:</strong> The \"File\" input stays in the browser's memory.</li> <li> <strong>No Servers:</strong> The optimization engine is a static bundle of JS/WASM.</li> <li> <strong>No Tracking:</strong> Your assets are yours. That SVG could contain company-sensitive icons, proprietary UI layouts, or even hidden metadata with your OS path.</p> <h4> Why I built Vector Gnome </h4> <p>I wanted a tool that felt like a cloud app but acted like a local binary.",
+        "link": "https://dev.to/hypertools/local-first-vs-cloud-why-i-stopped-using-online-svg-optimizers-ol3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-19T04:46:34.000Z",
+        "keywords": [
+          "privacy",
+          "webdev",
+          "security",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "privacy",
+          "webdev",
+          "security"
+        ],
+        "pros": [
+          "Great for privacy",
+          "webdev-ready automation",
+          "Great for privacy"
+        ],
+        "cons": [
+          "Overkill for privacy experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for privacy experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Article URL: https://github.com/elC0mpa/aws-doctor Comments URL: https://news.ycombinator.com/item?id=46675092 Points: 3 # Comments: 1 <p>Article URL: <a href=\"https://github.com/elC0mpa/aws-doctor\">https://github.com/elC0mpa/aws-doctor</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675092\">https://news.ycombinator.com/item?id=46675092</a></p> <p>Points: 3</p> <p># Comments: 1</p>",
+        "summary": "Article URL: https://github.com/elC0mpa/aws-doctor Comments URL: https://news.ycombinator.com/item?id=46675092 Points: 3 # Comments: 1 <p>Article URL: <a href=\"https://github.com/elC0mpa/aws-doctor\">https://github.com/elC0mpa/aws-doctor</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675092\">https://news.ycombinator.com/item?id=46675092</a></p> <p>Points: 3</p> <p># Comments: 1</p>",
+        "link": "https://github.com/elC0mpa/aws-doctor",
+        "source": "Hacker News",
+        "isoDate": "2026-01-19T04:35:05.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 5,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "CD Projekt issue",
+        "slug": "cd-projekt-issue",
+        "description": "Article URL: https://www.patreon.com/posts/another-one-dust-148437771 Comments URL: https://news.ycombinator.com/item?id=46674505 Points: 41 # Comments: 16 <p>Article URL: <a href=\"https://www.patreon.com/posts/another-one-dust-148437771\">https://www.patreon.com/posts/another-one-dust-148437771</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46674505\">https://news.ycombinator.com/item?id=46674505</a></p> <p>Points: 41</p> <p># Comments: 16</p>",
+        "summary": "Article URL: https://www.patreon.com/posts/another-one-dust-148437771 Comments URL: https://news.ycombinator.com/item?id=46674505 Points: 41 # Comments: 16 <p>Article URL: <a href=\"https://www.patreon.com/posts/another-one-dust-148437771\">https://www.patreon.com/posts/another-one-dust-148437771</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46674505\">https://news.ycombinator.com/item?id=46674505</a></p> <p>Points: 41</p> <p># Comments: 16</p>",
+        "link": "https://www.patreon.com/posts/another-one-dust-148437771",
+        "source": "Hacker News",
+        "isoDate": "2026-01-19T02:42:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Code-Only Agent",
+        "slug": "the-code-only-agent",
+        "description": "Article URL: https://rijnard.com/blog/the-code-only-agent Comments URL: https://news.ycombinator.com/item?id=46674416 Points: 35 # Comments: 12 <p>Article URL: <a href=\"https://rijnard.com/blog/the-code-only-agent\">https://rijnard.com/blog/the-code-only-agent</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46674416\">https://news.ycombinator.com/item?id=46674416</a></p> <p>Points: 35</p> <p># Comments: 12</p>",
+        "summary": "Article URL: https://rijnard.com/blog/the-code-only-agent Comments URL: https://news.ycombinator.com/item?id=46674416 Points: 35 # Comments: 12 <p>Article URL: <a href=\"https://rijnard.com/blog/the-code-only-agent\">https://rijnard.com/blog/the-code-only-agent</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46674416\">https://news.ycombinator.com/item?id=46674416</a></p> <p>Points: 35</p> <p># Comments: 12</p>",
+        "link": "https://rijnard.com/blog/the-code-only-agent",
+        "source": "Hacker News",
+        "isoDate": "2026-01-19T02:27:07.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs VS Code: Browser IDE vs Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-01-19T06:20:18.565Z",
+    "lastUpdated": "2026-01-19T06:20:18.565Z",
+    "visibleDate": "Jan 19, 2026",
+    "url": "pages/2026-01-19-062018565-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-01-19-062018565-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Local-First vs Cloud",
+      "Show HN"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "tools": [
+      {
+        "name": "Local-First vs Cloud",
+        "slug": "local-first-vs-cloud",
+        "description": "<strong><a href=\"https://vector.hyper-tools.online\" rel=\"noopener noreferrer\">Vector Gnome</a></strong> is built on a <strong>Local-First architecture</strong>.</p> <ul> <li> <strong>No Uploads:</strong> The \"File\" input stays in the browser's memory.</li> <li> <strong>No Servers:</strong> The optimization engine is a static bundle of JS/WASM.</li> <li> <strong>No Tracking:</strong> Your assets are yours. That SVG could contain company-sensitive icons, proprietary UI layouts, or even hidden metadata with your OS path.</p> <h4> Why I built Vector Gnome </h4> <p>I wanted a tool that felt like a cloud app but acted like a local binary.",
+        "summary": "<strong><a href=\"https://vector.hyper-tools.online\" rel=\"noopener noreferrer\">Vector Gnome</a></strong> is built on a <strong>Local-First architecture</strong>.</p> <ul> <li> <strong>No Uploads:</strong> The \"File\" input stays in the browser's memory.</li> <li> <strong>No Servers:</strong> The optimization engine is a static bundle of JS/WASM.</li> <li> <strong>No Tracking:</strong> Your assets are yours. That SVG could contain company-sensitive icons, proprietary UI layouts, or even hidden metadata with your OS path.</p> <h4> Why I built Vector Gnome </h4> <p>I wanted a tool that felt like a cloud app but acted like a local binary.",
+        "link": "https://dev.to/hypertools/local-first-vs-cloud-why-i-stopped-using-online-svg-optimizers-ol3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-19T04:46:34.000Z",
+        "keywords": [
+          "privacy",
+          "webdev",
+          "security",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "privacy",
+          "webdev",
+          "security"
+        ],
+        "pros": [
+          "Great for privacy",
+          "webdev-ready automation",
+          "Great for privacy"
+        ],
+        "cons": [
+          "Overkill for privacy experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for privacy experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Article URL: https://github.com/elC0mpa/aws-doctor Comments URL: https://news.ycombinator.com/item?id=46675092 Points: 3 # Comments: 1 <p>Article URL: <a href=\"https://github.com/elC0mpa/aws-doctor\">https://github.com/elC0mpa/aws-doctor</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675092\">https://news.ycombinator.com/item?id=46675092</a></p> <p>Points: 3</p> <p># Comments: 1</p>",
+        "summary": "Article URL: https://github.com/elC0mpa/aws-doctor Comments URL: https://news.ycombinator.com/item?id=46675092 Points: 3 # Comments: 1 <p>Article URL: <a href=\"https://github.com/elC0mpa/aws-doctor\">https://github.com/elC0mpa/aws-doctor</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675092\">https://news.ycombinator.com/item?id=46675092</a></p> <p>Points: 3</p> <p># Comments: 1</p>",
+        "link": "https://github.com/elC0mpa/aws-doctor",
+        "source": "Hacker News",
+        "isoDate": "2026-01-19T04:35:05.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 5,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-01-19T06:20:18.565Z",
+    "lastUpdated": "2026-01-19T06:20:18.565Z",
+    "visibleDate": "Jan 19, 2026",
+    "url": "pages/2026-01-19-062018565-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-01-19-062018565-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Local-First vs Cloud",
+      "Show HN",
+      "CD Projekt issue"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds.",
+    "tools": [
+      {
+        "name": "Local-First vs Cloud",
+        "slug": "local-first-vs-cloud",
+        "description": "<strong><a href=\"https://vector.hyper-tools.online\" rel=\"noopener noreferrer\">Vector Gnome</a></strong> is built on a <strong>Local-First architecture</strong>.</p> <ul> <li> <strong>No Uploads:</strong> The \"File\" input stays in the browser's memory.</li> <li> <strong>No Servers:</strong> The optimization engine is a static bundle of JS/WASM.</li> <li> <strong>No Tracking:</strong> Your assets are yours. That SVG could contain company-sensitive icons, proprietary UI layouts, or even hidden metadata with your OS path.</p> <h4> Why I built Vector Gnome </h4> <p>I wanted a tool that felt like a cloud app but acted like a local binary.",
+        "summary": "<strong><a href=\"https://vector.hyper-tools.online\" rel=\"noopener noreferrer\">Vector Gnome</a></strong> is built on a <strong>Local-First architecture</strong>.</p> <ul> <li> <strong>No Uploads:</strong> The \"File\" input stays in the browser's memory.</li> <li> <strong>No Servers:</strong> The optimization engine is a static bundle of JS/WASM.</li> <li> <strong>No Tracking:</strong> Your assets are yours. That SVG could contain company-sensitive icons, proprietary UI layouts, or even hidden metadata with your OS path.</p> <h4> Why I built Vector Gnome </h4> <p>I wanted a tool that felt like a cloud app but acted like a local binary.",
+        "link": "https://dev.to/hypertools/local-first-vs-cloud-why-i-stopped-using-online-svg-optimizers-ol3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-19T04:46:34.000Z",
+        "keywords": [
+          "privacy",
+          "webdev",
+          "security",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "privacy",
+          "webdev",
+          "security"
+        ],
+        "pros": [
+          "Great for privacy",
+          "webdev-ready automation",
+          "Great for privacy"
+        ],
+        "cons": [
+          "Overkill for privacy experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for privacy experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Article URL: https://github.com/elC0mpa/aws-doctor Comments URL: https://news.ycombinator.com/item?id=46675092 Points: 3 # Comments: 1 <p>Article URL: <a href=\"https://github.com/elC0mpa/aws-doctor\">https://github.com/elC0mpa/aws-doctor</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675092\">https://news.ycombinator.com/item?id=46675092</a></p> <p>Points: 3</p> <p># Comments: 1</p>",
+        "summary": "Article URL: https://github.com/elC0mpa/aws-doctor Comments URL: https://news.ycombinator.com/item?id=46675092 Points: 3 # Comments: 1 <p>Article URL: <a href=\"https://github.com/elC0mpa/aws-doctor\">https://github.com/elC0mpa/aws-doctor</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675092\">https://news.ycombinator.com/item?id=46675092</a></p> <p>Points: 3</p> <p># Comments: 1</p>",
+        "link": "https://github.com/elC0mpa/aws-doctor",
+        "source": "Hacker News",
+        "isoDate": "2026-01-19T04:35:05.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 5,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "CD Projekt issue",
+        "slug": "cd-projekt-issue",
+        "description": "Article URL: https://www.patreon.com/posts/another-one-dust-148437771 Comments URL: https://news.ycombinator.com/item?id=46674505 Points: 41 # Comments: 16 <p>Article URL: <a href=\"https://www.patreon.com/posts/another-one-dust-148437771\">https://www.patreon.com/posts/another-one-dust-148437771</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46674505\">https://news.ycombinator.com/item?id=46674505</a></p> <p>Points: 41</p> <p># Comments: 16</p>",
+        "summary": "Article URL: https://www.patreon.com/posts/another-one-dust-148437771 Comments URL: https://news.ycombinator.com/item?id=46674505 Points: 41 # Comments: 16 <p>Article URL: <a href=\"https://www.patreon.com/posts/another-one-dust-148437771\">https://www.patreon.com/posts/another-one-dust-148437771</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46674505\">https://news.ycombinator.com/item?id=46674505</a></p> <p>Points: 41</p> <p># Comments: 16</p>",
+        "link": "https://www.patreon.com/posts/another-one-dust-148437771",
+        "source": "Hacker News",
+        "isoDate": "2026-01-19T02:42:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-01-18T06:01:18.593Z",
     "lastUpdated": "2026-01-18T06:01:18.593Z",
     "visibleDate": "Jan 18, 2026",

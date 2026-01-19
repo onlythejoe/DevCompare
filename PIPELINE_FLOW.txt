@@ -1,0 +1,33 @@
+DevCompare Pipeline Flow (RSS → HTML)
+
+[GitHub Actions cron/manual]
+        |
+        v
+npm install
+        |
+        v
+npm run pipeline (scripts/run-pipeline.js)
+        |
+        +--> 1) Fetch RSS feeds (scripts/fetch-rss.js)
+        |        - Read config/rss.json
+        |        - Normalize + dedupe entries
+        |        - Write data/raw/feeds.json + data/cache/rss-cache.json
+        |
+        +--> 2) Clean + summarize (scripts/clean-and-summarize.js)
+        |        - Clean text, tokenize, derive keywords
+        |        - Build tool profiles (pros/cons/pricing)
+        |        - Write data/processed/tools.json
+        |
+        +--> 3) Generate content (scripts/generate-content.js)
+        |        - Build dated page metadata
+        |        - Match categories, affiliate links
+        |        - Write data/generated/pages.json
+        |        - Write data/generated/markdown/*.md
+        |
+        +--> 4) Build static site (scripts/build-site.js)
+                 - Render markdown via templates
+                 - Write docs/index.html, docs/pages/*.html
+                 - Write docs/rss.xml, docs/sitemap.xml, docs/robots.txt
+
+Deployment flow (GitHub Pages):
+  docs/ directory is committed by workflow and served as GitHub Pages root.

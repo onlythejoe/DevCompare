@@ -49,6 +49,14 @@ const categoryIndex = CATEGORIES.reduce((map, category) => {
   return map;
 }, new Map());
 
+function normalizeTitle(title = '') {
+  return title
+    .replace(/\s+/g, ' ')
+    .replace(/\s+:\s+/g, ': ')
+    .replace(/\s+vs\s+/gi, ' vs. ')
+    .trim();
+}
+
 function pickAffiliate(toolName) {
   const normalized = toolName.toLowerCase();
   for (const [keyword, url] of Object.entries(AFFILIATE_MAP)) {
@@ -59,12 +67,188 @@ function pickAffiliate(toolName) {
   return null;
 }
 
+function splitSentences(text = '') {
+  return text
+    .split(/(?<=[.?!])\s+/)
+    .map((sentence) => sentence.trim())
+    .filter(Boolean);
+}
+
+function splitParagraphs(text = '', maxSentences = 2) {
+  const sentences = splitSentences(text);
+  const chunks = [];
+  for (let i = 0; i < sentences.length; i += maxSentences) {
+    chunks.push(sentences.slice(i, i + maxSentences).join(' '));
+  }
+  const trimmed = chunks.length ? chunks : [text];
+  return trimmed.map((chunk) => chunk.trim()).filter(Boolean);
+}
+
+function pickHighlights(text = '', keywords = [], count = 2) {
+  const keywordSet = new Set(keywords.map((word) => word.toLowerCase()));
+  const scored = splitSentences(text).map((sentence, index) => {
+    const words = sentence.toLowerCase().split(/\W+/).filter(Boolean);
+    const matches = words.filter((word) => keywordSet.has(word)).length;
+    const score = matches * 2 + Math.min(sentence.length / 80, 2) - index * 0.1;
+    return { sentence, score };
+  });
+  return scored
+    .sort((a, b) => b.score - a.score)
+    .slice(0, count)
+    .map((item) => item.sentence);
+}
+
+function buildTagList(tags = []) {
+  if (!tags.length) {
+    return '<p class="muted">Tags pending enrichment.</p>';
+  }
+  const pills = tags.map((tag) => `<span class="pill">${tag}</span>`).join('');
+  return `<div class="tag-list">${pills}</div>`;
+}
+
+function renderComparisonTable(tools = []) {
+  if (tools.length < 2) {
+    return '';
+  }
+  const rows = tools
+    .map((tool) => {
+      const useCases = tool.useCases && tool.useCases.length ? tool.useCases.join(', ') : 'General workflows';
+      return `
+        <tr>
+          <td><a href="${tool.link || '#'}">${tool.name}</a></td>
+          <td>${tool.pricing || 'Pricing varies'}</td>
+          <td>${useCases}</td>
+          <td>${tool.source || 'Vendor'}</td>
+        </tr>
+      `;
+    })
+    .join('');
+
+  return `
+<section class="section-block">
+  <h2>Tool comparison</h2>
+  <table class="comparison-table">
+    <thead>
+      <tr>
+        <th>Tool</th>
+        <th>Pricing</th>
+        <th>Primary use cases</th>
+        <th>Source</th>
+      </tr>
+    </thead>
+    <tbody>
+      ${rows}
+    </tbody>
+  </table>
+</section>
+  `;
+}
+
+function buildFactSheet(page, tools) {
+  const mentions = tools.reduce((sum, tool) => sum + (tool.mentions || 0), 0);
+  const sources = Array.from(new Set(tools.map((tool) => tool.source).filter(Boolean)));
+  const toolNames = tools.map((tool) => tool.name);
+  const topics = Array.from(
+    new Set(
+      tools
+        .flatMap((tool) => tool.keywords || [])
+        .map((keyword) => keyword.toLowerCase())
+    )
+  ).slice(0, 8);
+
+  return `
+<section class="section-block">
+  <h2>Fact sheet</h2>
+  <div class="fact-grid">
+    <div><strong>Snapshots</strong><span>${tools.length} tools</span></div>
+    <div><strong>Mentions</strong><span>${mentions || tools.length}</span></div>
+    <div><strong>Sources</strong><span>${sources.length || 'Multiple'}</span></div>
+    <div><strong>Topics</strong><span>${topics.join(', ') || 'General tooling'}</span></div>
+    <div><strong>Entities</strong><span>${toolNames.join(', ')}</span></div>
+    <div><strong>Coverage</strong><span>${page.focus}</span></div>
+  </div>
+</section>
+  `;
+}
+
+function buildEditorialSections(page, tools) {
+  const descriptions = tools.map((tool) => tool.description).filter(Boolean).join(' ');
+  const contextParagraphs = splitParagraphs([page.description, descriptions].join(' '), 2);
+  const featureSignals = Array.from(
+    new Set(
+      tools
+        .flatMap((tool) => tool.keywords || [])
+        .map((keyword) => keyword.replace(/-/g, ' '))
+    )
+  ).slice(0, 8);
+  const useCases = Array.from(
+    new Set(tools.flatMap((tool) => tool.useCases || []))
+  ).slice(0, 6);
+  const limits = Array.from(
+    new Set(tools.flatMap((tool) => tool.cons || []))
+  ).slice(0, 6);
+
+  const featureList = featureSignals.length
+    ? `<ul>${featureSignals.map((item) => `<li>${item}</li>`).join('')}</ul>`
+    : '<p class="muted">Feature signals will expand as more sources publish.</p>';
+  const useCaseList = useCases.length
+    ? `<ul>${useCases.map((item) => `<li>${item}</li>`).join('')}</ul>`
+    : '<p class="muted">Use-case details pending new releases.</p>';
+  const limitsList = limits.length
+    ? `<ul>${limits.map((item) => `<li>${item}</li>`).join('')}</ul>`
+    : '<p class="muted">Limits will expand as sources report constraints.</p>';
+
+  return `
+<section class="section-block">
+  <h2>Context</h2>
+  ${
+    contextParagraphs.length
+      ? contextParagraphs.map((paragraph) => `<p>${paragraph}</p>`).join('')
+      : '<p class="muted">Context will expand as new sources land.</p>'
+  }
+</section>
+<section class="section-block">
+  <h2>Features</h2>
+  ${featureList}
+</section>
+<section class="section-block">
+  <h2>Use cases</h2>
+  ${useCaseList}
+</section>
+<section class="section-block">
+  <h2>Limits</h2>
+  ${limitsList}
+</section>
+  `;
+}
+
+function buildHighlightsBlock(text, keywords) {
+  const highlights = pickHighlights(text, keywords, 3);
+  if (!highlights.length) {
+    return '';
+  }
+  const items = highlights.map((sentence) => `<li>${sentence}</li>`).join('');
+  return `
+<div class="callout">
+  <strong>Key sentences</strong>
+  <ul>${items}</ul>
+</div>
+  `;
+}
+
+function buildMetaDescription(page, tools) {
+  const toolNames = tools.slice(0, 3).map((tool) => tool.name).join(', ');
+  const base = `${page.description} Highlights include ${toolNames}. ${page.summary}`;
+  return base.replace(/\s+/g, ' ').trim().slice(0, 160);
+}
+
 function renderToolSection(tool) {
   const affiliate = pickAffiliate(tool.name);
   const toolTitle = affiliate
     ? `### [${tool.name}](${affiliate})`
     : `### ${tool.name}`;
   const description = tool.description || tool.summary || 'Tool description pending.';
+  const descriptionParagraphs = splitParagraphs(description, 2);
   const useCases = tool.useCases && tool.useCases.length
     ? ['- **Use cases**:', ...tool.useCases.map((useCase) => `  - ${useCase}`)].join('\n')
     : '- **Use cases**: general developer workflows';
@@ -75,15 +259,30 @@ function renderToolSection(tool) {
     ? ['- **Cons**:', ...tool.cons.map((con) => `  - ${con}`)].join('\n')
     : '- **Cons**: check implementation effort';
 
+  const highlights = buildHighlightsBlock(
+    [tool.summary, tool.description].filter(Boolean).join(' '),
+    tool.keywords || []
+  );
+  const keywordTags = buildTagList((tool.keywords || []).slice(0, 8));
+
   return [
+    '<section class="tool-section">',
     toolTitle,
-    description,
+    ...descriptionParagraphs,
+    highlights,
+    '<div class="tool-meta">',
     `- **Source**: [${tool.source || 'link provided'}](${tool.link || '#'})`,
     `- **Pricing**: ${tool.pricing || 'Pricing varies; vendor sites have details'}`,
     useCases,
     pros,
     cons,
     affiliate ? `- **Affiliate**: [Redeem offer](${affiliate})` : '',
+    '</div>',
+    '<div class="tag-block">',
+    '<strong>Keywords</strong>',
+    keywordTags,
+    '</div>',
+    '</section>',
     ''
   ].join('\n');
 }
@@ -124,6 +323,12 @@ function renderFAQ() {
 function buildJsonLd(page, tools, faqSchema) {
   const canonical = `${BASE_URL}/${page.url}`;
   const articleSection = page.categories.map((category) => category.name);
+  const keywords = Array.from(
+    new Set([
+      ...articleSection,
+      ...tools.flatMap((tool) => tool.keywords || [])
+    ])
+  );
 
   const article = {
     '@context': 'https://schema.org',
@@ -143,13 +348,33 @@ function buildJsonLd(page, tools, faqSchema) {
       name: tool.name,
       url: tool.link
     })),
-    articleSection
+    articleSection,
+    keywords: keywords.join(', ')
   };
 
   const faqPage = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
     mainEntity: faqSchema
+  };
+
+  const breadcrumb = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'DevCompare',
+        item: `${BASE_URL}/index.html`
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: page.title,
+        item: canonical
+      }
+    ]
   };
 
   const products = tools.slice(0, 4).map((tool) => ({
@@ -169,7 +394,7 @@ function buildJsonLd(page, tools, faqSchema) {
     }
   }));
 
-  return JSON.stringify([article, faqPage, ...products], null, 2);
+  return JSON.stringify([article, faqPage, breadcrumb, ...products], null, 2);
 }
 
 function buildMachineSummary(page, tools) {
@@ -191,15 +416,18 @@ function buildKeyFacts(page) {
     : 'General developer tools';
   const foughtTools = page.toolHighlights.length ? page.toolHighlights.join(', ') : 'Varied tools';
 
-  return [
-    '## Key Facts',
-    '',
-    `- **Categories**: ${categories}`,
-    `- **Spotlight tools**: ${foughtTools}`,
-    `- **Focus area**: ${page.focus}`,
-    `- **Summary**: ${page.summary}`,
-    `- **Chronology**: Published ${page.visibleDate}, archived with automated records`
-  ].join('\n');
+  return `
+<section class="section-block key-facts">
+  <h2>Key facts</h2>
+  <ul>
+    <li><strong>Categories</strong>: ${categories}</li>
+    <li><strong>Spotlight tools</strong>: ${foughtTools}</li>
+    <li><strong>Focus area</strong>: ${page.focus}</li>
+    <li><strong>Summary</strong>: ${page.summary}</li>
+    <li><strong>Chronology</strong>: Published ${page.visibleDate}, archived with automated records</li>
+  </ul>
+</section>
+  `;
 }
 
 function buildPageMarkdown(page, tools) {
@@ -209,14 +437,35 @@ function buildPageMarkdown(page, tools) {
 ${buildJsonLd(page, tools, faq.schema)}
 </script>
 `;
+  const keywordTags = buildTagList(
+    Array.from(
+      new Set([
+        ...page.categories.map((category) => category.name.toLowerCase()),
+        ...tools.flatMap((tool) => tool.keywords || [])
+      ])
+    ).slice(0, 12)
+  );
+  let introParagraphs = splitParagraphs(page.description, 2);
+  if (!introParagraphs.length) {
+    introParagraphs = [page.summary || 'Snapshot summary pending.'];
+  }
+  const shouldCompare = page.type === 'comparison' || /vs\./i.test(page.title);
   return [
     `# ${page.title}`,
     `> Published: ${page.visibleDate}`,
     `> Updated: ${page.visibleDate}`,
     buildMachineSummary(page, tools),
     '## Brief',
-    page.description,
+    ...introParagraphs,
+    buildHighlightsBlock(page.summary, tools.flatMap((tool) => tool.keywords || [])),
     buildKeyFacts(page),
+    buildFactSheet(page, tools),
+    '<section class="section-block">',
+    '<h2>Keywords & tags</h2>',
+    keywordTags,
+    '</section>',
+    buildEditorialSections(page, tools),
+    shouldCompare ? renderComparisonTable(tools) : '',
     ...tools.map((tool) => renderToolSection(tool)),
     `> Summary: ${page.summary}`,
     '## Summary Block',
@@ -357,9 +606,10 @@ async function generateContent(tools = []) {
     const markdownPath = path.join(MARKDOWN_DIR, markdownFilename);
     const categories = matchCategoriesForPage(enrichedTools);
     const toolHighlights = enrichedTools.slice(0, 3).map((tool) => tool.name);
+    const normalizedTitle = normalizeTitle(page.title);
     const pageMetadata = {
       slug: page.slug,
-      title: page.title,
+      title: normalizedTitle,
       type: page.type,
       focus: page.focus,
       description: page.description,
@@ -372,7 +622,7 @@ async function generateContent(tools = []) {
       markdownPath: path.relative(path.join(__dirname, '..'), markdownPath).replace(/\\/g, '/'),
       categories,
       toolHighlights,
-      metaDescription: page.description,
+      metaDescription: buildMetaDescription(page, enrichedTools),
       tools: enrichedTools
     };
 

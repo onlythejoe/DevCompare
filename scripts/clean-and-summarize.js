@@ -2,7 +2,9 @@ const fs = require('fs');
 const path = require('path');
 
 const STOP_WORDS = new Set([
-  'the','and','that','this','with','from','are','for','not','but','have','has','will','its','which','into','using','more','can','about','when','while','also'
+  'the','and','that','this','with','from','are','for','not','but','have','has','will','its','which','into','using','more','can','about','when','while','also',
+  'your','you','their','our','they','them','these','those','was','were','been','being','over','per','via','across','from','here','there','than','then','such',
+  'what','why','how','who','where','each','many','most','some','any','all','both','into','onto','between','within','without','before','after','under','again'
 ]);
 
 const PRO_CON_TEMPLATES = {
@@ -24,7 +26,7 @@ function tokenize(text) {
     .toLowerCase()
     .replace(/[^a-z0-9]/g, ' ')
     .split(/\s+/)
-    .filter((word) => word && !STOP_WORDS.has(word));
+    .filter((word) => word && word.length > 2 && !STOP_WORDS.has(word));
 }
 
 function topTokens(text, limit = 4) {
@@ -42,11 +44,31 @@ function pickSentences(text, count = 2) {
   const sentences = text
     .split(/(?<=[.?\n])\s+/)
     .map((sentence) => sentence.trim())
-    .filter((sentence) => sentence.length > 30);
+    .filter((sentence) => sentence.length > 30 && sentence.length < 220);
 
   const scored = sentences.map((sentence) => {
     const words = tokenize(sentence);
-    const score = words.reduce((sum, word) => sum + 1, 0);
+    const unique = new Set(words);
+    const score = unique.size + Math.min(sentence.length / 80, 2);
+    return { sentence, score };
+  });
+
+  return scored
+    .sort((a, b) => b.score - a.score)
+    .slice(0, count)
+    .map((item) => item.sentence);
+}
+
+function pickHighlights(text, count = 3) {
+  const sentences = text
+    .split(/(?<=[.?\n])\s+/)
+    .map((sentence) => sentence.trim())
+    .filter((sentence) => sentence.length > 40 && sentence.length < 200);
+
+  const scored = sentences.map((sentence, index) => {
+    const words = tokenize(sentence);
+    const unique = new Set(words);
+    const score = unique.size + Math.max(0, 2 - index * 0.1);
     return { sentence, score };
   });
 
@@ -99,6 +121,8 @@ function buildToolProfile(entry) {
   const useCases = keywords.slice(0, 3).map((token) => token.replace(/-/g, ' '));
   const pros = createProCon(useCases, 'pros');
   const cons = createProCon(useCases, 'cons');
+  const corpus = [entry.description, entry.content].join(' ');
+  const highlights = pickHighlights(corpus);
 
   return {
     name,
@@ -112,6 +136,7 @@ function buildToolProfile(entry) {
     useCases,
     pros,
     cons,
+    highlights,
     pricing: detectPricing(entry.description)
   };
 }

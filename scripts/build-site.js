@@ -152,6 +152,55 @@ function renderArchiveSection(year, entries) {
   `;
 }
 
+function scoreRelated(entry, candidate) {
+  if (!candidate || entry.url === candidate.url) {
+    return 0;
+  }
+  const entryCategories = new Set(entry.categories.map((category) => category.slug));
+  const candidateCategories = new Set(candidate.categories.map((category) => category.slug));
+  const sharedCategories = [...entryCategories].filter((slug) => candidateCategories.has(slug));
+  const sharedHighlights = entry.toolHighlights.filter((tool) =>
+    candidate.toolHighlights.includes(tool)
+  );
+  let score = 0;
+  score += sharedCategories.length * 2;
+  score += sharedHighlights.length;
+  score += entry.type === candidate.type ? 1 : 0;
+  return score;
+}
+
+function renderRelatedLinks(entry, allPages) {
+  const candidates = allPages
+    .map((candidate) => ({
+      candidate,
+      score: scoreRelated(entry, candidate)
+    }))
+    .filter((item) => item.score > 0)
+    .sort((a, b) => {
+      if (b.score !== a.score) {
+        return b.score - a.score;
+      }
+      return new Date(b.candidate.publishedDate) - new Date(a.candidate.publishedDate);
+    })
+    .slice(0, 3)
+    .map((item) => item.candidate);
+
+  if (!candidates.length) {
+    return '';
+  }
+
+  const links = candidates
+    .map((candidate) => `<li><a href="../${candidate.url}">${candidate.title}</a></li>`)
+    .join('');
+
+  return `
+    <section class="related-links">
+      <h2>Related snapshots</h2>
+      <ul>${links}</ul>
+    </section>
+  `;
+}
+
 async function buildArticles(allPages, templates, navArticles, md) {
   for (const entry of allPages) {
     const entryPath = path.join(OUTPUT_DIR, entry.url);
@@ -164,12 +213,13 @@ async function buildArticles(allPages, templates, navArticles, md) {
     }
     const markdown = fs.readFileSync(markdownPath, 'utf8');
     const contentHtml = md.render(markdown);
+    const relatedHtml = renderRelatedLinks(entry, allPages);
     const articleHtml = applyTemplate(templates.pageTemplate, {
       title: entry.title,
       description: entry.metaDescription || entry.summary || 'DevCompare snapshot',
       url: `${BASE_URL}/${entry.url}`,
       nav: navArticles,
-      content: contentHtml,
+      content: `${contentHtml}${relatedHtml}`,
       ogTitle: `${entry.title} · DevCompare`,
       ogDescription: entry.metaDescription || entry.summary || entry.description,
       ogUrl: `${BASE_URL}/${entry.url}`,

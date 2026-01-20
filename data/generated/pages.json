@@ -7,6 +7,635 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-01-20T06:17:39.491Z",
+    "lastUpdated": "2026-01-20T06:17:39.491Z",
+    "visibleDate": "Jan 20, 2026",
+    "url": "pages/2026-01-20-061739491-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-01-20-061739491-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Don’t let your",
+      "X For You",
+      "Chatbot Psychosis"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Don’t let your, X For You, Chatbot Psychosis. Productivity stacks that kee",
+    "tools": [
+      {
+        "name": "Don’t let your",
+        "slug": "don-t-let-your",
+        "description": "Ryan welcomes Prakash Chandran, CEO and co-founder of Xano, to the show to discuss the intricate relationship between frontend and backend development, the potential challenges that universal frontend interfaces pose for developers, and the importance of understanding both your frontend and your backend when using AI code.",
+        "summary": "Ryan welcomes Prakash Chandran, CEO and co-founder of Xano, to the show to discuss the intricate relationship between frontend and backend development, the potential challenges that universal frontend interfaces pose for developers, and the importance of understanding both your frontend and your backend when using AI code.",
+        "link": "https://stackoverflow.blog/2026/01/20/don-t-let-your-backend-write-checks-your-frontend-can-t-cache/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-01-20T08:40:00.000Z",
+        "keywords": [
+          "se-tech",
+          "se-stackoverflow",
+          "podcast",
+          "frontend",
+          "no-code",
+          "user-experience"
+        ],
+        "useCases": [
+          "se tech",
+          "se stackoverflow",
+          "podcast"
+        ],
+        "pros": [
+          "Great for se tech",
+          "se stackoverflow-ready automation",
+          "Great for se tech"
+        ],
+        "cons": [
+          "Overkill for se tech experiments",
+          "Needs extra setup for se stackoverflow workflows",
+          "Overkill for se tech experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "X For You",
+        "slug": "x-for-you",
+        "description": "https://x.com/XEng/status/2013471689087086804 Comments URL: https://news.ycombinator.com/item?id=46688173 Points: 60 # Comments: 29",
+        "summary": "https://x.com/XEng/status/2013471689087086804 Comments URL: https://news.ycombinator.com/item?id=46688173 Points: 60 # Comments: 29",
+        "link": "https://github.com/xai-org/x-algorithm",
+        "source": "Hacker News",
+        "isoDate": "2026-01-20T05:16:14.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "https"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Chatbot Psychosis",
+        "slug": "chatbot-psychosis",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Chatbot_psychosis Comments URL: https://news.ycombinator.com/item?id=46688122 Points: 20 # Comments: 1",
+        "summary": "Article URL: https://en.wikipedia.org/wiki/Chatbot_psychosis Comments URL: https://news.ycombinator.com/item?id=46688122 Points: 20 # Comments: 1",
+        "link": "https://en.wikipedia.org/wiki/Chatbot_psychosis",
+        "source": "Hacker News",
+        "isoDate": "2026-01-20T05:08:57.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "x86 prefixes and",
+        "slug": "x86-prefixes-and",
+        "description": "Article URL: https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html Comments URL: https://news.ycombinator.com/item?id=46687705 Points: 8 # Comments: 1",
+        "summary": "Article URL: https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html Comments URL: https://news.ycombinator.com/item?id=46687705 Points: 8 # Comments: 1",
+        "link": "https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html",
+        "source": "Hacker News",
+        "isoDate": "2026-01-20T03:47:21.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "F-16 Falcon Strike",
+        "slug": "f-16-falcon-strike",
+        "description": "Article URL: https://webchrono.pl/F16FalconStrike/index.html Comments URL: https://news.ycombinator.com/item?id=46687588 Points: 68 # Comments: 5",
+        "summary": "Article URL: https://webchrono.pl/F16FalconStrike/index.html Comments URL: https://news.ycombinator.com/item?id=46687588 Points: 68 # Comments: 5",
+        "link": "https://webchrono.pl/F16FalconStrike/index.html",
+        "source": "Hacker News",
+        "isoDate": "2026-01-20T03:26:25.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-01-20T06:17:39.491Z",
+    "lastUpdated": "2026-01-20T06:17:39.491Z",
+    "visibleDate": "Jan 20, 2026",
+    "url": "pages/2026-01-20-061739491-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-01-20-061739491-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Don’t let your",
+      "X For You",
+      "Chatbot Psychosis"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Don’t let your, X For You, Chatbot Psychosis. Reliable remote debu",
+    "tools": [
+      {
+        "name": "Don’t let your",
+        "slug": "don-t-let-your",
+        "description": "Ryan welcomes Prakash Chandran, CEO and co-founder of Xano, to the show to discuss the intricate relationship between frontend and backend development, the potential challenges that universal frontend interfaces pose for developers, and the importance of understanding both your frontend and your backend when using AI code.",
+        "summary": "Ryan welcomes Prakash Chandran, CEO and co-founder of Xano, to the show to discuss the intricate relationship between frontend and backend development, the potential challenges that universal frontend interfaces pose for developers, and the importance of understanding both your frontend and your backend when using AI code.",
+        "link": "https://stackoverflow.blog/2026/01/20/don-t-let-your-backend-write-checks-your-frontend-can-t-cache/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-01-20T08:40:00.000Z",
+        "keywords": [
+          "se-tech",
+          "se-stackoverflow",
+          "podcast",
+          "frontend",
+          "no-code",
+          "user-experience"
+        ],
+        "useCases": [
+          "se tech",
+          "se stackoverflow",
+          "podcast"
+        ],
+        "pros": [
+          "Great for se tech",
+          "se stackoverflow-ready automation",
+          "Great for se tech"
+        ],
+        "cons": [
+          "Overkill for se tech experiments",
+          "Needs extra setup for se stackoverflow workflows",
+          "Overkill for se tech experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "X For You",
+        "slug": "x-for-you",
+        "description": "https://x.com/XEng/status/2013471689087086804 Comments URL: https://news.ycombinator.com/item?id=46688173 Points: 60 # Comments: 29",
+        "summary": "https://x.com/XEng/status/2013471689087086804 Comments URL: https://news.ycombinator.com/item?id=46688173 Points: 60 # Comments: 29",
+        "link": "https://github.com/xai-org/x-algorithm",
+        "source": "Hacker News",
+        "isoDate": "2026-01-20T05:16:14.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "https"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Chatbot Psychosis",
+        "slug": "chatbot-psychosis",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Chatbot_psychosis Comments URL: https://news.ycombinator.com/item?id=46688122 Points: 20 # Comments: 1",
+        "summary": "Article URL: https://en.wikipedia.org/wiki/Chatbot_psychosis Comments URL: https://news.ycombinator.com/item?id=46688122 Points: 20 # Comments: 1",
+        "link": "https://en.wikipedia.org/wiki/Chatbot_psychosis",
+        "source": "Hacker News",
+        "isoDate": "2026-01-20T05:08:57.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "x86 prefixes and",
+        "slug": "x86-prefixes-and",
+        "description": "Article URL: https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html Comments URL: https://news.ycombinator.com/item?id=46687705 Points: 8 # Comments: 1",
+        "summary": "Article URL: https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html Comments URL: https://news.ycombinator.com/item?id=46687705 Points: 8 # Comments: 1",
+        "link": "https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html",
+        "source": "Hacker News",
+        "isoDate": "2026-01-20T03:47:21.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-01-20T06:17:39.491Z",
+    "lastUpdated": "2026-01-20T06:17:39.491Z",
+    "visibleDate": "Jan 20, 2026",
+    "url": "pages/2026-01-20-061739491-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-01-20-061739491-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Don’t let your",
+      "X For You"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Don’t let your, X For You. Gitpod brings zero-con",
+    "tools": [
+      {
+        "name": "Don’t let your",
+        "slug": "don-t-let-your",
+        "description": "Ryan welcomes Prakash Chandran, CEO and co-founder of Xano, to the show to discuss the intricate relationship between frontend and backend development, the potential challenges that universal frontend interfaces pose for developers, and the importance of understanding both your frontend and your backend when using AI code.",
+        "summary": "Ryan welcomes Prakash Chandran, CEO and co-founder of Xano, to the show to discuss the intricate relationship between frontend and backend development, the potential challenges that universal frontend interfaces pose for developers, and the importance of understanding both your frontend and your backend when using AI code.",
+        "link": "https://stackoverflow.blog/2026/01/20/don-t-let-your-backend-write-checks-your-frontend-can-t-cache/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-01-20T08:40:00.000Z",
+        "keywords": [
+          "se-tech",
+          "se-stackoverflow",
+          "podcast",
+          "frontend",
+          "no-code",
+          "user-experience"
+        ],
+        "useCases": [
+          "se tech",
+          "se stackoverflow",
+          "podcast"
+        ],
+        "pros": [
+          "Great for se tech",
+          "se stackoverflow-ready automation",
+          "Great for se tech"
+        ],
+        "cons": [
+          "Overkill for se tech experiments",
+          "Needs extra setup for se stackoverflow workflows",
+          "Overkill for se tech experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "X For You",
+        "slug": "x-for-you",
+        "description": "https://x.com/XEng/status/2013471689087086804 Comments URL: https://news.ycombinator.com/item?id=46688173 Points: 60 # Comments: 29",
+        "summary": "https://x.com/XEng/status/2013471689087086804 Comments URL: https://news.ycombinator.com/item?id=46688173 Points: 60 # Comments: 29",
+        "link": "https://github.com/xai-org/x-algorithm",
+        "source": "Hacker News",
+        "isoDate": "2026-01-20T05:16:14.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "https"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-01-20T06:17:39.491Z",
+    "lastUpdated": "2026-01-20T06:17:39.491Z",
+    "visibleDate": "Jan 20, 2026",
+    "url": "pages/2026-01-20-061739491-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-01-20-061739491-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Don’t let your",
+      "X For You",
+      "Chatbot Psychosis"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Don’t let your, X For You, Chatbot Psychosis. New launches that are ship",
+    "tools": [
+      {
+        "name": "Don’t let your",
+        "slug": "don-t-let-your",
+        "description": "Ryan welcomes Prakash Chandran, CEO and co-founder of Xano, to the show to discuss the intricate relationship between frontend and backend development, the potential challenges that universal frontend interfaces pose for developers, and the importance of understanding both your frontend and your backend when using AI code.",
+        "summary": "Ryan welcomes Prakash Chandran, CEO and co-founder of Xano, to the show to discuss the intricate relationship between frontend and backend development, the potential challenges that universal frontend interfaces pose for developers, and the importance of understanding both your frontend and your backend when using AI code.",
+        "link": "https://stackoverflow.blog/2026/01/20/don-t-let-your-backend-write-checks-your-frontend-can-t-cache/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-01-20T08:40:00.000Z",
+        "keywords": [
+          "se-tech",
+          "se-stackoverflow",
+          "podcast",
+          "frontend",
+          "no-code",
+          "user-experience"
+        ],
+        "useCases": [
+          "se tech",
+          "se stackoverflow",
+          "podcast"
+        ],
+        "pros": [
+          "Great for se tech",
+          "se stackoverflow-ready automation",
+          "Great for se tech"
+        ],
+        "cons": [
+          "Overkill for se tech experiments",
+          "Needs extra setup for se stackoverflow workflows",
+          "Overkill for se tech experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "X For You",
+        "slug": "x-for-you",
+        "description": "https://x.com/XEng/status/2013471689087086804 Comments URL: https://news.ycombinator.com/item?id=46688173 Points: 60 # Comments: 29",
+        "summary": "https://x.com/XEng/status/2013471689087086804 Comments URL: https://news.ycombinator.com/item?id=46688173 Points: 60 # Comments: 29",
+        "link": "https://github.com/xai-org/x-algorithm",
+        "source": "Hacker News",
+        "isoDate": "2026-01-20T05:16:14.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "https"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Chatbot Psychosis",
+        "slug": "chatbot-psychosis",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Chatbot_psychosis Comments URL: https://news.ycombinator.com/item?id=46688122 Points: 20 # Comments: 1",
+        "summary": "Article URL: https://en.wikipedia.org/wiki/Chatbot_psychosis Comments URL: https://news.ycombinator.com/item?id=46688122 Points: 20 # Comments: 1",
+        "link": "https://en.wikipedia.org/wiki/Chatbot_psychosis",
+        "source": "Hacker News",
+        "isoDate": "2026-01-20T05:08:57.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-01-19T06:20:18.565Z",
     "lastUpdated": "2026-01-19T06:20:18.565Z",
     "visibleDate": "Jan 19, 2026",

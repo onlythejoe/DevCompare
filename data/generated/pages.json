@@ -7,6 +7,643 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-01-21T06:18:24.612Z",
+    "lastUpdated": "2026-01-21T06:18:24.612Z",
+    "visibleDate": "Jan 21, 2026",
+    "url": "pages/2026-01-21-061824612-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-01-21-061824612-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Libbbf",
+      "Disaster planning for",
+      "Anthropic's original take"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Libbbf, Disaster planning for, Anthropic's original take. Productivity sta",
+    "tools": [
+      {
+        "name": "Libbbf",
+        "slug": "libbbf",
+        "description": "Article URL: https://github.com/ef1500/libbbf Comments URL: https://news.ycombinator.com/item?id=46701114 Points: 16 # Comments: 1",
+        "summary": "Article URL: https://github.com/ef1500/libbbf Comments URL: https://news.ycombinator.com/item?id=46701114 Points: 16 # Comments: 1",
+        "link": "https://github.com/ef1500/libbbf",
+        "source": "Hacker News",
+        "isoDate": "2026-01-21T04:27:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Disaster planning for",
+        "slug": "disaster-planning-for",
+        "description": "Article URL: https://lcamtuf.coredump.cx/prep/index-old.shtml Comments URL: https://news.ycombinator.com/item?id=46700809 Points: 75 # Comments: 43",
+        "summary": "Article URL: https://lcamtuf.coredump.cx/prep/index-old.shtml Comments URL: https://news.ycombinator.com/item?id=46700809 Points: 75 # Comments: 43",
+        "link": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
+        "source": "Hacker News",
+        "isoDate": "2026-01-21T03:38:57.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Anthropic's original take",
+        "slug": "anthropic-s-original-take",
+        "description": "Article URL: https://github.com/anthropics/original_performance_takehome Comments URL: https://news.ycombinator.com/item?id=46700594 Points: 127 # Comments: 37",
+        "summary": "Article URL: https://github.com/anthropics/original_performance_takehome Comments URL: https://news.ycombinator.com/item?id=46700594 Points: 127 # Comments: 37",
+        "link": "https://github.com/anthropics/original_performance_takehome",
+        "source": "Hacker News",
+        "isoDate": "2026-01-21T02:54:32.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI Avatar",
+        "slug": "how-ai-avatar",
+        "description": "(Note: In a programmatic ideal world, I'd love to see an API where I can POST a script and get an MP4 URL back—something I'm keeping an eye out for in the roadmap of tools). While we aren't at the point where AI completely replaces human nuance, AI Avatar Video Generator has become a viable tool in the developer's utility belt—especially for bootstrapping documentation media.",
+        "summary": "(Note: In a programmatic ideal world, I'd love to see an API where I can POST a script and get an MP4 URL back—something I'm keeping an eye out for in the roadmap of tools). While we aren't at the point where AI completely replaces human nuance, AI Avatar Video Generator has become a viable tool in the developer's utility belt—especially for bootstrapping documentation media.",
+        "link": "https://dev.to/lee_stuart_2b43a7d7d520ce/how-ai-avatar-video-generators-can-transform-your-brands-marketing-strategy-2bdc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-21T02:35:17.000Z",
+        "keywords": [
+          "webdev",
+          "productivity",
+          "ai",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "productivity",
+          "ai"
+        ],
+        "pros": [
+          "Great for webdev",
+          "productivity-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "(Note: In a programmatic ideal world, I'd love to see an API where I can POST a script and get an MP4 URL back—something I'm keeping an eye out for in the roadmap of tools).",
+          "i18n (Internationalization): You can generate the same tutorial video in English, Spanish, and Mandarin by simply swapping the JSON payload or script, without re-recording.",
+          "If you are looking to automate your video content or add a \"human-like\" touch to your automated responses, it's worth experimenting with AI tools to see if they fit your CI/CD pipeline for content."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Who owns Rudolph's",
+        "slug": "who-owns-rudolph-s",
+        "description": "Article URL: https://creativelawcenter.com/copyright-rudolph-reindeer/ Comments URL: https://news.ycombinator.com/item?id=46699597 Points: 27 # Comments: 14",
+        "summary": "Article URL: https://creativelawcenter.com/copyright-rudolph-reindeer/ Comments URL: https://news.ycombinator.com/item?id=46699597 Points: 27 # Comments: 14",
+        "link": "https://creativelawcenter.com/copyright-rudolph-reindeer/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-21T00:21:13.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-01-21T06:18:24.612Z",
+    "lastUpdated": "2026-01-21T06:18:24.612Z",
+    "visibleDate": "Jan 21, 2026",
+    "url": "pages/2026-01-21-061824612-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-01-21-061824612-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Libbbf",
+      "Disaster planning for",
+      "Anthropic's original take"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Libbbf, Disaster planning for, Anthropic's original take. Reliable",
+    "tools": [
+      {
+        "name": "Libbbf",
+        "slug": "libbbf",
+        "description": "Article URL: https://github.com/ef1500/libbbf Comments URL: https://news.ycombinator.com/item?id=46701114 Points: 16 # Comments: 1",
+        "summary": "Article URL: https://github.com/ef1500/libbbf Comments URL: https://news.ycombinator.com/item?id=46701114 Points: 16 # Comments: 1",
+        "link": "https://github.com/ef1500/libbbf",
+        "source": "Hacker News",
+        "isoDate": "2026-01-21T04:27:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Disaster planning for",
+        "slug": "disaster-planning-for",
+        "description": "Article URL: https://lcamtuf.coredump.cx/prep/index-old.shtml Comments URL: https://news.ycombinator.com/item?id=46700809 Points: 75 # Comments: 43",
+        "summary": "Article URL: https://lcamtuf.coredump.cx/prep/index-old.shtml Comments URL: https://news.ycombinator.com/item?id=46700809 Points: 75 # Comments: 43",
+        "link": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
+        "source": "Hacker News",
+        "isoDate": "2026-01-21T03:38:57.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Anthropic's original take",
+        "slug": "anthropic-s-original-take",
+        "description": "Article URL: https://github.com/anthropics/original_performance_takehome Comments URL: https://news.ycombinator.com/item?id=46700594 Points: 127 # Comments: 37",
+        "summary": "Article URL: https://github.com/anthropics/original_performance_takehome Comments URL: https://news.ycombinator.com/item?id=46700594 Points: 127 # Comments: 37",
+        "link": "https://github.com/anthropics/original_performance_takehome",
+        "source": "Hacker News",
+        "isoDate": "2026-01-21T02:54:32.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI Avatar",
+        "slug": "how-ai-avatar",
+        "description": "(Note: In a programmatic ideal world, I'd love to see an API where I can POST a script and get an MP4 URL back—something I'm keeping an eye out for in the roadmap of tools). While we aren't at the point where AI completely replaces human nuance, AI Avatar Video Generator has become a viable tool in the developer's utility belt—especially for bootstrapping documentation media.",
+        "summary": "(Note: In a programmatic ideal world, I'd love to see an API where I can POST a script and get an MP4 URL back—something I'm keeping an eye out for in the roadmap of tools). While we aren't at the point where AI completely replaces human nuance, AI Avatar Video Generator has become a viable tool in the developer's utility belt—especially for bootstrapping documentation media.",
+        "link": "https://dev.to/lee_stuart_2b43a7d7d520ce/how-ai-avatar-video-generators-can-transform-your-brands-marketing-strategy-2bdc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-21T02:35:17.000Z",
+        "keywords": [
+          "webdev",
+          "productivity",
+          "ai",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "productivity",
+          "ai"
+        ],
+        "pros": [
+          "Great for webdev",
+          "productivity-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "(Note: In a programmatic ideal world, I'd love to see an API where I can POST a script and get an MP4 URL back—something I'm keeping an eye out for in the roadmap of tools).",
+          "i18n (Internationalization): You can generate the same tutorial video in English, Spanish, and Mandarin by simply swapping the JSON payload or script, without re-recording.",
+          "If you are looking to automate your video content or add a \"human-like\" touch to your automated responses, it's worth experimenting with AI tools to see if they fit your CI/CD pipeline for content."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-01-21T06:18:24.612Z",
+    "lastUpdated": "2026-01-21T06:18:24.612Z",
+    "visibleDate": "Jan 21, 2026",
+    "url": "pages/2026-01-21-061824612-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-01-21-061824612-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Libbbf",
+      "Disaster planning for"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Libbbf, Disaster planning for. Gitpod brings zero",
+    "tools": [
+      {
+        "name": "Libbbf",
+        "slug": "libbbf",
+        "description": "Article URL: https://github.com/ef1500/libbbf Comments URL: https://news.ycombinator.com/item?id=46701114 Points: 16 # Comments: 1",
+        "summary": "Article URL: https://github.com/ef1500/libbbf Comments URL: https://news.ycombinator.com/item?id=46701114 Points: 16 # Comments: 1",
+        "link": "https://github.com/ef1500/libbbf",
+        "source": "Hacker News",
+        "isoDate": "2026-01-21T04:27:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Disaster planning for",
+        "slug": "disaster-planning-for",
+        "description": "Article URL: https://lcamtuf.coredump.cx/prep/index-old.shtml Comments URL: https://news.ycombinator.com/item?id=46700809 Points: 75 # Comments: 43",
+        "summary": "Article URL: https://lcamtuf.coredump.cx/prep/index-old.shtml Comments URL: https://news.ycombinator.com/item?id=46700809 Points: 75 # Comments: 43",
+        "link": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
+        "source": "Hacker News",
+        "isoDate": "2026-01-21T03:38:57.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-01-21T06:18:24.612Z",
+    "lastUpdated": "2026-01-21T06:18:24.612Z",
+    "visibleDate": "Jan 21, 2026",
+    "url": "pages/2026-01-21-061824612-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-01-21-061824612-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Libbbf",
+      "Disaster planning for",
+      "Anthropic's original take"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Libbbf, Disaster planning for, Anthropic's original take. New launches t",
+    "tools": [
+      {
+        "name": "Libbbf",
+        "slug": "libbbf",
+        "description": "Article URL: https://github.com/ef1500/libbbf Comments URL: https://news.ycombinator.com/item?id=46701114 Points: 16 # Comments: 1",
+        "summary": "Article URL: https://github.com/ef1500/libbbf Comments URL: https://news.ycombinator.com/item?id=46701114 Points: 16 # Comments: 1",
+        "link": "https://github.com/ef1500/libbbf",
+        "source": "Hacker News",
+        "isoDate": "2026-01-21T04:27:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Disaster planning for",
+        "slug": "disaster-planning-for",
+        "description": "Article URL: https://lcamtuf.coredump.cx/prep/index-old.shtml Comments URL: https://news.ycombinator.com/item?id=46700809 Points: 75 # Comments: 43",
+        "summary": "Article URL: https://lcamtuf.coredump.cx/prep/index-old.shtml Comments URL: https://news.ycombinator.com/item?id=46700809 Points: 75 # Comments: 43",
+        "link": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
+        "source": "Hacker News",
+        "isoDate": "2026-01-21T03:38:57.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Anthropic's original take",
+        "slug": "anthropic-s-original-take",
+        "description": "Article URL: https://github.com/anthropics/original_performance_takehome Comments URL: https://news.ycombinator.com/item?id=46700594 Points: 127 # Comments: 37",
+        "summary": "Article URL: https://github.com/anthropics/original_performance_takehome Comments URL: https://news.ycombinator.com/item?id=46700594 Points: 127 # Comments: 37",
+        "link": "https://github.com/anthropics/original_performance_takehome",
+        "source": "Hacker News",
+        "isoDate": "2026-01-21T02:54:32.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-01-20T06:17:39.491Z",
     "lastUpdated": "2026-01-20T06:17:39.491Z",
     "visibleDate": "Jan 20, 2026",

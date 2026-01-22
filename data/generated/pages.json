@@ -7,6 +7,651 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-01-22T06:16:23.168Z",
+    "lastUpdated": "2026-01-22T06:16:23.168Z",
+    "visibleDate": "Jan 22, 2026",
+    "url": "pages/2026-01-22-061623168-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-01-22-061623168-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Doctors in Brazil",
+      "Show HN",
+      "Threat actors expand"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Doctors in Brazil, Show HN, Threat actors expand. Productivity stacks that",
+    "tools": [
+      {
+        "name": "Doctors in Brazil",
+        "slug": "doctors-in-brazil",
+        "description": "Article URL: https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims Comments URL: https://news.ycombinator.com/item?id=46715600 Points: 17 # Comments: 1",
+        "summary": "Article URL: https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims Comments URL: https://news.ycombinator.com/item?id=46715600 Points: 17 # Comments: 1",
+        "link": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
+        "source": "Hacker News",
+        "isoDate": "2026-01-22T05:15:46.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "The JIT + tensor model ends up being a really nice way to express light transport all in simple python, so I reimplemented some new research papers from SIGGRAPH like REstir PG and SZ and it just works. Comments URL: https://news.ycombinator.com/item?id=46714916 Points: 13 # Comments: 4 <p>I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+        "summary": "The JIT + tensor model ends up being a really nice way to express light transport all in simple python, so I reimplemented some new research papers from SIGGRAPH like REstir PG and SZ and it just works. Comments URL: https://news.ycombinator.com/item?id=46714916 Points: 13 # Comments: 4 <p>I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+        "link": "https://github.com/quantbagel/gtinygrad",
+        "source": "Hacker News",
+        "isoDate": "2026-01-22T03:26:38.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "could"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "Comments URL: https://news.ycombinator.com/item?id=46714916 Points: 13 # Comments: 4 <p>I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+          "I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+          "So I’ve been hacking on a gtinygrad, and honestly it convinced me it could be used for legit research."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 6,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Threat actors expand",
+        "slug": "threat-actors-expand",
+        "description": "Article URL: https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/ Comments URL: https://news.ycombinator.com/item?id=46713526 Points: 115 # Comments: 63",
+        "summary": "Article URL: https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/ Comments URL: https://news.ycombinator.com/item?id=46713526 Points: 115 # Comments: 63",
+        "link": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-22T00:12:00.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "From stealth blackout to whitelisting",
+        "slug": "from-stealth-blackout-to-whitelisting",
+        "description": "Article URL: https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/ Comments URL: https://news.ycombinator.com/item?id=46713444 Points: 47 # Comments: 5",
+        "summary": "Article URL: https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/ Comments URL: https://news.ycombinator.com/item?id=46713444 Points: 47 # Comments: 5",
+        "link": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-22T00:00:36.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Lix – universal",
+        "slug": "lix-universal",
+        "description": "Article URL: https://lix.dev/blog/introducing-lix/ Comments URL: https://news.ycombinator.com/item?id=46713387 Points: 27 # Comments: 9",
+        "summary": "Article URL: https://lix.dev/blog/introducing-lix/ Comments URL: https://news.ycombinator.com/item?id=46713387 Points: 27 # Comments: 9",
+        "link": "https://lix.dev/blog/introducing-lix/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-21T23:55:06.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-01-22T06:16:23.168Z",
+    "lastUpdated": "2026-01-22T06:16:23.168Z",
+    "visibleDate": "Jan 22, 2026",
+    "url": "pages/2026-01-22-061623168-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-01-22-061623168-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Doctors in Brazil",
+      "Show HN",
+      "Threat actors expand"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Doctors in Brazil, Show HN, Threat actors expand. Reliable remote ",
+    "tools": [
+      {
+        "name": "Doctors in Brazil",
+        "slug": "doctors-in-brazil",
+        "description": "Article URL: https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims Comments URL: https://news.ycombinator.com/item?id=46715600 Points: 17 # Comments: 1",
+        "summary": "Article URL: https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims Comments URL: https://news.ycombinator.com/item?id=46715600 Points: 17 # Comments: 1",
+        "link": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
+        "source": "Hacker News",
+        "isoDate": "2026-01-22T05:15:46.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "The JIT + tensor model ends up being a really nice way to express light transport all in simple python, so I reimplemented some new research papers from SIGGRAPH like REstir PG and SZ and it just works. Comments URL: https://news.ycombinator.com/item?id=46714916 Points: 13 # Comments: 4 <p>I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+        "summary": "The JIT + tensor model ends up being a really nice way to express light transport all in simple python, so I reimplemented some new research papers from SIGGRAPH like REstir PG and SZ and it just works. Comments URL: https://news.ycombinator.com/item?id=46714916 Points: 13 # Comments: 4 <p>I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+        "link": "https://github.com/quantbagel/gtinygrad",
+        "source": "Hacker News",
+        "isoDate": "2026-01-22T03:26:38.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "could"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "Comments URL: https://news.ycombinator.com/item?id=46714916 Points: 13 # Comments: 4 <p>I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+          "I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+          "So I’ve been hacking on a gtinygrad, and honestly it convinced me it could be used for legit research."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 6,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Threat actors expand",
+        "slug": "threat-actors-expand",
+        "description": "Article URL: https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/ Comments URL: https://news.ycombinator.com/item?id=46713526 Points: 115 # Comments: 63",
+        "summary": "Article URL: https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/ Comments URL: https://news.ycombinator.com/item?id=46713526 Points: 115 # Comments: 63",
+        "link": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-22T00:12:00.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "From stealth blackout to whitelisting",
+        "slug": "from-stealth-blackout-to-whitelisting",
+        "description": "Article URL: https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/ Comments URL: https://news.ycombinator.com/item?id=46713444 Points: 47 # Comments: 5",
+        "summary": "Article URL: https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/ Comments URL: https://news.ycombinator.com/item?id=46713444 Points: 47 # Comments: 5",
+        "link": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-22T00:00:36.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-01-22T06:16:23.168Z",
+    "lastUpdated": "2026-01-22T06:16:23.168Z",
+    "visibleDate": "Jan 22, 2026",
+    "url": "pages/2026-01-22-061623168-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-01-22-061623168-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Doctors in Brazil",
+      "Show HN"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Doctors in Brazil, Show HN. Gitpod brings zero-co",
+    "tools": [
+      {
+        "name": "Doctors in Brazil",
+        "slug": "doctors-in-brazil",
+        "description": "Article URL: https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims Comments URL: https://news.ycombinator.com/item?id=46715600 Points: 17 # Comments: 1",
+        "summary": "Article URL: https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims Comments URL: https://news.ycombinator.com/item?id=46715600 Points: 17 # Comments: 1",
+        "link": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
+        "source": "Hacker News",
+        "isoDate": "2026-01-22T05:15:46.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "The JIT + tensor model ends up being a really nice way to express light transport all in simple python, so I reimplemented some new research papers from SIGGRAPH like REstir PG and SZ and it just works. Comments URL: https://news.ycombinator.com/item?id=46714916 Points: 13 # Comments: 4 <p>I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+        "summary": "The JIT + tensor model ends up being a really nice way to express light transport all in simple python, so I reimplemented some new research papers from SIGGRAPH like REstir PG and SZ and it just works. Comments URL: https://news.ycombinator.com/item?id=46714916 Points: 13 # Comments: 4 <p>I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+        "link": "https://github.com/quantbagel/gtinygrad",
+        "source": "Hacker News",
+        "isoDate": "2026-01-22T03:26:38.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "could"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "Comments URL: https://news.ycombinator.com/item?id=46714916 Points: 13 # Comments: 4 <p>I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+          "I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+          "So I’ve been hacking on a gtinygrad, and honestly it convinced me it could be used for legit research."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 6,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-01-22T06:16:23.168Z",
+    "lastUpdated": "2026-01-22T06:16:23.168Z",
+    "visibleDate": "Jan 22, 2026",
+    "url": "pages/2026-01-22-061623168-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-01-22-061623168-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Doctors in Brazil",
+      "Show HN",
+      "Threat actors expand"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Doctors in Brazil, Show HN, Threat actors expand. New launches that are ",
+    "tools": [
+      {
+        "name": "Doctors in Brazil",
+        "slug": "doctors-in-brazil",
+        "description": "Article URL: https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims Comments URL: https://news.ycombinator.com/item?id=46715600 Points: 17 # Comments: 1",
+        "summary": "Article URL: https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims Comments URL: https://news.ycombinator.com/item?id=46715600 Points: 17 # Comments: 1",
+        "link": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
+        "source": "Hacker News",
+        "isoDate": "2026-01-22T05:15:46.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "The JIT + tensor model ends up being a really nice way to express light transport all in simple python, so I reimplemented some new research papers from SIGGRAPH like REstir PG and SZ and it just works. Comments URL: https://news.ycombinator.com/item?id=46714916 Points: 13 # Comments: 4 <p>I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+        "summary": "The JIT + tensor model ends up being a really nice way to express light transport all in simple python, so I reimplemented some new research papers from SIGGRAPH like REstir PG and SZ and it just works. Comments URL: https://news.ycombinator.com/item?id=46714916 Points: 13 # Comments: 4 <p>I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+        "link": "https://github.com/quantbagel/gtinygrad",
+        "source": "Hacker News",
+        "isoDate": "2026-01-22T03:26:38.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "could"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "Comments URL: https://news.ycombinator.com/item?id=46714916 Points: 13 # Comments: 4 <p>I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+          "I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg.",
+          "So I’ve been hacking on a gtinygrad, and honestly it convinced me it could be used for legit research."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 6,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Threat actors expand",
+        "slug": "threat-actors-expand",
+        "description": "Article URL: https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/ Comments URL: https://news.ycombinator.com/item?id=46713526 Points: 115 # Comments: 63",
+        "summary": "Article URL: https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/ Comments URL: https://news.ycombinator.com/item?id=46713526 Points: 115 # Comments: 63",
+        "link": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-22T00:12:00.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-01-21T06:18:24.612Z",
     "lastUpdated": "2026-01-21T06:18:24.612Z",
     "visibleDate": "Jan 21, 2026",

@@ -7,6 +7,658 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-01-30T06:31:44.634Z",
+    "lastUpdated": "2026-01-30T06:31:44.634Z",
+    "visibleDate": "Jan 30, 2026",
+    "url": "pages/2026-01-30-063144634-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-01-30-063144634-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Wanna see a",
+      "Sharper cutters",
+      "The Dank Case"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Wanna see a, Sharper cutters, The Dank Case. Productivity stacks that keep",
+    "tools": [
+      {
+        "name": "Wanna see a",
+        "slug": "wanna-see-a",
+        "description": "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations. Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations.",
+        "summary": "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations. Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations.",
+        "link": "https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-01-30T08:40:00.000Z",
+        "keywords": [
+          "se-tech",
+          "se-stackoverflow",
+          "podcast",
+          "css",
+          "frontend",
+          "dev"
+        ],
+        "useCases": [
+          "se tech",
+          "se stackoverflow",
+          "podcast"
+        ],
+        "pros": [
+          "Great for se tech",
+          "se stackoverflow-ready automation",
+          "Great for se tech"
+        ],
+        "cons": [
+          "Overkill for se tech experiments",
+          "Needs extra setup for se stackoverflow workflows",
+          "Overkill for se tech experiments"
+        ],
+        "highlights": [
+          "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations.",
+          "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Sharper cutters",
+        "slug": "sharper-cutters",
+        "description": "These shaper cutters have a disc shaped which have the general utility to give roughing or finish form to cut spur, helical & spline gear. Shaving cutters are utilized for completing in a little measure of rigging tooth surface in the wake of handling with hob and shaper cutter.",
+        "summary": "These shaper cutters have a disc shaped which have the general utility to give roughing or finish form to cut spur, helical & spline gear. Shaving cutters are utilized for completing in a little measure of rigging tooth surface in the wake of handling with hob and shaper cutter.",
+        "link": "https://dev.to/steelmans_cb6855875026b05/sharper-cutters-20cg",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-30T04:56:20.000Z",
+        "keywords": [
+          "cutters",
+          "sharping",
+          "manufacturing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "cutters",
+          "sharping",
+          "manufacturing"
+        ],
+        "pros": [
+          "Great for cutters",
+          "sharping-ready automation",
+          "Great for cutters"
+        ],
+        "cons": [
+          "Overkill for cutters experiments",
+          "Needs extra setup for sharping workflows",
+          "Overkill for cutters experiments"
+        ],
+        "highlights": [
+          "These shaper cutters have a disc shaped which have the general utility to give roughing or finish form to cut spur, helical & spline gear.",
+          "Shaving cutters are utilized for completing in a little measure of rigging tooth surface in the wake of handling with hob and shaper cutter.",
+          "Dive cut), dive cut is most famously connected underway line of 4 wheel vehicles and 2 wheel vehicles intend for its productivity and long life."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Dank Case",
+        "slug": "the-dank-case",
+        "description": "Article URL: https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/ Comments URL: https://news.ycombinator.com/item?id=46820468 Points: 32 # Comments: 16",
+        "summary": "Article URL: https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/ Comments URL: https://news.ycombinator.com/item?id=46820468 Points: 32 # Comments: 16",
+        "link": "https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-30T04:17:38.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Moltbook",
+        "slug": "moltbook",
+        "description": "Article URL: https://www.moltbook.com/ Comments URL: https://news.ycombinator.com/item?id=46820360 Points: 100 # Comments: 52",
+        "summary": "Article URL: https://www.moltbook.com/ Comments URL: https://news.ycombinator.com/item?id=46820360 Points: 100 # Comments: 52",
+        "link": "https://www.moltbook.com/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-30T03:55:34.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Stargaze",
+        "slug": "stargaze",
+        "description": "Article URL: https://starlink.com/updates/stargaze Comments URL: https://news.ycombinator.com/item?id=46820113 Points: 34 # Comments: 4",
+        "summary": "Article URL: https://starlink.com/updates/stargaze Comments URL: https://news.ycombinator.com/item?id=46820113 Points: 34 # Comments: 4",
+        "link": "https://starlink.com/updates/stargaze",
+        "source": "Hacker News",
+        "isoDate": "2026-01-30T03:11:43.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-01-30T06:31:44.634Z",
+    "lastUpdated": "2026-01-30T06:31:44.634Z",
+    "visibleDate": "Jan 30, 2026",
+    "url": "pages/2026-01-30-063144634-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-01-30-063144634-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Wanna see a",
+      "Sharper cutters",
+      "The Dank Case"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Wanna see a, Sharper cutters, The Dank Case. Reliable remote debug",
+    "tools": [
+      {
+        "name": "Wanna see a",
+        "slug": "wanna-see-a",
+        "description": "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations. Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations.",
+        "summary": "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations. Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations.",
+        "link": "https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-01-30T08:40:00.000Z",
+        "keywords": [
+          "se-tech",
+          "se-stackoverflow",
+          "podcast",
+          "css",
+          "frontend",
+          "dev"
+        ],
+        "useCases": [
+          "se tech",
+          "se stackoverflow",
+          "podcast"
+        ],
+        "pros": [
+          "Great for se tech",
+          "se stackoverflow-ready automation",
+          "Great for se tech"
+        ],
+        "cons": [
+          "Overkill for se tech experiments",
+          "Needs extra setup for se stackoverflow workflows",
+          "Overkill for se tech experiments"
+        ],
+        "highlights": [
+          "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations.",
+          "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Sharper cutters",
+        "slug": "sharper-cutters",
+        "description": "These shaper cutters have a disc shaped which have the general utility to give roughing or finish form to cut spur, helical & spline gear. Shaving cutters are utilized for completing in a little measure of rigging tooth surface in the wake of handling with hob and shaper cutter.",
+        "summary": "These shaper cutters have a disc shaped which have the general utility to give roughing or finish form to cut spur, helical & spline gear. Shaving cutters are utilized for completing in a little measure of rigging tooth surface in the wake of handling with hob and shaper cutter.",
+        "link": "https://dev.to/steelmans_cb6855875026b05/sharper-cutters-20cg",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-30T04:56:20.000Z",
+        "keywords": [
+          "cutters",
+          "sharping",
+          "manufacturing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "cutters",
+          "sharping",
+          "manufacturing"
+        ],
+        "pros": [
+          "Great for cutters",
+          "sharping-ready automation",
+          "Great for cutters"
+        ],
+        "cons": [
+          "Overkill for cutters experiments",
+          "Needs extra setup for sharping workflows",
+          "Overkill for cutters experiments"
+        ],
+        "highlights": [
+          "These shaper cutters have a disc shaped which have the general utility to give roughing or finish form to cut spur, helical & spline gear.",
+          "Shaving cutters are utilized for completing in a little measure of rigging tooth surface in the wake of handling with hob and shaper cutter.",
+          "Dive cut), dive cut is most famously connected underway line of 4 wheel vehicles and 2 wheel vehicles intend for its productivity and long life."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Dank Case",
+        "slug": "the-dank-case",
+        "description": "Article URL: https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/ Comments URL: https://news.ycombinator.com/item?id=46820468 Points: 32 # Comments: 16",
+        "summary": "Article URL: https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/ Comments URL: https://news.ycombinator.com/item?id=46820468 Points: 32 # Comments: 16",
+        "link": "https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-30T04:17:38.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Moltbook",
+        "slug": "moltbook",
+        "description": "Article URL: https://www.moltbook.com/ Comments URL: https://news.ycombinator.com/item?id=46820360 Points: 100 # Comments: 52",
+        "summary": "Article URL: https://www.moltbook.com/ Comments URL: https://news.ycombinator.com/item?id=46820360 Points: 100 # Comments: 52",
+        "link": "https://www.moltbook.com/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-30T03:55:34.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-01-30T06:31:44.634Z",
+    "lastUpdated": "2026-01-30T06:31:44.634Z",
+    "visibleDate": "Jan 30, 2026",
+    "url": "pages/2026-01-30-063144634-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-01-30-063144634-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "Wanna see a",
+      "Sharper cutters"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Wanna see a, Sharper cutters. Gitpod brings zero-",
+    "tools": [
+      {
+        "name": "Wanna see a",
+        "slug": "wanna-see-a",
+        "description": "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations. Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations.",
+        "summary": "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations. Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations.",
+        "link": "https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-01-30T08:40:00.000Z",
+        "keywords": [
+          "se-tech",
+          "se-stackoverflow",
+          "podcast",
+          "css",
+          "frontend",
+          "dev"
+        ],
+        "useCases": [
+          "se tech",
+          "se stackoverflow",
+          "podcast"
+        ],
+        "pros": [
+          "Great for se tech",
+          "se stackoverflow-ready automation",
+          "Great for se tech"
+        ],
+        "cons": [
+          "Overkill for se tech experiments",
+          "Needs extra setup for se stackoverflow workflows",
+          "Overkill for se tech experiments"
+        ],
+        "highlights": [
+          "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations.",
+          "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Sharper cutters",
+        "slug": "sharper-cutters",
+        "description": "These shaper cutters have a disc shaped which have the general utility to give roughing or finish form to cut spur, helical & spline gear. Shaving cutters are utilized for completing in a little measure of rigging tooth surface in the wake of handling with hob and shaper cutter.",
+        "summary": "These shaper cutters have a disc shaped which have the general utility to give roughing or finish form to cut spur, helical & spline gear. Shaving cutters are utilized for completing in a little measure of rigging tooth surface in the wake of handling with hob and shaper cutter.",
+        "link": "https://dev.to/steelmans_cb6855875026b05/sharper-cutters-20cg",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-30T04:56:20.000Z",
+        "keywords": [
+          "cutters",
+          "sharping",
+          "manufacturing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "cutters",
+          "sharping",
+          "manufacturing"
+        ],
+        "pros": [
+          "Great for cutters",
+          "sharping-ready automation",
+          "Great for cutters"
+        ],
+        "cons": [
+          "Overkill for cutters experiments",
+          "Needs extra setup for sharping workflows",
+          "Overkill for cutters experiments"
+        ],
+        "highlights": [
+          "These shaper cutters have a disc shaped which have the general utility to give roughing or finish form to cut spur, helical & spline gear.",
+          "Shaving cutters are utilized for completing in a little measure of rigging tooth surface in the wake of handling with hob and shaper cutter.",
+          "Dive cut), dive cut is most famously connected underway line of 4 wheel vehicles and 2 wheel vehicles intend for its productivity and long life."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-01-30T06:31:44.634Z",
+    "lastUpdated": "2026-01-30T06:31:44.634Z",
+    "visibleDate": "Jan 30, 2026",
+    "url": "pages/2026-01-30-063144634-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-01-30-063144634-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Wanna see a",
+      "Sharper cutters",
+      "The Dank Case"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Wanna see a, Sharper cutters, The Dank Case. New launches that are shipp",
+    "tools": [
+      {
+        "name": "Wanna see a",
+        "slug": "wanna-see-a",
+        "description": "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations. Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations.",
+        "summary": "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations. Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations.",
+        "link": "https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-01-30T08:40:00.000Z",
+        "keywords": [
+          "se-tech",
+          "se-stackoverflow",
+          "podcast",
+          "css",
+          "frontend",
+          "dev"
+        ],
+        "useCases": [
+          "se tech",
+          "se stackoverflow",
+          "podcast"
+        ],
+        "pros": [
+          "Great for se tech",
+          "se stackoverflow-ready automation",
+          "Great for se tech"
+        ],
+        "cons": [
+          "Overkill for se tech experiments",
+          "Needs extra setup for se stackoverflow workflows",
+          "Overkill for se tech experiments"
+        ],
+        "highlights": [
+          "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations.",
+          "Ryan is joined by Chris Coyier, founder of CSS Tricks and CodePen, to talk all about what the state of the art of CSS is today, including new features like variables and scroll-driven animations."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Sharper cutters",
+        "slug": "sharper-cutters",
+        "description": "These shaper cutters have a disc shaped which have the general utility to give roughing or finish form to cut spur, helical & spline gear. Shaving cutters are utilized for completing in a little measure of rigging tooth surface in the wake of handling with hob and shaper cutter.",
+        "summary": "These shaper cutters have a disc shaped which have the general utility to give roughing or finish form to cut spur, helical & spline gear. Shaving cutters are utilized for completing in a little measure of rigging tooth surface in the wake of handling with hob and shaper cutter.",
+        "link": "https://dev.to/steelmans_cb6855875026b05/sharper-cutters-20cg",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-30T04:56:20.000Z",
+        "keywords": [
+          "cutters",
+          "sharping",
+          "manufacturing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "cutters",
+          "sharping",
+          "manufacturing"
+        ],
+        "pros": [
+          "Great for cutters",
+          "sharping-ready automation",
+          "Great for cutters"
+        ],
+        "cons": [
+          "Overkill for cutters experiments",
+          "Needs extra setup for sharping workflows",
+          "Overkill for cutters experiments"
+        ],
+        "highlights": [
+          "These shaper cutters have a disc shaped which have the general utility to give roughing or finish form to cut spur, helical & spline gear.",
+          "Shaving cutters are utilized for completing in a little measure of rigging tooth surface in the wake of handling with hob and shaper cutter.",
+          "Dive cut), dive cut is most famously connected underway line of 4 wheel vehicles and 2 wheel vehicles intend for its productivity and long life."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Dank Case",
+        "slug": "the-dank-case",
+        "description": "Article URL: https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/ Comments URL: https://news.ycombinator.com/item?id=46820468 Points: 32 # Comments: 16",
+        "summary": "Article URL: https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/ Comments URL: https://news.ycombinator.com/item?id=46820468 Points: 32 # Comments: 16",
+        "link": "https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-30T04:17:38.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-01-29T06:30:19.445Z",
     "lastUpdated": "2026-01-29T06:30:19.445Z",
     "visibleDate": "Jan 29, 2026",

@@ -7,6 +7,655 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-01-31T06:22:07.530Z",
+    "lastUpdated": "2026-01-31T06:22:07.530Z",
+    "visibleDate": "Jan 31, 2026",
+    "url": "pages/2026-01-31-062207530-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-01-31-062207530-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Target director's Global",
+      "Starlink updates privacy",
+      "Show HN"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Target director's Global, Starlink updates privacy, Show HN. Productivity ",
+    "tools": [
+      {
+        "name": "Target director's Global",
+        "slug": "target-director-s-global",
+        "description": "Article URL: https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/ Comments URL: https://news.ycombinator.com/item?id=46833871 Points: 29 # Comments: 1",
+        "summary": "Article URL: https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/ Comments URL: https://news.ycombinator.com/item?id=46833871 Points: 29 # Comments: 1",
+        "link": "https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-31T05:51:52.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Starlink updates privacy",
+        "slug": "starlink-updates-privacy",
+        "description": "Article URL: https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html Comments URL: https://news.ycombinator.com/item?id=46833847 Points: 5 # Comments: 0",
+        "summary": "Article URL: https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html Comments URL: https://news.ycombinator.com/item?id=46833847 Points: 5 # Comments: 0",
+        "link": "https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html",
+        "source": "Hacker News",
+        "isoDate": "2026-01-31T05:44:49.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "That mapping between the \"digital\" realm of ACGT, which in turn maps onto the 20 amino acids in groups of 3, and the world of 3D, analog shapes, still seems magical and mysterious to me. It actually took a lot of engineering to make this work well in a browser; it's a surprising amount of data (this becomes obvious when you look at some of the 3D structure models).",
+        "summary": "That mapping between the \"digital\" realm of ACGT, which in turn maps onto the 20 amino acids in groups of 3, and the world of 3D, analog shapes, still seems magical and mysterious to me. It actually took a lot of engineering to make this work well in a browser; it's a surprising amount of data (this becomes obvious when you look at some of the 3D structure models).",
+        "link": "https://phage-explorer.org/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-31T05:22:03.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "structure"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "That mapping between the \"digital\" realm of ACGT, which in turn maps onto the 20 amino acids in groups of 3, and the world of 3D, analog shapes, still seems magical and mysterious to me.",
+          "It actually took a lot of engineering to make this work well in a browser; it's a surprising amount of data (this becomes obvious when you look at some of the 3D structure models).",
+          "They're the closest thing to the \"fundamental particles\" of biology: the minimal units of genetic code that do something useful that allows them to reproduce and spread."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 5,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Mastering Data Hygiene",
+        "slug": "mastering-data-hygiene",
+        "description": "Validate schema: csvsql --db postgresql://user:pass@localhost/db --insert cleaned.csv Generate summaries: xsv stats cleaned.csv Create scripts to automate the entire pipeline. head -n 10 raw_data.csv (Preview first ten lines) awk and sed These powerful text-processing tools are essential for pattern-based cleaning.",
+        "summary": "Validate schema: csvsql --db postgresql://user:pass@localhost/db --insert cleaned.csv Generate summaries: xsv stats cleaned.csv Create scripts to automate the entire pipeline. head -n 10 raw_data.csv (Preview first ten lines) awk and sed These powerful text-processing tools are essential for pattern-based cleaning.",
+        "link": "https://dev.to/mohammad_waseem_c31f3a26f/mastering-data-hygiene-a-senior-architects-approach-to-cleaning-dirty-data-with-linux-and-open-2p3j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-31T04:53:02.000Z",
+        "keywords": [
+          "linux",
+          "data",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "linux",
+          "data",
+          "tools"
+        ],
+        "pros": [
+          "Great for linux",
+          "data-ready automation",
+          "Great for linux"
+        ],
+        "cons": [
+          "Overkill for linux experiments",
+          "Needs extra setup for data workflows",
+          "Overkill for linux experiments"
+        ],
+        "highlights": [
+          "Validate schema: csvsql --db postgresql://user:pass@localhost/db --insert cleaned.csv Generate summaries: xsv stats cleaned.csv Create scripts to automate the entire pipeline.",
+          "head -n 10 raw_data.csv (Preview first ten lines) awk and sed These powerful text-processing tools are essential for pattern-based cleaning.",
+          "As a senior architect, leveraging open source tools within a Linux environment offers a robust, cost-effective pathway to clean and prepare data efficiently."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Naples' 1790s civil",
+        "slug": "naples-1790s-civil",
+        "description": "Article URL: https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/ Comments URL: https://news.ycombinator.com/item?id=46833254 Points: 3 # Comments: 0",
+        "summary": "Article URL: https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/ Comments URL: https://news.ycombinator.com/item?id=46833254 Points: 3 # Comments: 0",
+        "link": "https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-31T03:53:06.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "article"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-01-31T06:22:07.530Z",
+    "lastUpdated": "2026-01-31T06:22:07.530Z",
+    "visibleDate": "Jan 31, 2026",
+    "url": "pages/2026-01-31-062207530-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-01-31-062207530-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Target director's Global",
+      "Starlink updates privacy",
+      "Show HN"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Target director's Global, Starlink updates privacy, Show HN. Relia",
+    "tools": [
+      {
+        "name": "Target director's Global",
+        "slug": "target-director-s-global",
+        "description": "Article URL: https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/ Comments URL: https://news.ycombinator.com/item?id=46833871 Points: 29 # Comments: 1",
+        "summary": "Article URL: https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/ Comments URL: https://news.ycombinator.com/item?id=46833871 Points: 29 # Comments: 1",
+        "link": "https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-31T05:51:52.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Starlink updates privacy",
+        "slug": "starlink-updates-privacy",
+        "description": "Article URL: https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html Comments URL: https://news.ycombinator.com/item?id=46833847 Points: 5 # Comments: 0",
+        "summary": "Article URL: https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html Comments URL: https://news.ycombinator.com/item?id=46833847 Points: 5 # Comments: 0",
+        "link": "https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html",
+        "source": "Hacker News",
+        "isoDate": "2026-01-31T05:44:49.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "That mapping between the \"digital\" realm of ACGT, which in turn maps onto the 20 amino acids in groups of 3, and the world of 3D, analog shapes, still seems magical and mysterious to me. It actually took a lot of engineering to make this work well in a browser; it's a surprising amount of data (this becomes obvious when you look at some of the 3D structure models).",
+        "summary": "That mapping between the \"digital\" realm of ACGT, which in turn maps onto the 20 amino acids in groups of 3, and the world of 3D, analog shapes, still seems magical and mysterious to me. It actually took a lot of engineering to make this work well in a browser; it's a surprising amount of data (this becomes obvious when you look at some of the 3D structure models).",
+        "link": "https://phage-explorer.org/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-31T05:22:03.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "structure"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "That mapping between the \"digital\" realm of ACGT, which in turn maps onto the 20 amino acids in groups of 3, and the world of 3D, analog shapes, still seems magical and mysterious to me.",
+          "It actually took a lot of engineering to make this work well in a browser; it's a surprising amount of data (this becomes obvious when you look at some of the 3D structure models).",
+          "They're the closest thing to the \"fundamental particles\" of biology: the minimal units of genetic code that do something useful that allows them to reproduce and spread."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 5,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Mastering Data Hygiene",
+        "slug": "mastering-data-hygiene",
+        "description": "Validate schema: csvsql --db postgresql://user:pass@localhost/db --insert cleaned.csv Generate summaries: xsv stats cleaned.csv Create scripts to automate the entire pipeline. head -n 10 raw_data.csv (Preview first ten lines) awk and sed These powerful text-processing tools are essential for pattern-based cleaning.",
+        "summary": "Validate schema: csvsql --db postgresql://user:pass@localhost/db --insert cleaned.csv Generate summaries: xsv stats cleaned.csv Create scripts to automate the entire pipeline. head -n 10 raw_data.csv (Preview first ten lines) awk and sed These powerful text-processing tools are essential for pattern-based cleaning.",
+        "link": "https://dev.to/mohammad_waseem_c31f3a26f/mastering-data-hygiene-a-senior-architects-approach-to-cleaning-dirty-data-with-linux-and-open-2p3j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-01-31T04:53:02.000Z",
+        "keywords": [
+          "linux",
+          "data",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "linux",
+          "data",
+          "tools"
+        ],
+        "pros": [
+          "Great for linux",
+          "data-ready automation",
+          "Great for linux"
+        ],
+        "cons": [
+          "Overkill for linux experiments",
+          "Needs extra setup for data workflows",
+          "Overkill for linux experiments"
+        ],
+        "highlights": [
+          "Validate schema: csvsql --db postgresql://user:pass@localhost/db --insert cleaned.csv Generate summaries: xsv stats cleaned.csv Create scripts to automate the entire pipeline.",
+          "head -n 10 raw_data.csv (Preview first ten lines) awk and sed These powerful text-processing tools are essential for pattern-based cleaning.",
+          "As a senior architect, leveraging open source tools within a Linux environment offers a robust, cost-effective pathway to clean and prepare data efficiently."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-01-31T06:22:07.530Z",
+    "lastUpdated": "2026-01-31T06:22:07.530Z",
+    "visibleDate": "Jan 31, 2026",
+    "url": "pages/2026-01-31-062207530-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-01-31-062207530-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Target director's Global",
+      "Starlink updates privacy"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Target director's Global, Starlink updates privac",
+    "tools": [
+      {
+        "name": "Target director's Global",
+        "slug": "target-director-s-global",
+        "description": "Article URL: https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/ Comments URL: https://news.ycombinator.com/item?id=46833871 Points: 29 # Comments: 1",
+        "summary": "Article URL: https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/ Comments URL: https://news.ycombinator.com/item?id=46833871 Points: 29 # Comments: 1",
+        "link": "https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-31T05:51:52.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Starlink updates privacy",
+        "slug": "starlink-updates-privacy",
+        "description": "Article URL: https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html Comments URL: https://news.ycombinator.com/item?id=46833847 Points: 5 # Comments: 0",
+        "summary": "Article URL: https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html Comments URL: https://news.ycombinator.com/item?id=46833847 Points: 5 # Comments: 0",
+        "link": "https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html",
+        "source": "Hacker News",
+        "isoDate": "2026-01-31T05:44:49.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-01-31T06:22:07.530Z",
+    "lastUpdated": "2026-01-31T06:22:07.530Z",
+    "visibleDate": "Jan 31, 2026",
+    "url": "pages/2026-01-31-062207530-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-01-31-062207530-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Target director's Global",
+      "Starlink updates privacy",
+      "Show HN"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Target director's Global, Starlink updates privacy, Show HN. New launche",
+    "tools": [
+      {
+        "name": "Target director's Global",
+        "slug": "target-director-s-global",
+        "description": "Article URL: https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/ Comments URL: https://news.ycombinator.com/item?id=46833871 Points: 29 # Comments: 1",
+        "summary": "Article URL: https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/ Comments URL: https://news.ycombinator.com/item?id=46833871 Points: 29 # Comments: 1",
+        "link": "https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-31T05:51:52.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Starlink updates privacy",
+        "slug": "starlink-updates-privacy",
+        "description": "Article URL: https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html Comments URL: https://news.ycombinator.com/item?id=46833847 Points: 5 # Comments: 0",
+        "summary": "Article URL: https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html Comments URL: https://news.ycombinator.com/item?id=46833847 Points: 5 # Comments: 0",
+        "link": "https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html",
+        "source": "Hacker News",
+        "isoDate": "2026-01-31T05:44:49.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "That mapping between the \"digital\" realm of ACGT, which in turn maps onto the 20 amino acids in groups of 3, and the world of 3D, analog shapes, still seems magical and mysterious to me. It actually took a lot of engineering to make this work well in a browser; it's a surprising amount of data (this becomes obvious when you look at some of the 3D structure models).",
+        "summary": "That mapping between the \"digital\" realm of ACGT, which in turn maps onto the 20 amino acids in groups of 3, and the world of 3D, analog shapes, still seems magical and mysterious to me. It actually took a lot of engineering to make this work well in a browser; it's a surprising amount of data (this becomes obvious when you look at some of the 3D structure models).",
+        "link": "https://phage-explorer.org/",
+        "source": "Hacker News",
+        "isoDate": "2026-01-31T05:22:03.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "structure"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "That mapping between the \"digital\" realm of ACGT, which in turn maps onto the 20 amino acids in groups of 3, and the world of 3D, analog shapes, still seems magical and mysterious to me.",
+          "It actually took a lot of engineering to make this work well in a browser; it's a surprising amount of data (this becomes obvious when you look at some of the 3D structure models).",
+          "They're the closest thing to the \"fundamental particles\" of biology: the minimal units of genetic code that do something useful that allows them to reproduce and spread."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 5,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-01-30T06:31:44.634Z",
     "lastUpdated": "2026-01-30T06:31:44.634Z",
     "visibleDate": "Jan 30, 2026",

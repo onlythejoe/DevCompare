@@ -7,6 +7,663 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-03T06:34:04.628Z",
+    "lastUpdated": "2026-02-03T06:34:04.628Z",
+    "visibleDate": "Feb 3, 2026",
+    "url": "pages/2026-02-03-063404628-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-03-063404628-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Generating text with",
+      "How kandinskyai Transforms",
+      "Floppinux – An"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Generating text with, How kandinskyai Transforms, Floppinux – An. Producti",
+    "tools": [
+      {
+        "name": "Generating text with",
+        "slug": "generating-text-with",
+        "description": "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December. Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December.",
+        "summary": "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December. Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December.",
+        "link": "https://stackoverflow.blog/2026/02/03/generating-text-with-diffusion-and-roi-with-llms/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-03T08:40:00.000Z",
+        "keywords": [
+          "se-tech",
+          "se-stackoverflow",
+          "podcast",
+          "llm",
+          "ai",
+          "hardware"
+        ],
+        "useCases": [
+          "se tech",
+          "se stackoverflow",
+          "podcast"
+        ],
+        "pros": [
+          "Great for se tech",
+          "se stackoverflow-ready automation",
+          "Great for se tech"
+        ],
+        "cons": [
+          "Overkill for se tech experiments",
+          "Needs extra setup for se stackoverflow workflows",
+          "Overkill for se tech experiments"
+        ],
+        "highlights": [
+          "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December.",
+          "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How kandinskyai Transforms",
+        "slug": "how-kandinskyai-transforms",
+        "description": "</p> <p>Visit <a href=\"https://www.kandinskyai.com\" rel=\"noopener noreferrer\">kandinskyai</a> and see for yourself why users love it.</p> <p><em>Have questions? Drop a comment below — I'd love to hear your thoughts! <p>As developers, we spend hours searching for the right tools.",
+        "summary": "</p> <p>Visit <a href=\"https://www.kandinskyai.com\" rel=\"noopener noreferrer\">kandinskyai</a> and see for yourself why users love it.</p> <p><em>Have questions? Drop a comment below — I'd love to hear your thoughts! <p>As developers, we spend hours searching for the right tools.",
+        "link": "https://dev.to/danielmateo/how-kandinskyai-transforms-your-kandinsky-ai-video-generator-workflow-16bp",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-03T06:19:28.000Z",
+        "keywords": [
+          "kandinskyaivideogenerator",
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "kandinskyaivideogenerator",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for kandinskyaivideogenerator",
+          "tools-ready automation",
+          "Great for kandinskyaivideogenerator"
+        ],
+        "cons": [
+          "Overkill for kandinskyaivideogenerator experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for kandinskyaivideogenerator experiments"
+        ],
+        "highlights": [
+          "</p> <p>Visit <a href=\"https://www.kandinskyai.com\" rel=\"noopener noreferrer\">kandinskyai</a> and see for yourself why users love it.</p> <p><em>Have questions?",
+          "Drop a comment below — I'd love to hear your thoughts! <p>As developers, we spend hours searching for the right tools.",
+          "</h2> <p><strong>kandinskyai</strong> is a modern tool designed to help users achieve better results with less effort."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Floppinux – An",
+        "slug": "floppinux-an",
+        "description": "Article URL: https://krzysztofjankowski.com/floppinux/floppinux-2025.html Comments URL: https://news.ycombinator.com/item?id=46866544 Points: 45 # Comments: 20",
+        "summary": "Article URL: https://krzysztofjankowski.com/floppinux/floppinux-2025.html Comments URL: https://news.ycombinator.com/item?id=46866544 Points: 45 # Comments: 20",
+        "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
+        "source": "Hacker News",
+        "isoDate": "2026-02-03T04:33:25.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Coding assistants are",
+        "slug": "coding-assistants-are",
+        "description": "Article URL: https://www.bicameral-ai.com/blog/introducing-bicameral Comments URL: https://news.ycombinator.com/item?id=46866481 Points: 27 # Comments: 3",
+        "summary": "Article URL: https://www.bicameral-ai.com/blog/introducing-bicameral Comments URL: https://news.ycombinator.com/item?id=46866481 Points: 27 # Comments: 3",
+        "link": "https://www.bicameral-ai.com/blog/introducing-bicameral",
+        "source": "Hacker News",
+        "isoDate": "2026-02-03T04:25:35.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Frog 'saunas' could",
+        "slug": "frog-saunas-could",
+        "description": "Article URL: https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus Comments URL: https://news.ycombinator.com/item?id=46866385 Points: 5 # Comments: 1",
+        "summary": "Article URL: https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus Comments URL: https://news.ycombinator.com/item?id=46866385 Points: 5 # Comments: 1",
+        "link": "https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus",
+        "source": "Hacker News",
+        "isoDate": "2026-02-03T04:12:16.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "article"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-03T06:34:04.628Z",
+    "lastUpdated": "2026-02-03T06:34:04.628Z",
+    "visibleDate": "Feb 3, 2026",
+    "url": "pages/2026-02-03-063404628-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-03-063404628-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Generating text with",
+      "How kandinskyai Transforms",
+      "Floppinux – An"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Generating text with, How kandinskyai Transforms, Floppinux – An. ",
+    "tools": [
+      {
+        "name": "Generating text with",
+        "slug": "generating-text-with",
+        "description": "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December. Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December.",
+        "summary": "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December. Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December.",
+        "link": "https://stackoverflow.blog/2026/02/03/generating-text-with-diffusion-and-roi-with-llms/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-03T08:40:00.000Z",
+        "keywords": [
+          "se-tech",
+          "se-stackoverflow",
+          "podcast",
+          "llm",
+          "ai",
+          "hardware"
+        ],
+        "useCases": [
+          "se tech",
+          "se stackoverflow",
+          "podcast"
+        ],
+        "pros": [
+          "Great for se tech",
+          "se stackoverflow-ready automation",
+          "Great for se tech"
+        ],
+        "cons": [
+          "Overkill for se tech experiments",
+          "Needs extra setup for se stackoverflow workflows",
+          "Overkill for se tech experiments"
+        ],
+        "highlights": [
+          "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December.",
+          "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How kandinskyai Transforms",
+        "slug": "how-kandinskyai-transforms",
+        "description": "</p> <p>Visit <a href=\"https://www.kandinskyai.com\" rel=\"noopener noreferrer\">kandinskyai</a> and see for yourself why users love it.</p> <p><em>Have questions? Drop a comment below — I'd love to hear your thoughts! <p>As developers, we spend hours searching for the right tools.",
+        "summary": "</p> <p>Visit <a href=\"https://www.kandinskyai.com\" rel=\"noopener noreferrer\">kandinskyai</a> and see for yourself why users love it.</p> <p><em>Have questions? Drop a comment below — I'd love to hear your thoughts! <p>As developers, we spend hours searching for the right tools.",
+        "link": "https://dev.to/danielmateo/how-kandinskyai-transforms-your-kandinsky-ai-video-generator-workflow-16bp",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-03T06:19:28.000Z",
+        "keywords": [
+          "kandinskyaivideogenerator",
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "kandinskyaivideogenerator",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for kandinskyaivideogenerator",
+          "tools-ready automation",
+          "Great for kandinskyaivideogenerator"
+        ],
+        "cons": [
+          "Overkill for kandinskyaivideogenerator experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for kandinskyaivideogenerator experiments"
+        ],
+        "highlights": [
+          "</p> <p>Visit <a href=\"https://www.kandinskyai.com\" rel=\"noopener noreferrer\">kandinskyai</a> and see for yourself why users love it.</p> <p><em>Have questions?",
+          "Drop a comment below — I'd love to hear your thoughts! <p>As developers, we spend hours searching for the right tools.",
+          "</h2> <p><strong>kandinskyai</strong> is a modern tool designed to help users achieve better results with less effort."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Floppinux – An",
+        "slug": "floppinux-an",
+        "description": "Article URL: https://krzysztofjankowski.com/floppinux/floppinux-2025.html Comments URL: https://news.ycombinator.com/item?id=46866544 Points: 45 # Comments: 20",
+        "summary": "Article URL: https://krzysztofjankowski.com/floppinux/floppinux-2025.html Comments URL: https://news.ycombinator.com/item?id=46866544 Points: 45 # Comments: 20",
+        "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
+        "source": "Hacker News",
+        "isoDate": "2026-02-03T04:33:25.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Coding assistants are",
+        "slug": "coding-assistants-are",
+        "description": "Article URL: https://www.bicameral-ai.com/blog/introducing-bicameral Comments URL: https://news.ycombinator.com/item?id=46866481 Points: 27 # Comments: 3",
+        "summary": "Article URL: https://www.bicameral-ai.com/blog/introducing-bicameral Comments URL: https://news.ycombinator.com/item?id=46866481 Points: 27 # Comments: 3",
+        "link": "https://www.bicameral-ai.com/blog/introducing-bicameral",
+        "source": "Hacker News",
+        "isoDate": "2026-02-03T04:25:35.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-03T06:34:04.628Z",
+    "lastUpdated": "2026-02-03T06:34:04.628Z",
+    "visibleDate": "Feb 3, 2026",
+    "url": "pages/2026-02-03-063404628-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-03-063404628-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Generating text with",
+      "How kandinskyai Transforms"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Generating text with, How kandinskyai Transforms.",
+    "tools": [
+      {
+        "name": "Generating text with",
+        "slug": "generating-text-with",
+        "description": "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December. Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December.",
+        "summary": "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December. Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December.",
+        "link": "https://stackoverflow.blog/2026/02/03/generating-text-with-diffusion-and-roi-with-llms/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-03T08:40:00.000Z",
+        "keywords": [
+          "se-tech",
+          "se-stackoverflow",
+          "podcast",
+          "llm",
+          "ai",
+          "hardware"
+        ],
+        "useCases": [
+          "se tech",
+          "se stackoverflow",
+          "podcast"
+        ],
+        "pros": [
+          "Great for se tech",
+          "se stackoverflow-ready automation",
+          "Great for se tech"
+        ],
+        "cons": [
+          "Overkill for se tech experiments",
+          "Needs extra setup for se stackoverflow workflows",
+          "Overkill for se tech experiments"
+        ],
+        "highlights": [
+          "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December.",
+          "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How kandinskyai Transforms",
+        "slug": "how-kandinskyai-transforms",
+        "description": "</p> <p>Visit <a href=\"https://www.kandinskyai.com\" rel=\"noopener noreferrer\">kandinskyai</a> and see for yourself why users love it.</p> <p><em>Have questions? Drop a comment below — I'd love to hear your thoughts! <p>As developers, we spend hours searching for the right tools.",
+        "summary": "</p> <p>Visit <a href=\"https://www.kandinskyai.com\" rel=\"noopener noreferrer\">kandinskyai</a> and see for yourself why users love it.</p> <p><em>Have questions? Drop a comment below — I'd love to hear your thoughts! <p>As developers, we spend hours searching for the right tools.",
+        "link": "https://dev.to/danielmateo/how-kandinskyai-transforms-your-kandinsky-ai-video-generator-workflow-16bp",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-03T06:19:28.000Z",
+        "keywords": [
+          "kandinskyaivideogenerator",
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "kandinskyaivideogenerator",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for kandinskyaivideogenerator",
+          "tools-ready automation",
+          "Great for kandinskyaivideogenerator"
+        ],
+        "cons": [
+          "Overkill for kandinskyaivideogenerator experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for kandinskyaivideogenerator experiments"
+        ],
+        "highlights": [
+          "</p> <p>Visit <a href=\"https://www.kandinskyai.com\" rel=\"noopener noreferrer\">kandinskyai</a> and see for yourself why users love it.</p> <p><em>Have questions?",
+          "Drop a comment below — I'd love to hear your thoughts! <p>As developers, we spend hours searching for the right tools.",
+          "</h2> <p><strong>kandinskyai</strong> is a modern tool designed to help users achieve better results with less effort."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-03T06:34:04.628Z",
+    "lastUpdated": "2026-02-03T06:34:04.628Z",
+    "visibleDate": "Feb 3, 2026",
+    "url": "pages/2026-02-03-063404628-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-03-063404628-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Generating text with",
+      "How kandinskyai Transforms",
+      "Floppinux – An"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Generating text with, How kandinskyai Transforms, Floppinux – An. New la",
+    "tools": [
+      {
+        "name": "Generating text with",
+        "slug": "generating-text-with",
+        "description": "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December. Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December.",
+        "summary": "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December. Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December.",
+        "link": "https://stackoverflow.blog/2026/02/03/generating-text-with-diffusion-and-roi-with-llms/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-03T08:40:00.000Z",
+        "keywords": [
+          "se-tech",
+          "se-stackoverflow",
+          "podcast",
+          "llm",
+          "ai",
+          "hardware"
+        ],
+        "useCases": [
+          "se tech",
+          "se stackoverflow",
+          "podcast"
+        ],
+        "pros": [
+          "Great for se tech",
+          "se stackoverflow-ready automation",
+          "Great for se tech"
+        ],
+        "cons": [
+          "Overkill for se tech experiments",
+          "Needs extra setup for se stackoverflow workflows",
+          "Overkill for se tech experiments"
+        ],
+        "highlights": [
+          "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December.",
+          "Two guests for the price of one! This episode has two interviews recorded at AWS re:Invent back in December."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How kandinskyai Transforms",
+        "slug": "how-kandinskyai-transforms",
+        "description": "</p> <p>Visit <a href=\"https://www.kandinskyai.com\" rel=\"noopener noreferrer\">kandinskyai</a> and see for yourself why users love it.</p> <p><em>Have questions? Drop a comment below — I'd love to hear your thoughts! <p>As developers, we spend hours searching for the right tools.",
+        "summary": "</p> <p>Visit <a href=\"https://www.kandinskyai.com\" rel=\"noopener noreferrer\">kandinskyai</a> and see for yourself why users love it.</p> <p><em>Have questions? Drop a comment below — I'd love to hear your thoughts! <p>As developers, we spend hours searching for the right tools.",
+        "link": "https://dev.to/danielmateo/how-kandinskyai-transforms-your-kandinsky-ai-video-generator-workflow-16bp",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-03T06:19:28.000Z",
+        "keywords": [
+          "kandinskyaivideogenerator",
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "kandinskyaivideogenerator",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for kandinskyaivideogenerator",
+          "tools-ready automation",
+          "Great for kandinskyaivideogenerator"
+        ],
+        "cons": [
+          "Overkill for kandinskyaivideogenerator experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for kandinskyaivideogenerator experiments"
+        ],
+        "highlights": [
+          "</p> <p>Visit <a href=\"https://www.kandinskyai.com\" rel=\"noopener noreferrer\">kandinskyai</a> and see for yourself why users love it.</p> <p><em>Have questions?",
+          "Drop a comment below — I'd love to hear your thoughts! <p>As developers, we spend hours searching for the right tools.",
+          "</h2> <p><strong>kandinskyai</strong> is a modern tool designed to help users achieve better results with less effort."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Floppinux – An",
+        "slug": "floppinux-an",
+        "description": "Article URL: https://krzysztofjankowski.com/floppinux/floppinux-2025.html Comments URL: https://news.ycombinator.com/item?id=46866544 Points: 45 # Comments: 20",
+        "summary": "Article URL: https://krzysztofjankowski.com/floppinux/floppinux-2025.html Comments URL: https://news.ycombinator.com/item?id=46866544 Points: 45 # Comments: 20",
+        "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
+        "source": "Hacker News",
+        "isoDate": "2026-02-03T04:33:25.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-02T06:45:51.981Z",
     "lastUpdated": "2026-02-02T06:45:51.981Z",
     "visibleDate": "Feb 2, 2026",

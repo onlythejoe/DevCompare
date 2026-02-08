@@ -7,6 +7,651 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-08T06:34:09.496Z",
+    "lastUpdated": "2026-02-08T06:34:09.496Z",
+    "visibleDate": "Feb 8, 2026",
+    "url": "pages/2026-02-08-063409496-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-08-063409496-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why there is",
+      "API Status Check vs Downdetector",
+      "Bye Bye Humanity"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Why there is, API Status Check vs Downdetector, Bye Bye Humanity. Producti",
+    "tools": [
+      {
+        "name": "Why there is",
+        "slug": "why-there-is",
+        "description": "Article URL: https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/ Comments URL: https://news.ycombinator.com/item?id=46931347 Points: 18 # Comments: 6",
+        "summary": "Article URL: https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/ Comments URL: https://news.ycombinator.com/item?id=46931347 Points: 18 # Comments: 6",
+        "link": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-08T04:34:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "API Status Check vs Downdetector",
+        "slug": "api-status-check-vs-downdetector",
+        "description": "DownDetector: Free: Full access Revenue: Ads API Status Check: Free: Full access to monitoring Premium (future): Advanced features (custom APIs, SLA reports) Winner: Tie (both free). API-Specific Issues Monitoring API endpoints (not just website) Tracking API response times Identifying API degradation before total failure Your need: Monitor Stripe API to prevent payment failures.",
+        "summary": "DownDetector: Free: Full access Revenue: Ads API Status Check: Free: Full access to monitoring Premium (future): Advanced features (custom APIs, SLA reports) Winner: Tie (both free). API-Specific Issues Monitoring API endpoints (not just website) Tracking API response times Identifying API degradation before total failure Your need: Monitor Stripe API to prevent payment failures.",
+        "link": "https://dev.to/shibley/api-status-check-vs-downdetector-which-is-better-for-developers-2gkj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-08T04:28:04.000Z",
+        "keywords": [
+          "api",
+          "devops",
+          "monitoring",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "api",
+          "devops",
+          "monitoring"
+        ],
+        "pros": [
+          "Great for api",
+          "devops-ready automation",
+          "Great for api"
+        ],
+        "cons": [
+          "Overkill for api experiments",
+          "Needs extra setup for devops workflows",
+          "Overkill for api experiments"
+        ],
+        "highlights": [
+          "DownDetector: Free: Full access Revenue: Ads API Status Check: Free: Full access to monitoring Premium (future): Advanced features (custom APIs, SLA reports) Winner: Tie (both free).",
+          "API-Specific Issues Monitoring API endpoints (not just website) Tracking API response times Identifying API degradation before total failure Your need: Monitor Stripe API to prevent payment failures.",
+          "But if you're a developer relying on Stripe, OpenAI, or AWS APIs, you need something built specifically for API monitoring, not social media status checks."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Bye Bye Humanity",
+        "slug": "bye-bye-humanity",
+        "description": "Article URL: https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/ Comments URL: https://news.ycombinator.com/item?id=46931026 Points: 45 # Comments: 27",
+        "summary": "Article URL: https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/ Comments URL: https://news.ycombinator.com/item?id=46931026 Points: 45 # Comments: 27",
+        "link": "https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-08T03:20:33.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Vouch",
+        "slug": "vouch",
+        "description": "Article URL: https://twitter.com/mitchellh/status/2020252149117313349 Comments URL: https://news.ycombinator.com/item?id=46930961 Points: 69 # Comments: 12",
+        "summary": "Article URL: https://twitter.com/mitchellh/status/2020252149117313349 Comments URL: https://news.ycombinator.com/item?id=46930961 Points: 69 # Comments: 12",
+        "link": "https://twitter.com/mitchellh/status/2020252149117313349",
+        "source": "Hacker News",
+        "isoDate": "2026-02-08T03:09:28.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Haskell for all",
+        "slug": "haskell-for-all",
+        "description": "Article URL: https://haskellforall.com/2026/02/beyond-agentic-coding Comments URL: https://news.ycombinator.com/item?id=46930565 Points: 59 # Comments: 14",
+        "summary": "Article URL: https://haskellforall.com/2026/02/beyond-agentic-coding Comments URL: https://news.ycombinator.com/item?id=46930565 Points: 59 # Comments: 14",
+        "link": "https://haskellforall.com/2026/02/beyond-agentic-coding",
+        "source": "Hacker News",
+        "isoDate": "2026-02-08T01:55:09.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-08T06:34:09.496Z",
+    "lastUpdated": "2026-02-08T06:34:09.496Z",
+    "visibleDate": "Feb 8, 2026",
+    "url": "pages/2026-02-08-063409496-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-08-063409496-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why there is",
+      "API Status Check vs Downdetector",
+      "Bye Bye Humanity"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Why there is, API Status Check vs Downdetector, Bye Bye Humanity. ",
+    "tools": [
+      {
+        "name": "Why there is",
+        "slug": "why-there-is",
+        "description": "Article URL: https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/ Comments URL: https://news.ycombinator.com/item?id=46931347 Points: 18 # Comments: 6",
+        "summary": "Article URL: https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/ Comments URL: https://news.ycombinator.com/item?id=46931347 Points: 18 # Comments: 6",
+        "link": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-08T04:34:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "API Status Check vs Downdetector",
+        "slug": "api-status-check-vs-downdetector",
+        "description": "DownDetector: Free: Full access Revenue: Ads API Status Check: Free: Full access to monitoring Premium (future): Advanced features (custom APIs, SLA reports) Winner: Tie (both free). API-Specific Issues Monitoring API endpoints (not just website) Tracking API response times Identifying API degradation before total failure Your need: Monitor Stripe API to prevent payment failures.",
+        "summary": "DownDetector: Free: Full access Revenue: Ads API Status Check: Free: Full access to monitoring Premium (future): Advanced features (custom APIs, SLA reports) Winner: Tie (both free). API-Specific Issues Monitoring API endpoints (not just website) Tracking API response times Identifying API degradation before total failure Your need: Monitor Stripe API to prevent payment failures.",
+        "link": "https://dev.to/shibley/api-status-check-vs-downdetector-which-is-better-for-developers-2gkj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-08T04:28:04.000Z",
+        "keywords": [
+          "api",
+          "devops",
+          "monitoring",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "api",
+          "devops",
+          "monitoring"
+        ],
+        "pros": [
+          "Great for api",
+          "devops-ready automation",
+          "Great for api"
+        ],
+        "cons": [
+          "Overkill for api experiments",
+          "Needs extra setup for devops workflows",
+          "Overkill for api experiments"
+        ],
+        "highlights": [
+          "DownDetector: Free: Full access Revenue: Ads API Status Check: Free: Full access to monitoring Premium (future): Advanced features (custom APIs, SLA reports) Winner: Tie (both free).",
+          "API-Specific Issues Monitoring API endpoints (not just website) Tracking API response times Identifying API degradation before total failure Your need: Monitor Stripe API to prevent payment failures.",
+          "But if you're a developer relying on Stripe, OpenAI, or AWS APIs, you need something built specifically for API monitoring, not social media status checks."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Bye Bye Humanity",
+        "slug": "bye-bye-humanity",
+        "description": "Article URL: https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/ Comments URL: https://news.ycombinator.com/item?id=46931026 Points: 45 # Comments: 27",
+        "summary": "Article URL: https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/ Comments URL: https://news.ycombinator.com/item?id=46931026 Points: 45 # Comments: 27",
+        "link": "https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-08T03:20:33.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Vouch",
+        "slug": "vouch",
+        "description": "Article URL: https://twitter.com/mitchellh/status/2020252149117313349 Comments URL: https://news.ycombinator.com/item?id=46930961 Points: 69 # Comments: 12",
+        "summary": "Article URL: https://twitter.com/mitchellh/status/2020252149117313349 Comments URL: https://news.ycombinator.com/item?id=46930961 Points: 69 # Comments: 12",
+        "link": "https://twitter.com/mitchellh/status/2020252149117313349",
+        "source": "Hacker News",
+        "isoDate": "2026-02-08T03:09:28.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-08T06:34:09.496Z",
+    "lastUpdated": "2026-02-08T06:34:09.496Z",
+    "visibleDate": "Feb 8, 2026",
+    "url": "pages/2026-02-08-063409496-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-08-063409496-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why there is",
+      "API Status Check vs Downdetector"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Why there is, API Status Check vs Downdetector. G",
+    "tools": [
+      {
+        "name": "Why there is",
+        "slug": "why-there-is",
+        "description": "Article URL: https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/ Comments URL: https://news.ycombinator.com/item?id=46931347 Points: 18 # Comments: 6",
+        "summary": "Article URL: https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/ Comments URL: https://news.ycombinator.com/item?id=46931347 Points: 18 # Comments: 6",
+        "link": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-08T04:34:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "API Status Check vs Downdetector",
+        "slug": "api-status-check-vs-downdetector",
+        "description": "DownDetector: Free: Full access Revenue: Ads API Status Check: Free: Full access to monitoring Premium (future): Advanced features (custom APIs, SLA reports) Winner: Tie (both free). API-Specific Issues Monitoring API endpoints (not just website) Tracking API response times Identifying API degradation before total failure Your need: Monitor Stripe API to prevent payment failures.",
+        "summary": "DownDetector: Free: Full access Revenue: Ads API Status Check: Free: Full access to monitoring Premium (future): Advanced features (custom APIs, SLA reports) Winner: Tie (both free). API-Specific Issues Monitoring API endpoints (not just website) Tracking API response times Identifying API degradation before total failure Your need: Monitor Stripe API to prevent payment failures.",
+        "link": "https://dev.to/shibley/api-status-check-vs-downdetector-which-is-better-for-developers-2gkj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-08T04:28:04.000Z",
+        "keywords": [
+          "api",
+          "devops",
+          "monitoring",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "api",
+          "devops",
+          "monitoring"
+        ],
+        "pros": [
+          "Great for api",
+          "devops-ready automation",
+          "Great for api"
+        ],
+        "cons": [
+          "Overkill for api experiments",
+          "Needs extra setup for devops workflows",
+          "Overkill for api experiments"
+        ],
+        "highlights": [
+          "DownDetector: Free: Full access Revenue: Ads API Status Check: Free: Full access to monitoring Premium (future): Advanced features (custom APIs, SLA reports) Winner: Tie (both free).",
+          "API-Specific Issues Monitoring API endpoints (not just website) Tracking API response times Identifying API degradation before total failure Your need: Monitor Stripe API to prevent payment failures.",
+          "But if you're a developer relying on Stripe, OpenAI, or AWS APIs, you need something built specifically for API monitoring, not social media status checks."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-08T06:34:09.496Z",
+    "lastUpdated": "2026-02-08T06:34:09.496Z",
+    "visibleDate": "Feb 8, 2026",
+    "url": "pages/2026-02-08-063409496-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-08-063409496-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why there is",
+      "API Status Check vs Downdetector",
+      "Bye Bye Humanity"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Why there is, API Status Check vs Downdetector, Bye Bye Humanity. New la",
+    "tools": [
+      {
+        "name": "Why there is",
+        "slug": "why-there-is",
+        "description": "Article URL: https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/ Comments URL: https://news.ycombinator.com/item?id=46931347 Points: 18 # Comments: 6",
+        "summary": "Article URL: https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/ Comments URL: https://news.ycombinator.com/item?id=46931347 Points: 18 # Comments: 6",
+        "link": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-08T04:34:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "API Status Check vs Downdetector",
+        "slug": "api-status-check-vs-downdetector",
+        "description": "DownDetector: Free: Full access Revenue: Ads API Status Check: Free: Full access to monitoring Premium (future): Advanced features (custom APIs, SLA reports) Winner: Tie (both free). API-Specific Issues Monitoring API endpoints (not just website) Tracking API response times Identifying API degradation before total failure Your need: Monitor Stripe API to prevent payment failures.",
+        "summary": "DownDetector: Free: Full access Revenue: Ads API Status Check: Free: Full access to monitoring Premium (future): Advanced features (custom APIs, SLA reports) Winner: Tie (both free). API-Specific Issues Monitoring API endpoints (not just website) Tracking API response times Identifying API degradation before total failure Your need: Monitor Stripe API to prevent payment failures.",
+        "link": "https://dev.to/shibley/api-status-check-vs-downdetector-which-is-better-for-developers-2gkj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-08T04:28:04.000Z",
+        "keywords": [
+          "api",
+          "devops",
+          "monitoring",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "api",
+          "devops",
+          "monitoring"
+        ],
+        "pros": [
+          "Great for api",
+          "devops-ready automation",
+          "Great for api"
+        ],
+        "cons": [
+          "Overkill for api experiments",
+          "Needs extra setup for devops workflows",
+          "Overkill for api experiments"
+        ],
+        "highlights": [
+          "DownDetector: Free: Full access Revenue: Ads API Status Check: Free: Full access to monitoring Premium (future): Advanced features (custom APIs, SLA reports) Winner: Tie (both free).",
+          "API-Specific Issues Monitoring API endpoints (not just website) Tracking API response times Identifying API degradation before total failure Your need: Monitor Stripe API to prevent payment failures.",
+          "But if you're a developer relying on Stripe, OpenAI, or AWS APIs, you need something built specifically for API monitoring, not social media status checks."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Bye Bye Humanity",
+        "slug": "bye-bye-humanity",
+        "description": "Article URL: https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/ Comments URL: https://news.ycombinator.com/item?id=46931026 Points: 45 # Comments: 27",
+        "summary": "Article URL: https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/ Comments URL: https://news.ycombinator.com/item?id=46931026 Points: 45 # Comments: 27",
+        "link": "https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-08T03:20:33.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-07T06:25:55.743Z",
     "lastUpdated": "2026-02-07T06:25:55.743Z",
     "visibleDate": "Feb 7, 2026",

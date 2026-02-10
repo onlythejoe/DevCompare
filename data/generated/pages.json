@@ -7,6 +7,651 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-10T06:50:36.128Z",
+    "lastUpdated": "2026-02-10T06:50:36.128Z",
+    "visibleDate": "Feb 10, 2026",
+    "url": "pages/2026-02-10-065036128-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-10-065036128-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The logos, ethos,",
+      "Stop Pretending You're Not Exhausted by AI",
+      "Frontier AI agents"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include The logos, ethos,, Stop Pretending You're Not Exhausted by AI, Frontier AI",
+    "tools": [
+      {
+        "name": "The logos, ethos,",
+        "slug": "the-logos-ethos",
+        "description": "Ryan is joined by Professor Tom Griffiths, the head of Princeton University’s AI Lab, to dive into findings from his new book The Laws of Thought, which explores the history of the philosophy, mathematics, and logic that underlie artificial intelligence, and scientists' efforts to describe our minds using mathematics.",
+        "summary": "Ryan is joined by Professor Tom Griffiths, the head of Princeton University’s AI Lab, to dive into findings from his new book The Laws of Thought, which explores the history of the philosophy, mathematics, and logic that underlie artificial intelligence, and scientists' efforts to describe our minds using mathematics.",
+        "link": "https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-10T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "neural-networks",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Stop Pretending You're Not Exhausted by AI",
+        "slug": "stop-pretending-you-re-not-exhausted-by-ai",
+        "description": "You can't just say \"make this better.\" You need to specify the tone, the audience, the format, the length, what to include, what to exclude, and probably throw in \"act as a senior developer\" for good measure. I was drowning.</p> <h2> The Dirty Secret Nobody in Tech Wants to Admit </h2> <p>Here's a number that should scare you: the average knowledge worker now interacts with <strong>4.2 different AI tools daily</strong>.",
+        "summary": "You can't just say \"make this better.\" You need to specify the tone, the audience, the format, the length, what to include, what to exclude, and probably throw in \"act as a senior developer\" for good measure. I was drowning.</p> <h2> The Dirty Secret Nobody in Tech Wants to Admit </h2> <p>Here's a number that should scare you: the average knowledge worker now interacts with <strong>4.2 different AI tools daily</strong>.",
+        "link": "https://dev.to/newsman/stop-pretending-youre-not-exhausted-by-ai-we-all-are-5blo",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-10T06:37:37.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "That slightly-too-polished, aggressively-helpful, suspiciously-balanced tone that makes every piece of content sound like it was written by the same eager intern.",
+          "That slightly-too-polished, aggressively-helpful, suspiciously-balanced tone that makes every piece of content sound like it was written by the same eager intern.",
+          "The tech industry has spent three years asking \"How can AI make us more productive?\" Maybe it's time for a different question: \"What should we protect from AI?\" Not everything needs to be optimized."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Frontier AI agents",
+        "slug": "frontier-ai-agents",
+        "description": "Article URL: https://arxiv.org/abs/2512.20798 Comments URL: https://news.ycombinator.com/item?id=46954920 Points: 151 # Comments: 92",
+        "summary": "Article URL: https://arxiv.org/abs/2512.20798 Comments URL: https://news.ycombinator.com/item?id=46954920 Points: 151 # Comments: 92",
+        "link": "https://arxiv.org/abs/2512.20798",
+        "source": "Hacker News",
+        "isoDate": "2026-02-10T03:17:17.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Rust implementation of",
+        "slug": "rust-implementation-of",
+        "description": "Article URL: https://github.com/TrevorS/voxtral-mini-realtime-rs Comments URL: https://news.ycombinator.com/item?id=46954136 Points: 119 # Comments: 16",
+        "summary": "Article URL: https://github.com/TrevorS/voxtral-mini-realtime-rs Comments URL: https://news.ycombinator.com/item?id=46954136 Points: 119 # Comments: 16",
+        "link": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+        "source": "Hacker News",
+        "isoDate": "2026-02-10T01:26:42.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Pure C, CPU-only",
+        "slug": "pure-c-cpu-only",
+        "description": "Article URL: https://github.com/antirez/voxtral.c Comments URL: https://news.ycombinator.com/item?id=46954049 Points: 56 # Comments: 3",
+        "summary": "Article URL: https://github.com/antirez/voxtral.c Comments URL: https://news.ycombinator.com/item?id=46954049 Points: 56 # Comments: 3",
+        "link": "https://github.com/antirez/voxtral.c",
+        "source": "Hacker News",
+        "isoDate": "2026-02-10T01:17:35.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-10T06:50:36.128Z",
+    "lastUpdated": "2026-02-10T06:50:36.128Z",
+    "visibleDate": "Feb 10, 2026",
+    "url": "pages/2026-02-10-065036128-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-10-065036128-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The logos, ethos,",
+      "Stop Pretending You're Not Exhausted by AI",
+      "Frontier AI agents"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include The logos, ethos,, Stop Pretending You're Not Exhausted by AI, Fro",
+    "tools": [
+      {
+        "name": "The logos, ethos,",
+        "slug": "the-logos-ethos",
+        "description": "Ryan is joined by Professor Tom Griffiths, the head of Princeton University’s AI Lab, to dive into findings from his new book The Laws of Thought, which explores the history of the philosophy, mathematics, and logic that underlie artificial intelligence, and scientists' efforts to describe our minds using mathematics.",
+        "summary": "Ryan is joined by Professor Tom Griffiths, the head of Princeton University’s AI Lab, to dive into findings from his new book The Laws of Thought, which explores the history of the philosophy, mathematics, and logic that underlie artificial intelligence, and scientists' efforts to describe our minds using mathematics.",
+        "link": "https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-10T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "neural-networks",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Stop Pretending You're Not Exhausted by AI",
+        "slug": "stop-pretending-you-re-not-exhausted-by-ai",
+        "description": "You can't just say \"make this better.\" You need to specify the tone, the audience, the format, the length, what to include, what to exclude, and probably throw in \"act as a senior developer\" for good measure. I was drowning.</p> <h2> The Dirty Secret Nobody in Tech Wants to Admit </h2> <p>Here's a number that should scare you: the average knowledge worker now interacts with <strong>4.2 different AI tools daily</strong>.",
+        "summary": "You can't just say \"make this better.\" You need to specify the tone, the audience, the format, the length, what to include, what to exclude, and probably throw in \"act as a senior developer\" for good measure. I was drowning.</p> <h2> The Dirty Secret Nobody in Tech Wants to Admit </h2> <p>Here's a number that should scare you: the average knowledge worker now interacts with <strong>4.2 different AI tools daily</strong>.",
+        "link": "https://dev.to/newsman/stop-pretending-youre-not-exhausted-by-ai-we-all-are-5blo",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-10T06:37:37.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "That slightly-too-polished, aggressively-helpful, suspiciously-balanced tone that makes every piece of content sound like it was written by the same eager intern.",
+          "That slightly-too-polished, aggressively-helpful, suspiciously-balanced tone that makes every piece of content sound like it was written by the same eager intern.",
+          "The tech industry has spent three years asking \"How can AI make us more productive?\" Maybe it's time for a different question: \"What should we protect from AI?\" Not everything needs to be optimized."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Frontier AI agents",
+        "slug": "frontier-ai-agents",
+        "description": "Article URL: https://arxiv.org/abs/2512.20798 Comments URL: https://news.ycombinator.com/item?id=46954920 Points: 151 # Comments: 92",
+        "summary": "Article URL: https://arxiv.org/abs/2512.20798 Comments URL: https://news.ycombinator.com/item?id=46954920 Points: 151 # Comments: 92",
+        "link": "https://arxiv.org/abs/2512.20798",
+        "source": "Hacker News",
+        "isoDate": "2026-02-10T03:17:17.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Rust implementation of",
+        "slug": "rust-implementation-of",
+        "description": "Article URL: https://github.com/TrevorS/voxtral-mini-realtime-rs Comments URL: https://news.ycombinator.com/item?id=46954136 Points: 119 # Comments: 16",
+        "summary": "Article URL: https://github.com/TrevorS/voxtral-mini-realtime-rs Comments URL: https://news.ycombinator.com/item?id=46954136 Points: 119 # Comments: 16",
+        "link": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+        "source": "Hacker News",
+        "isoDate": "2026-02-10T01:26:42.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-10T06:50:36.128Z",
+    "lastUpdated": "2026-02-10T06:50:36.128Z",
+    "visibleDate": "Feb 10, 2026",
+    "url": "pages/2026-02-10-065036128-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-10-065036128-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The logos, ethos,",
+      "Stop Pretending You're Not Exhausted by AI"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include The logos, ethos,, Stop Pretending You're Not Exh",
+    "tools": [
+      {
+        "name": "The logos, ethos,",
+        "slug": "the-logos-ethos",
+        "description": "Ryan is joined by Professor Tom Griffiths, the head of Princeton University’s AI Lab, to dive into findings from his new book The Laws of Thought, which explores the history of the philosophy, mathematics, and logic that underlie artificial intelligence, and scientists' efforts to describe our minds using mathematics.",
+        "summary": "Ryan is joined by Professor Tom Griffiths, the head of Princeton University’s AI Lab, to dive into findings from his new book The Laws of Thought, which explores the history of the philosophy, mathematics, and logic that underlie artificial intelligence, and scientists' efforts to describe our minds using mathematics.",
+        "link": "https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-10T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "neural-networks",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Stop Pretending You're Not Exhausted by AI",
+        "slug": "stop-pretending-you-re-not-exhausted-by-ai",
+        "description": "You can't just say \"make this better.\" You need to specify the tone, the audience, the format, the length, what to include, what to exclude, and probably throw in \"act as a senior developer\" for good measure. I was drowning.</p> <h2> The Dirty Secret Nobody in Tech Wants to Admit </h2> <p>Here's a number that should scare you: the average knowledge worker now interacts with <strong>4.2 different AI tools daily</strong>.",
+        "summary": "You can't just say \"make this better.\" You need to specify the tone, the audience, the format, the length, what to include, what to exclude, and probably throw in \"act as a senior developer\" for good measure. I was drowning.</p> <h2> The Dirty Secret Nobody in Tech Wants to Admit </h2> <p>Here's a number that should scare you: the average knowledge worker now interacts with <strong>4.2 different AI tools daily</strong>.",
+        "link": "https://dev.to/newsman/stop-pretending-youre-not-exhausted-by-ai-we-all-are-5blo",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-10T06:37:37.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "That slightly-too-polished, aggressively-helpful, suspiciously-balanced tone that makes every piece of content sound like it was written by the same eager intern.",
+          "That slightly-too-polished, aggressively-helpful, suspiciously-balanced tone that makes every piece of content sound like it was written by the same eager intern.",
+          "The tech industry has spent three years asking \"How can AI make us more productive?\" Maybe it's time for a different question: \"What should we protect from AI?\" Not everything needs to be optimized."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-10T06:50:36.128Z",
+    "lastUpdated": "2026-02-10T06:50:36.128Z",
+    "visibleDate": "Feb 10, 2026",
+    "url": "pages/2026-02-10-065036128-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-10-065036128-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The logos, ethos,",
+      "Stop Pretending You're Not Exhausted by AI",
+      "Frontier AI agents"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include The logos, ethos,, Stop Pretending You're Not Exhausted by AI, Frontier ",
+    "tools": [
+      {
+        "name": "The logos, ethos,",
+        "slug": "the-logos-ethos",
+        "description": "Ryan is joined by Professor Tom Griffiths, the head of Princeton University’s AI Lab, to dive into findings from his new book The Laws of Thought, which explores the history of the philosophy, mathematics, and logic that underlie artificial intelligence, and scientists' efforts to describe our minds using mathematics.",
+        "summary": "Ryan is joined by Professor Tom Griffiths, the head of Princeton University’s AI Lab, to dive into findings from his new book The Laws of Thought, which explores the history of the philosophy, mathematics, and logic that underlie artificial intelligence, and scientists' efforts to describe our minds using mathematics.",
+        "link": "https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-10T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "neural-networks",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Stop Pretending You're Not Exhausted by AI",
+        "slug": "stop-pretending-you-re-not-exhausted-by-ai",
+        "description": "You can't just say \"make this better.\" You need to specify the tone, the audience, the format, the length, what to include, what to exclude, and probably throw in \"act as a senior developer\" for good measure. I was drowning.</p> <h2> The Dirty Secret Nobody in Tech Wants to Admit </h2> <p>Here's a number that should scare you: the average knowledge worker now interacts with <strong>4.2 different AI tools daily</strong>.",
+        "summary": "You can't just say \"make this better.\" You need to specify the tone, the audience, the format, the length, what to include, what to exclude, and probably throw in \"act as a senior developer\" for good measure. I was drowning.</p> <h2> The Dirty Secret Nobody in Tech Wants to Admit </h2> <p>Here's a number that should scare you: the average knowledge worker now interacts with <strong>4.2 different AI tools daily</strong>.",
+        "link": "https://dev.to/newsman/stop-pretending-youre-not-exhausted-by-ai-we-all-are-5blo",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-10T06:37:37.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "That slightly-too-polished, aggressively-helpful, suspiciously-balanced tone that makes every piece of content sound like it was written by the same eager intern.",
+          "That slightly-too-polished, aggressively-helpful, suspiciously-balanced tone that makes every piece of content sound like it was written by the same eager intern.",
+          "The tech industry has spent three years asking \"How can AI make us more productive?\" Maybe it's time for a different question: \"What should we protect from AI?\" Not everything needs to be optimized."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Frontier AI agents",
+        "slug": "frontier-ai-agents",
+        "description": "Article URL: https://arxiv.org/abs/2512.20798 Comments URL: https://news.ycombinator.com/item?id=46954920 Points: 151 # Comments: 92",
+        "summary": "Article URL: https://arxiv.org/abs/2512.20798 Comments URL: https://news.ycombinator.com/item?id=46954920 Points: 151 # Comments: 92",
+        "link": "https://arxiv.org/abs/2512.20798",
+        "source": "Hacker News",
+        "isoDate": "2026-02-10T03:17:17.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-09T06:50:31.831Z",
     "lastUpdated": "2026-02-09T06:50:31.831Z",
     "visibleDate": "Feb 9, 2026",

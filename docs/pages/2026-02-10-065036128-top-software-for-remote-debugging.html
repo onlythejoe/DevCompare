@@ -1,0 +1,672 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Top Software for Remote Debugging and Observability</title>
+    <meta name="description" content="The most cited tools for tracing, remote debugging, and incident analysis. Highlights include The logos, ethos,, Stop Pretending You're Not Exhausted by AI, Fro">
+    <link rel="canonical" href="https://onlythejoe.github.io/DevCompare/pages/2026-02-10-065036128-top-software-for-remote-debugging.html">
+    <meta property="og:title" content="Top Software for Remote Debugging and Observability · DevCompare">
+    <meta property="og:description" content="The most cited tools for tracing, remote debugging, and incident analysis. Highlights include The logos, ethos,, Stop Pretending You're Not Exhausted by AI, Fro">
+    <meta property="og:url" content="https://onlythejoe.github.io/DevCompare/pages/2026-02-10-065036128-top-software-for-remote-debugging.html">
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="2026-02-10T06:50:36.128Z">
+    <meta property="article:modified_time" content="2026-02-10T06:50:36.128Z">
+    <link rel="alternate" type="application/rss+xml" href="rss.xml">
+    <style>
+      :root {
+        --bg: #020408;
+        --surface: #0a1120;
+        --border: #1f2937;
+        --accent: #51d6ff;
+        --muted: #9bb3ce;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: #f0f4ff;
+        font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        min-height: 100vh;
+      }
+      .site-nav {
+        background: rgba(2, 4, 8, 0.95);
+        padding: 1rem 2rem;
+        border-bottom: 1px solid var(--border);
+        position: sticky;
+        top: 0;
+        z-index: 5;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1rem;
+      }
+      .site-logo span {
+        font-weight: 700;
+        font-size: 1.1rem;
+      }
+      .site-logo small {
+        display: block;
+        color: var(--muted);
+        font-size: 0.75rem;
+      }
+      .nav-links {
+        display: flex;
+        gap: 0.75rem;
+        flex-wrap: wrap;
+      }
+      .nav-links a {
+        text-decoration: none;
+        color: #edf4ff;
+        padding-bottom: 0.15rem;
+      }
+      .nav-links a:hover {
+        border-bottom: 2px solid var(--accent);
+      }
+      main {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 2rem;
+      }
+      .content {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 18px;
+        padding: 2rem;
+        box-shadow: 0 20px 60px rgba(0,0,0,0.35);
+      }
+      h1, h2, h3 {
+        margin-top: 0;
+      }
+      h2 {
+        margin-top: 2rem;
+      }
+      h3 {
+        margin-top: 1.5rem;
+      }
+      h1 {
+        font-size: 2.2rem;
+      }
+      .eyebrow {
+        color: var(--muted);
+        text-transform: uppercase;
+        letter-spacing: 0.2em;
+        font-size: 0.7rem;
+      }
+      .key-facts {
+        display: grid;
+        gap: 0.5rem;
+        padding: 1rem;
+        background: rgba(81, 214, 255, 0.06);
+        border-radius: 12px;
+        border: 1px solid rgba(81, 214, 255, 0.3);
+      }
+      .key-facts ul {
+        margin: 0.5rem 0 0;
+        padding-left: 1.25rem;
+      }
+      .section-block {
+        margin-top: 1.75rem;
+        padding: 1.25rem;
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        background: rgba(7, 12, 25, 0.9);
+      }
+      .section-block p {
+        color: #d9e6ff;
+        line-height: 1.6;
+      }
+      .callout {
+        margin: 1rem 0;
+        padding: 1rem;
+        border-radius: 12px;
+        border: 1px solid rgba(81, 214, 255, 0.35);
+        background: rgba(81, 214, 255, 0.08);
+      }
+      .callout ul {
+        margin: 0.5rem 0 0;
+        padding-left: 1.25rem;
+      }
+      .tag-block {
+        margin-top: 1rem;
+      }
+      .tag-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4rem;
+        margin-top: 0.5rem;
+      }
+      .tag-list .pill {
+        background: rgba(255, 255, 255, 0.08);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        padding: 0.2rem 0.6rem;
+        border-radius: 999px;
+        font-size: 0.75rem;
+      }
+      .fact-grid {
+        display: grid;
+        gap: 0.75rem;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      }
+      .fact-grid div {
+        display: grid;
+        gap: 0.25rem;
+        padding: 0.75rem;
+        border-radius: 12px;
+        background: rgba(255, 255, 255, 0.04);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+      }
+      .fact-grid strong {
+        color: var(--accent);
+      }
+      .comparison-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 1rem;
+      }
+      .comparison-table th,
+      .comparison-table td {
+        border: 1px solid var(--border);
+        padding: 0.6rem 0.8rem;
+        text-align: left;
+      }
+      .comparison-table th {
+        background: rgba(81, 214, 255, 0.1);
+      }
+      .tool-section {
+        margin-top: 2rem;
+        padding-top: 1rem;
+        border-top: 1px solid var(--border);
+      }
+      .tool-meta {
+        margin-top: 1rem;
+        padding: 1rem;
+        background: rgba(255, 255, 255, 0.03);
+        border-radius: 12px;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+      }
+      .related-links {
+        margin-top: 2rem;
+        padding-top: 1.5rem;
+        border-top: 1px solid var(--border);
+      }
+      .related-links ul {
+        list-style: none;
+        padding: 0;
+        margin: 0.75rem 0 0;
+        display: grid;
+        gap: 0.5rem;
+      }
+      .related-links a {
+        color: #f0f4ff;
+        text-decoration: none;
+      }
+      .muted {
+        color: var(--muted);
+      }
+      .list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: grid;
+        gap: 0.75rem;
+      }
+      .list li {
+        padding: 1rem;
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        background: #070c19;
+      }
+      .list-line {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.5rem;
+      }
+      .list-line a {
+        font-size: 1rem;
+        font-weight: 600;
+        color: #f9fbff;
+        text-decoration: none;
+      }
+      .list-meta {
+        display: flex;
+        justify-content: space-between;
+        color: var(--muted);
+        font-size: 0.85rem;
+        margin-top: 0.35rem;
+      }
+      .card {
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        padding: 1rem 1.25rem;
+        background: #0a1120;
+        margin-bottom: 1rem;
+      }
+      .card-meta {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 0.85rem;
+        color: var(--muted);
+      }
+      .chips {
+        display: flex;
+        gap: 0.4rem;
+        flex-wrap: wrap;
+      }
+      .chips .pill {
+        background: rgba(255, 255, 255, 0.08);
+        border: 1px solid rgba(255, 255, 255, 0.12);
+      }
+      .category-block {
+        margin-bottom: 1.25rem;
+      }
+      .micro-link {
+        color: var(--accent);
+        font-size: 0.85rem;
+        text-decoration: none;
+      }
+      .section-heading {
+        margin-bottom: 1.5rem;
+      }
+      footer {
+        text-align: center;
+        padding: 1rem;
+        color: var(--muted);
+      }
+      @media (max-width: 640px) {
+        .site-nav {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+        main {
+          padding: 1rem;
+        }
+        .content {
+          padding: 1.5rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    
+    <nav class="site-nav">
+      <div class="site-logo">
+        <span>DevCompare</span>
+        <small>Persistent DevOps intelligence</small>
+      </div>
+      <div class="nav-links">
+        <a href="../index.html">Home</a><a href="../categories.html">Categories</a><a href="../archive.html">Archive</a><a href="../latest.html">Latest</a><a href="../about.html">About</a>
+      </div>
+    </nav>
+  
+    <main>
+      <article class="content">
+        <h1>Top Software for Remote Debugging and Observability</h1>
+<blockquote>
+<p>Published: Feb 10, 2026</p>
+</blockquote>
+<blockquote>
+<p>Updated: Feb 10, 2026</p>
+</blockquote>
+<h2>Machine Summary</h2>
+<ul>
+<li><strong>Focus</strong>: Debugging &amp; Observability</li>
+<li><strong>Highlights</strong>: The logos, ethos,, Stop Pretending You're Not Exhausted by AI, Frontier AI agents</li>
+<li><strong>Synopsis</strong>: Reliable remote debugging minimizes downtime and cognitive load.</li>
+<li><strong>Published</strong>: Feb 10, 2026</li>
+<li><strong>Updated</strong>: Feb 10, 2026</li>
+</ul>
+<h2>Brief</h2>
+<p>The most cited tools for tracing, remote debugging, and incident analysis.</p>
+<div class="callout">
+  <strong>Key sentences</strong>
+  <ul><li>Reliable remote debugging minimizes downtime and cognitive load.</li></ul>
+</div>
+<section class="section-block key-facts">
+  <h2>Key facts</h2>
+  <ul>
+    <li><strong>Categories</strong>: Developer Productivity</li>
+    <li><strong>Spotlight tools</strong>: The logos, ethos,, Stop Pretending You're Not Exhausted by AI, Frontier AI agents</li>
+    <li><strong>Focus area</strong>: Debugging & Observability</li>
+    <li><strong>Summary</strong>: Reliable remote debugging minimizes downtime and cognitive load.</li>
+    <li><strong>Chronology</strong>: Published Feb 10, 2026, archived with automated records</li>
+  </ul>
+</section>
+<section class="section-block">
+  <h2>Fact sheet</h2>
+  <div class="fact-grid">
+    <div><strong>Snapshots</strong><span>4 tools</span></div>
+    <div><strong>Mentions</strong><span>4</span></div>
+    <div><strong>Sources</strong><span>3</span></div>
+    <div><strong>Topics</strong><span>podcast, se-tech, se-stackoverflow, ai, neural-networks, dev, productivity, tools</span></div>
+    <div><strong>Entities</strong><span>The logos, ethos,, Stop Pretending You're Not Exhausted by AI, Frontier AI agents, Rust implementation of</span></div>
+    <div><strong>Coverage</strong><span>Debugging & Observability</span></div>
+  </div>
+</section>
+<section class="section-block">
+<h2>Keywords & tags</h2>
+<div class="tag-list"><span class="pill">developer productivity</span><span class="pill">podcast</span><span class="pill">se-tech</span><span class="pill">se-stackoverflow</span><span class="pill">ai</span><span class="pill">neural-networks</span><span class="pill">dev</span><span class="pill">productivity</span><span class="pill">tools</span><span class="pill">beginners</span><span class="pill">saas</span><span class="pill">software</span></div>
+</section>
+<section class="section-block">
+  <h2>Context</h2>
+  <p>The most cited tools for tracing, remote debugging, and incident analysis. Ryan is joined by Professor Tom Griffiths, the head of Princeton University’s AI Lab, to dive into findings from his new book The Laws of Thought, which explores the history of the philosophy, mathematics, and logic that underlie artificial intelligence, and scientists' efforts to describe our minds using mathematics.</p><p>You can't just say "make this better." You need to specify the tone, the audience, the format, the length, what to include, what to exclude, and probably throw in "act as a senior developer" for good measure. I was drowning.</p> <h2> The Dirty Secret Nobody in Tech Wants to Admit </h2> <p>Here's a number that should scare you: the average knowledge worker now interacts with <strong>4.2 different AI tools daily</strong>.</p><p>Article URL: https://arxiv.org/abs/2512.20798 Comments URL: https://news.ycombinator.com/item?id=46954920 Points: 151 # Comments: 92 Article URL: https://github.com/TrevorS/voxtral-mini-realtime-rs Comments URL: https://news.ycombinator.com/item?id=46954136 Points: 119 # Comments: 16</p>
+</section>
+<section class="section-block">
+  <h2>Features</h2>
+  <ul><li>podcast</li><li>se tech</li><li>se stackoverflow</li><li>ai</li><li>neural networks</li><li>dev</li><li>productivity</li><li>tools</li></ul>
+</section>
+<section class="section-block">
+  <h2>Use cases</h2>
+  <ul><li>podcast</li><li>se tech</li><li>se stackoverflow</li><li>ai</li><li>productivity</li><li>tools</li></ul>
+</section>
+<section class="section-block">
+  <h2>Limits</h2>
+  <ul><li>Overkill for podcast experiments</li><li>Needs extra setup for se tech workflows</li><li>Overkill for ai experiments</li><li>Needs extra setup for productivity workflows</li><li>Overkill for dev experiments</li><li>Needs extra setup for tools workflows</li></ul>
+</section>
+<section class="tool-section">
+### The logos, ethos,
+Ryan is joined by Professor Tom Griffiths, the head of Princeton University’s AI Lab, to dive into findings from his new book The Laws of Thought, which explores the history of the philosophy, mathematics, and logic that underlie artificial intelligence, and scientists' efforts to describe our minds using mathematics.
+<div class="callout">
+  <strong>Key sentences</strong>
+  <ul><li>Ryan is joined by Professor Tom Griffiths, the head of Princeton University’s AI Lab, to dive into findings from his new book The Laws of Thought, which explores the history of the philosophy, mathematics, and logic that underlie artificial intelligence, and scientists' efforts to describe our minds using mathematics.</li><li>Ryan is joined by Professor Tom Griffiths, the head of Princeton University’s AI Lab, to dive into findings from his new book The Laws of Thought, which explores the history of the philosophy, mathematics, and logic that underlie artificial intelligence, and scientists' efforts to describe our minds using mathematics.</li></ul>
+</div>
+<div class="tool-meta">
+- **Source**: [StackOverflow Blog](https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/)
+- **Pricing**: Pricing varies; check vendor site
+- **Use cases**:
+  - podcast
+  - se tech
+  - se stackoverflow
+- **Pros**:
+  - Great for podcast
+  - se tech-ready automation
+  - Great for podcast
+- **Cons**:
+  - Overkill for podcast experiments
+  - Needs extra setup for se tech workflows
+  - Overkill for podcast experiments
+</div>
+<div class="tag-block">
+<strong>Keywords</strong>
+<div class="tag-list"><span class="pill">podcast</span><span class="pill">se-tech</span><span class="pill">se-stackoverflow</span><span class="pill">ai</span><span class="pill">neural-networks</span><span class="pill">dev</span></div>
+</div>
+</section>
+<section class="tool-section">
+### Stop Pretending You're Not Exhausted by AI
+You can't just say "make this better." You need to specify the tone, the audience, the format, the length, what to include, what to exclude, and probably throw in "act as a senior developer" for good measure. I was drowning.</p> <h2> The Dirty Secret Nobody in Tech Wants to Admit </h2> <p>Here's a number that should scare you: the average knowledge worker now interacts with <strong>4.2 different AI tools daily</strong>.
+<div class="callout">
+  <strong>Key sentences</strong>
+  <ul><li>I was drowning.</p> <h2> The Dirty Secret Nobody in Tech Wants to Admit </h2> <p>Here's a number that should scare you: the average knowledge worker now interacts with <strong>4.2 different AI tools daily</strong>.</li><li>I was drowning.</p> <h2> The Dirty Secret Nobody in Tech Wants to Admit </h2> <p>Here's a number that should scare you: the average knowledge worker now interacts with <strong>4.2 different AI tools daily</strong>.</li><li>You can't just say "make this better." You need to specify the tone, the audience, the format, the length, what to include, what to exclude, and probably throw in "act as a senior developer" for good measure.</li></ul>
+</div>
+<div class="tool-meta">
+- **Source**: [Dev.to Tools](https://dev.to/newsman/stop-pretending-youre-not-exhausted-by-ai-we-all-are-5blo)
+- **Pricing**: Free tier available
+- **Use cases**:
+  - ai
+  - productivity
+  - tools
+- **Pros**:
+  - Great for ai
+  - productivity-ready automation
+  - Great for ai
+- **Cons**:
+  - Overkill for ai experiments
+  - Needs extra setup for productivity workflows
+  - Overkill for ai experiments
+</div>
+<div class="tag-block">
+<strong>Keywords</strong>
+<div class="tag-list"><span class="pill">ai</span><span class="pill">productivity</span><span class="pill">tools</span><span class="pill">beginners</span><span class="pill">dev</span><span class="pill">saas</span></div>
+</div>
+</section>
+<section class="tool-section">
+### Frontier AI agents
+Article URL: https://arxiv.org/abs/2512.20798 Comments URL: https://news.ycombinator.com/item?id=46954920 Points: 151 # Comments: 92
+<div class="callout">
+  <strong>Key sentences</strong>
+  <ul><li>Article URL: https://arxiv.org/abs/2512.20798 Comments URL: https://news.ycombinator.com/item?id=46954920 Points: 151 # Comments: 92 Article URL: https://arxiv.org/abs/2512.20798 Comments URL: https://news.ycombinator.com/item?id=46954920 Points: 151 # Comments: 92</li></ul>
+</div>
+<div class="tool-meta">
+- **Source**: [Hacker News](https://arxiv.org/abs/2512.20798)
+- **Pricing**: Pricing varies; check vendor site
+- **Use cases**:
+  - dev
+  - tools
+  - saas
+- **Pros**:
+  - Great for dev
+  - tools-ready automation
+  - Great for dev
+- **Cons**:
+  - Overkill for dev experiments
+  - Needs extra setup for tools workflows
+  - Overkill for dev experiments
+</div>
+<div class="tag-block">
+<strong>Keywords</strong>
+<div class="tag-list"><span class="pill">dev</span><span class="pill">tools</span><span class="pill">saas</span><span class="pill">software</span><span class="pill">productivity</span><span class="pill">url</span></div>
+</div>
+</section>
+<section class="tool-section">
+### Rust implementation of
+Article URL: https://github.com/TrevorS/voxtral-mini-realtime-rs Comments URL: https://news.ycombinator.com/item?id=46954136 Points: 119 # Comments: 16
+<div class="callout">
+  <strong>Key sentences</strong>
+  <ul><li>Article URL: https://github.com/TrevorS/voxtral-mini-realtime-rs Comments URL: https://news.ycombinator.com/item?id=46954136 Points: 119 # Comments: 16 Article URL: https://github.com/TrevorS/voxtral-mini-realtime-rs Comments URL: https://news.ycombinator.com/item?id=46954136 Points: 119 # Comments: 16</li></ul>
+</div>
+<div class="tool-meta">
+- **Source**: [Hacker News](https://github.com/TrevorS/voxtral-mini-realtime-rs)
+- **Pricing**: Pricing varies; check vendor site
+- **Use cases**:
+  - dev
+  - tools
+  - saas
+- **Pros**:
+  - Great for dev
+  - tools-ready automation
+  - Great for dev
+- **Cons**:
+  - Overkill for dev experiments
+  - Needs extra setup for tools workflows
+  - Overkill for dev experiments
+</div>
+<div class="tag-block">
+<strong>Keywords</strong>
+<div class="tag-list"><span class="pill">dev</span><span class="pill">tools</span><span class="pill">saas</span><span class="pill">software</span><span class="pill">productivity</span><span class="pill">url</span></div>
+</div>
+</section>
+<blockquote>
+<p>Summary: Reliable remote debugging minimizes downtime and cognitive load.</p>
+</blockquote>
+<h2>Summary Block</h2>
+<ul>
+<li>
+<p><strong>Last updated</strong>: Feb 10, 2026</p>
+</li>
+<li>
+<p><strong>Focus</strong>: Debugging &amp; Observability</p>
+</li>
+</ul>
+<h2>Concluding Thoughts</h2>
+<p>Combine teleportation-like tooling with rich traces to spot regressions sooner.</p>
+<h2>FAQ</h2>
+<ul>
+<li><strong>How often does DevCompare refresh this page?</strong> Daily automation pipelines fetch RSS updates, snapshot the context, and publish a new dated summary.</li>
+<li><strong>Can I get notified when new comparisons publish?</strong> Subscribe to the RSS feed at rss.xml or follow the GitHub Pages release history.</li>
+<li><strong>Where do affiliate links point?</strong> Every affiliate link resolves to vetted partners from config/affiliate.json.</li>
+<li><strong>How are archives and categories maintained?</strong> Every pipeline run archives dated reports, assigns them to categories, and keeps the history intact.</li>
+</ul>
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Top Software for Remote Debugging and Observability",
+    "url": "https://onlythejoe.github.io/DevCompare/pages/2026-02-10-065036128-top-software-for-remote-debugging.html",
+    "name": "Top Software for Remote Debugging and Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "datePublished": "2026-02-10T06:50:36.128Z",
+    "dateModified": "2026-02-10T06:50:36.128Z",
+    "author": {
+      "@type": "Organization",
+      "name": "DevCompare"
+    },
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "The logos, ethos,",
+        "url": "https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/"
+      },
+      {
+        "@type": "Thing",
+        "name": "Stop Pretending You're Not Exhausted by AI",
+        "url": "https://dev.to/newsman/stop-pretending-youre-not-exhausted-by-ai-we-all-are-5blo"
+      },
+      {
+        "@type": "Thing",
+        "name": "Frontier AI agents",
+        "url": "https://arxiv.org/abs/2512.20798"
+      }
+    ],
+    "articleSection": [
+      "Developer Productivity"
+    ],
+    "keywords": "Developer Productivity, podcast, se-tech, se-stackoverflow, ai, neural-networks, dev, productivity, tools, beginners, saas, software, url"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How often does DevCompare refresh this page?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Daily automation pipelines fetch RSS updates, snapshot the context, and publish a new dated summary."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I get notified when new comparisons publish?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Subscribe to the RSS feed at rss.xml or follow the GitHub Pages release history."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Where do affiliate links point?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Every affiliate link resolves to vetted partners from config/affiliate.json."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How are archives and categories maintained?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Every pipeline run archives dated reports, assigns them to categories, and keeps the history intact."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "DevCompare",
+        "item": "https://onlythejoe.github.io/DevCompare/index.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Top Software for Remote Debugging and Observability",
+        "item": "https://onlythejoe.github.io/DevCompare/pages/2026-02-10-065036128-top-software-for-remote-debugging.html"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "The logos, ethos,",
+    "description": "Ryan is joined by Professor Tom Griffiths, the head of Princeton University’s AI Lab, to dive into findings from his new book The Laws of Thought, which explores the history of the philosophy, mathematics, and logic that underlie artificial intelligence, and scientists' efforts to describe our minds using mathematics.",
+    "url": "https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/",
+    "brand": {
+      "@type": "Thing",
+      "name": "StackOverflow Blog"
+    },
+    "offers": {
+      "@type": "Offer",
+      "description": "Pricing varies; check vendor site",
+      "url": "https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Stop Pretending You're Not Exhausted by AI",
+    "description": "You can't just say \"make this better.\" You need to specify the tone, the audience, the format, the length, what to include, what to exclude, and probably throw in \"act as a senior developer\" for good measure. I was drowning.</p> <h2> The Dirty Secret Nobody in Tech Wants to Admit </h2> <p>Here's a number that should scare you: the average knowledge worker now interacts with <strong>4.2 different AI tools daily</strong>.",
+    "url": "https://dev.to/newsman/stop-pretending-youre-not-exhausted-by-ai-we-all-are-5blo",
+    "brand": {
+      "@type": "Thing",
+      "name": "Dev.to Tools"
+    },
+    "offers": {
+      "@type": "Offer",
+      "description": "Free tier available",
+      "url": "https://dev.to/newsman/stop-pretending-youre-not-exhausted-by-ai-we-all-are-5blo"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Frontier AI agents",
+    "description": "Article URL: https://arxiv.org/abs/2512.20798 Comments URL: https://news.ycombinator.com/item?id=46954920 Points: 151 # Comments: 92",
+    "url": "https://arxiv.org/abs/2512.20798",
+    "brand": {
+      "@type": "Thing",
+      "name": "Hacker News"
+    },
+    "offers": {
+      "@type": "Offer",
+      "description": "Pricing varies; check vendor site",
+      "url": "https://arxiv.org/abs/2512.20798"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Rust implementation of",
+    "description": "Article URL: https://github.com/TrevorS/voxtral-mini-realtime-rs Comments URL: https://news.ycombinator.com/item?id=46954136 Points: 119 # Comments: 16",
+    "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+    "brand": {
+      "@type": "Thing",
+      "name": "Hacker News"
+    },
+    "offers": {
+      "@type": "Offer",
+      "description": "Pricing varies; check vendor site",
+      "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs"
+    }
+  }
+]
+</script>
+
+    <section class="related-links">
+      <h2>Related snapshots</h2>
+      <ul><li><a href="../pages/2026-02-10-065036128-best-dev-tools-for-productivity.html">Best Developer Tools for Productivity Workflows</a></li><li><a href="../pages/2026-02-10-065036128-new-collections-this-week.html">New Tools This Week: Fresh Releases in Dev Productivity</a></li><li><a href="../pages/2026-02-10-065036128-gitpod-vscode-comparison.html">Gitpod vs. VS Code: Browser IDE vs. Desktop Power</a></li></ul>
+    </section>
+  
+      </article>
+    </main>
+    <footer>DevCompare · SEO & AI search optimized · Dated snapshots archived inside /pages</footer>
+  </body>
+</html>

@@ -7,6 +7,679 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-11T06:45:51.956Z",
+    "lastUpdated": "2026-02-11T06:45:51.956Z",
+    "visibleDate": "Feb 11, 2026",
+    "url": "pages/2026-02-11-064551956-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-11-064551956-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Free AI Writing Tools in 2026",
+      "The Ultimate AI Toolkit for Small Businesses",
+      "How I Cut"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Best Free AI Writing Tools in 2026, The Ultimate AI Toolkit for Small Busi",
+    "tools": [
+      {
+        "name": "Best Free AI Writing Tools in 2026",
+        "slug": "best-free-ai-writing-tools-in-2026",
+        "description": "Cost: $0/month Daily Limit: ~10 messages per 5 hours to GPT-5.2, then fallback to GPT-4o mini Best For: Quick rewrites, social media posts, brainstorming ChatGPT's free tier got a major upgrade in late 2025. paid alternatives: $70/month (Claude Pro + ChatGPT Plus + Grammarly Pro) Quality difference: Maybe 15-20% more editing needed compared to premium tools, but honestly, the final output quality was nearly identical.",
+        "summary": "Cost: $0/month Daily Limit: ~10 messages per 5 hours to GPT-5.2, then fallback to GPT-4o mini Best For: Quick rewrites, social media posts, brainstorming ChatGPT's free tier got a major upgrade in late 2025. paid alternatives: $70/month (Claude Pro + ChatGPT Plus + Grammarly Pro) Quality difference: Maybe 15-20% more editing needed compared to premium tools, but honestly, the final output quality was nearly identical.",
+        "link": "https://dev.to/clawdfrog/best-free-ai-writing-tools-in-2026-i-tested-10-so-you-dont-have-to-521g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-11T05:45:17.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "free",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "If you're doing this professionally—writing daily, managing multiple clients, or creating content at scale—the time you spend working around limits probably costs more than just paying for the tools.",
+          "Cost: $0/month Monthly Limit: 100 AI prompts Best For: Editing, tone adjustment, grammar fixes Everyone knows Grammarly for grammar checking, but their free AI features are underrated.",
+          "Cost: $0/month Daily Limit: ~15-20 conversations Best For: Blog posts, article drafts, research summaries I'll start with my favorite because it consistently surprised me."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Ultimate AI Toolkit for Small Businesses",
+        "slug": "the-ultimate-ai-toolkit-for-small-businesses",
+        "description": "These tools have matured rapidly, and small businesses across every industry are using them to save significant time each week while producing professional-quality results at a fraction of traditional costs. Small businesses were forced to either pay enterprise prices for features they couldn't fully utilize or accept inferior results from basic tools.",
+        "summary": "These tools have matured rapidly, and small businesses across every industry are using them to save significant time each week while producing professional-quality results at a fraction of traditional costs. Small businesses were forced to either pay enterprise prices for features they couldn't fully utilize or accept inferior results from basic tools.",
+        "link": "https://dev.to/clawdfrog/the-ultimate-ai-toolkit-for-small-businesses-8-tools-to-compete-with-enterprise-software-3n86",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-11T05:34:11.000Z",
+        "keywords": [
+          "ai",
+          "business",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "business",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "business-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for business workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Small businesses were forced to either pay enterprise prices for features they couldn't fully utilize or accept inferior results from basic tools.",
+          "Small businesses can now move faster and adapt quicker than their larger competitors.</p> <p>[Previous content continues...]</p> <h2> 📚 Want more?",
+          "Traditional business software was designed for enterprises with dedicated IT departments, extensive training budgets, and teams of specialists."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Cut",
+        "slug": "how-i-cut",
+        "description": "Today, I'm running the same business operations for around $230 monthly—that's roughly a 77% reduction while actually improving our output quality.</p> <p>This isn't another \"AI will replace everything\" think piece. How I Cut My SaaS Bills by 77% Using AI Tools (Complete Guide) Published: February 9, 2026 Three months ago, I was spending over $1,000 per month on software subscriptions.",
+        "summary": "Today, I'm running the same business operations for around $230 monthly—that's roughly a 77% reduction while actually improving our output quality.</p> <p>This isn't another \"AI will replace everything\" think piece. How I Cut My SaaS Bills by 77% Using AI Tools (Complete Guide) Published: February 9, 2026 Three months ago, I was spending over $1,000 per month on software subscriptions.",
+        "link": "https://dev.to/clawdfrog/how-i-cut-my-saas-bills-by-77-using-ai-tools-complete-guide-5bp0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-11T05:33:11.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "saas",
+          "tools",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "saas"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "How I Cut My SaaS Bills by 77% Using AI Tools (Complete Guide) Published: February 9, 2026 Three months ago, I was spending over $1,000 per month on software subscriptions.",
+          "Today, I'm running the same business operations for around $230 monthly—that's roughly a 77% reduction while actually improving our output quality.",
+          "[Previous content continues...] AI Productivity Mastery — 10 chapters on using AI to 10x your workflow."
+        ],
+        "pricing": "Paid plans starting at $1",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "A simpler way",
+        "slug": "a-simpler-way",
+        "description": "Article URL: https://blog.google/products-and-platforms/products/search/remove-explicit-images/ Comments URL: https://news.ycombinator.com/item?id=46970752 Points: 30 # Comments: 22",
+        "summary": "Article URL: https://blog.google/products-and-platforms/products/search/remove-explicit-images/ Comments URL: https://news.ycombinator.com/item?id=46970752 Points: 30 # Comments: 22",
+        "link": "https://blog.google/products-and-platforms/products/search/remove-explicit-images/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-11T04:15:24.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Rivian R2",
+        "slug": "rivian-r2",
+        "description": "Article URL: https://rivian.com/r2 Comments URL: https://news.ycombinator.com/item?id=46969399 Points: 87 # Comments: 132",
+        "summary": "Article URL: https://rivian.com/r2 Comments URL: https://news.ycombinator.com/item?id=46969399 Points: 87 # Comments: 132",
+        "link": "https://rivian.com/r2",
+        "source": "Hacker News",
+        "isoDate": "2026-02-11T01:00:15.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-11T06:45:51.956Z",
+    "lastUpdated": "2026-02-11T06:45:51.956Z",
+    "visibleDate": "Feb 11, 2026",
+    "url": "pages/2026-02-11-064551956-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-11-064551956-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Free AI Writing Tools in 2026",
+      "The Ultimate AI Toolkit for Small Businesses",
+      "How I Cut"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Best Free AI Writing Tools in 2026, The Ultimate AI Toolkit for Sm",
+    "tools": [
+      {
+        "name": "Best Free AI Writing Tools in 2026",
+        "slug": "best-free-ai-writing-tools-in-2026",
+        "description": "Cost: $0/month Daily Limit: ~10 messages per 5 hours to GPT-5.2, then fallback to GPT-4o mini Best For: Quick rewrites, social media posts, brainstorming ChatGPT's free tier got a major upgrade in late 2025. paid alternatives: $70/month (Claude Pro + ChatGPT Plus + Grammarly Pro) Quality difference: Maybe 15-20% more editing needed compared to premium tools, but honestly, the final output quality was nearly identical.",
+        "summary": "Cost: $0/month Daily Limit: ~10 messages per 5 hours to GPT-5.2, then fallback to GPT-4o mini Best For: Quick rewrites, social media posts, brainstorming ChatGPT's free tier got a major upgrade in late 2025. paid alternatives: $70/month (Claude Pro + ChatGPT Plus + Grammarly Pro) Quality difference: Maybe 15-20% more editing needed compared to premium tools, but honestly, the final output quality was nearly identical.",
+        "link": "https://dev.to/clawdfrog/best-free-ai-writing-tools-in-2026-i-tested-10-so-you-dont-have-to-521g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-11T05:45:17.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "free",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "If you're doing this professionally—writing daily, managing multiple clients, or creating content at scale—the time you spend working around limits probably costs more than just paying for the tools.",
+          "Cost: $0/month Monthly Limit: 100 AI prompts Best For: Editing, tone adjustment, grammar fixes Everyone knows Grammarly for grammar checking, but their free AI features are underrated.",
+          "Cost: $0/month Daily Limit: ~15-20 conversations Best For: Blog posts, article drafts, research summaries I'll start with my favorite because it consistently surprised me."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Ultimate AI Toolkit for Small Businesses",
+        "slug": "the-ultimate-ai-toolkit-for-small-businesses",
+        "description": "These tools have matured rapidly, and small businesses across every industry are using them to save significant time each week while producing professional-quality results at a fraction of traditional costs. Small businesses were forced to either pay enterprise prices for features they couldn't fully utilize or accept inferior results from basic tools.",
+        "summary": "These tools have matured rapidly, and small businesses across every industry are using them to save significant time each week while producing professional-quality results at a fraction of traditional costs. Small businesses were forced to either pay enterprise prices for features they couldn't fully utilize or accept inferior results from basic tools.",
+        "link": "https://dev.to/clawdfrog/the-ultimate-ai-toolkit-for-small-businesses-8-tools-to-compete-with-enterprise-software-3n86",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-11T05:34:11.000Z",
+        "keywords": [
+          "ai",
+          "business",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "business",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "business-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for business workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Small businesses were forced to either pay enterprise prices for features they couldn't fully utilize or accept inferior results from basic tools.",
+          "Small businesses can now move faster and adapt quicker than their larger competitors.</p> <p>[Previous content continues...]</p> <h2> 📚 Want more?",
+          "Traditional business software was designed for enterprises with dedicated IT departments, extensive training budgets, and teams of specialists."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Cut",
+        "slug": "how-i-cut",
+        "description": "Today, I'm running the same business operations for around $230 monthly—that's roughly a 77% reduction while actually improving our output quality.</p> <p>This isn't another \"AI will replace everything\" think piece. How I Cut My SaaS Bills by 77% Using AI Tools (Complete Guide) Published: February 9, 2026 Three months ago, I was spending over $1,000 per month on software subscriptions.",
+        "summary": "Today, I'm running the same business operations for around $230 monthly—that's roughly a 77% reduction while actually improving our output quality.</p> <p>This isn't another \"AI will replace everything\" think piece. How I Cut My SaaS Bills by 77% Using AI Tools (Complete Guide) Published: February 9, 2026 Three months ago, I was spending over $1,000 per month on software subscriptions.",
+        "link": "https://dev.to/clawdfrog/how-i-cut-my-saas-bills-by-77-using-ai-tools-complete-guide-5bp0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-11T05:33:11.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "saas",
+          "tools",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "saas"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "How I Cut My SaaS Bills by 77% Using AI Tools (Complete Guide) Published: February 9, 2026 Three months ago, I was spending over $1,000 per month on software subscriptions.",
+          "Today, I'm running the same business operations for around $230 monthly—that's roughly a 77% reduction while actually improving our output quality.",
+          "[Previous content continues...] AI Productivity Mastery — 10 chapters on using AI to 10x your workflow."
+        ],
+        "pricing": "Paid plans starting at $1",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "A simpler way",
+        "slug": "a-simpler-way",
+        "description": "Article URL: https://blog.google/products-and-platforms/products/search/remove-explicit-images/ Comments URL: https://news.ycombinator.com/item?id=46970752 Points: 30 # Comments: 22",
+        "summary": "Article URL: https://blog.google/products-and-platforms/products/search/remove-explicit-images/ Comments URL: https://news.ycombinator.com/item?id=46970752 Points: 30 # Comments: 22",
+        "link": "https://blog.google/products-and-platforms/products/search/remove-explicit-images/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-11T04:15:24.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-11T06:45:51.956Z",
+    "lastUpdated": "2026-02-11T06:45:51.956Z",
+    "visibleDate": "Feb 11, 2026",
+    "url": "pages/2026-02-11-064551956-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-11-064551956-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Free AI Writing Tools in 2026",
+      "The Ultimate AI Toolkit for Small Businesses"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Best Free AI Writing Tools in 2026, The Ultimate ",
+    "tools": [
+      {
+        "name": "Best Free AI Writing Tools in 2026",
+        "slug": "best-free-ai-writing-tools-in-2026",
+        "description": "Cost: $0/month Daily Limit: ~10 messages per 5 hours to GPT-5.2, then fallback to GPT-4o mini Best For: Quick rewrites, social media posts, brainstorming ChatGPT's free tier got a major upgrade in late 2025. paid alternatives: $70/month (Claude Pro + ChatGPT Plus + Grammarly Pro) Quality difference: Maybe 15-20% more editing needed compared to premium tools, but honestly, the final output quality was nearly identical.",
+        "summary": "Cost: $0/month Daily Limit: ~10 messages per 5 hours to GPT-5.2, then fallback to GPT-4o mini Best For: Quick rewrites, social media posts, brainstorming ChatGPT's free tier got a major upgrade in late 2025. paid alternatives: $70/month (Claude Pro + ChatGPT Plus + Grammarly Pro) Quality difference: Maybe 15-20% more editing needed compared to premium tools, but honestly, the final output quality was nearly identical.",
+        "link": "https://dev.to/clawdfrog/best-free-ai-writing-tools-in-2026-i-tested-10-so-you-dont-have-to-521g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-11T05:45:17.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "free",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "If you're doing this professionally—writing daily, managing multiple clients, or creating content at scale—the time you spend working around limits probably costs more than just paying for the tools.",
+          "Cost: $0/month Monthly Limit: 100 AI prompts Best For: Editing, tone adjustment, grammar fixes Everyone knows Grammarly for grammar checking, but their free AI features are underrated.",
+          "Cost: $0/month Daily Limit: ~15-20 conversations Best For: Blog posts, article drafts, research summaries I'll start with my favorite because it consistently surprised me."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Ultimate AI Toolkit for Small Businesses",
+        "slug": "the-ultimate-ai-toolkit-for-small-businesses",
+        "description": "These tools have matured rapidly, and small businesses across every industry are using them to save significant time each week while producing professional-quality results at a fraction of traditional costs. Small businesses were forced to either pay enterprise prices for features they couldn't fully utilize or accept inferior results from basic tools.",
+        "summary": "These tools have matured rapidly, and small businesses across every industry are using them to save significant time each week while producing professional-quality results at a fraction of traditional costs. Small businesses were forced to either pay enterprise prices for features they couldn't fully utilize or accept inferior results from basic tools.",
+        "link": "https://dev.to/clawdfrog/the-ultimate-ai-toolkit-for-small-businesses-8-tools-to-compete-with-enterprise-software-3n86",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-11T05:34:11.000Z",
+        "keywords": [
+          "ai",
+          "business",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "business",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "business-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for business workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Small businesses were forced to either pay enterprise prices for features they couldn't fully utilize or accept inferior results from basic tools.",
+          "Small businesses can now move faster and adapt quicker than their larger competitors.</p> <p>[Previous content continues...]</p> <h2> 📚 Want more?",
+          "Traditional business software was designed for enterprises with dedicated IT departments, extensive training budgets, and teams of specialists."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-11T06:45:51.956Z",
+    "lastUpdated": "2026-02-11T06:45:51.956Z",
+    "visibleDate": "Feb 11, 2026",
+    "url": "pages/2026-02-11-064551956-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-11-064551956-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Free AI Writing Tools in 2026",
+      "The Ultimate AI Toolkit for Small Businesses",
+      "How I Cut"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Best Free AI Writing Tools in 2026, The Ultimate AI Toolkit for Small Bu",
+    "tools": [
+      {
+        "name": "Best Free AI Writing Tools in 2026",
+        "slug": "best-free-ai-writing-tools-in-2026",
+        "description": "Cost: $0/month Daily Limit: ~10 messages per 5 hours to GPT-5.2, then fallback to GPT-4o mini Best For: Quick rewrites, social media posts, brainstorming ChatGPT's free tier got a major upgrade in late 2025. paid alternatives: $70/month (Claude Pro + ChatGPT Plus + Grammarly Pro) Quality difference: Maybe 15-20% more editing needed compared to premium tools, but honestly, the final output quality was nearly identical.",
+        "summary": "Cost: $0/month Daily Limit: ~10 messages per 5 hours to GPT-5.2, then fallback to GPT-4o mini Best For: Quick rewrites, social media posts, brainstorming ChatGPT's free tier got a major upgrade in late 2025. paid alternatives: $70/month (Claude Pro + ChatGPT Plus + Grammarly Pro) Quality difference: Maybe 15-20% more editing needed compared to premium tools, but honestly, the final output quality was nearly identical.",
+        "link": "https://dev.to/clawdfrog/best-free-ai-writing-tools-in-2026-i-tested-10-so-you-dont-have-to-521g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-11T05:45:17.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "free",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "If you're doing this professionally—writing daily, managing multiple clients, or creating content at scale—the time you spend working around limits probably costs more than just paying for the tools.",
+          "Cost: $0/month Monthly Limit: 100 AI prompts Best For: Editing, tone adjustment, grammar fixes Everyone knows Grammarly for grammar checking, but their free AI features are underrated.",
+          "Cost: $0/month Daily Limit: ~15-20 conversations Best For: Blog posts, article drafts, research summaries I'll start with my favorite because it consistently surprised me."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Ultimate AI Toolkit for Small Businesses",
+        "slug": "the-ultimate-ai-toolkit-for-small-businesses",
+        "description": "These tools have matured rapidly, and small businesses across every industry are using them to save significant time each week while producing professional-quality results at a fraction of traditional costs. Small businesses were forced to either pay enterprise prices for features they couldn't fully utilize or accept inferior results from basic tools.",
+        "summary": "These tools have matured rapidly, and small businesses across every industry are using them to save significant time each week while producing professional-quality results at a fraction of traditional costs. Small businesses were forced to either pay enterprise prices for features they couldn't fully utilize or accept inferior results from basic tools.",
+        "link": "https://dev.to/clawdfrog/the-ultimate-ai-toolkit-for-small-businesses-8-tools-to-compete-with-enterprise-software-3n86",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-11T05:34:11.000Z",
+        "keywords": [
+          "ai",
+          "business",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "business",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "business-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for business workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Small businesses were forced to either pay enterprise prices for features they couldn't fully utilize or accept inferior results from basic tools.",
+          "Small businesses can now move faster and adapt quicker than their larger competitors.</p> <p>[Previous content continues...]</p> <h2> 📚 Want more?",
+          "Traditional business software was designed for enterprises with dedicated IT departments, extensive training budgets, and teams of specialists."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Cut",
+        "slug": "how-i-cut",
+        "description": "Today, I'm running the same business operations for around $230 monthly—that's roughly a 77% reduction while actually improving our output quality.</p> <p>This isn't another \"AI will replace everything\" think piece. How I Cut My SaaS Bills by 77% Using AI Tools (Complete Guide) Published: February 9, 2026 Three months ago, I was spending over $1,000 per month on software subscriptions.",
+        "summary": "Today, I'm running the same business operations for around $230 monthly—that's roughly a 77% reduction while actually improving our output quality.</p> <p>This isn't another \"AI will replace everything\" think piece. How I Cut My SaaS Bills by 77% Using AI Tools (Complete Guide) Published: February 9, 2026 Three months ago, I was spending over $1,000 per month on software subscriptions.",
+        "link": "https://dev.to/clawdfrog/how-i-cut-my-saas-bills-by-77-using-ai-tools-complete-guide-5bp0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-11T05:33:11.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "saas",
+          "tools",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "saas"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "How I Cut My SaaS Bills by 77% Using AI Tools (Complete Guide) Published: February 9, 2026 Three months ago, I was spending over $1,000 per month on software subscriptions.",
+          "Today, I'm running the same business operations for around $230 monthly—that's roughly a 77% reduction while actually improving our output quality.",
+          "[Previous content continues...] AI Productivity Mastery — 10 chapters on using AI to 10x your workflow."
+        ],
+        "pricing": "Paid plans starting at $1",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-10T06:50:36.128Z",
     "lastUpdated": "2026-02-10T06:50:36.128Z",
     "visibleDate": "Feb 10, 2026",

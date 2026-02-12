@@ -7,6 +7,639 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-12T06:44:59.799Z",
+    "lastUpdated": "2026-02-12T06:44:59.799Z",
+    "visibleDate": "Feb 12, 2026",
+    "url": "pages/2026-02-12-064459799-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-12-064459799-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Warcraft III Peon",
+      "D Programming Language",
+      "How to Make"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Warcraft III Peon, D Programming Language, How to Make. Productivity stack",
+    "tools": [
+      {
+        "name": "Warcraft III Peon",
+        "slug": "warcraft-iii-peon",
+        "description": "Article URL: https://github.com/tonyyont/peon-ping Comments URL: https://news.ycombinator.com/item?id=46985151 Points: 28 # Comments: 5",
+        "summary": "Article URL: https://github.com/tonyyont/peon-ping Comments URL: https://news.ycombinator.com/item?id=46985151 Points: 28 # Comments: 5",
+        "link": "https://github.com/tonyyont/peon-ping",
+        "source": "Hacker News",
+        "isoDate": "2026-02-12T05:18:49.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "D Programming Language",
+        "slug": "d-programming-language",
+        "description": "Article URL: https://dlang.org/ Comments URL: https://news.ycombinator.com/item?id=46985147 Points: 15 # Comments: 6",
+        "summary": "Article URL: https://dlang.org/ Comments URL: https://news.ycombinator.com/item?id=46985147 Points: 15 # Comments: 6",
+        "link": "https://dlang.org/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-12T05:18:09.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Make",
+        "slug": "how-to-make",
+        "description": "Article URL: https://essays.fnnch.com/make-a-living Comments URL: https://news.ycombinator.com/item?id=46984735 Points: 40 # Comments: 17",
+        "summary": "Article URL: https://essays.fnnch.com/make-a-living Comments URL: https://news.ycombinator.com/item?id=46984735 Points: 40 # Comments: 17",
+        "link": "https://essays.fnnch.com/make-a-living",
+        "source": "Hacker News",
+        "isoDate": "2026-02-12T03:56:26.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Problem with",
+        "slug": "the-problem-with",
+        "description": "Article URL: https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/ Comments URL: https://news.ycombinator.com/item?id=46984021 Points: 38 # Comments: 28",
+        "summary": "Article URL: https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/ Comments URL: https://news.ycombinator.com/item?id=46984021 Points: 38 # Comments: 28",
+        "link": "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-12T02:03:33.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "From 34% to 96%",
+        "slug": "from-34-to-96",
+        "description": "Hologram compiles Elixir to JavaScript to run in the browser, enabling full-stack development in pure Elixir - and soon, Local-First applications.<p>This release is a milestone for our porting initiative. 49 contributors ported 150 Erlang functions across 19 modules, pushing client-side Erlang runtime coverage from 34% to 96% and overall Elixir standard library readiness from 74% to 87%.",
+        "summary": "Hologram compiles Elixir to JavaScript to run in the browser, enabling full-stack development in pure Elixir - and soon, Local-First applications.<p>This release is a milestone for our porting initiative. 49 contributors ported 150 Erlang functions across 19 modules, pushing client-side Erlang runtime coverage from 34% to 96% and overall Elixir standard library readiness from 74% to 87%.",
+        "link": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
+        "source": "Hacker News",
+        "isoDate": "2026-02-11T23:54:59.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "elixir"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "49 contributors ported 150 Erlang functions across 19 modules, pushing client-side Erlang runtime coverage from 34% to 96% and overall Elixir standard library readiness from 74% to 87%.",
+          "Hologram compiles Elixir to JavaScript to run in the browser, enabling full-stack development in pure Elixir - and soon, Local-First applications.",
+          "Happy to answer any questions! Comments URL: https://news.ycombinator.com/item?id=46982943 Points: 25 # Comments: 4 <p>Creator here."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-12T06:44:59.799Z",
+    "lastUpdated": "2026-02-12T06:44:59.799Z",
+    "visibleDate": "Feb 12, 2026",
+    "url": "pages/2026-02-12-064459799-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-12-064459799-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Warcraft III Peon",
+      "D Programming Language",
+      "How to Make"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Warcraft III Peon, D Programming Language, How to Make. Reliable r",
+    "tools": [
+      {
+        "name": "Warcraft III Peon",
+        "slug": "warcraft-iii-peon",
+        "description": "Article URL: https://github.com/tonyyont/peon-ping Comments URL: https://news.ycombinator.com/item?id=46985151 Points: 28 # Comments: 5",
+        "summary": "Article URL: https://github.com/tonyyont/peon-ping Comments URL: https://news.ycombinator.com/item?id=46985151 Points: 28 # Comments: 5",
+        "link": "https://github.com/tonyyont/peon-ping",
+        "source": "Hacker News",
+        "isoDate": "2026-02-12T05:18:49.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "D Programming Language",
+        "slug": "d-programming-language",
+        "description": "Article URL: https://dlang.org/ Comments URL: https://news.ycombinator.com/item?id=46985147 Points: 15 # Comments: 6",
+        "summary": "Article URL: https://dlang.org/ Comments URL: https://news.ycombinator.com/item?id=46985147 Points: 15 # Comments: 6",
+        "link": "https://dlang.org/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-12T05:18:09.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Make",
+        "slug": "how-to-make",
+        "description": "Article URL: https://essays.fnnch.com/make-a-living Comments URL: https://news.ycombinator.com/item?id=46984735 Points: 40 # Comments: 17",
+        "summary": "Article URL: https://essays.fnnch.com/make-a-living Comments URL: https://news.ycombinator.com/item?id=46984735 Points: 40 # Comments: 17",
+        "link": "https://essays.fnnch.com/make-a-living",
+        "source": "Hacker News",
+        "isoDate": "2026-02-12T03:56:26.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Problem with",
+        "slug": "the-problem-with",
+        "description": "Article URL: https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/ Comments URL: https://news.ycombinator.com/item?id=46984021 Points: 38 # Comments: 28",
+        "summary": "Article URL: https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/ Comments URL: https://news.ycombinator.com/item?id=46984021 Points: 38 # Comments: 28",
+        "link": "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-12T02:03:33.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-12T06:44:59.799Z",
+    "lastUpdated": "2026-02-12T06:44:59.799Z",
+    "visibleDate": "Feb 12, 2026",
+    "url": "pages/2026-02-12-064459799-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-12-064459799-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Warcraft III Peon",
+      "D Programming Language"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Warcraft III Peon, D Programming Language. Gitpod",
+    "tools": [
+      {
+        "name": "Warcraft III Peon",
+        "slug": "warcraft-iii-peon",
+        "description": "Article URL: https://github.com/tonyyont/peon-ping Comments URL: https://news.ycombinator.com/item?id=46985151 Points: 28 # Comments: 5",
+        "summary": "Article URL: https://github.com/tonyyont/peon-ping Comments URL: https://news.ycombinator.com/item?id=46985151 Points: 28 # Comments: 5",
+        "link": "https://github.com/tonyyont/peon-ping",
+        "source": "Hacker News",
+        "isoDate": "2026-02-12T05:18:49.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "D Programming Language",
+        "slug": "d-programming-language",
+        "description": "Article URL: https://dlang.org/ Comments URL: https://news.ycombinator.com/item?id=46985147 Points: 15 # Comments: 6",
+        "summary": "Article URL: https://dlang.org/ Comments URL: https://news.ycombinator.com/item?id=46985147 Points: 15 # Comments: 6",
+        "link": "https://dlang.org/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-12T05:18:09.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-12T06:44:59.799Z",
+    "lastUpdated": "2026-02-12T06:44:59.799Z",
+    "visibleDate": "Feb 12, 2026",
+    "url": "pages/2026-02-12-064459799-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-12-064459799-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Warcraft III Peon",
+      "D Programming Language",
+      "How to Make"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Warcraft III Peon, D Programming Language, How to Make. New launches tha",
+    "tools": [
+      {
+        "name": "Warcraft III Peon",
+        "slug": "warcraft-iii-peon",
+        "description": "Article URL: https://github.com/tonyyont/peon-ping Comments URL: https://news.ycombinator.com/item?id=46985151 Points: 28 # Comments: 5",
+        "summary": "Article URL: https://github.com/tonyyont/peon-ping Comments URL: https://news.ycombinator.com/item?id=46985151 Points: 28 # Comments: 5",
+        "link": "https://github.com/tonyyont/peon-ping",
+        "source": "Hacker News",
+        "isoDate": "2026-02-12T05:18:49.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "D Programming Language",
+        "slug": "d-programming-language",
+        "description": "Article URL: https://dlang.org/ Comments URL: https://news.ycombinator.com/item?id=46985147 Points: 15 # Comments: 6",
+        "summary": "Article URL: https://dlang.org/ Comments URL: https://news.ycombinator.com/item?id=46985147 Points: 15 # Comments: 6",
+        "link": "https://dlang.org/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-12T05:18:09.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Make",
+        "slug": "how-to-make",
+        "description": "Article URL: https://essays.fnnch.com/make-a-living Comments URL: https://news.ycombinator.com/item?id=46984735 Points: 40 # Comments: 17",
+        "summary": "Article URL: https://essays.fnnch.com/make-a-living Comments URL: https://news.ycombinator.com/item?id=46984735 Points: 40 # Comments: 17",
+        "link": "https://essays.fnnch.com/make-a-living",
+        "source": "Hacker News",
+        "isoDate": "2026-02-12T03:56:26.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-11T06:45:51.956Z",
     "lastUpdated": "2026-02-11T06:45:51.956Z",
     "visibleDate": "Feb 11, 2026",

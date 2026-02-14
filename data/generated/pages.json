@@ -7,6 +7,651 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-14T06:28:33.964Z",
+    "lastUpdated": "2026-02-14T06:28:33.964Z",
+    "visibleDate": "Feb 14, 2026",
+    "url": "pages/2026-02-14-062833964-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-14-062833964-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Backblaze Drive Stats",
+      "Show HN",
+      "Oh, good"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Backblaze Drive Stats, Show HN, Oh, good. Productivity stacks that keep de",
+    "tools": [
+      {
+        "name": "Backblaze Drive Stats",
+        "slug": "backblaze-drive-stats",
+        "description": "Article URL: https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/ Comments URL: https://news.ycombinator.com/item?id=47011602 Points: 18 # Comments: 4",
+        "summary": "Article URL: https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/ Comments URL: https://news.ycombinator.com/item?id=47011602 Points: 18 # Comments: 4",
+        "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-14T04:35:01.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL/MySQL wire protocol and displays them in a terminal UI. No application code changes needed — just change the port.",
+        "summary": "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL/MySQL wire protocol and displays them in a terminal UI. No application code changes needed — just change the port.",
+        "link": "https://github.com/mickamy/sql-tap",
+        "source": "Hacker News",
+        "isoDate": "2026-02-14T04:27:35.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "sql"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL/MySQL wire protocol and displays them in a terminal UI.",
+          "No application code changes needed — just change the port.",
+          "You can run EXPLAIN on any captured query."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Oh, good",
+        "slug": "oh-good",
+        "description": "Article URL: https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/ Comments URL: https://news.ycombinator.com/item?id=47011346 Points: 30 # Comments: 8",
+        "summary": "Article URL: https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/ Comments URL: https://news.ycombinator.com/item?id=47011346 Points: 30 # Comments: 8",
+        "link": "https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-14T03:49:18.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "NPMX – a",
+        "slug": "npmx-a",
+        "description": "Article URL: https://npmx.dev Comments URL: https://news.ycombinator.com/item?id=47010823 Points: 66 # Comments: 31",
+        "summary": "Article URL: https://npmx.dev Comments URL: https://news.ycombinator.com/item?id=47010823 Points: 66 # Comments: 31",
+        "link": "https://npmx.dev",
+        "source": "Hacker News",
+        "isoDate": "2026-02-14T02:14:34.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "What dating apps are optimizing. Hint",
+        "slug": "what-dating-apps-are-optimizing-hint",
+        "description": "Article URL: https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html Comments URL: https://news.ycombinator.com/item?id=47010406 Points: 81 # Comments: 47",
+        "summary": "Article URL: https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html Comments URL: https://news.ycombinator.com/item?id=47010406 Points: 81 # Comments: 47",
+        "link": "https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html",
+        "source": "Hacker News",
+        "isoDate": "2026-02-14T01:27:28.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-14T06:28:33.964Z",
+    "lastUpdated": "2026-02-14T06:28:33.964Z",
+    "visibleDate": "Feb 14, 2026",
+    "url": "pages/2026-02-14-062833964-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-14-062833964-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Backblaze Drive Stats",
+      "Show HN",
+      "Oh, good"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Backblaze Drive Stats, Show HN, Oh, good. Reliable remote debuggin",
+    "tools": [
+      {
+        "name": "Backblaze Drive Stats",
+        "slug": "backblaze-drive-stats",
+        "description": "Article URL: https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/ Comments URL: https://news.ycombinator.com/item?id=47011602 Points: 18 # Comments: 4",
+        "summary": "Article URL: https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/ Comments URL: https://news.ycombinator.com/item?id=47011602 Points: 18 # Comments: 4",
+        "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-14T04:35:01.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL/MySQL wire protocol and displays them in a terminal UI. No application code changes needed — just change the port.",
+        "summary": "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL/MySQL wire protocol and displays them in a terminal UI. No application code changes needed — just change the port.",
+        "link": "https://github.com/mickamy/sql-tap",
+        "source": "Hacker News",
+        "isoDate": "2026-02-14T04:27:35.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "sql"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL/MySQL wire protocol and displays them in a terminal UI.",
+          "No application code changes needed — just change the port.",
+          "You can run EXPLAIN on any captured query."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Oh, good",
+        "slug": "oh-good",
+        "description": "Article URL: https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/ Comments URL: https://news.ycombinator.com/item?id=47011346 Points: 30 # Comments: 8",
+        "summary": "Article URL: https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/ Comments URL: https://news.ycombinator.com/item?id=47011346 Points: 30 # Comments: 8",
+        "link": "https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-14T03:49:18.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "NPMX – a",
+        "slug": "npmx-a",
+        "description": "Article URL: https://npmx.dev Comments URL: https://news.ycombinator.com/item?id=47010823 Points: 66 # Comments: 31",
+        "summary": "Article URL: https://npmx.dev Comments URL: https://news.ycombinator.com/item?id=47010823 Points: 66 # Comments: 31",
+        "link": "https://npmx.dev",
+        "source": "Hacker News",
+        "isoDate": "2026-02-14T02:14:34.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-14T06:28:33.964Z",
+    "lastUpdated": "2026-02-14T06:28:33.964Z",
+    "visibleDate": "Feb 14, 2026",
+    "url": "pages/2026-02-14-062833964-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-14-062833964-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Backblaze Drive Stats",
+      "Show HN"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Backblaze Drive Stats, Show HN. Gitpod brings zer",
+    "tools": [
+      {
+        "name": "Backblaze Drive Stats",
+        "slug": "backblaze-drive-stats",
+        "description": "Article URL: https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/ Comments URL: https://news.ycombinator.com/item?id=47011602 Points: 18 # Comments: 4",
+        "summary": "Article URL: https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/ Comments URL: https://news.ycombinator.com/item?id=47011602 Points: 18 # Comments: 4",
+        "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-14T04:35:01.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL/MySQL wire protocol and displays them in a terminal UI. No application code changes needed — just change the port.",
+        "summary": "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL/MySQL wire protocol and displays them in a terminal UI. No application code changes needed — just change the port.",
+        "link": "https://github.com/mickamy/sql-tap",
+        "source": "Hacker News",
+        "isoDate": "2026-02-14T04:27:35.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "sql"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL/MySQL wire protocol and displays them in a terminal UI.",
+          "No application code changes needed — just change the port.",
+          "You can run EXPLAIN on any captured query."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-14T06:28:33.964Z",
+    "lastUpdated": "2026-02-14T06:28:33.964Z",
+    "visibleDate": "Feb 14, 2026",
+    "url": "pages/2026-02-14-062833964-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-14-062833964-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Backblaze Drive Stats",
+      "Show HN",
+      "Oh, good"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Backblaze Drive Stats, Show HN, Oh, good. New launches that are shipping",
+    "tools": [
+      {
+        "name": "Backblaze Drive Stats",
+        "slug": "backblaze-drive-stats",
+        "description": "Article URL: https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/ Comments URL: https://news.ycombinator.com/item?id=47011602 Points: 18 # Comments: 4",
+        "summary": "Article URL: https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/ Comments URL: https://news.ycombinator.com/item?id=47011602 Points: 18 # Comments: 4",
+        "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-14T04:35:01.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL/MySQL wire protocol and displays them in a terminal UI. No application code changes needed — just change the port.",
+        "summary": "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL/MySQL wire protocol and displays them in a terminal UI. No application code changes needed — just change the port.",
+        "link": "https://github.com/mickamy/sql-tap",
+        "source": "Hacker News",
+        "isoDate": "2026-02-14T04:27:35.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "sql"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL/MySQL wire protocol and displays them in a terminal UI.",
+          "No application code changes needed — just change the port.",
+          "You can run EXPLAIN on any captured query."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Oh, good",
+        "slug": "oh-good",
+        "description": "Article URL: https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/ Comments URL: https://news.ycombinator.com/item?id=47011346 Points: 30 # Comments: 8",
+        "summary": "Article URL: https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/ Comments URL: https://news.ycombinator.com/item?id=47011346 Points: 30 # Comments: 8",
+        "link": "https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-14T03:49:18.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-13T06:42:41.962Z",
     "lastUpdated": "2026-02-13T06:42:41.962Z",
     "visibleDate": "Feb 13, 2026",

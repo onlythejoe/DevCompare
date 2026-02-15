@@ -7,6 +7,639 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-15T06:35:09.328Z",
+    "lastUpdated": "2026-02-15T06:35:09.328Z",
+    "visibleDate": "Feb 15, 2026",
+    "url": "pages/2026-02-15-063509328-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-15-063509328-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Linear Representations and",
+      "Guitars of the",
+      "NewPipe"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Linear Representations and, Guitars of the, NewPipe. Productivity stacks t",
+    "tools": [
+      {
+        "name": "Linear Representations and",
+        "slug": "linear-representations-and",
+        "description": "Article URL: http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html Comments URL: https://news.ycombinator.com/item?id=47021065 Points: 9 # Comments: 0",
+        "summary": "Article URL: http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html Comments URL: https://news.ycombinator.com/item?id=47021065 Points: 9 # Comments: 0",
+        "link": "http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html",
+        "source": "Hacker News",
+        "isoDate": "2026-02-15T04:29:44.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://affiliate.example.com/linear"
+      },
+      {
+        "name": "Guitars of the",
+        "slug": "guitars-of-the",
+        "description": "Article URL: https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/ Comments URL: https://news.ycombinator.com/item?id=47020791 Points: 15 # Comments: 1",
+        "summary": "Article URL: https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/ Comments URL: https://news.ycombinator.com/item?id=47020791 Points: 15 # Comments: 1",
+        "link": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-15T03:29:39.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "NewPipe",
+        "slug": "newpipe",
+        "description": "Article URL: https://newpipe.net/ Comments URL: https://news.ycombinator.com/item?id=47020218 Points: 191 # Comments: 50",
+        "summary": "Article URL: https://newpipe.net/ Comments URL: https://news.ycombinator.com/item?id=47020218 Points: 191 # Comments: 50",
+        "link": "https://newpipe.net/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-15T01:24:16.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I love the",
+        "slug": "i-love-the",
+        "description": "Article URL: https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/ Comments URL: https://news.ycombinator.com/item?id=47020191 Points: 179 # Comments: 35",
+        "summary": "Article URL: https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/ Comments URL: https://news.ycombinator.com/item?id=47020191 Points: 179 # Comments: 35",
+        "link": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-15T01:20:58.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Right now it sits idle while you pay monthly subscriptions to run AI on someone else's server, sending your conversations, your photos, your voice to companies whose privacy policy you've never read. Right now it sits idle while you pay monthly subscriptions to run AI on someone else's server, sending your conversations, your photos, your voice to companies whose privacy policy you've never read.",
+        "summary": "Right now it sits idle while you pay monthly subscriptions to run AI on someone else's server, sending your conversations, your photos, your voice to companies whose privacy policy you've never read. Right now it sits idle while you pay monthly subscriptions to run AI on someone else's server, sending your conversations, your photos, your voice to companies whose privacy policy you've never read.",
+        "link": "https://github.com/alichherawalla/off-grid-mobile",
+        "source": "Hacker News",
+        "isoDate": "2026-02-14T22:39:24.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "voice"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "Right now it sits idle while you pay monthly subscriptions to run AI on someone else's server, sending your conversations, your photos, your voice to companies whose privacy policy you've never read.",
+          "Right now it sits idle while you pay monthly subscriptions to run AI on someone else's server, sending your conversations, your photos, your voice to companies whose privacy policy you've never read.",
+          "The tech: llama.cpp for text (15-30 tok/s, any GGUF model), Stable Diffusion for images (5-10s on Snapdragon NPU), Whisper for voice, SmolVLM/Qwen3-VL for vision."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-15T06:35:09.328Z",
+    "lastUpdated": "2026-02-15T06:35:09.328Z",
+    "visibleDate": "Feb 15, 2026",
+    "url": "pages/2026-02-15-063509328-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-15-063509328-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Linear Representations and",
+      "Guitars of the",
+      "NewPipe"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Linear Representations and, Guitars of the, NewPipe. Reliable remo",
+    "tools": [
+      {
+        "name": "Linear Representations and",
+        "slug": "linear-representations-and",
+        "description": "Article URL: http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html Comments URL: https://news.ycombinator.com/item?id=47021065 Points: 9 # Comments: 0",
+        "summary": "Article URL: http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html Comments URL: https://news.ycombinator.com/item?id=47021065 Points: 9 # Comments: 0",
+        "link": "http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html",
+        "source": "Hacker News",
+        "isoDate": "2026-02-15T04:29:44.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://affiliate.example.com/linear"
+      },
+      {
+        "name": "Guitars of the",
+        "slug": "guitars-of-the",
+        "description": "Article URL: https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/ Comments URL: https://news.ycombinator.com/item?id=47020791 Points: 15 # Comments: 1",
+        "summary": "Article URL: https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/ Comments URL: https://news.ycombinator.com/item?id=47020791 Points: 15 # Comments: 1",
+        "link": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-15T03:29:39.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "NewPipe",
+        "slug": "newpipe",
+        "description": "Article URL: https://newpipe.net/ Comments URL: https://news.ycombinator.com/item?id=47020218 Points: 191 # Comments: 50",
+        "summary": "Article URL: https://newpipe.net/ Comments URL: https://news.ycombinator.com/item?id=47020218 Points: 191 # Comments: 50",
+        "link": "https://newpipe.net/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-15T01:24:16.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I love the",
+        "slug": "i-love-the",
+        "description": "Article URL: https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/ Comments URL: https://news.ycombinator.com/item?id=47020191 Points: 179 # Comments: 35",
+        "summary": "Article URL: https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/ Comments URL: https://news.ycombinator.com/item?id=47020191 Points: 179 # Comments: 35",
+        "link": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-15T01:20:58.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-15T06:35:09.328Z",
+    "lastUpdated": "2026-02-15T06:35:09.328Z",
+    "visibleDate": "Feb 15, 2026",
+    "url": "pages/2026-02-15-063509328-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-15-063509328-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Linear Representations and",
+      "Guitars of the"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Linear Representations and, Guitars of the. Gitpo",
+    "tools": [
+      {
+        "name": "Linear Representations and",
+        "slug": "linear-representations-and",
+        "description": "Article URL: http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html Comments URL: https://news.ycombinator.com/item?id=47021065 Points: 9 # Comments: 0",
+        "summary": "Article URL: http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html Comments URL: https://news.ycombinator.com/item?id=47021065 Points: 9 # Comments: 0",
+        "link": "http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html",
+        "source": "Hacker News",
+        "isoDate": "2026-02-15T04:29:44.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://affiliate.example.com/linear"
+      },
+      {
+        "name": "Guitars of the",
+        "slug": "guitars-of-the",
+        "description": "Article URL: https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/ Comments URL: https://news.ycombinator.com/item?id=47020791 Points: 15 # Comments: 1",
+        "summary": "Article URL: https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/ Comments URL: https://news.ycombinator.com/item?id=47020791 Points: 15 # Comments: 1",
+        "link": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-15T03:29:39.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-15T06:35:09.328Z",
+    "lastUpdated": "2026-02-15T06:35:09.328Z",
+    "visibleDate": "Feb 15, 2026",
+    "url": "pages/2026-02-15-063509328-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-15-063509328-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Linear Representations and",
+      "Guitars of the",
+      "NewPipe"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Linear Representations and, Guitars of the, NewPipe. New launches that a",
+    "tools": [
+      {
+        "name": "Linear Representations and",
+        "slug": "linear-representations-and",
+        "description": "Article URL: http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html Comments URL: https://news.ycombinator.com/item?id=47021065 Points: 9 # Comments: 0",
+        "summary": "Article URL: http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html Comments URL: https://news.ycombinator.com/item?id=47021065 Points: 9 # Comments: 0",
+        "link": "http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html",
+        "source": "Hacker News",
+        "isoDate": "2026-02-15T04:29:44.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://affiliate.example.com/linear"
+      },
+      {
+        "name": "Guitars of the",
+        "slug": "guitars-of-the",
+        "description": "Article URL: https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/ Comments URL: https://news.ycombinator.com/item?id=47020791 Points: 15 # Comments: 1",
+        "summary": "Article URL: https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/ Comments URL: https://news.ycombinator.com/item?id=47020791 Points: 15 # Comments: 1",
+        "link": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-15T03:29:39.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "NewPipe",
+        "slug": "newpipe",
+        "description": "Article URL: https://newpipe.net/ Comments URL: https://news.ycombinator.com/item?id=47020218 Points: 191 # Comments: 50",
+        "summary": "Article URL: https://newpipe.net/ Comments URL: https://news.ycombinator.com/item?id=47020218 Points: 191 # Comments: 50",
+        "link": "https://newpipe.net/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-15T01:24:16.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-14T06:28:33.964Z",
     "lastUpdated": "2026-02-14T06:28:33.964Z",
     "visibleDate": "Feb 14, 2026",

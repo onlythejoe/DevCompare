@@ -7,6 +7,673 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-16T06:47:47.657Z",
+    "lastUpdated": "2026-02-16T06:47:47.657Z",
+    "visibleDate": "Feb 16, 2026",
+    "url": "pages/2026-02-16-064747657-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-16-064747657-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Complete Guide to AI Voice Cloning",
+      "How I Automated",
+      "Building SQLite with"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include The Complete Guide to AI Voice Cloning, How I Automated, Building SQLite w",
+    "tools": [
+      {
+        "name": "The Complete Guide to AI Voice Cloning",
+        "slug": "the-complete-guide-to-ai-voice-cloning",
+        "description": "This guide covers everything I've learned: how the technology works, the best tools available, the ethical considerations you absolutely need to think about, and practical tips for getting started. One client reduced their IVR recording costs by 90% — instead of booking studio time every time they update a menu option, they just generate new audio.",
+        "summary": "This guide covers everything I've learned: how the technology works, the best tools available, the ethical considerations you absolutely need to think about, and practical tips for getting started. One client reduced their IVR recording costs by 90% — instead of booking studio time every time they update a menu option, they just generate new audio.",
+        "link": "https://dev.to/techfind777/the-complete-guide-to-ai-voice-cloning-tools-ethics-and-best-practices-2979",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-16T06:46:54.000Z",
+        "keywords": [
+          "ai",
+          "voicecloning",
+          "tools",
+          "ethics",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "voicecloning",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "voicecloning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for voicecloning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "This guide covers everything I've learned: how the technology works, the best tools available, the ethical considerations you absolutely need to think about, and practical tips for getting started.",
+          "One client reduced their IVR recording costs by 90% — instead of booking studio time every time they update a menu option, they just generate new audio.",
+          "When I A/B tested ElevenLabs output against recordings of the actual person, listeners correctly identified the real voice only 52% of the time — essentially a coin flip."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Automated",
+        "slug": "how-i-automated",
+        "description": "Here's what actually saves me time:</p> <p><strong>AI-Generated Summaries</strong>: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified. Here's what actually saves me time: AI-Generated Summaries: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified.",
+        "summary": "Here's what actually saves me time:</p> <p><strong>AI-Generated Summaries</strong>: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified. Here's what actually saves me time: AI-Generated Summaries: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified.",
+        "link": "https://dev.to/techfind777/how-i-automated-my-entire-meeting-workflow-with-ai-in-2026-6h2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-16T06:46:22.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "automation"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Here's what actually saves me time: AI-Generated Summaries: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified.",
+          "I'd tried basic transcription tools before, but they always felt clunky — missing context, butchering technical terms, and requiring heavy editing afterward.",
+          "If you're drowning in meeting overhead, I'd strongly recommend starting with transcription automation — it's the highest-ROI first step.</p> <p><em>What does your meeting workflow look like?"
+        ],
+        "pricing": "Paid plans starting at $18",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Building SQLite with",
+        "slug": "building-sqlite-with",
+        "description": "Hope some find this post interesting on my experience with parallel coding agents.",
+        "summary": "Hope some find this post interesting on my experience with parallel coding agents.",
+        "link": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
+        "source": "Hacker News",
+        "isoDate": "2026-02-16T05:38:51.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "comments"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "Hope some find this post interesting on my experience with parallel coding agents."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Arm wants a",
+        "slug": "arm-wants-a",
+        "description": "Article URL: https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business Comments URL: https://news.ycombinator.com/item?id=47030271 Points: 49 # Comments: 26",
+        "summary": "Article URL: https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business Comments URL: https://news.ycombinator.com/item?id=47030271 Points: 49 # Comments: 26",
+        "link": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+        "source": "Hacker News",
+        "isoDate": "2026-02-16T02:36:14.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "JavaScript-heavy approaches are",
+        "slug": "javascript-heavy-approaches-are",
+        "description": "Article URL: https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/ Comments URL: https://news.ycombinator.com/item?id=47029339 Points: 43 # Comments: 43",
+        "summary": "Article URL: https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/ Comments URL: https://news.ycombinator.com/item?id=47029339 Points: 43 # Comments: 43",
+        "link": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-16T00:26:23.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-16T06:47:47.657Z",
+    "lastUpdated": "2026-02-16T06:47:47.657Z",
+    "visibleDate": "Feb 16, 2026",
+    "url": "pages/2026-02-16-064747657-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-16-064747657-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Complete Guide to AI Voice Cloning",
+      "How I Automated",
+      "Building SQLite with"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include The Complete Guide to AI Voice Cloning, How I Automated, Building ",
+    "tools": [
+      {
+        "name": "The Complete Guide to AI Voice Cloning",
+        "slug": "the-complete-guide-to-ai-voice-cloning",
+        "description": "This guide covers everything I've learned: how the technology works, the best tools available, the ethical considerations you absolutely need to think about, and practical tips for getting started. One client reduced their IVR recording costs by 90% — instead of booking studio time every time they update a menu option, they just generate new audio.",
+        "summary": "This guide covers everything I've learned: how the technology works, the best tools available, the ethical considerations you absolutely need to think about, and practical tips for getting started. One client reduced their IVR recording costs by 90% — instead of booking studio time every time they update a menu option, they just generate new audio.",
+        "link": "https://dev.to/techfind777/the-complete-guide-to-ai-voice-cloning-tools-ethics-and-best-practices-2979",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-16T06:46:54.000Z",
+        "keywords": [
+          "ai",
+          "voicecloning",
+          "tools",
+          "ethics",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "voicecloning",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "voicecloning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for voicecloning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "This guide covers everything I've learned: how the technology works, the best tools available, the ethical considerations you absolutely need to think about, and practical tips for getting started.",
+          "One client reduced their IVR recording costs by 90% — instead of booking studio time every time they update a menu option, they just generate new audio.",
+          "When I A/B tested ElevenLabs output against recordings of the actual person, listeners correctly identified the real voice only 52% of the time — essentially a coin flip."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Automated",
+        "slug": "how-i-automated",
+        "description": "Here's what actually saves me time:</p> <p><strong>AI-Generated Summaries</strong>: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified. Here's what actually saves me time: AI-Generated Summaries: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified.",
+        "summary": "Here's what actually saves me time:</p> <p><strong>AI-Generated Summaries</strong>: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified. Here's what actually saves me time: AI-Generated Summaries: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified.",
+        "link": "https://dev.to/techfind777/how-i-automated-my-entire-meeting-workflow-with-ai-in-2026-6h2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-16T06:46:22.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "automation"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Here's what actually saves me time: AI-Generated Summaries: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified.",
+          "I'd tried basic transcription tools before, but they always felt clunky — missing context, butchering technical terms, and requiring heavy editing afterward.",
+          "If you're drowning in meeting overhead, I'd strongly recommend starting with transcription automation — it's the highest-ROI first step.</p> <p><em>What does your meeting workflow look like?"
+        ],
+        "pricing": "Paid plans starting at $18",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Building SQLite with",
+        "slug": "building-sqlite-with",
+        "description": "Hope some find this post interesting on my experience with parallel coding agents.",
+        "summary": "Hope some find this post interesting on my experience with parallel coding agents.",
+        "link": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
+        "source": "Hacker News",
+        "isoDate": "2026-02-16T05:38:51.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "comments"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "Hope some find this post interesting on my experience with parallel coding agents."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Arm wants a",
+        "slug": "arm-wants-a",
+        "description": "Article URL: https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business Comments URL: https://news.ycombinator.com/item?id=47030271 Points: 49 # Comments: 26",
+        "summary": "Article URL: https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business Comments URL: https://news.ycombinator.com/item?id=47030271 Points: 49 # Comments: 26",
+        "link": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+        "source": "Hacker News",
+        "isoDate": "2026-02-16T02:36:14.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-16T06:47:47.657Z",
+    "lastUpdated": "2026-02-16T06:47:47.657Z",
+    "visibleDate": "Feb 16, 2026",
+    "url": "pages/2026-02-16-064747657-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-16-064747657-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Complete Guide to AI Voice Cloning",
+      "How I Automated"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include The Complete Guide to AI Voice Cloning, How I Aut",
+    "tools": [
+      {
+        "name": "The Complete Guide to AI Voice Cloning",
+        "slug": "the-complete-guide-to-ai-voice-cloning",
+        "description": "This guide covers everything I've learned: how the technology works, the best tools available, the ethical considerations you absolutely need to think about, and practical tips for getting started. One client reduced their IVR recording costs by 90% — instead of booking studio time every time they update a menu option, they just generate new audio.",
+        "summary": "This guide covers everything I've learned: how the technology works, the best tools available, the ethical considerations you absolutely need to think about, and practical tips for getting started. One client reduced their IVR recording costs by 90% — instead of booking studio time every time they update a menu option, they just generate new audio.",
+        "link": "https://dev.to/techfind777/the-complete-guide-to-ai-voice-cloning-tools-ethics-and-best-practices-2979",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-16T06:46:54.000Z",
+        "keywords": [
+          "ai",
+          "voicecloning",
+          "tools",
+          "ethics",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "voicecloning",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "voicecloning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for voicecloning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "This guide covers everything I've learned: how the technology works, the best tools available, the ethical considerations you absolutely need to think about, and practical tips for getting started.",
+          "One client reduced their IVR recording costs by 90% — instead of booking studio time every time they update a menu option, they just generate new audio.",
+          "When I A/B tested ElevenLabs output against recordings of the actual person, listeners correctly identified the real voice only 52% of the time — essentially a coin flip."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Automated",
+        "slug": "how-i-automated",
+        "description": "Here's what actually saves me time:</p> <p><strong>AI-Generated Summaries</strong>: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified. Here's what actually saves me time: AI-Generated Summaries: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified.",
+        "summary": "Here's what actually saves me time:</p> <p><strong>AI-Generated Summaries</strong>: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified. Here's what actually saves me time: AI-Generated Summaries: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified.",
+        "link": "https://dev.to/techfind777/how-i-automated-my-entire-meeting-workflow-with-ai-in-2026-6h2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-16T06:46:22.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "automation"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Here's what actually saves me time: AI-Generated Summaries: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified.",
+          "I'd tried basic transcription tools before, but they always felt clunky — missing context, butchering technical terms, and requiring heavy editing afterward.",
+          "If you're drowning in meeting overhead, I'd strongly recommend starting with transcription automation — it's the highest-ROI first step.</p> <p><em>What does your meeting workflow look like?"
+        ],
+        "pricing": "Paid plans starting at $18",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-16T06:47:47.657Z",
+    "lastUpdated": "2026-02-16T06:47:47.657Z",
+    "visibleDate": "Feb 16, 2026",
+    "url": "pages/2026-02-16-064747657-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-16-064747657-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Complete Guide to AI Voice Cloning",
+      "How I Automated",
+      "Building SQLite with"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include The Complete Guide to AI Voice Cloning, How I Automated, Building SQLite",
+    "tools": [
+      {
+        "name": "The Complete Guide to AI Voice Cloning",
+        "slug": "the-complete-guide-to-ai-voice-cloning",
+        "description": "This guide covers everything I've learned: how the technology works, the best tools available, the ethical considerations you absolutely need to think about, and practical tips for getting started. One client reduced their IVR recording costs by 90% — instead of booking studio time every time they update a menu option, they just generate new audio.",
+        "summary": "This guide covers everything I've learned: how the technology works, the best tools available, the ethical considerations you absolutely need to think about, and practical tips for getting started. One client reduced their IVR recording costs by 90% — instead of booking studio time every time they update a menu option, they just generate new audio.",
+        "link": "https://dev.to/techfind777/the-complete-guide-to-ai-voice-cloning-tools-ethics-and-best-practices-2979",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-16T06:46:54.000Z",
+        "keywords": [
+          "ai",
+          "voicecloning",
+          "tools",
+          "ethics",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "voicecloning",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "voicecloning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for voicecloning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "This guide covers everything I've learned: how the technology works, the best tools available, the ethical considerations you absolutely need to think about, and practical tips for getting started.",
+          "One client reduced their IVR recording costs by 90% — instead of booking studio time every time they update a menu option, they just generate new audio.",
+          "When I A/B tested ElevenLabs output against recordings of the actual person, listeners correctly identified the real voice only 52% of the time — essentially a coin flip."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Automated",
+        "slug": "how-i-automated",
+        "description": "Here's what actually saves me time:</p> <p><strong>AI-Generated Summaries</strong>: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified. Here's what actually saves me time: AI-Generated Summaries: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified.",
+        "summary": "Here's what actually saves me time:</p> <p><strong>AI-Generated Summaries</strong>: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified. Here's what actually saves me time: AI-Generated Summaries: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified.",
+        "link": "https://dev.to/techfind777/how-i-automated-my-entire-meeting-workflow-with-ai-in-2026-6h2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-16T06:46:22.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "automation"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Here's what actually saves me time: AI-Generated Summaries: After every meeting, Fireflies produces a structured summary with key topics discussed, decisions made, and action items identified.",
+          "I'd tried basic transcription tools before, but they always felt clunky — missing context, butchering technical terms, and requiring heavy editing afterward.",
+          "If you're drowning in meeting overhead, I'd strongly recommend starting with transcription automation — it's the highest-ROI first step.</p> <p><em>What does your meeting workflow look like?"
+        ],
+        "pricing": "Paid plans starting at $18",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Building SQLite with",
+        "slug": "building-sqlite-with",
+        "description": "Hope some find this post interesting on my experience with parallel coding agents.",
+        "summary": "Hope some find this post interesting on my experience with parallel coding agents.",
+        "link": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
+        "source": "Hacker News",
+        "isoDate": "2026-02-16T05:38:51.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "comments"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "Hope some find this post interesting on my experience with parallel coding agents."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-15T06:35:09.328Z",
     "lastUpdated": "2026-02-15T06:35:09.328Z",
     "visibleDate": "Feb 15, 2026",

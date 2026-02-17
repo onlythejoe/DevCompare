@@ -7,6 +7,649 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-17T06:41:05.485Z",
+    "lastUpdated": "2026-02-17T06:41:05.485Z",
+    "visibleDate": "Feb 17, 2026",
+    "url": "pages/2026-02-17-064105485-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-17-064105485-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "Data is the",
+      "Thinking Hard Burns",
+      "Dark web agent"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Data is the, Thinking Hard Burns, Dark web agent. Productivity stacks that",
+    "tools": [
+      {
+        "name": "Data is the",
+        "slug": "data-is-the",
+        "description": "Ryan sits down with Shireesh Thota, CVP of Azure Databases at Microsoft, to discuss the evolution of databases at Microsoft; Azure’s comprehensive portfolio that includes SQL Server, CosmosDB, and Postgres; and the challenges that come with database architecture, from the importance of cost governance and multi-cloud strategies to the future of databases when it comes to AI.",
+        "summary": "Ryan sits down with Shireesh Thota, CVP of Azure Databases at Microsoft, to discuss the evolution of databases at Microsoft; Azure’s comprehensive portfolio that includes SQL Server, CosmosDB, and Postgres; and the challenges that come with database architecture, from the importance of cost governance and multi-cloud strategies to the future of databases when it comes to AI.",
+        "link": "https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-17T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "data",
+          "database",
+          "azure"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Thinking Hard Burns",
+        "slug": "thinking-hard-burns",
+        "description": "Article URL: https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout Comments URL: https://news.ycombinator.com/item?id=47042766 Points: 29 # Comments: 1",
+        "summary": "Article URL: https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout Comments URL: https://news.ycombinator.com/item?id=47042766 Points: 29 # Comments: 1",
+        "link": "https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout",
+        "source": "Hacker News",
+        "isoDate": "2026-02-17T01:55:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Dark web agent",
+        "slug": "dark-web-agent",
+        "description": "Article URL: https://www.bbc.com/news/articles/cx2gn239exlo Comments URL: https://news.ycombinator.com/item?id=47042396 Points: 320 # Comments: 160",
+        "summary": "Article URL: https://www.bbc.com/news/articles/cx2gn239exlo Comments URL: https://news.ycombinator.com/item?id=47042396 Points: 320 # Comments: 160",
+        "link": "https://www.bbc.com/news/articles/cx2gn239exlo",
+        "source": "Hacker News",
+        "isoDate": "2026-02-17T01:01:00.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Mizko",
+        "slug": "mizko",
+        "description": "A 34-year-old is kicking off an exciting journey, documenting their recent app acquisition! Beyond that intriguing tidbit, this person is a go-to guru for aspiring UX/UI designers. They've packed this page with links to their top-notch masterclasses on Figma, UX research, and overall design, plus premium Figma kits.",
+        "summary": "A 34-year-old is kicking off an exciting journey, documenting their recent app acquisition! Beyond that intriguing tidbit, this person is a go-to guru for aspiring UX/UI designers. They've packed this page with links to their top-notch masterclasses on Figma, UX research, and overall design, plus premium Figma kits.",
+        "link": "https://dev.to/design_youtube/mizko-pov-34-yo-acquires-an-app-and-documents-the-journey-3fje",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-17T00:07:30.000Z",
+        "keywords": [
+          "design",
+          "resources",
+          "tools",
+          "recommendations",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "design",
+          "resources",
+          "tools"
+        ],
+        "pros": [
+          "Great for design",
+          "resources-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for resources workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "A 34-year-old is kicking off an exciting journey, documenting their recent app acquisition! Beyond that intriguing tidbit, this person is a go-to guru for aspiring UX/UI designers.",
+          "They've packed this page with links to their top-notch masterclasses on Figma, UX research, and overall design, plus premium Figma kits."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Building for an audience of one",
+        "slug": "building-for-an-audience-of-one",
+        "description": "Article URL: https://codemade.net/blog/building-for-one/ Comments URL: https://news.ycombinator.com/item?id=47041973 Points: 39 # Comments: 12",
+        "summary": "Article URL: https://codemade.net/blog/building-for-one/ Comments URL: https://news.ycombinator.com/item?id=47041973 Points: 39 # Comments: 12",
+        "link": "https://codemade.net/blog/building-for-one/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-17T00:00:03.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-17T06:41:05.485Z",
+    "lastUpdated": "2026-02-17T06:41:05.485Z",
+    "visibleDate": "Feb 17, 2026",
+    "url": "pages/2026-02-17-064105485-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-17-064105485-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "Data is the",
+      "Thinking Hard Burns",
+      "Dark web agent"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Data is the, Thinking Hard Burns, Dark web agent. Reliable remote ",
+    "tools": [
+      {
+        "name": "Data is the",
+        "slug": "data-is-the",
+        "description": "Ryan sits down with Shireesh Thota, CVP of Azure Databases at Microsoft, to discuss the evolution of databases at Microsoft; Azure’s comprehensive portfolio that includes SQL Server, CosmosDB, and Postgres; and the challenges that come with database architecture, from the importance of cost governance and multi-cloud strategies to the future of databases when it comes to AI.",
+        "summary": "Ryan sits down with Shireesh Thota, CVP of Azure Databases at Microsoft, to discuss the evolution of databases at Microsoft; Azure’s comprehensive portfolio that includes SQL Server, CosmosDB, and Postgres; and the challenges that come with database architecture, from the importance of cost governance and multi-cloud strategies to the future of databases when it comes to AI.",
+        "link": "https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-17T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "data",
+          "database",
+          "azure"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Thinking Hard Burns",
+        "slug": "thinking-hard-burns",
+        "description": "Article URL: https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout Comments URL: https://news.ycombinator.com/item?id=47042766 Points: 29 # Comments: 1",
+        "summary": "Article URL: https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout Comments URL: https://news.ycombinator.com/item?id=47042766 Points: 29 # Comments: 1",
+        "link": "https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout",
+        "source": "Hacker News",
+        "isoDate": "2026-02-17T01:55:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Dark web agent",
+        "slug": "dark-web-agent",
+        "description": "Article URL: https://www.bbc.com/news/articles/cx2gn239exlo Comments URL: https://news.ycombinator.com/item?id=47042396 Points: 320 # Comments: 160",
+        "summary": "Article URL: https://www.bbc.com/news/articles/cx2gn239exlo Comments URL: https://news.ycombinator.com/item?id=47042396 Points: 320 # Comments: 160",
+        "link": "https://www.bbc.com/news/articles/cx2gn239exlo",
+        "source": "Hacker News",
+        "isoDate": "2026-02-17T01:01:00.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Mizko",
+        "slug": "mizko",
+        "description": "A 34-year-old is kicking off an exciting journey, documenting their recent app acquisition! Beyond that intriguing tidbit, this person is a go-to guru for aspiring UX/UI designers. They've packed this page with links to their top-notch masterclasses on Figma, UX research, and overall design, plus premium Figma kits.",
+        "summary": "A 34-year-old is kicking off an exciting journey, documenting their recent app acquisition! Beyond that intriguing tidbit, this person is a go-to guru for aspiring UX/UI designers. They've packed this page with links to their top-notch masterclasses on Figma, UX research, and overall design, plus premium Figma kits.",
+        "link": "https://dev.to/design_youtube/mizko-pov-34-yo-acquires-an-app-and-documents-the-journey-3fje",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-17T00:07:30.000Z",
+        "keywords": [
+          "design",
+          "resources",
+          "tools",
+          "recommendations",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "design",
+          "resources",
+          "tools"
+        ],
+        "pros": [
+          "Great for design",
+          "resources-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for resources workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "A 34-year-old is kicking off an exciting journey, documenting their recent app acquisition! Beyond that intriguing tidbit, this person is a go-to guru for aspiring UX/UI designers.",
+          "They've packed this page with links to their top-notch masterclasses on Figma, UX research, and overall design, plus premium Figma kits."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-17T06:41:05.485Z",
+    "lastUpdated": "2026-02-17T06:41:05.485Z",
+    "visibleDate": "Feb 17, 2026",
+    "url": "pages/2026-02-17-064105485-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-17-064105485-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Data is the",
+      "Thinking Hard Burns"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Data is the, Thinking Hard Burns. Gitpod brings z",
+    "tools": [
+      {
+        "name": "Data is the",
+        "slug": "data-is-the",
+        "description": "Ryan sits down with Shireesh Thota, CVP of Azure Databases at Microsoft, to discuss the evolution of databases at Microsoft; Azure’s comprehensive portfolio that includes SQL Server, CosmosDB, and Postgres; and the challenges that come with database architecture, from the importance of cost governance and multi-cloud strategies to the future of databases when it comes to AI.",
+        "summary": "Ryan sits down with Shireesh Thota, CVP of Azure Databases at Microsoft, to discuss the evolution of databases at Microsoft; Azure’s comprehensive portfolio that includes SQL Server, CosmosDB, and Postgres; and the challenges that come with database architecture, from the importance of cost governance and multi-cloud strategies to the future of databases when it comes to AI.",
+        "link": "https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-17T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "data",
+          "database",
+          "azure"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Thinking Hard Burns",
+        "slug": "thinking-hard-burns",
+        "description": "Article URL: https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout Comments URL: https://news.ycombinator.com/item?id=47042766 Points: 29 # Comments: 1",
+        "summary": "Article URL: https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout Comments URL: https://news.ycombinator.com/item?id=47042766 Points: 29 # Comments: 1",
+        "link": "https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout",
+        "source": "Hacker News",
+        "isoDate": "2026-02-17T01:55:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-17T06:41:05.485Z",
+    "lastUpdated": "2026-02-17T06:41:05.485Z",
+    "visibleDate": "Feb 17, 2026",
+    "url": "pages/2026-02-17-064105485-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-17-064105485-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Data is the",
+      "Thinking Hard Burns",
+      "Dark web agent"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Data is the, Thinking Hard Burns, Dark web agent. New launches that are ",
+    "tools": [
+      {
+        "name": "Data is the",
+        "slug": "data-is-the",
+        "description": "Ryan sits down with Shireesh Thota, CVP of Azure Databases at Microsoft, to discuss the evolution of databases at Microsoft; Azure’s comprehensive portfolio that includes SQL Server, CosmosDB, and Postgres; and the challenges that come with database architecture, from the importance of cost governance and multi-cloud strategies to the future of databases when it comes to AI.",
+        "summary": "Ryan sits down with Shireesh Thota, CVP of Azure Databases at Microsoft, to discuss the evolution of databases at Microsoft; Azure’s comprehensive portfolio that includes SQL Server, CosmosDB, and Postgres; and the challenges that come with database architecture, from the importance of cost governance and multi-cloud strategies to the future of databases when it comes to AI.",
+        "link": "https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-17T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "data",
+          "database",
+          "azure"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Thinking Hard Burns",
+        "slug": "thinking-hard-burns",
+        "description": "Article URL: https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout Comments URL: https://news.ycombinator.com/item?id=47042766 Points: 29 # Comments: 1",
+        "summary": "Article URL: https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout Comments URL: https://news.ycombinator.com/item?id=47042766 Points: 29 # Comments: 1",
+        "link": "https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout",
+        "source": "Hacker News",
+        "isoDate": "2026-02-17T01:55:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Dark web agent",
+        "slug": "dark-web-agent",
+        "description": "Article URL: https://www.bbc.com/news/articles/cx2gn239exlo Comments URL: https://news.ycombinator.com/item?id=47042396 Points: 320 # Comments: 160",
+        "summary": "Article URL: https://www.bbc.com/news/articles/cx2gn239exlo Comments URL: https://news.ycombinator.com/item?id=47042396 Points: 320 # Comments: 160",
+        "link": "https://www.bbc.com/news/articles/cx2gn239exlo",
+        "source": "Hacker News",
+        "isoDate": "2026-02-17T01:01:00.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-16T06:47:47.657Z",
     "lastUpdated": "2026-02-16T06:47:47.657Z",
     "visibleDate": "Feb 16, 2026",

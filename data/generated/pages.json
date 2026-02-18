@@ -7,6 +7,659 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-18T06:44:44.723Z",
+    "lastUpdated": "2026-02-18T06:44:44.723Z",
+    "visibleDate": "Feb 18, 2026",
+    "url": "pages/2026-02-18-064444723-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-18-064444723-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "15 years later,",
+      "I Built 8",
+      "Halt and Catch Fire"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include 15 years later,, I Built 8, Halt and Catch Fire. Productivity stacks that ",
+    "tools": [
+      {
+        "name": "15 years later,",
+        "slug": "15-years-later",
+        "description": "Article URL: https://nvie.com/posts/15-years-later/ Comments URL: https://news.ycombinator.com/item?id=47057829 Points: 19 # Comments: 0",
+        "summary": "Article URL: https://nvie.com/posts/15-years-later/ Comments URL: https://news.ycombinator.com/item?id=47057829 Points: 19 # Comments: 0",
+        "link": "https://nvie.com/posts/15-years-later/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-18T06:20:13.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built 8",
+        "slug": "i-built-8",
+        "description": "simplylouie.com/loan-calculator Solar ROI Calculator - Enter your electric bill and see your estimated system size, federal tax credit (30%), payback period, and 25-year savings. Try it: <a href=\"https://simplylouie.com/vin-decoder\" rel=\"noopener noreferrer\">simplylouie.com/vin-decoder</a></p> <p><strong>Auto Loan Calculator</strong> - Enter price, down payment, rate, and term.",
+        "summary": "simplylouie.com/loan-calculator Solar ROI Calculator - Enter your electric bill and see your estimated system size, federal tax credit (30%), payback period, and 25-year savings. Try it: <a href=\"https://simplylouie.com/vin-decoder\" rel=\"noopener noreferrer\">simplylouie.com/vin-decoder</a></p> <p><strong>Auto Loan Calculator</strong> - Enter price, down payment, rate, and term.",
+        "link": "https://dev.to/subprime2010/i-built-8-free-tools-nobody-asked-for-and-why-they-cost-0-2kh5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-18T04:11:07.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "opensource",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "opensource"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "simplylouie.com/loan-calculator Solar ROI Calculator - Enter your electric bill and see your estimated system size, federal tax credit (30%), payback period, and 25-year savings.",
+          "simplylouie.com/solar-calculator Home Value Estimator - Get a quick property value estimate based on address, square footage, and comparable sales data.",
+          "Try it: simplylouie.com/vin-decoder Auto Loan Calculator - Enter price, down payment, rate, and term."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Halt and Catch Fire",
+        "slug": "halt-and-catch-fire",
+        "description": "Article URL: https://www.sceneandheardnu.com/content/halt-and-catch-fire Comments URL: https://news.ycombinator.com/item?id=47056314 Points: 287 # Comments: 168",
+        "summary": "Article URL: https://www.sceneandheardnu.com/content/halt-and-catch-fire Comments URL: https://news.ycombinator.com/item?id=47056314 Points: 287 # Comments: 168",
+        "link": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+        "source": "Hacker News",
+        "isoDate": "2026-02-18T02:18:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Tools that Actually Pay You Back",
+        "slug": "ai-tools-that-actually-pay-you-back",
+        "description": "One way to monetize Microsoft Azure Machine Learning is by using it to build models that can be used to drive revenue-generating applications, such as chatbots or recommender systems. One way to monetize the Google Cloud AI Platform is by using it to build predictive models that can be sold to clients or used to drive revenue-generating applications.",
+        "summary": "One way to monetize Microsoft Azure Machine Learning is by using it to build models that can be used to drive revenue-generating applications, such as chatbots or recommender systems. One way to monetize the Google Cloud AI Platform is by using it to build predictive models that can be sold to clients or used to drive revenue-generating applications.",
+        "link": "https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai-1pjk",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-18T02:07:03.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "money",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "One way to monetize Microsoft Azure Machine Learning is by using it to build models that can be used to drive revenue-generating applications, such as chatbots or recommender systems.",
+          "One way to monetize the Google Cloud AI Platform is by using it to build predictive models that can be sold to clients or used to drive revenue-generating applications.",
+          "With its automated machine learning capabilities and large model gallery, you can quickly and easily build models that can be used to drive business value."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "It's not just",
+        "slug": "it-s-not-just",
+        "description": "Article URL: https://9to5google.com/2026/02/17/youtube-outage-february-2026/ Comments URL: https://news.ycombinator.com/item?id=47056152 Points: 56 # Comments: 4",
+        "summary": "Article URL: https://9to5google.com/2026/02/17/youtube-outage-february-2026/ Comments URL: https://news.ycombinator.com/item?id=47056152 Points: 56 # Comments: 4",
+        "link": "https://9to5google.com/2026/02/17/youtube-outage-february-2026/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-18T02:00:52.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "2026"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-18T06:44:44.723Z",
+    "lastUpdated": "2026-02-18T06:44:44.723Z",
+    "visibleDate": "Feb 18, 2026",
+    "url": "pages/2026-02-18-064444723-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-18-064444723-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "15 years later,",
+      "I Built 8",
+      "Halt and Catch Fire"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include 15 years later,, I Built 8, Halt and Catch Fire. Reliable remote d",
+    "tools": [
+      {
+        "name": "15 years later,",
+        "slug": "15-years-later",
+        "description": "Article URL: https://nvie.com/posts/15-years-later/ Comments URL: https://news.ycombinator.com/item?id=47057829 Points: 19 # Comments: 0",
+        "summary": "Article URL: https://nvie.com/posts/15-years-later/ Comments URL: https://news.ycombinator.com/item?id=47057829 Points: 19 # Comments: 0",
+        "link": "https://nvie.com/posts/15-years-later/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-18T06:20:13.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built 8",
+        "slug": "i-built-8",
+        "description": "simplylouie.com/loan-calculator Solar ROI Calculator - Enter your electric bill and see your estimated system size, federal tax credit (30%), payback period, and 25-year savings. Try it: <a href=\"https://simplylouie.com/vin-decoder\" rel=\"noopener noreferrer\">simplylouie.com/vin-decoder</a></p> <p><strong>Auto Loan Calculator</strong> - Enter price, down payment, rate, and term.",
+        "summary": "simplylouie.com/loan-calculator Solar ROI Calculator - Enter your electric bill and see your estimated system size, federal tax credit (30%), payback period, and 25-year savings. Try it: <a href=\"https://simplylouie.com/vin-decoder\" rel=\"noopener noreferrer\">simplylouie.com/vin-decoder</a></p> <p><strong>Auto Loan Calculator</strong> - Enter price, down payment, rate, and term.",
+        "link": "https://dev.to/subprime2010/i-built-8-free-tools-nobody-asked-for-and-why-they-cost-0-2kh5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-18T04:11:07.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "opensource",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "opensource"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "simplylouie.com/loan-calculator Solar ROI Calculator - Enter your electric bill and see your estimated system size, federal tax credit (30%), payback period, and 25-year savings.",
+          "simplylouie.com/solar-calculator Home Value Estimator - Get a quick property value estimate based on address, square footage, and comparable sales data.",
+          "Try it: simplylouie.com/vin-decoder Auto Loan Calculator - Enter price, down payment, rate, and term."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Halt and Catch Fire",
+        "slug": "halt-and-catch-fire",
+        "description": "Article URL: https://www.sceneandheardnu.com/content/halt-and-catch-fire Comments URL: https://news.ycombinator.com/item?id=47056314 Points: 287 # Comments: 168",
+        "summary": "Article URL: https://www.sceneandheardnu.com/content/halt-and-catch-fire Comments URL: https://news.ycombinator.com/item?id=47056314 Points: 287 # Comments: 168",
+        "link": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+        "source": "Hacker News",
+        "isoDate": "2026-02-18T02:18:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Tools that Actually Pay You Back",
+        "slug": "ai-tools-that-actually-pay-you-back",
+        "description": "One way to monetize Microsoft Azure Machine Learning is by using it to build models that can be used to drive revenue-generating applications, such as chatbots or recommender systems. One way to monetize the Google Cloud AI Platform is by using it to build predictive models that can be sold to clients or used to drive revenue-generating applications.",
+        "summary": "One way to monetize Microsoft Azure Machine Learning is by using it to build models that can be used to drive revenue-generating applications, such as chatbots or recommender systems. One way to monetize the Google Cloud AI Platform is by using it to build predictive models that can be sold to clients or used to drive revenue-generating applications.",
+        "link": "https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai-1pjk",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-18T02:07:03.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "money",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "One way to monetize Microsoft Azure Machine Learning is by using it to build models that can be used to drive revenue-generating applications, such as chatbots or recommender systems.",
+          "One way to monetize the Google Cloud AI Platform is by using it to build predictive models that can be sold to clients or used to drive revenue-generating applications.",
+          "With its automated machine learning capabilities and large model gallery, you can quickly and easily build models that can be used to drive business value."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-18T06:44:44.723Z",
+    "lastUpdated": "2026-02-18T06:44:44.723Z",
+    "visibleDate": "Feb 18, 2026",
+    "url": "pages/2026-02-18-064444723-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-18-064444723-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "15 years later,",
+      "I Built 8"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include 15 years later,, I Built 8. Gitpod brings zero-co",
+    "tools": [
+      {
+        "name": "15 years later,",
+        "slug": "15-years-later",
+        "description": "Article URL: https://nvie.com/posts/15-years-later/ Comments URL: https://news.ycombinator.com/item?id=47057829 Points: 19 # Comments: 0",
+        "summary": "Article URL: https://nvie.com/posts/15-years-later/ Comments URL: https://news.ycombinator.com/item?id=47057829 Points: 19 # Comments: 0",
+        "link": "https://nvie.com/posts/15-years-later/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-18T06:20:13.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built 8",
+        "slug": "i-built-8",
+        "description": "simplylouie.com/loan-calculator Solar ROI Calculator - Enter your electric bill and see your estimated system size, federal tax credit (30%), payback period, and 25-year savings. Try it: <a href=\"https://simplylouie.com/vin-decoder\" rel=\"noopener noreferrer\">simplylouie.com/vin-decoder</a></p> <p><strong>Auto Loan Calculator</strong> - Enter price, down payment, rate, and term.",
+        "summary": "simplylouie.com/loan-calculator Solar ROI Calculator - Enter your electric bill and see your estimated system size, federal tax credit (30%), payback period, and 25-year savings. Try it: <a href=\"https://simplylouie.com/vin-decoder\" rel=\"noopener noreferrer\">simplylouie.com/vin-decoder</a></p> <p><strong>Auto Loan Calculator</strong> - Enter price, down payment, rate, and term.",
+        "link": "https://dev.to/subprime2010/i-built-8-free-tools-nobody-asked-for-and-why-they-cost-0-2kh5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-18T04:11:07.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "opensource",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "opensource"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "simplylouie.com/loan-calculator Solar ROI Calculator - Enter your electric bill and see your estimated system size, federal tax credit (30%), payback period, and 25-year savings.",
+          "simplylouie.com/solar-calculator Home Value Estimator - Get a quick property value estimate based on address, square footage, and comparable sales data.",
+          "Try it: simplylouie.com/vin-decoder Auto Loan Calculator - Enter price, down payment, rate, and term."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-18T06:44:44.723Z",
+    "lastUpdated": "2026-02-18T06:44:44.723Z",
+    "visibleDate": "Feb 18, 2026",
+    "url": "pages/2026-02-18-064444723-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-18-064444723-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "15 years later,",
+      "I Built 8",
+      "Halt and Catch Fire"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include 15 years later,, I Built 8, Halt and Catch Fire. New launches that are s",
+    "tools": [
+      {
+        "name": "15 years later,",
+        "slug": "15-years-later",
+        "description": "Article URL: https://nvie.com/posts/15-years-later/ Comments URL: https://news.ycombinator.com/item?id=47057829 Points: 19 # Comments: 0",
+        "summary": "Article URL: https://nvie.com/posts/15-years-later/ Comments URL: https://news.ycombinator.com/item?id=47057829 Points: 19 # Comments: 0",
+        "link": "https://nvie.com/posts/15-years-later/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-18T06:20:13.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built 8",
+        "slug": "i-built-8",
+        "description": "simplylouie.com/loan-calculator Solar ROI Calculator - Enter your electric bill and see your estimated system size, federal tax credit (30%), payback period, and 25-year savings. Try it: <a href=\"https://simplylouie.com/vin-decoder\" rel=\"noopener noreferrer\">simplylouie.com/vin-decoder</a></p> <p><strong>Auto Loan Calculator</strong> - Enter price, down payment, rate, and term.",
+        "summary": "simplylouie.com/loan-calculator Solar ROI Calculator - Enter your electric bill and see your estimated system size, federal tax credit (30%), payback period, and 25-year savings. Try it: <a href=\"https://simplylouie.com/vin-decoder\" rel=\"noopener noreferrer\">simplylouie.com/vin-decoder</a></p> <p><strong>Auto Loan Calculator</strong> - Enter price, down payment, rate, and term.",
+        "link": "https://dev.to/subprime2010/i-built-8-free-tools-nobody-asked-for-and-why-they-cost-0-2kh5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-18T04:11:07.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "opensource",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "opensource"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "simplylouie.com/loan-calculator Solar ROI Calculator - Enter your electric bill and see your estimated system size, federal tax credit (30%), payback period, and 25-year savings.",
+          "simplylouie.com/solar-calculator Home Value Estimator - Get a quick property value estimate based on address, square footage, and comparable sales data.",
+          "Try it: simplylouie.com/vin-decoder Auto Loan Calculator - Enter price, down payment, rate, and term."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Halt and Catch Fire",
+        "slug": "halt-and-catch-fire",
+        "description": "Article URL: https://www.sceneandheardnu.com/content/halt-and-catch-fire Comments URL: https://news.ycombinator.com/item?id=47056314 Points: 287 # Comments: 168",
+        "summary": "Article URL: https://www.sceneandheardnu.com/content/halt-and-catch-fire Comments URL: https://news.ycombinator.com/item?id=47056314 Points: 287 # Comments: 168",
+        "link": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+        "source": "Hacker News",
+        "isoDate": "2026-02-18T02:18:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-17T06:41:05.485Z",
     "lastUpdated": "2026-02-17T06:41:05.485Z",
     "visibleDate": "Feb 17, 2026",

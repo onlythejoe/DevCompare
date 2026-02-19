@@ -7,6 +7,655 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-19T06:43:22.910Z",
+    "lastUpdated": "2026-02-19T06:43:22.910Z",
+    "visibleDate": "Feb 19, 2026",
+    "url": "pages/2026-02-19-064322910-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-19-064322910-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why I Stopped Paying for Software",
+      "European Tech Alternatives",
+      "Show HN"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Why I Stopped Paying for Software, European Tech Alternatives, Show HN. Pr",
+    "tools": [
+      {
+        "name": "Why I Stopped Paying for Software",
+        "slug": "why-i-stopped-paying-for-software",
+        "description": "It's: Transparent — you know what it does with your data Flexible — you can tailor it exactly to your needs Free — you'll never get an email about a \"price increase\" The open source world is ready for you. I used to believe that a high price tag guaranteed quality — paying for expensive subscriptions, convinced it was the only way to stay professional.",
+        "summary": "It's: Transparent — you know what it does with your data Flexible — you can tailor it exactly to your needs Free — you'll never get an email about a \"price increase\" The open source world is ready for you. I used to believe that a high price tag guaranteed quality — paying for expensive subscriptions, convinced it was the only way to stay professional.",
+        "link": "https://dev.to/fedya_serafiev/why-i-stopped-paying-for-software-6-open-source-tools-that-changed-how-i-work-1h9f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-19T05:57:12.000Z",
+        "keywords": [
+          "opensource",
+          "productivity",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "opensource",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for opensource",
+          "productivity-ready automation",
+          "Great for opensource"
+        ],
+        "cons": [
+          "Overkill for opensource experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for opensource experiments"
+        ],
+        "highlights": [
+          "I used to believe that a high price tag guaranteed quality — paying for expensive subscriptions, convinced it was the only way to stay professional.",
+          "Today, these solutions don't just compete with paid alternatives — they often surpass them.</p> <p>In this article, I'm sharing 6 tools that are at the core of my workflow.",
+          "LibreOffice — A Full Office Suite, Zero Fees 📝 </h2> <p>For a long time I felt trapped by Microsoft 365 subscriptions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "European Tech Alternatives",
+        "slug": "european-tech-alternatives",
+        "description": "Article URL: https://eutechmap.com/map Comments URL: https://news.ycombinator.com/item?id=47070142 Points: 78 # Comments: 39",
+        "summary": "Article URL: https://eutechmap.com/map Comments URL: https://news.ycombinator.com/item?id=47070142 Points: 78 # Comments: 39",
+        "link": "https://eutechmap.com/map",
+        "source": "Hacker News",
+        "isoDate": "2026-02-19T05:07:37.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Article URL: https://github.com/a11ce/docker-lisp Comments URL: https://news.ycombinator.com/item?id=47069876 Points: 10 # Comments: 4",
+        "summary": "Article URL: https://github.com/a11ce/docker-lisp Comments URL: https://news.ycombinator.com/item?id=47069876 Points: 10 # Comments: 4",
+        "link": "https://github.com/a11ce/docker-lisp",
+        "source": "Hacker News",
+        "isoDate": "2026-02-19T04:19:20.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Ukranian controls Home",
+        "slug": "ukranian-controls-home",
+        "description": "Article URL: https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/ Comments URL: https://news.ycombinator.com/item?id=47069724 Points: 39 # Comments: 4",
+        "summary": "Article URL: https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/ Comments URL: https://news.ycombinator.com/item?id=47069724 Points: 39 # Comments: 4",
+        "link": "https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-19T03:56:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "comments"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Electrobun v1",
+        "slug": "electrobun-v1",
+        "description": "Pass --console and the webview's console.log()s get streamed to your Terminal too.<p>There's tons of other things Electrobun does that I haven't even mentioned, because I haven't interacted much with them yet. In fact, the Tauri version was a rewrite too :) Comments URL: https://news.ycombinator.com/item?id=47069650 Points: 59 # Comments: 19 <p>I'm building a commercial macOS app with Electrobun [1].",
+        "summary": "Pass --console and the webview's console.log()s get streamed to your Terminal too.<p>There's tons of other things Electrobun does that I haven't even mentioned, because I haven't interacted much with them yet. In fact, the Tauri version was a rewrite too :) Comments URL: https://news.ycombinator.com/item?id=47069650 Points: 59 # Comments: 19 <p>I'm building a commercial macOS app with Electrobun [1].",
+        "link": "https://blackboard.sh/blog/electrobun-v1/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-19T03:46:07.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "electrobun"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "In fact, the Tauri version was a rewrite too :) Comments URL: https://news.ycombinator.com/item?id=47069650 Points: 59 # Comments: 19 <p>I'm building a commercial macOS app with Electrobun [1].",
+          "It also handles building, code signing, and notarization.<p>And because I'm using Bun, running an HMR + React + Tailwind server is just one command (`bun ./index.html`) or like 5 lines of code.",
+          "I know that it lets you show platform-native notifications, prompts/popups, etc.<p>There also is a very impressive updating mechanism that relies on a bsdiff implementation written in Zig."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-19T06:43:22.910Z",
+    "lastUpdated": "2026-02-19T06:43:22.910Z",
+    "visibleDate": "Feb 19, 2026",
+    "url": "pages/2026-02-19-064322910-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-19-064322910-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why I Stopped Paying for Software",
+      "European Tech Alternatives",
+      "Show HN"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Why I Stopped Paying for Software, European Tech Alternatives, Sho",
+    "tools": [
+      {
+        "name": "Why I Stopped Paying for Software",
+        "slug": "why-i-stopped-paying-for-software",
+        "description": "It's: Transparent — you know what it does with your data Flexible — you can tailor it exactly to your needs Free — you'll never get an email about a \"price increase\" The open source world is ready for you. I used to believe that a high price tag guaranteed quality — paying for expensive subscriptions, convinced it was the only way to stay professional.",
+        "summary": "It's: Transparent — you know what it does with your data Flexible — you can tailor it exactly to your needs Free — you'll never get an email about a \"price increase\" The open source world is ready for you. I used to believe that a high price tag guaranteed quality — paying for expensive subscriptions, convinced it was the only way to stay professional.",
+        "link": "https://dev.to/fedya_serafiev/why-i-stopped-paying-for-software-6-open-source-tools-that-changed-how-i-work-1h9f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-19T05:57:12.000Z",
+        "keywords": [
+          "opensource",
+          "productivity",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "opensource",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for opensource",
+          "productivity-ready automation",
+          "Great for opensource"
+        ],
+        "cons": [
+          "Overkill for opensource experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for opensource experiments"
+        ],
+        "highlights": [
+          "I used to believe that a high price tag guaranteed quality — paying for expensive subscriptions, convinced it was the only way to stay professional.",
+          "Today, these solutions don't just compete with paid alternatives — they often surpass them.</p> <p>In this article, I'm sharing 6 tools that are at the core of my workflow.",
+          "LibreOffice — A Full Office Suite, Zero Fees 📝 </h2> <p>For a long time I felt trapped by Microsoft 365 subscriptions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "European Tech Alternatives",
+        "slug": "european-tech-alternatives",
+        "description": "Article URL: https://eutechmap.com/map Comments URL: https://news.ycombinator.com/item?id=47070142 Points: 78 # Comments: 39",
+        "summary": "Article URL: https://eutechmap.com/map Comments URL: https://news.ycombinator.com/item?id=47070142 Points: 78 # Comments: 39",
+        "link": "https://eutechmap.com/map",
+        "source": "Hacker News",
+        "isoDate": "2026-02-19T05:07:37.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Article URL: https://github.com/a11ce/docker-lisp Comments URL: https://news.ycombinator.com/item?id=47069876 Points: 10 # Comments: 4",
+        "summary": "Article URL: https://github.com/a11ce/docker-lisp Comments URL: https://news.ycombinator.com/item?id=47069876 Points: 10 # Comments: 4",
+        "link": "https://github.com/a11ce/docker-lisp",
+        "source": "Hacker News",
+        "isoDate": "2026-02-19T04:19:20.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Ukranian controls Home",
+        "slug": "ukranian-controls-home",
+        "description": "Article URL: https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/ Comments URL: https://news.ycombinator.com/item?id=47069724 Points: 39 # Comments: 4",
+        "summary": "Article URL: https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/ Comments URL: https://news.ycombinator.com/item?id=47069724 Points: 39 # Comments: 4",
+        "link": "https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-19T03:56:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "comments"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-19T06:43:22.910Z",
+    "lastUpdated": "2026-02-19T06:43:22.910Z",
+    "visibleDate": "Feb 19, 2026",
+    "url": "pages/2026-02-19-064322910-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-19-064322910-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why I Stopped Paying for Software",
+      "European Tech Alternatives"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Why I Stopped Paying for Software, European Tech ",
+    "tools": [
+      {
+        "name": "Why I Stopped Paying for Software",
+        "slug": "why-i-stopped-paying-for-software",
+        "description": "It's: Transparent — you know what it does with your data Flexible — you can tailor it exactly to your needs Free — you'll never get an email about a \"price increase\" The open source world is ready for you. I used to believe that a high price tag guaranteed quality — paying for expensive subscriptions, convinced it was the only way to stay professional.",
+        "summary": "It's: Transparent — you know what it does with your data Flexible — you can tailor it exactly to your needs Free — you'll never get an email about a \"price increase\" The open source world is ready for you. I used to believe that a high price tag guaranteed quality — paying for expensive subscriptions, convinced it was the only way to stay professional.",
+        "link": "https://dev.to/fedya_serafiev/why-i-stopped-paying-for-software-6-open-source-tools-that-changed-how-i-work-1h9f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-19T05:57:12.000Z",
+        "keywords": [
+          "opensource",
+          "productivity",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "opensource",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for opensource",
+          "productivity-ready automation",
+          "Great for opensource"
+        ],
+        "cons": [
+          "Overkill for opensource experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for opensource experiments"
+        ],
+        "highlights": [
+          "I used to believe that a high price tag guaranteed quality — paying for expensive subscriptions, convinced it was the only way to stay professional.",
+          "Today, these solutions don't just compete with paid alternatives — they often surpass them.</p> <p>In this article, I'm sharing 6 tools that are at the core of my workflow.",
+          "LibreOffice — A Full Office Suite, Zero Fees 📝 </h2> <p>For a long time I felt trapped by Microsoft 365 subscriptions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "European Tech Alternatives",
+        "slug": "european-tech-alternatives",
+        "description": "Article URL: https://eutechmap.com/map Comments URL: https://news.ycombinator.com/item?id=47070142 Points: 78 # Comments: 39",
+        "summary": "Article URL: https://eutechmap.com/map Comments URL: https://news.ycombinator.com/item?id=47070142 Points: 78 # Comments: 39",
+        "link": "https://eutechmap.com/map",
+        "source": "Hacker News",
+        "isoDate": "2026-02-19T05:07:37.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-19T06:43:22.910Z",
+    "lastUpdated": "2026-02-19T06:43:22.910Z",
+    "visibleDate": "Feb 19, 2026",
+    "url": "pages/2026-02-19-064322910-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-19-064322910-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why I Stopped Paying for Software",
+      "European Tech Alternatives",
+      "Show HN"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Why I Stopped Paying for Software, European Tech Alternatives, Show HN. ",
+    "tools": [
+      {
+        "name": "Why I Stopped Paying for Software",
+        "slug": "why-i-stopped-paying-for-software",
+        "description": "It's: Transparent — you know what it does with your data Flexible — you can tailor it exactly to your needs Free — you'll never get an email about a \"price increase\" The open source world is ready for you. I used to believe that a high price tag guaranteed quality — paying for expensive subscriptions, convinced it was the only way to stay professional.",
+        "summary": "It's: Transparent — you know what it does with your data Flexible — you can tailor it exactly to your needs Free — you'll never get an email about a \"price increase\" The open source world is ready for you. I used to believe that a high price tag guaranteed quality — paying for expensive subscriptions, convinced it was the only way to stay professional.",
+        "link": "https://dev.to/fedya_serafiev/why-i-stopped-paying-for-software-6-open-source-tools-that-changed-how-i-work-1h9f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-19T05:57:12.000Z",
+        "keywords": [
+          "opensource",
+          "productivity",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "opensource",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for opensource",
+          "productivity-ready automation",
+          "Great for opensource"
+        ],
+        "cons": [
+          "Overkill for opensource experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for opensource experiments"
+        ],
+        "highlights": [
+          "I used to believe that a high price tag guaranteed quality — paying for expensive subscriptions, convinced it was the only way to stay professional.",
+          "Today, these solutions don't just compete with paid alternatives — they often surpass them.</p> <p>In this article, I'm sharing 6 tools that are at the core of my workflow.",
+          "LibreOffice — A Full Office Suite, Zero Fees 📝 </h2> <p>For a long time I felt trapped by Microsoft 365 subscriptions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "European Tech Alternatives",
+        "slug": "european-tech-alternatives",
+        "description": "Article URL: https://eutechmap.com/map Comments URL: https://news.ycombinator.com/item?id=47070142 Points: 78 # Comments: 39",
+        "summary": "Article URL: https://eutechmap.com/map Comments URL: https://news.ycombinator.com/item?id=47070142 Points: 78 # Comments: 39",
+        "link": "https://eutechmap.com/map",
+        "source": "Hacker News",
+        "isoDate": "2026-02-19T05:07:37.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Article URL: https://github.com/a11ce/docker-lisp Comments URL: https://news.ycombinator.com/item?id=47069876 Points: 10 # Comments: 4",
+        "summary": "Article URL: https://github.com/a11ce/docker-lisp Comments URL: https://news.ycombinator.com/item?id=47069876 Points: 10 # Comments: 4",
+        "link": "https://github.com/a11ce/docker-lisp",
+        "source": "Hacker News",
+        "isoDate": "2026-02-19T04:19:20.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-18T06:44:44.723Z",
     "lastUpdated": "2026-02-18T06:44:44.723Z",
     "visibleDate": "Feb 18, 2026",

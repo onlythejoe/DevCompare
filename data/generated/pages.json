@@ -7,6 +7,659 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-21T06:25:41.964Z",
+    "lastUpdated": "2026-02-21T06:25:41.964Z",
+    "visibleDate": "Feb 21, 2026",
+    "url": "pages/2026-02-21-062541964-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-21-062541964-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Colorado moves age",
+      "Show HN",
+      "Meta Deployed AI"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Colorado moves age, Show HN, Meta Deployed AI. Productivity stacks that ke",
+    "tools": [
+      {
+        "name": "Colorado moves age",
+        "slug": "colorado-moves-age",
+        "description": "Article URL: https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems Comments URL: https://news.ycombinator.com/item?id=47097904 Points: 5 # Comments: 0",
+        "summary": "Article URL: https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems Comments URL: https://news.ycombinator.com/item?id=47097904 Points: 5 # Comments: 0",
+        "link": "https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems",
+        "source": "Hacker News",
+        "isoDate": "2026-02-21T06:01:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Full disclosure on the launch: Our payment processor (Stripe) flagged us on day one (banks seem to hate AI tools), so I've pivoted to a manual \"Concierge Alpha\" for onboarding. I had to scrub through endless \"smash the like button\" intros and sponsor reads just to find a single 5-line JSON payload.",
+        "summary": "Full disclosure on the launch: Our payment processor (Stripe) flagged us on day one (banks seem to hate AI tools), so I've pivoted to a manual \"Concierge Alpha\" for onboarding. I had to scrub through endless \"smash the like button\" intros and sponsor reads just to find a single 5-line JSON payload.",
+        "link": "https://script-snap.com/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-21T04:39:20.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "out"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "Full disclosure on the launch: Our payment processor (Stripe) flagged us on day one (banks seem to hate AI tools), so I've pivoted to a manual \"Concierge Alpha\" for onboarding.",
+          "I had to scrub through endless \"smash the like button\" intros and sponsor reads just to find a single 5-line JSON payload.",
+          "A while ago, I was trying to figure out a specific configuration for a project, and the only good resource I could find was a 25-minute YouTube video."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Meta Deployed AI",
+        "slug": "meta-deployed-ai",
+        "description": "Article URL: https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/ Comments URL: https://news.ycombinator.com/item?id=47097502 Points: 13 # Comments: 4",
+        "summary": "Article URL: https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/ Comments URL: https://news.ycombinator.com/item?id=47097502 Points: 13 # Comments: 4",
+        "link": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-21T04:29:40.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Have RSI and Can't Type All Day",
+        "slug": "i-have-rsi-and-can-t-type-all-day",
+        "description": "I use it for: Writing emails and Slack messages Drafting documentation Writing blog posts (like this one!) Taking meeting notes Voice coding is trickier, but tools like Talon and Cursorless make it possible. Here's my setup:</p> <h3> For General Writing &amp; Communication </h3> <p><a href=\"https://www.typeless.com/?via=rae\" rel=\"noopener noreferrer\">Typeless</a> has been my go-to for voice typing.",
+        "summary": "I use it for: Writing emails and Slack messages Drafting documentation Writing blog posts (like this one!) Taking meeting notes Voice coding is trickier, but tools like Talon and Cursorless make it possible. Here's my setup:</p> <h3> For General Writing &amp; Communication </h3> <p><a href=\"https://www.typeless.com/?via=rae\" rel=\"noopener noreferrer\">Typeless</a> has been my go-to for voice typing.",
+        "link": "https://dev.to/techfind777/i-have-rsi-and-cant-type-all-day-heres-how-voice-dictation-changed-everything-e09",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-21T03:08:40.000Z",
+        "keywords": [
+          "rsi",
+          "productivity",
+          "health",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "rsi",
+          "productivity",
+          "health"
+        ],
+        "pros": [
+          "Great for rsi",
+          "productivity-ready automation",
+          "Great for rsi"
+        ],
+        "cons": [
+          "Overkill for rsi experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for rsi experiments"
+        ],
+        "highlights": [
+          "I tried ergonomic keyboards, vertical mice, standing desks — they helped, but didn't solve the root problem: too much typing.",
+          "Here's my setup:</p> <h3> For General Writing &amp; Communication </h3> <p><a href=\"https://www.typeless.com/?via=rae\" rel=\"noopener noreferrer\">Typeless</a> has been my go-to for voice typing.",
+          "Hours of typing leads to wrist pain, forearm tension, and sometimes numbness that makes you question your career choice."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Excessive token usage",
+        "slug": "excessive-token-usage",
+        "description": "Article URL: https://github.com/anthropics/claude-code/issues/16856 Comments URL: https://news.ycombinator.com/item?id=47096937 Points: 52 # Comments: 13",
+        "summary": "Article URL: https://github.com/anthropics/claude-code/issues/16856 Comments URL: https://news.ycombinator.com/item?id=47096937 Points: 52 # Comments: 13",
+        "link": "https://github.com/anthropics/claude-code/issues/16856",
+        "source": "Hacker News",
+        "isoDate": "2026-02-21T02:40:24.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-21T06:25:41.964Z",
+    "lastUpdated": "2026-02-21T06:25:41.964Z",
+    "visibleDate": "Feb 21, 2026",
+    "url": "pages/2026-02-21-062541964-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-21-062541964-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Colorado moves age",
+      "Show HN",
+      "Meta Deployed AI"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Colorado moves age, Show HN, Meta Deployed AI. Reliable remote deb",
+    "tools": [
+      {
+        "name": "Colorado moves age",
+        "slug": "colorado-moves-age",
+        "description": "Article URL: https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems Comments URL: https://news.ycombinator.com/item?id=47097904 Points: 5 # Comments: 0",
+        "summary": "Article URL: https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems Comments URL: https://news.ycombinator.com/item?id=47097904 Points: 5 # Comments: 0",
+        "link": "https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems",
+        "source": "Hacker News",
+        "isoDate": "2026-02-21T06:01:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Full disclosure on the launch: Our payment processor (Stripe) flagged us on day one (banks seem to hate AI tools), so I've pivoted to a manual \"Concierge Alpha\" for onboarding. I had to scrub through endless \"smash the like button\" intros and sponsor reads just to find a single 5-line JSON payload.",
+        "summary": "Full disclosure on the launch: Our payment processor (Stripe) flagged us on day one (banks seem to hate AI tools), so I've pivoted to a manual \"Concierge Alpha\" for onboarding. I had to scrub through endless \"smash the like button\" intros and sponsor reads just to find a single 5-line JSON payload.",
+        "link": "https://script-snap.com/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-21T04:39:20.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "out"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "Full disclosure on the launch: Our payment processor (Stripe) flagged us on day one (banks seem to hate AI tools), so I've pivoted to a manual \"Concierge Alpha\" for onboarding.",
+          "I had to scrub through endless \"smash the like button\" intros and sponsor reads just to find a single 5-line JSON payload.",
+          "A while ago, I was trying to figure out a specific configuration for a project, and the only good resource I could find was a 25-minute YouTube video."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Meta Deployed AI",
+        "slug": "meta-deployed-ai",
+        "description": "Article URL: https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/ Comments URL: https://news.ycombinator.com/item?id=47097502 Points: 13 # Comments: 4",
+        "summary": "Article URL: https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/ Comments URL: https://news.ycombinator.com/item?id=47097502 Points: 13 # Comments: 4",
+        "link": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-21T04:29:40.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Have RSI and Can't Type All Day",
+        "slug": "i-have-rsi-and-can-t-type-all-day",
+        "description": "I use it for: Writing emails and Slack messages Drafting documentation Writing blog posts (like this one!) Taking meeting notes Voice coding is trickier, but tools like Talon and Cursorless make it possible. Here's my setup:</p> <h3> For General Writing &amp; Communication </h3> <p><a href=\"https://www.typeless.com/?via=rae\" rel=\"noopener noreferrer\">Typeless</a> has been my go-to for voice typing.",
+        "summary": "I use it for: Writing emails and Slack messages Drafting documentation Writing blog posts (like this one!) Taking meeting notes Voice coding is trickier, but tools like Talon and Cursorless make it possible. Here's my setup:</p> <h3> For General Writing &amp; Communication </h3> <p><a href=\"https://www.typeless.com/?via=rae\" rel=\"noopener noreferrer\">Typeless</a> has been my go-to for voice typing.",
+        "link": "https://dev.to/techfind777/i-have-rsi-and-cant-type-all-day-heres-how-voice-dictation-changed-everything-e09",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-21T03:08:40.000Z",
+        "keywords": [
+          "rsi",
+          "productivity",
+          "health",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "rsi",
+          "productivity",
+          "health"
+        ],
+        "pros": [
+          "Great for rsi",
+          "productivity-ready automation",
+          "Great for rsi"
+        ],
+        "cons": [
+          "Overkill for rsi experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for rsi experiments"
+        ],
+        "highlights": [
+          "I tried ergonomic keyboards, vertical mice, standing desks — they helped, but didn't solve the root problem: too much typing.",
+          "Here's my setup:</p> <h3> For General Writing &amp; Communication </h3> <p><a href=\"https://www.typeless.com/?via=rae\" rel=\"noopener noreferrer\">Typeless</a> has been my go-to for voice typing.",
+          "Hours of typing leads to wrist pain, forearm tension, and sometimes numbness that makes you question your career choice."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-21T06:25:41.964Z",
+    "lastUpdated": "2026-02-21T06:25:41.964Z",
+    "visibleDate": "Feb 21, 2026",
+    "url": "pages/2026-02-21-062541964-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-21-062541964-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Colorado moves age",
+      "Show HN"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Colorado moves age, Show HN. Gitpod brings zero-c",
+    "tools": [
+      {
+        "name": "Colorado moves age",
+        "slug": "colorado-moves-age",
+        "description": "Article URL: https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems Comments URL: https://news.ycombinator.com/item?id=47097904 Points: 5 # Comments: 0",
+        "summary": "Article URL: https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems Comments URL: https://news.ycombinator.com/item?id=47097904 Points: 5 # Comments: 0",
+        "link": "https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems",
+        "source": "Hacker News",
+        "isoDate": "2026-02-21T06:01:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Full disclosure on the launch: Our payment processor (Stripe) flagged us on day one (banks seem to hate AI tools), so I've pivoted to a manual \"Concierge Alpha\" for onboarding. I had to scrub through endless \"smash the like button\" intros and sponsor reads just to find a single 5-line JSON payload.",
+        "summary": "Full disclosure on the launch: Our payment processor (Stripe) flagged us on day one (banks seem to hate AI tools), so I've pivoted to a manual \"Concierge Alpha\" for onboarding. I had to scrub through endless \"smash the like button\" intros and sponsor reads just to find a single 5-line JSON payload.",
+        "link": "https://script-snap.com/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-21T04:39:20.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "out"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "Full disclosure on the launch: Our payment processor (Stripe) flagged us on day one (banks seem to hate AI tools), so I've pivoted to a manual \"Concierge Alpha\" for onboarding.",
+          "I had to scrub through endless \"smash the like button\" intros and sponsor reads just to find a single 5-line JSON payload.",
+          "A while ago, I was trying to figure out a specific configuration for a project, and the only good resource I could find was a 25-minute YouTube video."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-21T06:25:41.964Z",
+    "lastUpdated": "2026-02-21T06:25:41.964Z",
+    "visibleDate": "Feb 21, 2026",
+    "url": "pages/2026-02-21-062541964-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-21-062541964-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Colorado moves age",
+      "Show HN",
+      "Meta Deployed AI"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Colorado moves age, Show HN, Meta Deployed AI. New launches that are shi",
+    "tools": [
+      {
+        "name": "Colorado moves age",
+        "slug": "colorado-moves-age",
+        "description": "Article URL: https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems Comments URL: https://news.ycombinator.com/item?id=47097904 Points: 5 # Comments: 0",
+        "summary": "Article URL: https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems Comments URL: https://news.ycombinator.com/item?id=47097904 Points: 5 # Comments: 0",
+        "link": "https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems",
+        "source": "Hacker News",
+        "isoDate": "2026-02-21T06:01:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Full disclosure on the launch: Our payment processor (Stripe) flagged us on day one (banks seem to hate AI tools), so I've pivoted to a manual \"Concierge Alpha\" for onboarding. I had to scrub through endless \"smash the like button\" intros and sponsor reads just to find a single 5-line JSON payload.",
+        "summary": "Full disclosure on the launch: Our payment processor (Stripe) flagged us on day one (banks seem to hate AI tools), so I've pivoted to a manual \"Concierge Alpha\" for onboarding. I had to scrub through endless \"smash the like button\" intros and sponsor reads just to find a single 5-line JSON payload.",
+        "link": "https://script-snap.com/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-21T04:39:20.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "out"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "Full disclosure on the launch: Our payment processor (Stripe) flagged us on day one (banks seem to hate AI tools), so I've pivoted to a manual \"Concierge Alpha\" for onboarding.",
+          "I had to scrub through endless \"smash the like button\" intros and sponsor reads just to find a single 5-line JSON payload.",
+          "A while ago, I was trying to figure out a specific configuration for a project, and the only good resource I could find was a 25-minute YouTube video."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Meta Deployed AI",
+        "slug": "meta-deployed-ai",
+        "description": "Article URL: https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/ Comments URL: https://news.ycombinator.com/item?id=47097502 Points: 13 # Comments: 4",
+        "summary": "Article URL: https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/ Comments URL: https://news.ycombinator.com/item?id=47097502 Points: 13 # Comments: 4",
+        "link": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-21T04:29:40.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-20T06:38:09.033Z",
     "lastUpdated": "2026-02-20T06:38:09.033Z",
     "visibleDate": "Feb 20, 2026",

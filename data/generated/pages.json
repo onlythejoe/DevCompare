@@ -7,6 +7,695 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-23T06:49:08.130Z",
+    "lastUpdated": "2026-02-23T06:49:08.130Z",
+    "visibleDate": "Feb 23, 2026",
+    "url": "pages/2026-02-23-064908130-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-23-064908130-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Best Free",
+      "Why Image Size",
+      "10 Free CSS"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include The Best Free, Why Image Size, 10 Free CSS. Productivity stacks that keep ",
+    "tools": [
+      {
+        "name": "The Best Free",
+        "slug": "the-best-free",
+        "description": "Traditional Practice Methods Tips to Get the Most Out of Every Session FAQ Final Thoughts A random topic generator is a tool that instantly produces unexpected speech subjects, forcing you to think on your feet. This mirrors real-world situations: a question in a job interview you didn't anticipate, a journalist shoving a microphone in front of you, or the moment your Toastmasters chair calls your name for Table Topics.",
+        "summary": "Traditional Practice Methods Tips to Get the Most Out of Every Session FAQ Final Thoughts A random topic generator is a tool that instantly produces unexpected speech subjects, forcing you to think on your feet. This mirrors real-world situations: a question in a job interview you didn't anticipate, a journalist shoving a microphone in front of you, or the moment your Toastmasters chair calls your name for Table Topics.",
+        "link": "https://dev.to/czmilo/the-best-free-random-topic-generator-for-impromptu-speech-practice-in-2026-1d9j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-23T03:55:40.000Z",
+        "keywords": [
+          "publicspeaking",
+          "productivity",
+          "learning",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "publicspeaking",
+          "productivity",
+          "learning",
+          "ai"
+        ],
+        "pros": [
+          "Great for publicspeaking",
+          "productivity-ready automation",
+          "Great for publicspeaking"
+        ],
+        "cons": [
+          "Overkill for publicspeaking experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for publicspeaking experiments"
+        ],
+        "highlights": [
+          "Each round delivers a fresh set of three topics, so you never run out of practice material.</p> <blockquote> <p>💡 <strong>Pro Tip</strong><br> Start with 1-minute rounds when building the habit.",
+          "randomtopicgenerator.net takes this further with a built-in timer, multi-language support, and optional theme filtering — everything you need in one free, no-login tool.",
+          "With regular use of a random topic generator, the \"blank mind\" panic decreases, structured thinking under pressure becomes automatic, and confidence compounds over time."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why Image Size",
+        "slug": "why-image-size",
+        "description": "Image Size, Performance, and SEO Smaller images mean: Faster page loads Better Core Web Vitals Improved UX Resizing images before uploading is one of the easiest performance wins you can make. It’s browser-based and straightforward: Upload an image Set width or height Download the resized image No account required and no setup involved.",
+        "summary": "Image Size, Performance, and SEO Smaller images mean: Faster page loads Better Core Web Vitals Improved UX Resizing images before uploading is one of the easiest performance wins you can make. It’s browser-based and straightforward: Upload an image Set width or height Download the resized image No account required and no setup involved.",
+        "link": "https://dev.to/michelcx/why-image-size-still-matters-in-2026-1g8m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-23T03:31:07.000Z",
+        "keywords": [
+          "webdev",
+          "performance",
+          "seo",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "performance",
+          "seo"
+        ],
+        "pros": [
+          "Great for webdev",
+          "performance-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for performance workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Image Size, Performance, and SEO Smaller images mean: Faster page loads Better Core Web Vitals Improved UX Resizing images before uploading is one of the easiest performance wins you can make.",
+          "It’s browser-based and straightforward: Upload an image Set width or height Download the resized image No account required and no setup involved.",
+          "If you regularly work with images for web projects, bookmarking a simple tool like this can save time and keep things moving."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "10 Free CSS",
+        "slug": "10-free-css",
+        "description": "Set justify-content, align-items, flex-wrap and see results in real-time.<br> <a href=\"https://viadreams.cc/en/tools/flexbox-generator\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 3. CSS Grid Generator </h2> <p>Build CSS Grid layouts visually with row/column controls and code output.<br> <a href=\"https://viadreams.cc/en/tools/css-grid-generator\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 5.",
+        "summary": "Set justify-content, align-items, flex-wrap and see results in real-time.<br> <a href=\"https://viadreams.cc/en/tools/flexbox-generator\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 3. CSS Grid Generator </h2> <p>Build CSS Grid layouts visually with row/column controls and code output.<br> <a href=\"https://viadreams.cc/en/tools/css-grid-generator\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 5.",
+        "link": "https://dev.to/arenasbob2024cell/10-free-css-tools-every-developer-should-bookmark-1l71",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-23T02:46:34.000Z",
+        "keywords": [
+          "css",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "css",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for css",
+          "webdev-ready automation",
+          "Great for css"
+        ],
+        "cons": [
+          "Overkill for css experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for css experiments"
+        ],
+        "highlights": [
+          "Set justify-content, align-items, flex-wrap and see results in real-time.<br> <a href=\"https://viadreams.cc/en/tools/flexbox-generator\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 3.",
+          "CSS Formatter </h2> <p>Format minified CSS with proper indentation and line breaks.<br> <a href=\"https://viadreams.cc/en/tools/css-formatter\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 7.",
+          "CSS Minifier </h2> <p>Minify CSS for production by removing whitespace and comments.<br> <a href=\"https://viadreams.cc/en/tools/css-minifier\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 8."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Remove NotebookLM Watermarks from Videos, Slides & PDFs",
+        "slug": "remove-notebooklm-watermarks-from-videos-slides-pdfs",
+        "description": "Automatic watermark removal for all NotebookLM formats: 🎬 MP4 Video — the only tool that does this automatically 📊 PPTX Slides — clean in seconds 📄 PDF — batch-ready 🖼️ Infographics Upload, process, download. Hey dev.to community 👋 We're launching NotebookLM Studio on Product Hunt this Tuesday (Feb 25).",
+        "summary": "Automatic watermark removal for all NotebookLM formats: 🎬 MP4 Video — the only tool that does this automatically 📊 PPTX Slides — clean in seconds 📄 PDF — batch-ready 🖼️ Infographics Upload, process, download. Hey dev.to community 👋 We're launching NotebookLM Studio on Product Hunt this Tuesday (Feb 25).",
+        "link": "https://dev.to/morninginsights_6f61e04f2/remove-notebooklm-watermarks-from-videos-slides-pdfs-launching-on-product-hunt-tuesday-4bkl",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-23T02:14:08.000Z",
+        "keywords": [
+          "productivity",
+          "ai",
+          "tools",
+          "googleai",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "ai",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "ai-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Hey dev.to community 👋 We're launching NotebookLM Studio on Product Hunt this Tuesday (Feb 25).",
+          "Every NotebookLM export — video, slides, infographic — comes stamped with a watermark.",
+          "Painful for professional presentations, teaching, or client reports."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Complete AI Meeting Workflow",
+        "slug": "the-complete-ai-meeting-workflow",
+        "description": "Before a recurring meeting, I search for the client or project name and get instant context — previous decisions, open questions, even the exact tone of past discussions. That's nearly four full workdays spent in rooms — physical or virtual — talking about work instead of doing it.</p> <p>But here's the thing: meetings themselves aren't the problem.",
+        "summary": "Before a recurring meeting, I search for the client or project name and get instant context — previous decisions, open questions, even the exact tone of past discussions. That's nearly four full workdays spent in rooms — physical or virtual — talking about work instead of doing it.</p> <p>But here's the thing: meetings themselves aren't the problem.",
+        "link": "https://dev.to/techfind777/the-complete-ai-meeting-workflow-from-preparation-to-follow-up-2026-guide-1b5h",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-23T02:02:26.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "meetings",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "meetings"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Before a recurring meeting, I search for the client or project name and get instant context — previous decisions, open questions, even the exact tone of past discussions.",
+          "It's everything around them — the prep, the note-taking, the follow-ups that slip through cracks, the \"can you repeat what was decided?\" messages two days later.",
+          "That's nearly four full workdays spent in rooms — physical or virtual — talking about work instead of doing it.</p> <p>But here's the thing: meetings themselves aren't the problem."
+        ],
+        "pricing": "Paid plans starting at $18",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-23T06:49:08.130Z",
+    "lastUpdated": "2026-02-23T06:49:08.130Z",
+    "visibleDate": "Feb 23, 2026",
+    "url": "pages/2026-02-23-064908130-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-23-064908130-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Best Free",
+      "Why Image Size",
+      "10 Free CSS"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include The Best Free, Why Image Size, 10 Free CSS. Reliable remote debugg",
+    "tools": [
+      {
+        "name": "The Best Free",
+        "slug": "the-best-free",
+        "description": "Traditional Practice Methods Tips to Get the Most Out of Every Session FAQ Final Thoughts A random topic generator is a tool that instantly produces unexpected speech subjects, forcing you to think on your feet. This mirrors real-world situations: a question in a job interview you didn't anticipate, a journalist shoving a microphone in front of you, or the moment your Toastmasters chair calls your name for Table Topics.",
+        "summary": "Traditional Practice Methods Tips to Get the Most Out of Every Session FAQ Final Thoughts A random topic generator is a tool that instantly produces unexpected speech subjects, forcing you to think on your feet. This mirrors real-world situations: a question in a job interview you didn't anticipate, a journalist shoving a microphone in front of you, or the moment your Toastmasters chair calls your name for Table Topics.",
+        "link": "https://dev.to/czmilo/the-best-free-random-topic-generator-for-impromptu-speech-practice-in-2026-1d9j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-23T03:55:40.000Z",
+        "keywords": [
+          "publicspeaking",
+          "productivity",
+          "learning",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "publicspeaking",
+          "productivity",
+          "learning",
+          "ai"
+        ],
+        "pros": [
+          "Great for publicspeaking",
+          "productivity-ready automation",
+          "Great for publicspeaking"
+        ],
+        "cons": [
+          "Overkill for publicspeaking experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for publicspeaking experiments"
+        ],
+        "highlights": [
+          "Each round delivers a fresh set of three topics, so you never run out of practice material.</p> <blockquote> <p>💡 <strong>Pro Tip</strong><br> Start with 1-minute rounds when building the habit.",
+          "randomtopicgenerator.net takes this further with a built-in timer, multi-language support, and optional theme filtering — everything you need in one free, no-login tool.",
+          "With regular use of a random topic generator, the \"blank mind\" panic decreases, structured thinking under pressure becomes automatic, and confidence compounds over time."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why Image Size",
+        "slug": "why-image-size",
+        "description": "Image Size, Performance, and SEO Smaller images mean: Faster page loads Better Core Web Vitals Improved UX Resizing images before uploading is one of the easiest performance wins you can make. It’s browser-based and straightforward: Upload an image Set width or height Download the resized image No account required and no setup involved.",
+        "summary": "Image Size, Performance, and SEO Smaller images mean: Faster page loads Better Core Web Vitals Improved UX Resizing images before uploading is one of the easiest performance wins you can make. It’s browser-based and straightforward: Upload an image Set width or height Download the resized image No account required and no setup involved.",
+        "link": "https://dev.to/michelcx/why-image-size-still-matters-in-2026-1g8m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-23T03:31:07.000Z",
+        "keywords": [
+          "webdev",
+          "performance",
+          "seo",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "performance",
+          "seo"
+        ],
+        "pros": [
+          "Great for webdev",
+          "performance-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for performance workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Image Size, Performance, and SEO Smaller images mean: Faster page loads Better Core Web Vitals Improved UX Resizing images before uploading is one of the easiest performance wins you can make.",
+          "It’s browser-based and straightforward: Upload an image Set width or height Download the resized image No account required and no setup involved.",
+          "If you regularly work with images for web projects, bookmarking a simple tool like this can save time and keep things moving."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "10 Free CSS",
+        "slug": "10-free-css",
+        "description": "Set justify-content, align-items, flex-wrap and see results in real-time.<br> <a href=\"https://viadreams.cc/en/tools/flexbox-generator\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 3. CSS Grid Generator </h2> <p>Build CSS Grid layouts visually with row/column controls and code output.<br> <a href=\"https://viadreams.cc/en/tools/css-grid-generator\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 5.",
+        "summary": "Set justify-content, align-items, flex-wrap and see results in real-time.<br> <a href=\"https://viadreams.cc/en/tools/flexbox-generator\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 3. CSS Grid Generator </h2> <p>Build CSS Grid layouts visually with row/column controls and code output.<br> <a href=\"https://viadreams.cc/en/tools/css-grid-generator\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 5.",
+        "link": "https://dev.to/arenasbob2024cell/10-free-css-tools-every-developer-should-bookmark-1l71",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-23T02:46:34.000Z",
+        "keywords": [
+          "css",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "css",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for css",
+          "webdev-ready automation",
+          "Great for css"
+        ],
+        "cons": [
+          "Overkill for css experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for css experiments"
+        ],
+        "highlights": [
+          "Set justify-content, align-items, flex-wrap and see results in real-time.<br> <a href=\"https://viadreams.cc/en/tools/flexbox-generator\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 3.",
+          "CSS Formatter </h2> <p>Format minified CSS with proper indentation and line breaks.<br> <a href=\"https://viadreams.cc/en/tools/css-formatter\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 7.",
+          "CSS Minifier </h2> <p>Minify CSS for production by removing whitespace and comments.<br> <a href=\"https://viadreams.cc/en/tools/css-minifier\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 8."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Remove NotebookLM Watermarks from Videos, Slides & PDFs",
+        "slug": "remove-notebooklm-watermarks-from-videos-slides-pdfs",
+        "description": "Automatic watermark removal for all NotebookLM formats: 🎬 MP4 Video — the only tool that does this automatically 📊 PPTX Slides — clean in seconds 📄 PDF — batch-ready 🖼️ Infographics Upload, process, download. Hey dev.to community 👋 We're launching NotebookLM Studio on Product Hunt this Tuesday (Feb 25).",
+        "summary": "Automatic watermark removal for all NotebookLM formats: 🎬 MP4 Video — the only tool that does this automatically 📊 PPTX Slides — clean in seconds 📄 PDF — batch-ready 🖼️ Infographics Upload, process, download. Hey dev.to community 👋 We're launching NotebookLM Studio on Product Hunt this Tuesday (Feb 25).",
+        "link": "https://dev.to/morninginsights_6f61e04f2/remove-notebooklm-watermarks-from-videos-slides-pdfs-launching-on-product-hunt-tuesday-4bkl",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-23T02:14:08.000Z",
+        "keywords": [
+          "productivity",
+          "ai",
+          "tools",
+          "googleai",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "ai",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "ai-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Hey dev.to community 👋 We're launching NotebookLM Studio on Product Hunt this Tuesday (Feb 25).",
+          "Every NotebookLM export — video, slides, infographic — comes stamped with a watermark.",
+          "Painful for professional presentations, teaching, or client reports."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-23T06:49:08.130Z",
+    "lastUpdated": "2026-02-23T06:49:08.130Z",
+    "visibleDate": "Feb 23, 2026",
+    "url": "pages/2026-02-23-064908130-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-23-064908130-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Best Free",
+      "Why Image Size"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include The Best Free, Why Image Size. Gitpod brings zero",
+    "tools": [
+      {
+        "name": "The Best Free",
+        "slug": "the-best-free",
+        "description": "Traditional Practice Methods Tips to Get the Most Out of Every Session FAQ Final Thoughts A random topic generator is a tool that instantly produces unexpected speech subjects, forcing you to think on your feet. This mirrors real-world situations: a question in a job interview you didn't anticipate, a journalist shoving a microphone in front of you, or the moment your Toastmasters chair calls your name for Table Topics.",
+        "summary": "Traditional Practice Methods Tips to Get the Most Out of Every Session FAQ Final Thoughts A random topic generator is a tool that instantly produces unexpected speech subjects, forcing you to think on your feet. This mirrors real-world situations: a question in a job interview you didn't anticipate, a journalist shoving a microphone in front of you, or the moment your Toastmasters chair calls your name for Table Topics.",
+        "link": "https://dev.to/czmilo/the-best-free-random-topic-generator-for-impromptu-speech-practice-in-2026-1d9j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-23T03:55:40.000Z",
+        "keywords": [
+          "publicspeaking",
+          "productivity",
+          "learning",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "publicspeaking",
+          "productivity",
+          "learning",
+          "ai"
+        ],
+        "pros": [
+          "Great for publicspeaking",
+          "productivity-ready automation",
+          "Great for publicspeaking"
+        ],
+        "cons": [
+          "Overkill for publicspeaking experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for publicspeaking experiments"
+        ],
+        "highlights": [
+          "Each round delivers a fresh set of three topics, so you never run out of practice material.</p> <blockquote> <p>💡 <strong>Pro Tip</strong><br> Start with 1-minute rounds when building the habit.",
+          "randomtopicgenerator.net takes this further with a built-in timer, multi-language support, and optional theme filtering — everything you need in one free, no-login tool.",
+          "With regular use of a random topic generator, the \"blank mind\" panic decreases, structured thinking under pressure becomes automatic, and confidence compounds over time."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why Image Size",
+        "slug": "why-image-size",
+        "description": "Image Size, Performance, and SEO Smaller images mean: Faster page loads Better Core Web Vitals Improved UX Resizing images before uploading is one of the easiest performance wins you can make. It’s browser-based and straightforward: Upload an image Set width or height Download the resized image No account required and no setup involved.",
+        "summary": "Image Size, Performance, and SEO Smaller images mean: Faster page loads Better Core Web Vitals Improved UX Resizing images before uploading is one of the easiest performance wins you can make. It’s browser-based and straightforward: Upload an image Set width or height Download the resized image No account required and no setup involved.",
+        "link": "https://dev.to/michelcx/why-image-size-still-matters-in-2026-1g8m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-23T03:31:07.000Z",
+        "keywords": [
+          "webdev",
+          "performance",
+          "seo",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "performance",
+          "seo"
+        ],
+        "pros": [
+          "Great for webdev",
+          "performance-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for performance workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Image Size, Performance, and SEO Smaller images mean: Faster page loads Better Core Web Vitals Improved UX Resizing images before uploading is one of the easiest performance wins you can make.",
+          "It’s browser-based and straightforward: Upload an image Set width or height Download the resized image No account required and no setup involved.",
+          "If you regularly work with images for web projects, bookmarking a simple tool like this can save time and keep things moving."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-23T06:49:08.130Z",
+    "lastUpdated": "2026-02-23T06:49:08.130Z",
+    "visibleDate": "Feb 23, 2026",
+    "url": "pages/2026-02-23-064908130-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-23-064908130-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Best Free",
+      "Why Image Size",
+      "10 Free CSS"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include The Best Free, Why Image Size, 10 Free CSS. New launches that are shippi",
+    "tools": [
+      {
+        "name": "The Best Free",
+        "slug": "the-best-free",
+        "description": "Traditional Practice Methods Tips to Get the Most Out of Every Session FAQ Final Thoughts A random topic generator is a tool that instantly produces unexpected speech subjects, forcing you to think on your feet. This mirrors real-world situations: a question in a job interview you didn't anticipate, a journalist shoving a microphone in front of you, or the moment your Toastmasters chair calls your name for Table Topics.",
+        "summary": "Traditional Practice Methods Tips to Get the Most Out of Every Session FAQ Final Thoughts A random topic generator is a tool that instantly produces unexpected speech subjects, forcing you to think on your feet. This mirrors real-world situations: a question in a job interview you didn't anticipate, a journalist shoving a microphone in front of you, or the moment your Toastmasters chair calls your name for Table Topics.",
+        "link": "https://dev.to/czmilo/the-best-free-random-topic-generator-for-impromptu-speech-practice-in-2026-1d9j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-23T03:55:40.000Z",
+        "keywords": [
+          "publicspeaking",
+          "productivity",
+          "learning",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "publicspeaking",
+          "productivity",
+          "learning",
+          "ai"
+        ],
+        "pros": [
+          "Great for publicspeaking",
+          "productivity-ready automation",
+          "Great for publicspeaking"
+        ],
+        "cons": [
+          "Overkill for publicspeaking experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for publicspeaking experiments"
+        ],
+        "highlights": [
+          "Each round delivers a fresh set of three topics, so you never run out of practice material.</p> <blockquote> <p>💡 <strong>Pro Tip</strong><br> Start with 1-minute rounds when building the habit.",
+          "randomtopicgenerator.net takes this further with a built-in timer, multi-language support, and optional theme filtering — everything you need in one free, no-login tool.",
+          "With regular use of a random topic generator, the \"blank mind\" panic decreases, structured thinking under pressure becomes automatic, and confidence compounds over time."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why Image Size",
+        "slug": "why-image-size",
+        "description": "Image Size, Performance, and SEO Smaller images mean: Faster page loads Better Core Web Vitals Improved UX Resizing images before uploading is one of the easiest performance wins you can make. It’s browser-based and straightforward: Upload an image Set width or height Download the resized image No account required and no setup involved.",
+        "summary": "Image Size, Performance, and SEO Smaller images mean: Faster page loads Better Core Web Vitals Improved UX Resizing images before uploading is one of the easiest performance wins you can make. It’s browser-based and straightforward: Upload an image Set width or height Download the resized image No account required and no setup involved.",
+        "link": "https://dev.to/michelcx/why-image-size-still-matters-in-2026-1g8m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-23T03:31:07.000Z",
+        "keywords": [
+          "webdev",
+          "performance",
+          "seo",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "performance",
+          "seo"
+        ],
+        "pros": [
+          "Great for webdev",
+          "performance-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for performance workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Image Size, Performance, and SEO Smaller images mean: Faster page loads Better Core Web Vitals Improved UX Resizing images before uploading is one of the easiest performance wins you can make.",
+          "It’s browser-based and straightforward: Upload an image Set width or height Download the resized image No account required and no setup involved.",
+          "If you regularly work with images for web projects, bookmarking a simple tool like this can save time and keep things moving."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "10 Free CSS",
+        "slug": "10-free-css",
+        "description": "Set justify-content, align-items, flex-wrap and see results in real-time.<br> <a href=\"https://viadreams.cc/en/tools/flexbox-generator\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 3. CSS Grid Generator </h2> <p>Build CSS Grid layouts visually with row/column controls and code output.<br> <a href=\"https://viadreams.cc/en/tools/css-grid-generator\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 5.",
+        "summary": "Set justify-content, align-items, flex-wrap and see results in real-time.<br> <a href=\"https://viadreams.cc/en/tools/flexbox-generator\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 3. CSS Grid Generator </h2> <p>Build CSS Grid layouts visually with row/column controls and code output.<br> <a href=\"https://viadreams.cc/en/tools/css-grid-generator\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 5.",
+        "link": "https://dev.to/arenasbob2024cell/10-free-css-tools-every-developer-should-bookmark-1l71",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-23T02:46:34.000Z",
+        "keywords": [
+          "css",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "css",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for css",
+          "webdev-ready automation",
+          "Great for css"
+        ],
+        "cons": [
+          "Overkill for css experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for css experiments"
+        ],
+        "highlights": [
+          "Set justify-content, align-items, flex-wrap and see results in real-time.<br> <a href=\"https://viadreams.cc/en/tools/flexbox-generator\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 3.",
+          "CSS Formatter </h2> <p>Format minified CSS with proper indentation and line breaks.<br> <a href=\"https://viadreams.cc/en/tools/css-formatter\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 7.",
+          "CSS Minifier </h2> <p>Minify CSS for production by removing whitespace and comments.<br> <a href=\"https://viadreams.cc/en/tools/css-minifier\" rel=\"noopener noreferrer\">Try it</a></p> <h2> 8."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-22T06:31:28.884Z",
     "lastUpdated": "2026-02-22T06:31:28.884Z",
     "visibleDate": "Feb 22, 2026",

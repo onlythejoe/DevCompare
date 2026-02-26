@@ -7,6 +7,651 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-26T06:42:38.000Z",
+    "lastUpdated": "2026-02-26T06:42:38.000Z",
+    "visibleDate": "Feb 26, 2026",
+    "url": "pages/2026-02-26-064238000-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-26-064238000-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I don't know",
+      "Self-improving software won't",
+      "The Developer Tool"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include I don't know, Self-improving software won't, The Developer Tool. Productiv",
+    "tools": [
+      {
+        "name": "I don't know",
+        "slug": "i-don-t-know",
+        "description": "Article URL: https://www.grumpy-economist.com/p/refine Comments URL: https://news.ycombinator.com/item?id=47162059 Points: 60 # Comments: 44",
+        "summary": "Article URL: https://www.grumpy-economist.com/p/refine Comments URL: https://news.ycombinator.com/item?id=47162059 Points: 60 # Comments: 44",
+        "link": "https://www.grumpy-economist.com/p/refine",
+        "source": "Hacker News",
+        "isoDate": "2026-02-26T04:59:01.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Self-improving software won't",
+        "slug": "self-improving-software-won-t",
+        "description": "Article URL: https://contalign.jefflunt.com/self-improving-software/ Comments URL: https://news.ycombinator.com/item?id=47161498 Points: 16 # Comments: 8",
+        "summary": "Article URL: https://contalign.jefflunt.com/self-improving-software/ Comments URL: https://news.ycombinator.com/item?id=47161498 Points: 16 # Comments: 8",
+        "link": "https://contalign.jefflunt.com/self-improving-software/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-26T03:36:57.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Developer Tool",
+        "slug": "the-developer-tool",
+        "description": "It's faster for everything: gh pr create --title \"Add user profile\" --body \"Implements profile screen\" gh pr merge 42 gh issue create --title \"Bug: login crash\" gh repo clone myproject No clicking through web UI. My setup is simple: Daily notes for tasks and thoughts Project folders for each codebase A \"snippets\" folder for reusable code patterns A \"learning\" folder for tech notes The bidirectional linking is powerful.",
+        "summary": "It's faster for everything: gh pr create --title \"Add user profile\" --body \"Implements profile screen\" gh pr merge 42 gh issue create --title \"Bug: login crash\" gh repo clone myproject No clicking through web UI. My setup is simple: Daily notes for tasks and thoughts Project folders for each codebase A \"snippets\" folder for reusable code patterns A \"learning\" folder for tech notes The bidirectional linking is powerful.",
+        "link": "https://dev.to/__be2942592/the-developer-tool-stack-that-actually-works-in-2026-1fl6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-26T03:17:01.000Z",
+        "keywords": [
+          "productivity",
+          "programming",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "programming",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "programming-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "What it replaced: Manual refactoring + Stack Overflow rabbit holes Monthly cost: Included with Anthropic subscription Docker Desktop on Mac was always sluggish.",
+          "What it replaced: Notion (for personal notes) Monthly cost: Free (Sync is $8/month but optional) If you're still using Create React App in 2026, please stop.",
+          "What it replaced: Local PostgreSQL + manual backups Monthly cost: Free tier is solid This one hasn't changed, and I don't think it will anytime soon."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "RAM now represents",
+        "slug": "ram-now-represents",
+        "description": "Article URL: https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/ Comments URL: https://news.ycombinator.com/item?id=47161160 Points: 168 # Comments: 101",
+        "summary": "Article URL: https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/ Comments URL: https://news.ycombinator.com/item?id=47161160 Points: 168 # Comments: 101",
+        "link": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-26T02:43:26.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "I built OpenSwarm because I wanted an autonomous “AI dev team” that can actually plug into my real workflow instead of running toy tasks. It’s still early, so there are rough edges and a lot of TODOs around safety, scaling, and better task decomposition.",
+        "summary": "I built OpenSwarm because I wanted an autonomous “AI dev team” that can actually plug into my real workflow instead of running toy tasks. It’s still early, so there are rough edges and a lot of TODOs around safety, scaling, and better task decomposition.",
+        "link": "https://github.com/Intrect-io/OpenSwarm",
+        "source": "Hacker News",
+        "isoDate": "2026-02-26T02:19:02.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "openswarm"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "I built OpenSwarm because I wanted an autonomous “AI dev team” that can actually plug into my real workflow instead of running toy tasks.",
+          "OpenSwarm orchestrates multiple Claude Code CLI instances as agents to work on real Linear issues.",
+          "It’s still early, so there are rough edges and a lot of TODOs around safety, scaling, and better task decomposition."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-26T06:42:38.000Z",
+    "lastUpdated": "2026-02-26T06:42:38.000Z",
+    "visibleDate": "Feb 26, 2026",
+    "url": "pages/2026-02-26-064238000-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-26-064238000-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I don't know",
+      "Self-improving software won't",
+      "The Developer Tool"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include I don't know, Self-improving software won't, The Developer Tool. R",
+    "tools": [
+      {
+        "name": "I don't know",
+        "slug": "i-don-t-know",
+        "description": "Article URL: https://www.grumpy-economist.com/p/refine Comments URL: https://news.ycombinator.com/item?id=47162059 Points: 60 # Comments: 44",
+        "summary": "Article URL: https://www.grumpy-economist.com/p/refine Comments URL: https://news.ycombinator.com/item?id=47162059 Points: 60 # Comments: 44",
+        "link": "https://www.grumpy-economist.com/p/refine",
+        "source": "Hacker News",
+        "isoDate": "2026-02-26T04:59:01.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Self-improving software won't",
+        "slug": "self-improving-software-won-t",
+        "description": "Article URL: https://contalign.jefflunt.com/self-improving-software/ Comments URL: https://news.ycombinator.com/item?id=47161498 Points: 16 # Comments: 8",
+        "summary": "Article URL: https://contalign.jefflunt.com/self-improving-software/ Comments URL: https://news.ycombinator.com/item?id=47161498 Points: 16 # Comments: 8",
+        "link": "https://contalign.jefflunt.com/self-improving-software/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-26T03:36:57.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Developer Tool",
+        "slug": "the-developer-tool",
+        "description": "It's faster for everything: gh pr create --title \"Add user profile\" --body \"Implements profile screen\" gh pr merge 42 gh issue create --title \"Bug: login crash\" gh repo clone myproject No clicking through web UI. My setup is simple: Daily notes for tasks and thoughts Project folders for each codebase A \"snippets\" folder for reusable code patterns A \"learning\" folder for tech notes The bidirectional linking is powerful.",
+        "summary": "It's faster for everything: gh pr create --title \"Add user profile\" --body \"Implements profile screen\" gh pr merge 42 gh issue create --title \"Bug: login crash\" gh repo clone myproject No clicking through web UI. My setup is simple: Daily notes for tasks and thoughts Project folders for each codebase A \"snippets\" folder for reusable code patterns A \"learning\" folder for tech notes The bidirectional linking is powerful.",
+        "link": "https://dev.to/__be2942592/the-developer-tool-stack-that-actually-works-in-2026-1fl6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-26T03:17:01.000Z",
+        "keywords": [
+          "productivity",
+          "programming",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "programming",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "programming-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "What it replaced: Manual refactoring + Stack Overflow rabbit holes Monthly cost: Included with Anthropic subscription Docker Desktop on Mac was always sluggish.",
+          "What it replaced: Notion (for personal notes) Monthly cost: Free (Sync is $8/month but optional) If you're still using Create React App in 2026, please stop.",
+          "What it replaced: Local PostgreSQL + manual backups Monthly cost: Free tier is solid This one hasn't changed, and I don't think it will anytime soon."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "RAM now represents",
+        "slug": "ram-now-represents",
+        "description": "Article URL: https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/ Comments URL: https://news.ycombinator.com/item?id=47161160 Points: 168 # Comments: 101",
+        "summary": "Article URL: https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/ Comments URL: https://news.ycombinator.com/item?id=47161160 Points: 168 # Comments: 101",
+        "link": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-26T02:43:26.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-26T06:42:38.000Z",
+    "lastUpdated": "2026-02-26T06:42:38.000Z",
+    "visibleDate": "Feb 26, 2026",
+    "url": "pages/2026-02-26-064238000-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-26-064238000-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I don't know",
+      "Self-improving software won't"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include I don't know, Self-improving software won't. Gitp",
+    "tools": [
+      {
+        "name": "I don't know",
+        "slug": "i-don-t-know",
+        "description": "Article URL: https://www.grumpy-economist.com/p/refine Comments URL: https://news.ycombinator.com/item?id=47162059 Points: 60 # Comments: 44",
+        "summary": "Article URL: https://www.grumpy-economist.com/p/refine Comments URL: https://news.ycombinator.com/item?id=47162059 Points: 60 # Comments: 44",
+        "link": "https://www.grumpy-economist.com/p/refine",
+        "source": "Hacker News",
+        "isoDate": "2026-02-26T04:59:01.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Self-improving software won't",
+        "slug": "self-improving-software-won-t",
+        "description": "Article URL: https://contalign.jefflunt.com/self-improving-software/ Comments URL: https://news.ycombinator.com/item?id=47161498 Points: 16 # Comments: 8",
+        "summary": "Article URL: https://contalign.jefflunt.com/self-improving-software/ Comments URL: https://news.ycombinator.com/item?id=47161498 Points: 16 # Comments: 8",
+        "link": "https://contalign.jefflunt.com/self-improving-software/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-26T03:36:57.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-26T06:42:38.000Z",
+    "lastUpdated": "2026-02-26T06:42:38.000Z",
+    "visibleDate": "Feb 26, 2026",
+    "url": "pages/2026-02-26-064238000-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-26-064238000-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I don't know",
+      "Self-improving software won't",
+      "The Developer Tool"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include I don't know, Self-improving software won't, The Developer Tool. New lau",
+    "tools": [
+      {
+        "name": "I don't know",
+        "slug": "i-don-t-know",
+        "description": "Article URL: https://www.grumpy-economist.com/p/refine Comments URL: https://news.ycombinator.com/item?id=47162059 Points: 60 # Comments: 44",
+        "summary": "Article URL: https://www.grumpy-economist.com/p/refine Comments URL: https://news.ycombinator.com/item?id=47162059 Points: 60 # Comments: 44",
+        "link": "https://www.grumpy-economist.com/p/refine",
+        "source": "Hacker News",
+        "isoDate": "2026-02-26T04:59:01.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Self-improving software won't",
+        "slug": "self-improving-software-won-t",
+        "description": "Article URL: https://contalign.jefflunt.com/self-improving-software/ Comments URL: https://news.ycombinator.com/item?id=47161498 Points: 16 # Comments: 8",
+        "summary": "Article URL: https://contalign.jefflunt.com/self-improving-software/ Comments URL: https://news.ycombinator.com/item?id=47161498 Points: 16 # Comments: 8",
+        "link": "https://contalign.jefflunt.com/self-improving-software/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-26T03:36:57.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Developer Tool",
+        "slug": "the-developer-tool",
+        "description": "It's faster for everything: gh pr create --title \"Add user profile\" --body \"Implements profile screen\" gh pr merge 42 gh issue create --title \"Bug: login crash\" gh repo clone myproject No clicking through web UI. My setup is simple: Daily notes for tasks and thoughts Project folders for each codebase A \"snippets\" folder for reusable code patterns A \"learning\" folder for tech notes The bidirectional linking is powerful.",
+        "summary": "It's faster for everything: gh pr create --title \"Add user profile\" --body \"Implements profile screen\" gh pr merge 42 gh issue create --title \"Bug: login crash\" gh repo clone myproject No clicking through web UI. My setup is simple: Daily notes for tasks and thoughts Project folders for each codebase A \"snippets\" folder for reusable code patterns A \"learning\" folder for tech notes The bidirectional linking is powerful.",
+        "link": "https://dev.to/__be2942592/the-developer-tool-stack-that-actually-works-in-2026-1fl6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-26T03:17:01.000Z",
+        "keywords": [
+          "productivity",
+          "programming",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "programming",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "programming-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "What it replaced: Manual refactoring + Stack Overflow rabbit holes Monthly cost: Included with Anthropic subscription Docker Desktop on Mac was always sluggish.",
+          "What it replaced: Notion (for personal notes) Monthly cost: Free (Sync is $8/month but optional) If you're still using Create React App in 2026, please stop.",
+          "What it replaced: Local PostgreSQL + manual backups Monthly cost: Free tier is solid This one hasn't changed, and I don't think it will anytime soon."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-25T06:45:54.383Z",
     "lastUpdated": "2026-02-25T06:45:54.383Z",
     "visibleDate": "Feb 25, 2026",

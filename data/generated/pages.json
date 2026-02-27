@@ -7,6 +7,685 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-27T06:35:22.804Z",
+    "lastUpdated": "2026-02-27T06:35:22.804Z",
+    "visibleDate": "Feb 27, 2026",
+    "url": "pages/2026-02-27-063522804-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-27-063522804-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      },
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "To live in",
+      "AI for Every Profession in 2026",
+      "40+ AI Tools Organized by Use Case"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include To live in, AI for Every Profession in 2026, 40+ AI Tools Organized by Use",
+    "tools": [
+      {
+        "name": "To live in",
+        "slug": "to-live-in",
+        "description": "Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world. Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world.",
+        "summary": "Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world. Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world.",
+        "link": "https://stackoverflow.blog/2026/02/27/to-live-in-an-ai-world-knowing-is-half-the-battle/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-27T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "microsoft",
+          "social-media"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI for Every Profession in 2026",
+        "slug": "ai-for-every-profession-in-2026",
+        "description": "AI for YouTubers AI Podcast Tools AI for Fiction Writers From AI Makers Pro <p>AI tools now exist for virtually every profession. AI for Doctors 2026 AI accelerates legal research 10x, reviews contracts automatically, and drafts standard documents.",
+        "summary": "AI for YouTubers AI Podcast Tools AI for Fiction Writers From AI Makers Pro <p>AI tools now exist for virtually every profession. AI for Doctors 2026 AI accelerates legal research 10x, reviews contracts automatically, and drafts standard documents.",
+        "link": "https://dev.to/aimakerspro/ai-for-every-profession-in-2026-doctors-lawyers-teachers-accountants-and-more-2l0k",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-27T06:18:20.000Z",
+        "keywords": [
+          "ai",
+          "career",
+          "business",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "career",
+          "business"
+        ],
+        "pros": [
+          "Great for ai",
+          "career-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for career workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "AI for Doctors 2026 AI accelerates legal research 10x, reviews contracts automatically, and drafts standard documents.",
+          "AI for YouTubers AI Podcast Tools AI for Fiction Writers From AI Makers Pro <p>AI tools now exist for virtually every profession.",
+          "AI for Lawyers Teachers use AI for lesson planning, grading assistance, and personalized student support."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "40+ AI Tools Organized by Use Case",
+        "slug": "40-ai-tools-organized-by-use-case",
+        "description": "How AI Actually Works AI for Beginners All guides from AI Makers Pro <p>Every week there is a new \"best AI tools\" list. This one organizes tools by what you actually need to accomplish.</p> <h2> AI Chatbots: Which One Should You Use?",
+        "summary": "How AI Actually Works AI for Beginners All guides from AI Makers Pro <p>Every week there is a new \"best AI tools\" list. This one organizes tools by what you actually need to accomplish.</p> <h2> AI Chatbots: Which One Should You Use?",
+        "link": "https://dev.to/aimakerspro/40-ai-tools-organized-by-use-case-the-complete-2026-guide-12h2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-27T06:13:09.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "How AI Actually Works AI for Beginners All guides from AI Makers Pro <p>Every week there is a new \"best AI tools\" list.",
+          "This one organizes tools by what you actually need to accomplish.</p> <h2> AI Chatbots: Which One Should You Use?",
+          "Every week there is a new \"best AI tools\" list."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best AI headshot generators in 2026",
+        "slug": "best-ai-headshot-generators-in-2026",
+        "description": "Use case Option One LinkedIn headshot GBP4.99 Full rebrand, lots of variations GBP15-30 premium Zero budget Free tools (lower quality) For most people updating their LinkedIn: GBP4.99, 30 seconds, done. <h2> The market in 2026 </h2> <p>A dozen tools now promise to turn your selfie into a professional headshot.",
+        "summary": "Use case Option One LinkedIn headshot GBP4.99 Full rebrand, lots of variations GBP15-30 premium Zero budget Free tools (lower quality) For most people updating their LinkedIn: GBP4.99, 30 seconds, done. <h2> The market in 2026 </h2> <p>A dozen tools now promise to turn your selfie into a professional headshot.",
+        "link": "https://dev.to/jbventures/best-ai-headshot-generators-in-2026-compared-on-price-quality-speed-e2c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-27T05:58:44.000Z",
+        "keywords": [
+          "ai",
+          "career",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "career",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "career-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for career workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The market in 2026 A dozen tools now promise to turn your selfie into a professional headshot.",
+          "<h2> The market in 2026 </h2> <p>A dozen tools now promise to turn your selfie into a professional headshot."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Tested 15 AI Voice Generators in 2026",
+        "slug": "i-tested-15-ai-voice-generators-in-2026",
+        "description": "What used to take me 2 hours (recording, editing, re-recording mistakes) now takes 10 minutes.</p> <p><strong>Want more AI tool breakdowns like this?</strong> I test new tools every week and share what actually works. I used it for a product demo video and saved 4 hours of filming and editing.</p> <p>The voice quality isn't quite as good as ElevenLabs, but the convenience of having video + voice in one tool makes up for it.",
+        "summary": "What used to take me 2 hours (recording, editing, re-recording mistakes) now takes 10 minutes.</p> <p><strong>Want more AI tool breakdowns like this?</strong> I test new tools every week and share what actually works. I used it for a product demo video and saved 4 hours of filming and editing.</p> <p>The voice quality isn't quite as good as ElevenLabs, but the convenience of having video + voice in one tool makes up for it.",
+        "link": "https://dev.to/techfind777/i-tested-15-ai-voice-generators-in-2026-only-3-sound-actually-human-296d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-27T05:13:04.000Z",
+        "keywords": [
+          "ai",
+          "voice",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "voice",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "voice-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for voice workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "I Tested 15 AI Voice Generators in 2026 — Only 3 Sound Actually Human I spent the last month testing every major AI voice generator I could find.",
+          "Not just clicking through demos, but actually using them for real projects: YouTube voiceovers, podcast intros, audiobook narration, even customer service IVRs.",
+          "The Creator plan ($22/month) bumps that to 100,000 characters and unlocks voice cloning.</p> <p>For content creators doing YouTube voiceovers or podcast intros, this is the tool."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-27T06:35:22.804Z",
+    "lastUpdated": "2026-02-27T06:35:22.804Z",
+    "visibleDate": "Feb 27, 2026",
+    "url": "pages/2026-02-27-063522804-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-27-063522804-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      },
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "To live in",
+      "AI for Every Profession in 2026",
+      "40+ AI Tools Organized by Use Case"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include To live in, AI for Every Profession in 2026, 40+ AI Tools Organize",
+    "tools": [
+      {
+        "name": "To live in",
+        "slug": "to-live-in",
+        "description": "Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world. Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world.",
+        "summary": "Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world. Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world.",
+        "link": "https://stackoverflow.blog/2026/02/27/to-live-in-an-ai-world-knowing-is-half-the-battle/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-27T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "microsoft",
+          "social-media"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI for Every Profession in 2026",
+        "slug": "ai-for-every-profession-in-2026",
+        "description": "AI for YouTubers AI Podcast Tools AI for Fiction Writers From AI Makers Pro <p>AI tools now exist for virtually every profession. AI for Doctors 2026 AI accelerates legal research 10x, reviews contracts automatically, and drafts standard documents.",
+        "summary": "AI for YouTubers AI Podcast Tools AI for Fiction Writers From AI Makers Pro <p>AI tools now exist for virtually every profession. AI for Doctors 2026 AI accelerates legal research 10x, reviews contracts automatically, and drafts standard documents.",
+        "link": "https://dev.to/aimakerspro/ai-for-every-profession-in-2026-doctors-lawyers-teachers-accountants-and-more-2l0k",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-27T06:18:20.000Z",
+        "keywords": [
+          "ai",
+          "career",
+          "business",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "career",
+          "business"
+        ],
+        "pros": [
+          "Great for ai",
+          "career-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for career workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "AI for Doctors 2026 AI accelerates legal research 10x, reviews contracts automatically, and drafts standard documents.",
+          "AI for YouTubers AI Podcast Tools AI for Fiction Writers From AI Makers Pro <p>AI tools now exist for virtually every profession.",
+          "AI for Lawyers Teachers use AI for lesson planning, grading assistance, and personalized student support."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "40+ AI Tools Organized by Use Case",
+        "slug": "40-ai-tools-organized-by-use-case",
+        "description": "How AI Actually Works AI for Beginners All guides from AI Makers Pro <p>Every week there is a new \"best AI tools\" list. This one organizes tools by what you actually need to accomplish.</p> <h2> AI Chatbots: Which One Should You Use?",
+        "summary": "How AI Actually Works AI for Beginners All guides from AI Makers Pro <p>Every week there is a new \"best AI tools\" list. This one organizes tools by what you actually need to accomplish.</p> <h2> AI Chatbots: Which One Should You Use?",
+        "link": "https://dev.to/aimakerspro/40-ai-tools-organized-by-use-case-the-complete-2026-guide-12h2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-27T06:13:09.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "How AI Actually Works AI for Beginners All guides from AI Makers Pro <p>Every week there is a new \"best AI tools\" list.",
+          "This one organizes tools by what you actually need to accomplish.</p> <h2> AI Chatbots: Which One Should You Use?",
+          "Every week there is a new \"best AI tools\" list."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best AI headshot generators in 2026",
+        "slug": "best-ai-headshot-generators-in-2026",
+        "description": "Use case Option One LinkedIn headshot GBP4.99 Full rebrand, lots of variations GBP15-30 premium Zero budget Free tools (lower quality) For most people updating their LinkedIn: GBP4.99, 30 seconds, done. <h2> The market in 2026 </h2> <p>A dozen tools now promise to turn your selfie into a professional headshot.",
+        "summary": "Use case Option One LinkedIn headshot GBP4.99 Full rebrand, lots of variations GBP15-30 premium Zero budget Free tools (lower quality) For most people updating their LinkedIn: GBP4.99, 30 seconds, done. <h2> The market in 2026 </h2> <p>A dozen tools now promise to turn your selfie into a professional headshot.",
+        "link": "https://dev.to/jbventures/best-ai-headshot-generators-in-2026-compared-on-price-quality-speed-e2c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-27T05:58:44.000Z",
+        "keywords": [
+          "ai",
+          "career",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "career",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "career-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for career workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The market in 2026 A dozen tools now promise to turn your selfie into a professional headshot.",
+          "<h2> The market in 2026 </h2> <p>A dozen tools now promise to turn your selfie into a professional headshot."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-27T06:35:22.804Z",
+    "lastUpdated": "2026-02-27T06:35:22.804Z",
+    "visibleDate": "Feb 27, 2026",
+    "url": "pages/2026-02-27-063522804-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-27-063522804-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "To live in",
+      "AI for Every Profession in 2026"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include To live in, AI for Every Profession in 2026. Gitp",
+    "tools": [
+      {
+        "name": "To live in",
+        "slug": "to-live-in",
+        "description": "Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world. Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world.",
+        "summary": "Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world. Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world.",
+        "link": "https://stackoverflow.blog/2026/02/27/to-live-in-an-ai-world-knowing-is-half-the-battle/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-27T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "microsoft",
+          "social-media"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI for Every Profession in 2026",
+        "slug": "ai-for-every-profession-in-2026",
+        "description": "AI for YouTubers AI Podcast Tools AI for Fiction Writers From AI Makers Pro <p>AI tools now exist for virtually every profession. AI for Doctors 2026 AI accelerates legal research 10x, reviews contracts automatically, and drafts standard documents.",
+        "summary": "AI for YouTubers AI Podcast Tools AI for Fiction Writers From AI Makers Pro <p>AI tools now exist for virtually every profession. AI for Doctors 2026 AI accelerates legal research 10x, reviews contracts automatically, and drafts standard documents.",
+        "link": "https://dev.to/aimakerspro/ai-for-every-profession-in-2026-doctors-lawyers-teachers-accountants-and-more-2l0k",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-27T06:18:20.000Z",
+        "keywords": [
+          "ai",
+          "career",
+          "business",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "career",
+          "business"
+        ],
+        "pros": [
+          "Great for ai",
+          "career-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for career workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "AI for Doctors 2026 AI accelerates legal research 10x, reviews contracts automatically, and drafts standard documents.",
+          "AI for YouTubers AI Podcast Tools AI for Fiction Writers From AI Makers Pro <p>AI tools now exist for virtually every profession.",
+          "AI for Lawyers Teachers use AI for lesson planning, grading assistance, and personalized student support."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-27T06:35:22.804Z",
+    "lastUpdated": "2026-02-27T06:35:22.804Z",
+    "visibleDate": "Feb 27, 2026",
+    "url": "pages/2026-02-27-063522804-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-27-063522804-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      },
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "To live in",
+      "AI for Every Profession in 2026",
+      "40+ AI Tools Organized by Use Case"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include To live in, AI for Every Profession in 2026, 40+ AI Tools Organized by U",
+    "tools": [
+      {
+        "name": "To live in",
+        "slug": "to-live-in",
+        "description": "Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world. Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world.",
+        "summary": "Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world. Ryan welcomes Marcus Fontoura, technical fellow at Microsoft and author of Human Agency in the Digital World, to discuss the intersection of technology, society, and human dignity in a digital-first world.",
+        "link": "https://stackoverflow.blog/2026/02/27/to-live-in-an-ai-world-knowing-is-half-the-battle/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-02-27T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "microsoft",
+          "social-media"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI for Every Profession in 2026",
+        "slug": "ai-for-every-profession-in-2026",
+        "description": "AI for YouTubers AI Podcast Tools AI for Fiction Writers From AI Makers Pro <p>AI tools now exist for virtually every profession. AI for Doctors 2026 AI accelerates legal research 10x, reviews contracts automatically, and drafts standard documents.",
+        "summary": "AI for YouTubers AI Podcast Tools AI for Fiction Writers From AI Makers Pro <p>AI tools now exist for virtually every profession. AI for Doctors 2026 AI accelerates legal research 10x, reviews contracts automatically, and drafts standard documents.",
+        "link": "https://dev.to/aimakerspro/ai-for-every-profession-in-2026-doctors-lawyers-teachers-accountants-and-more-2l0k",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-27T06:18:20.000Z",
+        "keywords": [
+          "ai",
+          "career",
+          "business",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "career",
+          "business"
+        ],
+        "pros": [
+          "Great for ai",
+          "career-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for career workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "AI for Doctors 2026 AI accelerates legal research 10x, reviews contracts automatically, and drafts standard documents.",
+          "AI for YouTubers AI Podcast Tools AI for Fiction Writers From AI Makers Pro <p>AI tools now exist for virtually every profession.",
+          "AI for Lawyers Teachers use AI for lesson planning, grading assistance, and personalized student support."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "40+ AI Tools Organized by Use Case",
+        "slug": "40-ai-tools-organized-by-use-case",
+        "description": "How AI Actually Works AI for Beginners All guides from AI Makers Pro <p>Every week there is a new \"best AI tools\" list. This one organizes tools by what you actually need to accomplish.</p> <h2> AI Chatbots: Which One Should You Use?",
+        "summary": "How AI Actually Works AI for Beginners All guides from AI Makers Pro <p>Every week there is a new \"best AI tools\" list. This one organizes tools by what you actually need to accomplish.</p> <h2> AI Chatbots: Which One Should You Use?",
+        "link": "https://dev.to/aimakerspro/40-ai-tools-organized-by-use-case-the-complete-2026-guide-12h2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-27T06:13:09.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "How AI Actually Works AI for Beginners All guides from AI Makers Pro <p>Every week there is a new \"best AI tools\" list.",
+          "This one organizes tools by what you actually need to accomplish.</p> <h2> AI Chatbots: Which One Should You Use?",
+          "Every week there is a new \"best AI tools\" list."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-26T06:42:38.000Z",
     "lastUpdated": "2026-02-26T06:42:38.000Z",
     "visibleDate": "Feb 26, 2026",

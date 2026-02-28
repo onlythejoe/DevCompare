@@ -7,6 +7,663 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-02-28T06:19:49.203Z",
+    "lastUpdated": "2026-02-28T06:19:49.203Z",
+    "visibleDate": "Feb 28, 2026",
+    "url": "pages/2026-02-28-061949203-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-02-28-061949203-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best AI Video Generators in 2026: I Tested 12 Tools",
+      "Cash Issuing Terminals",
+      "I Stopped Paying"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Best AI Video Generators in 2026: I Tested 12 Tools, Cash Issuing Terminal",
+    "tools": [
+      {
+        "name": "Best AI Video Generators in 2026: I Tested 12 Tools",
+        "slug": "best-ai-video-generators-in-2026-i-tested-12-tools",
+        "description": "Paid plans start with credits-based system.</p> <p><strong>Verdict:</strong> If you're trying to figure out which AI video model works best for your use case, HeyVid is the smartest starting point. Tools like <a href=\"https://heyvid.ai/text-to-video\" rel=\"noopener noreferrer\">HeyVid AI</a>, Runway Gen-3, Kling 2.0, and Sora 2 can all generate 5-10 second video clips from text descriptions.",
+        "summary": "Paid plans start with credits-based system.</p> <p><strong>Verdict:</strong> If you're trying to figure out which AI video model works best for your use case, HeyVid is the smartest starting point. Tools like <a href=\"https://heyvid.ai/text-to-video\" rel=\"noopener noreferrer\">HeyVid AI</a>, Runway Gen-3, Kling 2.0, and Sora 2 can all generate 5-10 second video clips from text descriptions.",
+        "link": "https://dev.to/jack_bf6a7f47211731f8/best-ai-video-generators-in-2026-i-tested-12-tools-heres-my-honest-ranking-3pd2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-28T05:47:57.000Z",
+        "keywords": [
+          "ai",
+          "video",
+          "tools",
+          "comparison",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "video",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "video-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for video workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Paid plans start with credits-based system.</p> <p><strong>Verdict:</strong> If you're trying to figure out which AI video model works best for your use case, HeyVid is the smartest starting point.",
+          "However, Kling 2.0 and Google Veo 3 are close behind and may perform better for specific use cases like fast-motion content or photorealistic scenes.",
+          "Tools like <a href=\"https://heyvid.ai/text-to-video\" rel=\"noopener noreferrer\">HeyVid AI</a>, Runway Gen-3, Kling 2.0, and Sora 2 can all generate 5-10 second video clips from text descriptions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Cash Issuing Terminals",
+        "slug": "cash-issuing-terminals",
+        "description": "Article URL: https://computer.rip/2026-02-27-ibm-atm.html Comments URL: https://news.ycombinator.com/item?id=47190806 Points: 7 # Comments: 0",
+        "summary": "Article URL: https://computer.rip/2026-02-27-ibm-atm.html Comments URL: https://news.ycombinator.com/item?id=47190806 Points: 7 # Comments: 0",
+        "link": "https://computer.rip/2026-02-27-ibm-atm.html",
+        "source": "Hacker News",
+        "isoDate": "2026-02-28T05:21:21.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Stopped Paying",
+        "slug": "i-stopped-paying",
+        "description": "I asked all models: \"Give me browser game ideas I could build in a day.\" The results broke down like this: Model What I noticed Claude Opus 4.6 High quality all around — sharp ideas, clean writing. In one screen.</p> <p>No more copying the same prompt into six different tabs.</p> <p>Since launching in May 2024, it's taken off in Japan — GMO rolled it out as a required tool across their ~8,000-person organization.",
+        "summary": "I asked all models: \"Give me browser game ideas I could build in a day.\" The results broke down like this: Model What I noticed Claude Opus 4.6 High quality all around — sharp ideas, clean writing. In one screen.</p> <p>No more copying the same prompt into six different tabs.</p> <p>Since launching in May 2024, it's taken off in Japan — GMO rolled it out as a required tool across their ~8,000-person organization.",
+        "link": "https://dev.to/happyonigiri/i-stopped-paying-40month-for-ai-subscriptions-heres-what-i-use-instead-4mj0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-28T04:17:43.000Z",
+        "keywords": [
+          "ai",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "webdev-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "I asked all models: \"Give me browser game ideas I could build in a day.\" The results broke down like this: Model What I noticed Claude Opus 4.6 High quality all around — sharp ideas, clean writing.",
+          "The free plan gives you 80 queries per day with top-tier models like: Claude Opus 4.6 GPT-5.2 Gemini 3.0 Pro Grok 4 DeepSeek R1 Perplexity PLaMo 2.1 Prime ...30+ more Hold on.",
+          "Browser translation gets you through it, but don't expect an English-first experience.</p> <p><strong>No context compression — sessions cut off</strong><br> Long conversations will hit a wall."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "OpenAI reaches deal",
+        "slug": "openai-reaches-deal",
+        "description": "Article URL: https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/ Comments URL: https://news.ycombinator.com/item?id=47189853 Points: 84 # Comments: 24",
+        "summary": "Article URL: https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/ Comments URL: https://news.ycombinator.com/item?id=47189853 Points: 84 # Comments: 24",
+        "link": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-28T03:23:16.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Don't use passkeys",
+        "slug": "don-t-use-passkeys",
+        "description": "Article URL: https://blog.timcappalli.me/p/passkeys-prf-warning/ Comments URL: https://news.ycombinator.com/item?id=47189749 Points: 84 # Comments: 35",
+        "summary": "Article URL: https://blog.timcappalli.me/p/passkeys-prf-warning/ Comments URL: https://news.ycombinator.com/item?id=47189749 Points: 84 # Comments: 35",
+        "link": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-28T03:11:40.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-02-28T06:19:49.203Z",
+    "lastUpdated": "2026-02-28T06:19:49.203Z",
+    "visibleDate": "Feb 28, 2026",
+    "url": "pages/2026-02-28-061949203-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-02-28-061949203-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best AI Video Generators in 2026: I Tested 12 Tools",
+      "Cash Issuing Terminals",
+      "I Stopped Paying"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Best AI Video Generators in 2026: I Tested 12 Tools, Cash Issuing ",
+    "tools": [
+      {
+        "name": "Best AI Video Generators in 2026: I Tested 12 Tools",
+        "slug": "best-ai-video-generators-in-2026-i-tested-12-tools",
+        "description": "Paid plans start with credits-based system.</p> <p><strong>Verdict:</strong> If you're trying to figure out which AI video model works best for your use case, HeyVid is the smartest starting point. Tools like <a href=\"https://heyvid.ai/text-to-video\" rel=\"noopener noreferrer\">HeyVid AI</a>, Runway Gen-3, Kling 2.0, and Sora 2 can all generate 5-10 second video clips from text descriptions.",
+        "summary": "Paid plans start with credits-based system.</p> <p><strong>Verdict:</strong> If you're trying to figure out which AI video model works best for your use case, HeyVid is the smartest starting point. Tools like <a href=\"https://heyvid.ai/text-to-video\" rel=\"noopener noreferrer\">HeyVid AI</a>, Runway Gen-3, Kling 2.0, and Sora 2 can all generate 5-10 second video clips from text descriptions.",
+        "link": "https://dev.to/jack_bf6a7f47211731f8/best-ai-video-generators-in-2026-i-tested-12-tools-heres-my-honest-ranking-3pd2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-28T05:47:57.000Z",
+        "keywords": [
+          "ai",
+          "video",
+          "tools",
+          "comparison",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "video",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "video-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for video workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Paid plans start with credits-based system.</p> <p><strong>Verdict:</strong> If you're trying to figure out which AI video model works best for your use case, HeyVid is the smartest starting point.",
+          "However, Kling 2.0 and Google Veo 3 are close behind and may perform better for specific use cases like fast-motion content or photorealistic scenes.",
+          "Tools like <a href=\"https://heyvid.ai/text-to-video\" rel=\"noopener noreferrer\">HeyVid AI</a>, Runway Gen-3, Kling 2.0, and Sora 2 can all generate 5-10 second video clips from text descriptions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Cash Issuing Terminals",
+        "slug": "cash-issuing-terminals",
+        "description": "Article URL: https://computer.rip/2026-02-27-ibm-atm.html Comments URL: https://news.ycombinator.com/item?id=47190806 Points: 7 # Comments: 0",
+        "summary": "Article URL: https://computer.rip/2026-02-27-ibm-atm.html Comments URL: https://news.ycombinator.com/item?id=47190806 Points: 7 # Comments: 0",
+        "link": "https://computer.rip/2026-02-27-ibm-atm.html",
+        "source": "Hacker News",
+        "isoDate": "2026-02-28T05:21:21.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Stopped Paying",
+        "slug": "i-stopped-paying",
+        "description": "I asked all models: \"Give me browser game ideas I could build in a day.\" The results broke down like this: Model What I noticed Claude Opus 4.6 High quality all around — sharp ideas, clean writing. In one screen.</p> <p>No more copying the same prompt into six different tabs.</p> <p>Since launching in May 2024, it's taken off in Japan — GMO rolled it out as a required tool across their ~8,000-person organization.",
+        "summary": "I asked all models: \"Give me browser game ideas I could build in a day.\" The results broke down like this: Model What I noticed Claude Opus 4.6 High quality all around — sharp ideas, clean writing. In one screen.</p> <p>No more copying the same prompt into six different tabs.</p> <p>Since launching in May 2024, it's taken off in Japan — GMO rolled it out as a required tool across their ~8,000-person organization.",
+        "link": "https://dev.to/happyonigiri/i-stopped-paying-40month-for-ai-subscriptions-heres-what-i-use-instead-4mj0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-28T04:17:43.000Z",
+        "keywords": [
+          "ai",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "webdev-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "I asked all models: \"Give me browser game ideas I could build in a day.\" The results broke down like this: Model What I noticed Claude Opus 4.6 High quality all around — sharp ideas, clean writing.",
+          "The free plan gives you 80 queries per day with top-tier models like: Claude Opus 4.6 GPT-5.2 Gemini 3.0 Pro Grok 4 DeepSeek R1 Perplexity PLaMo 2.1 Prime ...30+ more Hold on.",
+          "Browser translation gets you through it, but don't expect an English-first experience.</p> <p><strong>No context compression — sessions cut off</strong><br> Long conversations will hit a wall."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "OpenAI reaches deal",
+        "slug": "openai-reaches-deal",
+        "description": "Article URL: https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/ Comments URL: https://news.ycombinator.com/item?id=47189853 Points: 84 # Comments: 24",
+        "summary": "Article URL: https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/ Comments URL: https://news.ycombinator.com/item?id=47189853 Points: 84 # Comments: 24",
+        "link": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
+        "source": "Hacker News",
+        "isoDate": "2026-02-28T03:23:16.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-02-28T06:19:49.203Z",
+    "lastUpdated": "2026-02-28T06:19:49.203Z",
+    "visibleDate": "Feb 28, 2026",
+    "url": "pages/2026-02-28-061949203-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-02-28-061949203-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best AI Video Generators in 2026: I Tested 12 Tools",
+      "Cash Issuing Terminals"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Best AI Video Generators in 2026: I Tested 12 Too",
+    "tools": [
+      {
+        "name": "Best AI Video Generators in 2026: I Tested 12 Tools",
+        "slug": "best-ai-video-generators-in-2026-i-tested-12-tools",
+        "description": "Paid plans start with credits-based system.</p> <p><strong>Verdict:</strong> If you're trying to figure out which AI video model works best for your use case, HeyVid is the smartest starting point. Tools like <a href=\"https://heyvid.ai/text-to-video\" rel=\"noopener noreferrer\">HeyVid AI</a>, Runway Gen-3, Kling 2.0, and Sora 2 can all generate 5-10 second video clips from text descriptions.",
+        "summary": "Paid plans start with credits-based system.</p> <p><strong>Verdict:</strong> If you're trying to figure out which AI video model works best for your use case, HeyVid is the smartest starting point. Tools like <a href=\"https://heyvid.ai/text-to-video\" rel=\"noopener noreferrer\">HeyVid AI</a>, Runway Gen-3, Kling 2.0, and Sora 2 can all generate 5-10 second video clips from text descriptions.",
+        "link": "https://dev.to/jack_bf6a7f47211731f8/best-ai-video-generators-in-2026-i-tested-12-tools-heres-my-honest-ranking-3pd2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-28T05:47:57.000Z",
+        "keywords": [
+          "ai",
+          "video",
+          "tools",
+          "comparison",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "video",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "video-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for video workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Paid plans start with credits-based system.</p> <p><strong>Verdict:</strong> If you're trying to figure out which AI video model works best for your use case, HeyVid is the smartest starting point.",
+          "However, Kling 2.0 and Google Veo 3 are close behind and may perform better for specific use cases like fast-motion content or photorealistic scenes.",
+          "Tools like <a href=\"https://heyvid.ai/text-to-video\" rel=\"noopener noreferrer\">HeyVid AI</a>, Runway Gen-3, Kling 2.0, and Sora 2 can all generate 5-10 second video clips from text descriptions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Cash Issuing Terminals",
+        "slug": "cash-issuing-terminals",
+        "description": "Article URL: https://computer.rip/2026-02-27-ibm-atm.html Comments URL: https://news.ycombinator.com/item?id=47190806 Points: 7 # Comments: 0",
+        "summary": "Article URL: https://computer.rip/2026-02-27-ibm-atm.html Comments URL: https://news.ycombinator.com/item?id=47190806 Points: 7 # Comments: 0",
+        "link": "https://computer.rip/2026-02-27-ibm-atm.html",
+        "source": "Hacker News",
+        "isoDate": "2026-02-28T05:21:21.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-02-28T06:19:49.203Z",
+    "lastUpdated": "2026-02-28T06:19:49.203Z",
+    "visibleDate": "Feb 28, 2026",
+    "url": "pages/2026-02-28-061949203-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-02-28-061949203-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best AI Video Generators in 2026: I Tested 12 Tools",
+      "Cash Issuing Terminals",
+      "I Stopped Paying"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Best AI Video Generators in 2026: I Tested 12 Tools, Cash Issuing Termin",
+    "tools": [
+      {
+        "name": "Best AI Video Generators in 2026: I Tested 12 Tools",
+        "slug": "best-ai-video-generators-in-2026-i-tested-12-tools",
+        "description": "Paid plans start with credits-based system.</p> <p><strong>Verdict:</strong> If you're trying to figure out which AI video model works best for your use case, HeyVid is the smartest starting point. Tools like <a href=\"https://heyvid.ai/text-to-video\" rel=\"noopener noreferrer\">HeyVid AI</a>, Runway Gen-3, Kling 2.0, and Sora 2 can all generate 5-10 second video clips from text descriptions.",
+        "summary": "Paid plans start with credits-based system.</p> <p><strong>Verdict:</strong> If you're trying to figure out which AI video model works best for your use case, HeyVid is the smartest starting point. Tools like <a href=\"https://heyvid.ai/text-to-video\" rel=\"noopener noreferrer\">HeyVid AI</a>, Runway Gen-3, Kling 2.0, and Sora 2 can all generate 5-10 second video clips from text descriptions.",
+        "link": "https://dev.to/jack_bf6a7f47211731f8/best-ai-video-generators-in-2026-i-tested-12-tools-heres-my-honest-ranking-3pd2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-28T05:47:57.000Z",
+        "keywords": [
+          "ai",
+          "video",
+          "tools",
+          "comparison",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "video",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "video-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for video workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Paid plans start with credits-based system.</p> <p><strong>Verdict:</strong> If you're trying to figure out which AI video model works best for your use case, HeyVid is the smartest starting point.",
+          "However, Kling 2.0 and Google Veo 3 are close behind and may perform better for specific use cases like fast-motion content or photorealistic scenes.",
+          "Tools like <a href=\"https://heyvid.ai/text-to-video\" rel=\"noopener noreferrer\">HeyVid AI</a>, Runway Gen-3, Kling 2.0, and Sora 2 can all generate 5-10 second video clips from text descriptions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Cash Issuing Terminals",
+        "slug": "cash-issuing-terminals",
+        "description": "Article URL: https://computer.rip/2026-02-27-ibm-atm.html Comments URL: https://news.ycombinator.com/item?id=47190806 Points: 7 # Comments: 0",
+        "summary": "Article URL: https://computer.rip/2026-02-27-ibm-atm.html Comments URL: https://news.ycombinator.com/item?id=47190806 Points: 7 # Comments: 0",
+        "link": "https://computer.rip/2026-02-27-ibm-atm.html",
+        "source": "Hacker News",
+        "isoDate": "2026-02-28T05:21:21.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Stopped Paying",
+        "slug": "i-stopped-paying",
+        "description": "I asked all models: \"Give me browser game ideas I could build in a day.\" The results broke down like this: Model What I noticed Claude Opus 4.6 High quality all around — sharp ideas, clean writing. In one screen.</p> <p>No more copying the same prompt into six different tabs.</p> <p>Since launching in May 2024, it's taken off in Japan — GMO rolled it out as a required tool across their ~8,000-person organization.",
+        "summary": "I asked all models: \"Give me browser game ideas I could build in a day.\" The results broke down like this: Model What I noticed Claude Opus 4.6 High quality all around — sharp ideas, clean writing. In one screen.</p> <p>No more copying the same prompt into six different tabs.</p> <p>Since launching in May 2024, it's taken off in Japan — GMO rolled it out as a required tool across their ~8,000-person organization.",
+        "link": "https://dev.to/happyonigiri/i-stopped-paying-40month-for-ai-subscriptions-heres-what-i-use-instead-4mj0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-02-28T04:17:43.000Z",
+        "keywords": [
+          "ai",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "webdev-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "I asked all models: \"Give me browser game ideas I could build in a day.\" The results broke down like this: Model What I noticed Claude Opus 4.6 High quality all around — sharp ideas, clean writing.",
+          "The free plan gives you 80 queries per day with top-tier models like: Claude Opus 4.6 GPT-5.2 Gemini 3.0 Pro Grok 4 DeepSeek R1 Perplexity PLaMo 2.1 Prime ...30+ more Hold on.",
+          "Browser translation gets you through it, but don't expect an English-first experience.</p> <p><strong>No context compression — sessions cut off</strong><br> Long conversations will hit a wall."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-02-27T06:35:22.804Z",
     "lastUpdated": "2026-02-27T06:35:22.804Z",
     "visibleDate": "Feb 27, 2026",

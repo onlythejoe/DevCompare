@@ -7,6 +7,651 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-03-03T06:33:36.946Z",
+    "lastUpdated": "2026-03-03T06:33:36.946Z",
+    "visibleDate": "Mar 3, 2026",
+    "url": "pages/2026-03-03-063336946-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-03-03-063336946-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best DALL-E Alternatives 2026",
+      "I've been running",
+      "Intent-Based Commits"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Best DALL-E Alternatives 2026, I've been running, Intent-Based Commits. Pr",
+    "tools": [
+      {
+        "name": "Best DALL-E Alternatives 2026",
+        "slug": "best-dall-e-alternatives-2026",
+        "description": "While \"Stable Diffusion\" used to mean one model, in 2026 it refers to an entire family — including Flux.1 by Black Forest Labs, which many benchmark tests now rate above DALL-E 3 for prompt adherence and detail. If your workflow involves creating social media graphics, event posters, product mockups with labels, or branded content with text overlay, Ideogram 2.5 is simply the best tool available, including DALL-E.",
+        "summary": "While \"Stable Diffusion\" used to mean one model, in 2026 it refers to an entire family — including Flux.1 by Black Forest Labs, which many benchmark tests now rate above DALL-E 3 for prompt adherence and detail. If your workflow involves creating social media graphics, event posters, product mockups with labels, or branded content with text overlay, Ideogram 2.5 is simply the best tool available, including DALL-E.",
+        "link": "https://dev.to/onsen/best-dall-e-alternatives-2026-top-ai-image-generators-4c54",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-03T06:17:49.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "In 2026, tools like Midjourney, Stable Diffusion, Adobe Firefly, and Ideogram have matured significantly, offering superior output quality, better pricing, and more creative control.",
+          "For commercial use, choose platforms like Adobe Firefly that explicitly indemnify users against copyright claims, and always read the platform's terms of service for your specific plan.",
+          "For commercial use, choose platforms like Adobe Firefly that explicitly indemnify users against copyright claims, and always read the platform's terms of service for your specific plan.</p>"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I've been running",
+        "slug": "i-ve-been-running",
+        "description": "Article URL: https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/ Comments URL: https://news.ycombinator.com/item?id=47228390 Points: 17 # Comments: 0",
+        "summary": "Article URL: https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/ Comments URL: https://news.ycombinator.com/item?id=47228390 Points: 17 # Comments: 0",
+        "link": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-03T05:18:24.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Intent-Based Commits",
+        "slug": "intent-based-commits",
+        "description": "Article URL: https://github.com/adamveld12/ghost Comments URL: https://news.ycombinator.com/item?id=47227999 Points: 21 # Comments: 12",
+        "summary": "Article URL: https://github.com/adamveld12/ghost Comments URL: https://news.ycombinator.com/item?id=47227999 Points: 21 # Comments: 12",
+        "link": "https://github.com/adamveld12/ghost",
+        "source": "Hacker News",
+        "isoDate": "2026-03-03T04:20:37.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Excommunicated Devs",
+        "slug": "the-excommunicated-devs",
+        "description": "Article URL: https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai Comments URL: https://news.ycombinator.com/item?id=47227078 Points: 27 # Comments: 7",
+        "summary": "Article URL: https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai Comments URL: https://news.ycombinator.com/item?id=47227078 Points: 27 # Comments: 7",
+        "link": "https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai",
+        "source": "Hacker News",
+        "isoDate": "2026-03-03T02:16:52.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Ars Technica fires",
+        "slug": "ars-technica-fires",
+        "description": "Article URL: https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes Comments URL: https://news.ycombinator.com/item?id=47226608 Points: 154 # Comments: 73",
+        "summary": "Article URL: https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes Comments URL: https://news.ycombinator.com/item?id=47226608 Points: 154 # Comments: 73",
+        "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+        "source": "Hacker News",
+        "isoDate": "2026-03-03T01:12:30.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-03-03T06:33:36.946Z",
+    "lastUpdated": "2026-03-03T06:33:36.946Z",
+    "visibleDate": "Mar 3, 2026",
+    "url": "pages/2026-03-03-063336946-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-03-03-063336946-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best DALL-E Alternatives 2026",
+      "I've been running",
+      "Intent-Based Commits"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Best DALL-E Alternatives 2026, I've been running, Intent-Based Com",
+    "tools": [
+      {
+        "name": "Best DALL-E Alternatives 2026",
+        "slug": "best-dall-e-alternatives-2026",
+        "description": "While \"Stable Diffusion\" used to mean one model, in 2026 it refers to an entire family — including Flux.1 by Black Forest Labs, which many benchmark tests now rate above DALL-E 3 for prompt adherence and detail. If your workflow involves creating social media graphics, event posters, product mockups with labels, or branded content with text overlay, Ideogram 2.5 is simply the best tool available, including DALL-E.",
+        "summary": "While \"Stable Diffusion\" used to mean one model, in 2026 it refers to an entire family — including Flux.1 by Black Forest Labs, which many benchmark tests now rate above DALL-E 3 for prompt adherence and detail. If your workflow involves creating social media graphics, event posters, product mockups with labels, or branded content with text overlay, Ideogram 2.5 is simply the best tool available, including DALL-E.",
+        "link": "https://dev.to/onsen/best-dall-e-alternatives-2026-top-ai-image-generators-4c54",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-03T06:17:49.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "In 2026, tools like Midjourney, Stable Diffusion, Adobe Firefly, and Ideogram have matured significantly, offering superior output quality, better pricing, and more creative control.",
+          "For commercial use, choose platforms like Adobe Firefly that explicitly indemnify users against copyright claims, and always read the platform's terms of service for your specific plan.",
+          "For commercial use, choose platforms like Adobe Firefly that explicitly indemnify users against copyright claims, and always read the platform's terms of service for your specific plan.</p>"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I've been running",
+        "slug": "i-ve-been-running",
+        "description": "Article URL: https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/ Comments URL: https://news.ycombinator.com/item?id=47228390 Points: 17 # Comments: 0",
+        "summary": "Article URL: https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/ Comments URL: https://news.ycombinator.com/item?id=47228390 Points: 17 # Comments: 0",
+        "link": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-03T05:18:24.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Intent-Based Commits",
+        "slug": "intent-based-commits",
+        "description": "Article URL: https://github.com/adamveld12/ghost Comments URL: https://news.ycombinator.com/item?id=47227999 Points: 21 # Comments: 12",
+        "summary": "Article URL: https://github.com/adamveld12/ghost Comments URL: https://news.ycombinator.com/item?id=47227999 Points: 21 # Comments: 12",
+        "link": "https://github.com/adamveld12/ghost",
+        "source": "Hacker News",
+        "isoDate": "2026-03-03T04:20:37.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Excommunicated Devs",
+        "slug": "the-excommunicated-devs",
+        "description": "Article URL: https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai Comments URL: https://news.ycombinator.com/item?id=47227078 Points: 27 # Comments: 7",
+        "summary": "Article URL: https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai Comments URL: https://news.ycombinator.com/item?id=47227078 Points: 27 # Comments: 7",
+        "link": "https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai",
+        "source": "Hacker News",
+        "isoDate": "2026-03-03T02:16:52.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-03-03T06:33:36.946Z",
+    "lastUpdated": "2026-03-03T06:33:36.946Z",
+    "visibleDate": "Mar 3, 2026",
+    "url": "pages/2026-03-03-063336946-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-03-03-063336946-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best DALL-E Alternatives 2026",
+      "I've been running"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Best DALL-E Alternatives 2026, I've been running.",
+    "tools": [
+      {
+        "name": "Best DALL-E Alternatives 2026",
+        "slug": "best-dall-e-alternatives-2026",
+        "description": "While \"Stable Diffusion\" used to mean one model, in 2026 it refers to an entire family — including Flux.1 by Black Forest Labs, which many benchmark tests now rate above DALL-E 3 for prompt adherence and detail. If your workflow involves creating social media graphics, event posters, product mockups with labels, or branded content with text overlay, Ideogram 2.5 is simply the best tool available, including DALL-E.",
+        "summary": "While \"Stable Diffusion\" used to mean one model, in 2026 it refers to an entire family — including Flux.1 by Black Forest Labs, which many benchmark tests now rate above DALL-E 3 for prompt adherence and detail. If your workflow involves creating social media graphics, event posters, product mockups with labels, or branded content with text overlay, Ideogram 2.5 is simply the best tool available, including DALL-E.",
+        "link": "https://dev.to/onsen/best-dall-e-alternatives-2026-top-ai-image-generators-4c54",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-03T06:17:49.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "In 2026, tools like Midjourney, Stable Diffusion, Adobe Firefly, and Ideogram have matured significantly, offering superior output quality, better pricing, and more creative control.",
+          "For commercial use, choose platforms like Adobe Firefly that explicitly indemnify users against copyright claims, and always read the platform's terms of service for your specific plan.",
+          "For commercial use, choose platforms like Adobe Firefly that explicitly indemnify users against copyright claims, and always read the platform's terms of service for your specific plan.</p>"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I've been running",
+        "slug": "i-ve-been-running",
+        "description": "Article URL: https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/ Comments URL: https://news.ycombinator.com/item?id=47228390 Points: 17 # Comments: 0",
+        "summary": "Article URL: https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/ Comments URL: https://news.ycombinator.com/item?id=47228390 Points: 17 # Comments: 0",
+        "link": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-03T05:18:24.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-03-03T06:33:36.946Z",
+    "lastUpdated": "2026-03-03T06:33:36.946Z",
+    "visibleDate": "Mar 3, 2026",
+    "url": "pages/2026-03-03-063336946-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-03-03-063336946-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best DALL-E Alternatives 2026",
+      "I've been running",
+      "Intent-Based Commits"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Best DALL-E Alternatives 2026, I've been running, Intent-Based Commits. ",
+    "tools": [
+      {
+        "name": "Best DALL-E Alternatives 2026",
+        "slug": "best-dall-e-alternatives-2026",
+        "description": "While \"Stable Diffusion\" used to mean one model, in 2026 it refers to an entire family — including Flux.1 by Black Forest Labs, which many benchmark tests now rate above DALL-E 3 for prompt adherence and detail. If your workflow involves creating social media graphics, event posters, product mockups with labels, or branded content with text overlay, Ideogram 2.5 is simply the best tool available, including DALL-E.",
+        "summary": "While \"Stable Diffusion\" used to mean one model, in 2026 it refers to an entire family — including Flux.1 by Black Forest Labs, which many benchmark tests now rate above DALL-E 3 for prompt adherence and detail. If your workflow involves creating social media graphics, event posters, product mockups with labels, or branded content with text overlay, Ideogram 2.5 is simply the best tool available, including DALL-E.",
+        "link": "https://dev.to/onsen/best-dall-e-alternatives-2026-top-ai-image-generators-4c54",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-03T06:17:49.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "In 2026, tools like Midjourney, Stable Diffusion, Adobe Firefly, and Ideogram have matured significantly, offering superior output quality, better pricing, and more creative control.",
+          "For commercial use, choose platforms like Adobe Firefly that explicitly indemnify users against copyright claims, and always read the platform's terms of service for your specific plan.",
+          "For commercial use, choose platforms like Adobe Firefly that explicitly indemnify users against copyright claims, and always read the platform's terms of service for your specific plan.</p>"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I've been running",
+        "slug": "i-ve-been-running",
+        "description": "Article URL: https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/ Comments URL: https://news.ycombinator.com/item?id=47228390 Points: 17 # Comments: 0",
+        "summary": "Article URL: https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/ Comments URL: https://news.ycombinator.com/item?id=47228390 Points: 17 # Comments: 0",
+        "link": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-03T05:18:24.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Intent-Based Commits",
+        "slug": "intent-based-commits",
+        "description": "Article URL: https://github.com/adamveld12/ghost Comments URL: https://news.ycombinator.com/item?id=47227999 Points: 21 # Comments: 12",
+        "summary": "Article URL: https://github.com/adamveld12/ghost Comments URL: https://news.ycombinator.com/item?id=47227999 Points: 21 # Comments: 12",
+        "link": "https://github.com/adamveld12/ghost",
+        "source": "Hacker News",
+        "isoDate": "2026-03-03T04:20:37.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-03-02T06:39:12.587Z",
     "lastUpdated": "2026-03-02T06:39:12.587Z",
     "visibleDate": "Mar 2, 2026",

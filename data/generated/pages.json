@@ -7,6 +7,647 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-03-06T06:30:41.428Z",
+    "lastUpdated": "2026-03-06T06:30:41.428Z",
+    "visibleDate": "Mar 6, 2026",
+    "url": "pages/2026-03-06-063041428-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-03-06-063041428-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Building brains for",
+      "TeX Live 2026",
+      "Show HN"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Building brains for, TeX Live 2026, Show HN. Productivity stacks that keep",
+    "tools": [
+      {
+        "name": "Building brains for",
+        "slug": "building-brains-for",
+        "description": "Ryan chats with Kevin Peterson, CTO of Bedrock Robotics, about the evolution of self-driving technology and why robotics is now advancing; how real data is still relevant but simulation becomes essential for scale; and the future of robotics in addressing labor shortages and enhancing productivity.",
+        "summary": "Ryan chats with Kevin Peterson, CTO of Bedrock Robotics, about the evolution of self-driving technology and why robotics is now advancing; how real data is still relevant but simulation becomes essential for scale; and the future of robotics in addressing labor shortages and enhancing productivity.",
+        "link": "https://stackoverflow.blog/2026/03/06/building-brains-for-bulldozers/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-03-06T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "robotics",
+          "robotic-process-automation",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "TeX Live 2026",
+        "slug": "tex-live-2026",
+        "description": "Article URL: https://www.tug.org/texlive/acquire.html Comments URL: https://news.ycombinator.com/item?id=47271187 Points: 14 # Comments: 4",
+        "summary": "Article URL: https://www.tug.org/texlive/acquire.html Comments URL: https://news.ycombinator.com/item?id=47271187 Points: 14 # Comments: 4",
+        "link": "https://www.tug.org/texlive/acquire.html",
+        "source": "Hacker News",
+        "isoDate": "2026-03-06T05:20:10.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants. Your program runs identically on every ant.<p>The goal is to collect the highest percentage of food across a set of maps.",
+        "summary": "You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants. Your program runs identically on every ant.<p>The goal is to collect the highest percentage of food across a set of maps.",
+        "link": "https://dev.moment.com/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-06T04:15:40.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "ant"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants.",
+          "We built an ant colony simulation as an internal hiring challenge at Moment and decided to open it up publicly.",
+          "Your program runs identically on every ant.<p>The goal is to collect the highest percentage of food across a set of maps."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "System76 on Age",
+        "slug": "system76-on-age",
+        "description": "Article URL: https://blog.system76.com/post/system76-on-age-verification/ Comments URL: https://news.ycombinator.com/item?id=47270784 Points: 79 # Comments: 31",
+        "summary": "Article URL: https://blog.system76.com/post/system76-on-age-verification/ Comments URL: https://news.ycombinator.com/item?id=47270784 Points: 79 # Comments: 31",
+        "link": "https://blog.system76.com/post/system76-on-age-verification/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-06T04:12:26.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Breaking Down 50M Pins",
+        "slug": "breaking-down-50m-pins",
+        "description": "Article URL: https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/ Comments URL: https://news.ycombinator.com/item?id=47270672 Points: 4 # Comments: 0",
+        "summary": "Article URL: https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/ Comments URL: https://news.ycombinator.com/item?id=47270672 Points: 4 # Comments: 0",
+        "link": "https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-06T03:56:52.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-03-06T06:30:41.428Z",
+    "lastUpdated": "2026-03-06T06:30:41.428Z",
+    "visibleDate": "Mar 6, 2026",
+    "url": "pages/2026-03-06-063041428-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-03-06-063041428-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Building brains for",
+      "TeX Live 2026",
+      "Show HN"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Building brains for, TeX Live 2026, Show HN. Reliable remote debug",
+    "tools": [
+      {
+        "name": "Building brains for",
+        "slug": "building-brains-for",
+        "description": "Ryan chats with Kevin Peterson, CTO of Bedrock Robotics, about the evolution of self-driving technology and why robotics is now advancing; how real data is still relevant but simulation becomes essential for scale; and the future of robotics in addressing labor shortages and enhancing productivity.",
+        "summary": "Ryan chats with Kevin Peterson, CTO of Bedrock Robotics, about the evolution of self-driving technology and why robotics is now advancing; how real data is still relevant but simulation becomes essential for scale; and the future of robotics in addressing labor shortages and enhancing productivity.",
+        "link": "https://stackoverflow.blog/2026/03/06/building-brains-for-bulldozers/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-03-06T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "robotics",
+          "robotic-process-automation",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "TeX Live 2026",
+        "slug": "tex-live-2026",
+        "description": "Article URL: https://www.tug.org/texlive/acquire.html Comments URL: https://news.ycombinator.com/item?id=47271187 Points: 14 # Comments: 4",
+        "summary": "Article URL: https://www.tug.org/texlive/acquire.html Comments URL: https://news.ycombinator.com/item?id=47271187 Points: 14 # Comments: 4",
+        "link": "https://www.tug.org/texlive/acquire.html",
+        "source": "Hacker News",
+        "isoDate": "2026-03-06T05:20:10.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants. Your program runs identically on every ant.<p>The goal is to collect the highest percentage of food across a set of maps.",
+        "summary": "You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants. Your program runs identically on every ant.<p>The goal is to collect the highest percentage of food across a set of maps.",
+        "link": "https://dev.moment.com/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-06T04:15:40.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "ant"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants.",
+          "We built an ant colony simulation as an internal hiring challenge at Moment and decided to open it up publicly.",
+          "Your program runs identically on every ant.<p>The goal is to collect the highest percentage of food across a set of maps."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "System76 on Age",
+        "slug": "system76-on-age",
+        "description": "Article URL: https://blog.system76.com/post/system76-on-age-verification/ Comments URL: https://news.ycombinator.com/item?id=47270784 Points: 79 # Comments: 31",
+        "summary": "Article URL: https://blog.system76.com/post/system76-on-age-verification/ Comments URL: https://news.ycombinator.com/item?id=47270784 Points: 79 # Comments: 31",
+        "link": "https://blog.system76.com/post/system76-on-age-verification/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-06T04:12:26.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-03-06T06:30:41.428Z",
+    "lastUpdated": "2026-03-06T06:30:41.428Z",
+    "visibleDate": "Mar 6, 2026",
+    "url": "pages/2026-03-06-063041428-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-03-06-063041428-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Building brains for",
+      "TeX Live 2026"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Building brains for, TeX Live 2026. Gitpod brings",
+    "tools": [
+      {
+        "name": "Building brains for",
+        "slug": "building-brains-for",
+        "description": "Ryan chats with Kevin Peterson, CTO of Bedrock Robotics, about the evolution of self-driving technology and why robotics is now advancing; how real data is still relevant but simulation becomes essential for scale; and the future of robotics in addressing labor shortages and enhancing productivity.",
+        "summary": "Ryan chats with Kevin Peterson, CTO of Bedrock Robotics, about the evolution of self-driving technology and why robotics is now advancing; how real data is still relevant but simulation becomes essential for scale; and the future of robotics in addressing labor shortages and enhancing productivity.",
+        "link": "https://stackoverflow.blog/2026/03/06/building-brains-for-bulldozers/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-03-06T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "robotics",
+          "robotic-process-automation",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "TeX Live 2026",
+        "slug": "tex-live-2026",
+        "description": "Article URL: https://www.tug.org/texlive/acquire.html Comments URL: https://news.ycombinator.com/item?id=47271187 Points: 14 # Comments: 4",
+        "summary": "Article URL: https://www.tug.org/texlive/acquire.html Comments URL: https://news.ycombinator.com/item?id=47271187 Points: 14 # Comments: 4",
+        "link": "https://www.tug.org/texlive/acquire.html",
+        "source": "Hacker News",
+        "isoDate": "2026-03-06T05:20:10.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-03-06T06:30:41.428Z",
+    "lastUpdated": "2026-03-06T06:30:41.428Z",
+    "visibleDate": "Mar 6, 2026",
+    "url": "pages/2026-03-06-063041428-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-03-06-063041428-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Building brains for",
+      "TeX Live 2026",
+      "Show HN"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Building brains for, TeX Live 2026, Show HN. New launches that are shipp",
+    "tools": [
+      {
+        "name": "Building brains for",
+        "slug": "building-brains-for",
+        "description": "Ryan chats with Kevin Peterson, CTO of Bedrock Robotics, about the evolution of self-driving technology and why robotics is now advancing; how real data is still relevant but simulation becomes essential for scale; and the future of robotics in addressing labor shortages and enhancing productivity.",
+        "summary": "Ryan chats with Kevin Peterson, CTO of Bedrock Robotics, about the evolution of self-driving technology and why robotics is now advancing; how real data is still relevant but simulation becomes essential for scale; and the future of robotics in addressing labor shortages and enhancing productivity.",
+        "link": "https://stackoverflow.blog/2026/03/06/building-brains-for-bulldozers/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-03-06T08:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "robotics",
+          "robotic-process-automation",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "TeX Live 2026",
+        "slug": "tex-live-2026",
+        "description": "Article URL: https://www.tug.org/texlive/acquire.html Comments URL: https://news.ycombinator.com/item?id=47271187 Points: 14 # Comments: 4",
+        "summary": "Article URL: https://www.tug.org/texlive/acquire.html Comments URL: https://news.ycombinator.com/item?id=47271187 Points: 14 # Comments: 4",
+        "link": "https://www.tug.org/texlive/acquire.html",
+        "source": "Hacker News",
+        "isoDate": "2026-03-06T05:20:10.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants. Your program runs identically on every ant.<p>The goal is to collect the highest percentage of food across a set of maps.",
+        "summary": "You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants. Your program runs identically on every ant.<p>The goal is to collect the highest percentage of food across a set of maps.",
+        "link": "https://dev.moment.com/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-06T04:15:40.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "ant"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants.",
+          "We built an ant colony simulation as an internal hiring challenge at Moment and decided to open it up publicly.",
+          "Your program runs identically on every ant.<p>The goal is to collect the highest percentage of food across a set of maps."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-03-05T06:33:38.961Z",
     "lastUpdated": "2026-03-05T06:33:38.961Z",
     "visibleDate": "Mar 5, 2026",

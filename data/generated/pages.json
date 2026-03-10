@@ -7,6 +7,682 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-03-10T06:31:42.448Z",
+    "lastUpdated": "2026-03-10T06:31:42.448Z",
+    "visibleDate": "Mar 10, 2026",
+    "url": "pages/2026-03-10-063142448-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-03-10-063142448-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I built VidSpark",
+      "I built FollowUp Writer",
+      "Supercharge Your Excel"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include I built VidSpark, I built FollowUp Writer, Supercharge Your Excel. Product",
+    "tools": [
+      {
+        "name": "I built VidSpark",
+        "slug": "i-built-vidspark",
+        "description": "I used the Groq API to fetch video data and generate thumbnail ideas.</li> <li> <strong>Deployment</strong>: I deployed VidSpark on Vercel, a fast and secure platform that allowed me to host my application with ease. After months of research and experimentation, I finally built VidSpark, a web application that uses machine learning to generate stunning YouTube thumbnail ideas based on my video content.",
+        "summary": "I used the Groq API to fetch video data and generate thumbnail ideas.</li> <li> <strong>Deployment</strong>: I deployed VidSpark on Vercel, a fast and secure platform that allowed me to host my application with ease. After months of research and experimentation, I finally built VidSpark, a web application that uses machine learning to generate stunning YouTube thumbnail ideas based on my video content.",
+        "link": "https://dev.to/poreddivarajaykumar/i-built-vidspark-boost-views-4ho",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-10T06:27:54.000Z",
+        "keywords": [
+          "saas",
+          "tools",
+          "ai",
+          "youtube",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "saas",
+          "tools",
+          "ai"
+        ],
+        "pros": [
+          "Great for saas",
+          "tools-ready automation",
+          "Great for saas"
+        ],
+        "cons": [
+          "Overkill for saas experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for saas experiments"
+        ],
+        "highlights": [
+          "After months of research and experimentation, I finally built VidSpark, a web application that uses machine learning to generate stunning YouTube thumbnail ideas based on my video content.",
+          "I thought it was a great starting point, but the lack of customizable templates and limited analytics features made it feel like a one-trick pony.",
+          "That's when I started researching tools that could help me create attention-grabbing thumbnails, track my analytics, and even predict the performance of my videos."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built FollowUp Writer",
+        "slug": "i-built-followup-writer",
+        "description": "Building FollowUp Writer: A Personal Quest for Efficient Follow-ups As a senior developer, I've found myself juggling multiple projects and collaborations, which often leads to a barrage of follow-up emails. I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done.",
+        "summary": "Building FollowUp Writer: A Personal Quest for Efficient Follow-ups As a senior developer, I've found myself juggling multiple projects and collaborations, which often leads to a barrage of follow-up emails. I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done.",
+        "link": "https://dev.to/poreddivarajaykumar/i-built-followup-writer-write-follow-ups-fast-53n8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-10T06:27:41.000Z",
+        "keywords": [
+          "saas",
+          "tools",
+          "ai",
+          "email",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "saas",
+          "tools",
+          "ai"
+        ],
+        "pros": [
+          "Great for saas",
+          "tools-ready automation",
+          "Great for saas"
+        ],
+        "cons": [
+          "Overkill for saas experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for saas experiments"
+        ],
+        "highlights": [
+          "I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done.",
+          "If you're struggling with writing follow-ups as much as I was, I invite you to try FollowUp Writer for free: https://followup-writer-tool-fv66hxlih-sweths-projects-68683994.vercel.app.",
+          "I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Supercharge Your Excel",
+        "slug": "supercharge-your-excel",
+        "description": "Whether you are a developer building data pipelines, a data analyst preparing reports, or a business user managing spreadsheets, these tools can save you hours of tedious work.</p> <h2> What is Elysia Tools? Whether you are a developer building data pipelines, a data analyst preparing reports, or a business user managing spreadsheets, these tools can save you hours of tedious work.",
+        "summary": "Whether you are a developer building data pipelines, a data analyst preparing reports, or a business user managing spreadsheets, these tools can save you hours of tedious work.</p> <h2> What is Elysia Tools? Whether you are a developer building data pipelines, a data analyst preparing reports, or a business user managing spreadsheets, these tools can save you hours of tedious work.",
+        "link": "https://dev.to/elysiatools/supercharge-your-excel-workflow-with-elysia-tools-xlsx-suite-54jc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-10T06:17:11.000Z",
+        "keywords": [
+          "xlsx",
+          "excel",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "xlsx",
+          "excel",
+          "tools"
+        ],
+        "pros": [
+          "Great for xlsx",
+          "excel-ready automation",
+          "Great for xlsx"
+        ],
+        "cons": [
+          "Overkill for xlsx experiments",
+          "Needs extra setup for excel workflows",
+          "Overkill for xlsx experiments"
+        ],
+        "highlights": [
+          "Whether you are a developer building data pipelines, a data analyst preparing reports, or a business user managing spreadsheets, these tools can save you hours of tedious work.",
+          "Each tool includes clear documentation, sample inputs/outputs, and API integration examples.</p> <h2> Conclusion </h2> <p>Excel work does not have to be tedious.",
+          "Whether you are processing thousands of rows or just need to quickly convert a file format, these tools have got you covered."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best ChatGPT Alternatives 2026",
+        "slug": "best-chatgpt-alternatives-2026",
+        "description": "As a native X (formerly Twitter) integration, Grok has access to live social media data that no other major AI tool can match — making it uniquely valuable for trend analysis, social listening, and current events. It handles text, images, audio, video, and code within a single interface — and its integration with Google Workspace (Docs, Sheets, Gmail) makes it a productivity powerhouse for anyone already in the Google ecosystem.",
+        "summary": "As a native X (formerly Twitter) integration, Grok has access to live social media data that no other major AI tool can match — making it uniquely valuable for trend analysis, social listening, and current events. It handles text, images, audio, video, and code within a single interface — and its integration with Google Workspace (Docs, Sheets, Gmail) makes it a productivity powerhouse for anyone already in the Google ecosystem.",
+        "link": "https://dev.to/onsen/best-chatgpt-alternatives-2026-top-ai-tools-ranked-5an3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-10T06:13:00.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Rather than generating text from training data alone, Perplexity functions as an AI-powered search engine — every answer comes with cited sources you can verify in real time.",
+          "In 2026, tools like Claude 4, Gemini 2.0 Ultra, Grok 3, and Perplexity Pro have carved out legitimate niches — often outperforming ChatGPT in specific tasks.",
+          "[INTERNAL_LINK: Best AI tools for research 2026] Grok Elon Musk's xAI launched Grok 3 in early 2026 with significant upgrades in reasoning and real-time data access."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Claude Code, Claude",
+        "slug": "claude-code-claude",
+        "description": "Article URL: https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/ Comments URL: https://news.ycombinator.com/item?id=47319294 Points: 3 # Comments: 0",
+        "summary": "Article URL: https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/ Comments URL: https://news.ycombinator.com/item?id=47319294 Points: 3 # Comments: 0",
+        "link": "https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-10T05:12:54.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-03-10T06:31:42.448Z",
+    "lastUpdated": "2026-03-10T06:31:42.448Z",
+    "visibleDate": "Mar 10, 2026",
+    "url": "pages/2026-03-10-063142448-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-03-10-063142448-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I built VidSpark",
+      "I built FollowUp Writer",
+      "Supercharge Your Excel"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include I built VidSpark, I built FollowUp Writer, Supercharge Your Excel.",
+    "tools": [
+      {
+        "name": "I built VidSpark",
+        "slug": "i-built-vidspark",
+        "description": "I used the Groq API to fetch video data and generate thumbnail ideas.</li> <li> <strong>Deployment</strong>: I deployed VidSpark on Vercel, a fast and secure platform that allowed me to host my application with ease. After months of research and experimentation, I finally built VidSpark, a web application that uses machine learning to generate stunning YouTube thumbnail ideas based on my video content.",
+        "summary": "I used the Groq API to fetch video data and generate thumbnail ideas.</li> <li> <strong>Deployment</strong>: I deployed VidSpark on Vercel, a fast and secure platform that allowed me to host my application with ease. After months of research and experimentation, I finally built VidSpark, a web application that uses machine learning to generate stunning YouTube thumbnail ideas based on my video content.",
+        "link": "https://dev.to/poreddivarajaykumar/i-built-vidspark-boost-views-4ho",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-10T06:27:54.000Z",
+        "keywords": [
+          "saas",
+          "tools",
+          "ai",
+          "youtube",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "saas",
+          "tools",
+          "ai"
+        ],
+        "pros": [
+          "Great for saas",
+          "tools-ready automation",
+          "Great for saas"
+        ],
+        "cons": [
+          "Overkill for saas experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for saas experiments"
+        ],
+        "highlights": [
+          "After months of research and experimentation, I finally built VidSpark, a web application that uses machine learning to generate stunning YouTube thumbnail ideas based on my video content.",
+          "I thought it was a great starting point, but the lack of customizable templates and limited analytics features made it feel like a one-trick pony.",
+          "That's when I started researching tools that could help me create attention-grabbing thumbnails, track my analytics, and even predict the performance of my videos."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built FollowUp Writer",
+        "slug": "i-built-followup-writer",
+        "description": "Building FollowUp Writer: A Personal Quest for Efficient Follow-ups As a senior developer, I've found myself juggling multiple projects and collaborations, which often leads to a barrage of follow-up emails. I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done.",
+        "summary": "Building FollowUp Writer: A Personal Quest for Efficient Follow-ups As a senior developer, I've found myself juggling multiple projects and collaborations, which often leads to a barrage of follow-up emails. I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done.",
+        "link": "https://dev.to/poreddivarajaykumar/i-built-followup-writer-write-follow-ups-fast-53n8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-10T06:27:41.000Z",
+        "keywords": [
+          "saas",
+          "tools",
+          "ai",
+          "email",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "saas",
+          "tools",
+          "ai"
+        ],
+        "pros": [
+          "Great for saas",
+          "tools-ready automation",
+          "Great for saas"
+        ],
+        "cons": [
+          "Overkill for saas experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for saas experiments"
+        ],
+        "highlights": [
+          "I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done.",
+          "If you're struggling with writing follow-ups as much as I was, I invite you to try FollowUp Writer for free: https://followup-writer-tool-fv66hxlih-sweths-projects-68683994.vercel.app.",
+          "I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Supercharge Your Excel",
+        "slug": "supercharge-your-excel",
+        "description": "Whether you are a developer building data pipelines, a data analyst preparing reports, or a business user managing spreadsheets, these tools can save you hours of tedious work.</p> <h2> What is Elysia Tools? Whether you are a developer building data pipelines, a data analyst preparing reports, or a business user managing spreadsheets, these tools can save you hours of tedious work.",
+        "summary": "Whether you are a developer building data pipelines, a data analyst preparing reports, or a business user managing spreadsheets, these tools can save you hours of tedious work.</p> <h2> What is Elysia Tools? Whether you are a developer building data pipelines, a data analyst preparing reports, or a business user managing spreadsheets, these tools can save you hours of tedious work.",
+        "link": "https://dev.to/elysiatools/supercharge-your-excel-workflow-with-elysia-tools-xlsx-suite-54jc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-10T06:17:11.000Z",
+        "keywords": [
+          "xlsx",
+          "excel",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "xlsx",
+          "excel",
+          "tools"
+        ],
+        "pros": [
+          "Great for xlsx",
+          "excel-ready automation",
+          "Great for xlsx"
+        ],
+        "cons": [
+          "Overkill for xlsx experiments",
+          "Needs extra setup for excel workflows",
+          "Overkill for xlsx experiments"
+        ],
+        "highlights": [
+          "Whether you are a developer building data pipelines, a data analyst preparing reports, or a business user managing spreadsheets, these tools can save you hours of tedious work.",
+          "Each tool includes clear documentation, sample inputs/outputs, and API integration examples.</p> <h2> Conclusion </h2> <p>Excel work does not have to be tedious.",
+          "Whether you are processing thousands of rows or just need to quickly convert a file format, these tools have got you covered."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best ChatGPT Alternatives 2026",
+        "slug": "best-chatgpt-alternatives-2026",
+        "description": "As a native X (formerly Twitter) integration, Grok has access to live social media data that no other major AI tool can match — making it uniquely valuable for trend analysis, social listening, and current events. It handles text, images, audio, video, and code within a single interface — and its integration with Google Workspace (Docs, Sheets, Gmail) makes it a productivity powerhouse for anyone already in the Google ecosystem.",
+        "summary": "As a native X (formerly Twitter) integration, Grok has access to live social media data that no other major AI tool can match — making it uniquely valuable for trend analysis, social listening, and current events. It handles text, images, audio, video, and code within a single interface — and its integration with Google Workspace (Docs, Sheets, Gmail) makes it a productivity powerhouse for anyone already in the Google ecosystem.",
+        "link": "https://dev.to/onsen/best-chatgpt-alternatives-2026-top-ai-tools-ranked-5an3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-10T06:13:00.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Rather than generating text from training data alone, Perplexity functions as an AI-powered search engine — every answer comes with cited sources you can verify in real time.",
+          "In 2026, tools like Claude 4, Gemini 2.0 Ultra, Grok 3, and Perplexity Pro have carved out legitimate niches — often outperforming ChatGPT in specific tasks.",
+          "[INTERNAL_LINK: Best AI tools for research 2026] Grok Elon Musk's xAI launched Grok 3 in early 2026 with significant upgrades in reasoning and real-time data access."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-03-10T06:31:42.448Z",
+    "lastUpdated": "2026-03-10T06:31:42.448Z",
+    "visibleDate": "Mar 10, 2026",
+    "url": "pages/2026-03-10-063142448-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-03-10-063142448-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "I built VidSpark",
+      "I built FollowUp Writer"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include I built VidSpark, I built FollowUp Writer. Gitpod",
+    "tools": [
+      {
+        "name": "I built VidSpark",
+        "slug": "i-built-vidspark",
+        "description": "I used the Groq API to fetch video data and generate thumbnail ideas.</li> <li> <strong>Deployment</strong>: I deployed VidSpark on Vercel, a fast and secure platform that allowed me to host my application with ease. After months of research and experimentation, I finally built VidSpark, a web application that uses machine learning to generate stunning YouTube thumbnail ideas based on my video content.",
+        "summary": "I used the Groq API to fetch video data and generate thumbnail ideas.</li> <li> <strong>Deployment</strong>: I deployed VidSpark on Vercel, a fast and secure platform that allowed me to host my application with ease. After months of research and experimentation, I finally built VidSpark, a web application that uses machine learning to generate stunning YouTube thumbnail ideas based on my video content.",
+        "link": "https://dev.to/poreddivarajaykumar/i-built-vidspark-boost-views-4ho",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-10T06:27:54.000Z",
+        "keywords": [
+          "saas",
+          "tools",
+          "ai",
+          "youtube",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "saas",
+          "tools",
+          "ai"
+        ],
+        "pros": [
+          "Great for saas",
+          "tools-ready automation",
+          "Great for saas"
+        ],
+        "cons": [
+          "Overkill for saas experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for saas experiments"
+        ],
+        "highlights": [
+          "After months of research and experimentation, I finally built VidSpark, a web application that uses machine learning to generate stunning YouTube thumbnail ideas based on my video content.",
+          "I thought it was a great starting point, but the lack of customizable templates and limited analytics features made it feel like a one-trick pony.",
+          "That's when I started researching tools that could help me create attention-grabbing thumbnails, track my analytics, and even predict the performance of my videos."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built FollowUp Writer",
+        "slug": "i-built-followup-writer",
+        "description": "Building FollowUp Writer: A Personal Quest for Efficient Follow-ups As a senior developer, I've found myself juggling multiple projects and collaborations, which often leads to a barrage of follow-up emails. I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done.",
+        "summary": "Building FollowUp Writer: A Personal Quest for Efficient Follow-ups As a senior developer, I've found myself juggling multiple projects and collaborations, which often leads to a barrage of follow-up emails. I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done.",
+        "link": "https://dev.to/poreddivarajaykumar/i-built-followup-writer-write-follow-ups-fast-53n8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-10T06:27:41.000Z",
+        "keywords": [
+          "saas",
+          "tools",
+          "ai",
+          "email",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "saas",
+          "tools",
+          "ai"
+        ],
+        "pros": [
+          "Great for saas",
+          "tools-ready automation",
+          "Great for saas"
+        ],
+        "cons": [
+          "Overkill for saas experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for saas experiments"
+        ],
+        "highlights": [
+          "I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done.",
+          "If you're struggling with writing follow-ups as much as I was, I invite you to try FollowUp Writer for free: https://followup-writer-tool-fv66hxlih-sweths-projects-68683994.vercel.app.",
+          "I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-03-10T06:31:42.448Z",
+    "lastUpdated": "2026-03-10T06:31:42.448Z",
+    "visibleDate": "Mar 10, 2026",
+    "url": "pages/2026-03-10-063142448-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-03-10-063142448-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I built VidSpark",
+      "I built FollowUp Writer",
+      "Supercharge Your Excel"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include I built VidSpark, I built FollowUp Writer, Supercharge Your Excel. New l",
+    "tools": [
+      {
+        "name": "I built VidSpark",
+        "slug": "i-built-vidspark",
+        "description": "I used the Groq API to fetch video data and generate thumbnail ideas.</li> <li> <strong>Deployment</strong>: I deployed VidSpark on Vercel, a fast and secure platform that allowed me to host my application with ease. After months of research and experimentation, I finally built VidSpark, a web application that uses machine learning to generate stunning YouTube thumbnail ideas based on my video content.",
+        "summary": "I used the Groq API to fetch video data and generate thumbnail ideas.</li> <li> <strong>Deployment</strong>: I deployed VidSpark on Vercel, a fast and secure platform that allowed me to host my application with ease. After months of research and experimentation, I finally built VidSpark, a web application that uses machine learning to generate stunning YouTube thumbnail ideas based on my video content.",
+        "link": "https://dev.to/poreddivarajaykumar/i-built-vidspark-boost-views-4ho",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-10T06:27:54.000Z",
+        "keywords": [
+          "saas",
+          "tools",
+          "ai",
+          "youtube",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "saas",
+          "tools",
+          "ai"
+        ],
+        "pros": [
+          "Great for saas",
+          "tools-ready automation",
+          "Great for saas"
+        ],
+        "cons": [
+          "Overkill for saas experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for saas experiments"
+        ],
+        "highlights": [
+          "After months of research and experimentation, I finally built VidSpark, a web application that uses machine learning to generate stunning YouTube thumbnail ideas based on my video content.",
+          "I thought it was a great starting point, but the lack of customizable templates and limited analytics features made it feel like a one-trick pony.",
+          "That's when I started researching tools that could help me create attention-grabbing thumbnails, track my analytics, and even predict the performance of my videos."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built FollowUp Writer",
+        "slug": "i-built-followup-writer",
+        "description": "Building FollowUp Writer: A Personal Quest for Efficient Follow-ups As a senior developer, I've found myself juggling multiple projects and collaborations, which often leads to a barrage of follow-up emails. I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done.",
+        "summary": "Building FollowUp Writer: A Personal Quest for Efficient Follow-ups As a senior developer, I've found myself juggling multiple projects and collaborations, which often leads to a barrage of follow-up emails. I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done.",
+        "link": "https://dev.to/poreddivarajaykumar/i-built-followup-writer-write-follow-ups-fast-53n8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-10T06:27:41.000Z",
+        "keywords": [
+          "saas",
+          "tools",
+          "ai",
+          "email",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "saas",
+          "tools",
+          "ai"
+        ],
+        "pros": [
+          "Great for saas",
+          "tools-ready automation",
+          "Great for saas"
+        ],
+        "cons": [
+          "Overkill for saas experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for saas experiments"
+        ],
+        "highlights": [
+          "I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done.",
+          "If you're struggling with writing follow-ups as much as I was, I invite you to try FollowUp Writer for free: https://followup-writer-tool-fv66hxlih-sweths-projects-68683994.vercel.app.",
+          "I initially thought that users would be willing to pay a premium for advanced features, but it turns out that most users are looking for a simple, affordable solution that gets the job done."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Supercharge Your Excel",
+        "slug": "supercharge-your-excel",
+        "description": "Whether you are a developer building data pipelines, a data analyst preparing reports, or a business user managing spreadsheets, these tools can save you hours of tedious work.</p> <h2> What is Elysia Tools? Whether you are a developer building data pipelines, a data analyst preparing reports, or a business user managing spreadsheets, these tools can save you hours of tedious work.",
+        "summary": "Whether you are a developer building data pipelines, a data analyst preparing reports, or a business user managing spreadsheets, these tools can save you hours of tedious work.</p> <h2> What is Elysia Tools? Whether you are a developer building data pipelines, a data analyst preparing reports, or a business user managing spreadsheets, these tools can save you hours of tedious work.",
+        "link": "https://dev.to/elysiatools/supercharge-your-excel-workflow-with-elysia-tools-xlsx-suite-54jc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-10T06:17:11.000Z",
+        "keywords": [
+          "xlsx",
+          "excel",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "xlsx",
+          "excel",
+          "tools"
+        ],
+        "pros": [
+          "Great for xlsx",
+          "excel-ready automation",
+          "Great for xlsx"
+        ],
+        "cons": [
+          "Overkill for xlsx experiments",
+          "Needs extra setup for excel workflows",
+          "Overkill for xlsx experiments"
+        ],
+        "highlights": [
+          "Whether you are a developer building data pipelines, a data analyst preparing reports, or a business user managing spreadsheets, these tools can save you hours of tedious work.",
+          "Each tool includes clear documentation, sample inputs/outputs, and API integration examples.</p> <h2> Conclusion </h2> <p>Excel work does not have to be tedious.",
+          "Whether you are processing thousands of rows or just need to quickly convert a file format, these tools have got you covered."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-03-09T06:43:58.865Z",
     "lastUpdated": "2026-03-09T06:43:58.865Z",
     "visibleDate": "Mar 9, 2026",

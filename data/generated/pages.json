@@ -7,6 +7,675 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-03-13T06:34:53.904Z",
+    "lastUpdated": "2026-03-13T06:34:53.904Z",
+    "visibleDate": "Mar 13, 2026",
+    "url": "pages/2026-03-13-063453904-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-03-13-063453904-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Open source for",
+      "Six Models, Six",
+      "5 Free Privacy-First"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Open source for, Six Models, Six, 5 Free Privacy-First. Productivity stack",
+    "tools": [
+      {
+        "name": "Open source for",
+        "slug": "open-source-for",
+        "description": "Ryan is joined by Jan Liphardt, CEO and co-founder of OpenMind, to chat about the rapidly evolving world of humanoid robotics and what it means for humans, why OpenMind is building an open source operating system for robots that processes logic in natural language, and how putting Asimov’s Laws on the blockchain might be the key to robotics guardrails.",
+        "summary": "Ryan is joined by Jan Liphardt, CEO and co-founder of OpenMind, to chat about the rapidly evolving world of humanoid robotics and what it means for humans, why OpenMind is building an open source operating system for robots that processes logic in natural language, and how putting Asimov’s Laws on the blockchain might be the key to robotics guardrails.",
+        "link": "https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-03-13T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "open-source",
+          "ai",
+          "robotics"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Six Models, Six",
+        "slug": "six-models-six",
+        "description": "I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured. I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured.",
+        "summary": "I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured. I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured.",
+        "link": "https://dev.to/skyguan92/six-models-six-temperaments-34j9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-13T06:15:12.000Z",
+        "keywords": [
+          "ai",
+          "models",
+          "tools",
+          "workflow",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "models",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "models-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for models workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "When doing architecture design, it actively asks about your intentions—not just diving into coding, but first digging out six dimensions for you to evaluate before getting to work.",
+          "When doing architecture design, it actively asks about your intentions—not just diving into coding, but first digging out six dimensions for you to evaluate before getting to work.",
+          "It can also give good advice on deep thinking, but letting it lead the direction tends toward over-engineering.</p> <h2> Gemini 3.1 Pro—Good Eye, Clumsy Hands </h2> <p>Google's Gemini 3.1 Pro."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 Free Privacy-First",
+        "slug": "5-free-privacy-first",
+        "description": "JSON Formatter &amp; Validator </h3> <p><strong>Who needs it:</strong> Developers, anyone working with API data</p> <p>Paste messy JSON, get it beautifully formatted with syntax highlighting. QR Code Generator </h3> <p><strong>Who needs it:</strong> Event organizers, restaurants, marketers, anyone</p> <p>Generate QR codes for URLs, emails, phone numbers, WiFi credentials, and SMS.",
+        "summary": "JSON Formatter &amp; Validator </h3> <p><strong>Who needs it:</strong> Developers, anyone working with API data</p> <p>Paste messy JSON, get it beautifully formatted with syntax highlighting. QR Code Generator </h3> <p><strong>Who needs it:</strong> Event organizers, restaurants, marketers, anyone</p> <p>Generate QR codes for URLs, emails, phone numbers, WiFi credentials, and SMS.",
+        "link": "https://dev.to/docat0209/5-free-privacy-first-tools-i-built-because-i-was-tired-of-signing-up-for-everything-2mh2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-13T05:32:41.000Z",
+        "keywords": [
+          "productivity",
+          "webdev",
+          "opensource",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "webdev",
+          "opensource"
+        ],
+        "pros": [
+          "Great for productivity",
+          "webdev-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "JSON Formatter &amp; Validator </h3> <p><strong>Who needs it:</strong> Developers, anyone working with API data</p> <p>Paste messy JSON, get it beautifully formatted with syntax highlighting.",
+          "QR Code Generator </h3> <p><strong>Who needs it:</strong> Event organizers, restaurants, marketers, anyone</p> <p>Generate QR codes for URLs, emails, phone numbers, WiFi credentials, and SMS.",
+          "Googled \"free invoice generator.\" Every result wanted me to sign up, hand over my email, or start a \"free trial\" that auto-charges after 7 days.</p> <p>So I built my own."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Update",
+        "slug": "update",
+        "description": "This version, 0.7.20, specifically addresses a bug fix related to the --yarastrings command-line option, ensuring more reliable output when utilizing YARA rules for string extraction during static analysis. Read Full Article <p>Security researcher Didier Stevens has released an update for <code>pecheck.py</code>, a fundamental tool used for analyzing Portable Executable (PE) files.",
+        "summary": "This version, 0.7.20, specifically addresses a bug fix related to the --yarastrings command-line option, ensuring more reliable output when utilizing YARA rules for string extraction during static analysis. Read Full Article <p>Security researcher Didier Stevens has released an update for <code>pecheck.py</code>, a fundamental tool used for analyzing Portable Executable (PE) files.",
+        "link": "https://dev.to/mark0_617b45cda9782a/update-pecheckpy-version-0720-3bh1",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-13T05:09:07.000Z",
+        "keywords": [
+          "cybersecurity",
+          "infosec",
+          "malware",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "cybersecurity",
+          "infosec",
+          "malware"
+        ],
+        "pros": [
+          "Great for cybersecurity",
+          "infosec-ready automation",
+          "Great for cybersecurity"
+        ],
+        "cons": [
+          "Overkill for cybersecurity experiments",
+          "Needs extra setup for infosec workflows",
+          "Overkill for cybersecurity experiments"
+        ],
+        "highlights": [
+          "Read Full Article <p>Security researcher Didier Stevens has released an update for <code>pecheck.py</code>, a fundamental tool used for analyzing Portable Executable (PE) files.",
+          "Security researcher Didier Stevens has released an update for pecheck.py, a fundamental tool used for analyzing Portable Executable (PE) files.",
+          "This update is recommended for malware analysts who rely on pecheck.py for their automated triage and investigation workflows."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 Fascinating Physics",
+        "slug": "5-fascinating-physics",
+        "description": "Wilson Loop - Gauge Theory Visualization </h2> <p><a href=\"https://elysiatools.com/en/visualizations/wilson-loop\" rel=\"noopener noreferrer\">Wilson Loop</a> is a crucial concept in gauge theory and quantum field theory. It states that the path taken by a physical system between two points is the one that minimizes the \"action.\" This visualization demonstrates how particles \"choose\" their paths.",
+        "summary": "Wilson Loop - Gauge Theory Visualization </h2> <p><a href=\"https://elysiatools.com/en/visualizations/wilson-loop\" rel=\"noopener noreferrer\">Wilson Loop</a> is a crucial concept in gauge theory and quantum field theory. It states that the path taken by a physical system between two points is the one that minimizes the \"action.\" This visualization demonstrates how particles \"choose\" their paths.",
+        "link": "https://dev.to/elysiatools/5-fascinating-physics-engineering-visualizations-every-developer-should-know-4e3d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-13T04:47:02.000Z",
+        "keywords": [
+          "javascript",
+          "tools",
+          "webdev",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for javascript",
+          "tools-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "It states that the path taken by a physical system between two points is the one that minimizes the \"action.\" This visualization demonstrates how particles \"choose\" their paths.",
+          "Fermat's Principle demonstrates one of the most elegant concepts in physics: light always takes the path that requires the least time.",
+          "This visualization helps you understand how gauge fields (like the electromagnetic or gravitational field) behave when you move a particle around a closed path."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-03-13T06:34:53.904Z",
+    "lastUpdated": "2026-03-13T06:34:53.904Z",
+    "visibleDate": "Mar 13, 2026",
+    "url": "pages/2026-03-13-063453904-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-03-13-063453904-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Open source for",
+      "Six Models, Six",
+      "5 Free Privacy-First"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Open source for, Six Models, Six, 5 Free Privacy-First. Reliable r",
+    "tools": [
+      {
+        "name": "Open source for",
+        "slug": "open-source-for",
+        "description": "Ryan is joined by Jan Liphardt, CEO and co-founder of OpenMind, to chat about the rapidly evolving world of humanoid robotics and what it means for humans, why OpenMind is building an open source operating system for robots that processes logic in natural language, and how putting Asimov’s Laws on the blockchain might be the key to robotics guardrails.",
+        "summary": "Ryan is joined by Jan Liphardt, CEO and co-founder of OpenMind, to chat about the rapidly evolving world of humanoid robotics and what it means for humans, why OpenMind is building an open source operating system for robots that processes logic in natural language, and how putting Asimov’s Laws on the blockchain might be the key to robotics guardrails.",
+        "link": "https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-03-13T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "open-source",
+          "ai",
+          "robotics"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Six Models, Six",
+        "slug": "six-models-six",
+        "description": "I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured. I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured.",
+        "summary": "I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured. I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured.",
+        "link": "https://dev.to/skyguan92/six-models-six-temperaments-34j9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-13T06:15:12.000Z",
+        "keywords": [
+          "ai",
+          "models",
+          "tools",
+          "workflow",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "models",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "models-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for models workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "When doing architecture design, it actively asks about your intentions—not just diving into coding, but first digging out six dimensions for you to evaluate before getting to work.",
+          "When doing architecture design, it actively asks about your intentions—not just diving into coding, but first digging out six dimensions for you to evaluate before getting to work.",
+          "It can also give good advice on deep thinking, but letting it lead the direction tends toward over-engineering.</p> <h2> Gemini 3.1 Pro—Good Eye, Clumsy Hands </h2> <p>Google's Gemini 3.1 Pro."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 Free Privacy-First",
+        "slug": "5-free-privacy-first",
+        "description": "JSON Formatter &amp; Validator </h3> <p><strong>Who needs it:</strong> Developers, anyone working with API data</p> <p>Paste messy JSON, get it beautifully formatted with syntax highlighting. QR Code Generator </h3> <p><strong>Who needs it:</strong> Event organizers, restaurants, marketers, anyone</p> <p>Generate QR codes for URLs, emails, phone numbers, WiFi credentials, and SMS.",
+        "summary": "JSON Formatter &amp; Validator </h3> <p><strong>Who needs it:</strong> Developers, anyone working with API data</p> <p>Paste messy JSON, get it beautifully formatted with syntax highlighting. QR Code Generator </h3> <p><strong>Who needs it:</strong> Event organizers, restaurants, marketers, anyone</p> <p>Generate QR codes for URLs, emails, phone numbers, WiFi credentials, and SMS.",
+        "link": "https://dev.to/docat0209/5-free-privacy-first-tools-i-built-because-i-was-tired-of-signing-up-for-everything-2mh2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-13T05:32:41.000Z",
+        "keywords": [
+          "productivity",
+          "webdev",
+          "opensource",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "webdev",
+          "opensource"
+        ],
+        "pros": [
+          "Great for productivity",
+          "webdev-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "JSON Formatter &amp; Validator </h3> <p><strong>Who needs it:</strong> Developers, anyone working with API data</p> <p>Paste messy JSON, get it beautifully formatted with syntax highlighting.",
+          "QR Code Generator </h3> <p><strong>Who needs it:</strong> Event organizers, restaurants, marketers, anyone</p> <p>Generate QR codes for URLs, emails, phone numbers, WiFi credentials, and SMS.",
+          "Googled \"free invoice generator.\" Every result wanted me to sign up, hand over my email, or start a \"free trial\" that auto-charges after 7 days.</p> <p>So I built my own."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Update",
+        "slug": "update",
+        "description": "This version, 0.7.20, specifically addresses a bug fix related to the --yarastrings command-line option, ensuring more reliable output when utilizing YARA rules for string extraction during static analysis. Read Full Article <p>Security researcher Didier Stevens has released an update for <code>pecheck.py</code>, a fundamental tool used for analyzing Portable Executable (PE) files.",
+        "summary": "This version, 0.7.20, specifically addresses a bug fix related to the --yarastrings command-line option, ensuring more reliable output when utilizing YARA rules for string extraction during static analysis. Read Full Article <p>Security researcher Didier Stevens has released an update for <code>pecheck.py</code>, a fundamental tool used for analyzing Portable Executable (PE) files.",
+        "link": "https://dev.to/mark0_617b45cda9782a/update-pecheckpy-version-0720-3bh1",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-13T05:09:07.000Z",
+        "keywords": [
+          "cybersecurity",
+          "infosec",
+          "malware",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "cybersecurity",
+          "infosec",
+          "malware"
+        ],
+        "pros": [
+          "Great for cybersecurity",
+          "infosec-ready automation",
+          "Great for cybersecurity"
+        ],
+        "cons": [
+          "Overkill for cybersecurity experiments",
+          "Needs extra setup for infosec workflows",
+          "Overkill for cybersecurity experiments"
+        ],
+        "highlights": [
+          "Read Full Article <p>Security researcher Didier Stevens has released an update for <code>pecheck.py</code>, a fundamental tool used for analyzing Portable Executable (PE) files.",
+          "Security researcher Didier Stevens has released an update for pecheck.py, a fundamental tool used for analyzing Portable Executable (PE) files.",
+          "This update is recommended for malware analysts who rely on pecheck.py for their automated triage and investigation workflows."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-03-13T06:34:53.904Z",
+    "lastUpdated": "2026-03-13T06:34:53.904Z",
+    "visibleDate": "Mar 13, 2026",
+    "url": "pages/2026-03-13-063453904-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-03-13-063453904-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Open source for",
+      "Six Models, Six"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Open source for, Six Models, Six. Gitpod brings z",
+    "tools": [
+      {
+        "name": "Open source for",
+        "slug": "open-source-for",
+        "description": "Ryan is joined by Jan Liphardt, CEO and co-founder of OpenMind, to chat about the rapidly evolving world of humanoid robotics and what it means for humans, why OpenMind is building an open source operating system for robots that processes logic in natural language, and how putting Asimov’s Laws on the blockchain might be the key to robotics guardrails.",
+        "summary": "Ryan is joined by Jan Liphardt, CEO and co-founder of OpenMind, to chat about the rapidly evolving world of humanoid robotics and what it means for humans, why OpenMind is building an open source operating system for robots that processes logic in natural language, and how putting Asimov’s Laws on the blockchain might be the key to robotics guardrails.",
+        "link": "https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-03-13T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "open-source",
+          "ai",
+          "robotics"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Six Models, Six",
+        "slug": "six-models-six",
+        "description": "I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured. I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured.",
+        "summary": "I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured. I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured.",
+        "link": "https://dev.to/skyguan92/six-models-six-temperaments-34j9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-13T06:15:12.000Z",
+        "keywords": [
+          "ai",
+          "models",
+          "tools",
+          "workflow",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "models",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "models-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for models workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "When doing architecture design, it actively asks about your intentions—not just diving into coding, but first digging out six dimensions for you to evaluate before getting to work.",
+          "When doing architecture design, it actively asks about your intentions—not just diving into coding, but first digging out six dimensions for you to evaluate before getting to work.",
+          "It can also give good advice on deep thinking, but letting it lead the direction tends toward over-engineering.</p> <h2> Gemini 3.1 Pro—Good Eye, Clumsy Hands </h2> <p>Google's Gemini 3.1 Pro."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-03-13T06:34:53.904Z",
+    "lastUpdated": "2026-03-13T06:34:53.904Z",
+    "visibleDate": "Mar 13, 2026",
+    "url": "pages/2026-03-13-063453904-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-03-13-063453904-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Open source for",
+      "Six Models, Six",
+      "5 Free Privacy-First"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Open source for, Six Models, Six, 5 Free Privacy-First. New launches tha",
+    "tools": [
+      {
+        "name": "Open source for",
+        "slug": "open-source-for",
+        "description": "Ryan is joined by Jan Liphardt, CEO and co-founder of OpenMind, to chat about the rapidly evolving world of humanoid robotics and what it means for humans, why OpenMind is building an open source operating system for robots that processes logic in natural language, and how putting Asimov’s Laws on the blockchain might be the key to robotics guardrails.",
+        "summary": "Ryan is joined by Jan Liphardt, CEO and co-founder of OpenMind, to chat about the rapidly evolving world of humanoid robotics and what it means for humans, why OpenMind is building an open source operating system for robots that processes logic in natural language, and how putting Asimov’s Laws on the blockchain might be the key to robotics guardrails.",
+        "link": "https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-03-13T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "open-source",
+          "ai",
+          "robotics"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Six Models, Six",
+        "slug": "six-models-six",
+        "description": "I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured. I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured.",
+        "summary": "I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured. I just scanned a QR code to let it into the backend; it clicked through a bunch of configurations, found errors, went back to fix them, back and forth for about thirty minutes, and got everything configured.",
+        "link": "https://dev.to/skyguan92/six-models-six-temperaments-34j9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-13T06:15:12.000Z",
+        "keywords": [
+          "ai",
+          "models",
+          "tools",
+          "workflow",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "models",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "models-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for models workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "When doing architecture design, it actively asks about your intentions—not just diving into coding, but first digging out six dimensions for you to evaluate before getting to work.",
+          "When doing architecture design, it actively asks about your intentions—not just diving into coding, but first digging out six dimensions for you to evaluate before getting to work.",
+          "It can also give good advice on deep thinking, but letting it lead the direction tends toward over-engineering.</p> <h2> Gemini 3.1 Pro—Good Eye, Clumsy Hands </h2> <p>Google's Gemini 3.1 Pro."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 Free Privacy-First",
+        "slug": "5-free-privacy-first",
+        "description": "JSON Formatter &amp; Validator </h3> <p><strong>Who needs it:</strong> Developers, anyone working with API data</p> <p>Paste messy JSON, get it beautifully formatted with syntax highlighting. QR Code Generator </h3> <p><strong>Who needs it:</strong> Event organizers, restaurants, marketers, anyone</p> <p>Generate QR codes for URLs, emails, phone numbers, WiFi credentials, and SMS.",
+        "summary": "JSON Formatter &amp; Validator </h3> <p><strong>Who needs it:</strong> Developers, anyone working with API data</p> <p>Paste messy JSON, get it beautifully formatted with syntax highlighting. QR Code Generator </h3> <p><strong>Who needs it:</strong> Event organizers, restaurants, marketers, anyone</p> <p>Generate QR codes for URLs, emails, phone numbers, WiFi credentials, and SMS.",
+        "link": "https://dev.to/docat0209/5-free-privacy-first-tools-i-built-because-i-was-tired-of-signing-up-for-everything-2mh2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-13T05:32:41.000Z",
+        "keywords": [
+          "productivity",
+          "webdev",
+          "opensource",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "webdev",
+          "opensource"
+        ],
+        "pros": [
+          "Great for productivity",
+          "webdev-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "JSON Formatter &amp; Validator </h3> <p><strong>Who needs it:</strong> Developers, anyone working with API data</p> <p>Paste messy JSON, get it beautifully formatted with syntax highlighting.",
+          "QR Code Generator </h3> <p><strong>Who needs it:</strong> Event organizers, restaurants, marketers, anyone</p> <p>Generate QR codes for URLs, emails, phone numbers, WiFi credentials, and SMS.",
+          "Googled \"free invoice generator.\" Every result wanted me to sign up, hand over my email, or start a \"free trial\" that auto-charges after 7 days.</p> <p>So I built my own."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-03-12T06:36:37.175Z",
     "lastUpdated": "2026-03-12T06:36:37.175Z",
     "visibleDate": "Mar 12, 2026",

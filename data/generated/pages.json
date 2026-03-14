@@ -7,6 +7,681 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-03-14T06:30:13.928Z",
+    "lastUpdated": "2026-03-14T06:30:13.928Z",
+    "visibleDate": "Mar 14, 2026",
+    "url": "pages/2026-03-14-063013928-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-03-14-063013928-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "I built 200+ free online tools",
+      "10 Best Checkmarx",
+      "Optimizing Content for"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include I built 200+ free online tools, 10 Best Checkmarx, Optimizing Content for.",
+    "tools": [
+      {
+        "name": "I built 200+ free online tools",
+        "slug": "i-built-200-free-online-tools",
+        "description": "No signup, no watermarks, no limits.<br> Here's everything I learned building it.<br> Why I built it<br> I was tired of opening 5 different sites to do basic tasks — compress an image, merge a PDF, calculate EMI. Should have started with long-tail, zero-competition keywords from day one and built up.<br> Focused on building tools instead of marketing them.",
+        "summary": "No signup, no watermarks, no limits.<br> Here's everything I learned building it.<br> Why I built it<br> I was tired of opening 5 different sites to do basic tasks — compress an image, merge a PDF, calculate EMI. Should have started with long-tail, zero-competition keywords from day one and built up.<br> Focused on building tools instead of marketing them.",
+        "link": "https://dev.to/ezytoolz/i-built-200-free-online-tools-heres-everything-i-learned-in-8-months-4c4h",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-14T04:07:03.000Z",
+        "keywords": [
+          "webdev",
+          "programming",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "programming",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "programming-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Should have started with long-tail, zero-competition keywords from day one and built up.<br> Focused on building tools instead of marketing them.",
+          "Searches like \"HRA exemption calculator 2024-25\" or \"post office MIS calculator 7.4%\" have real search volume and almost no competition.",
+          "Lesson: start link building on day one, not month eight.<br> Targeted broad keywords too early."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "10 Best Checkmarx",
+        "slug": "10-best-checkmarx",
+        "description": "The auto-triage feature uses context from multiple scan types to reduce noise - if a SAST finding relates to code that is only used in test files, Aikido automatically deprioritizes it rather than alerting your team. DAST (Dynamic Application Security Testing) tests running applications from the outside, catching runtime issues like authentication bypasses, server misconfigurations, and cross-site scripting in real browser contexts.",
+        "summary": "The auto-triage feature uses context from multiple scan types to reduce noise - if a SAST finding relates to code that is only used in test files, Aikido automatically deprioritizes it rather than alerting your team. DAST (Dynamic Application Security Testing) tests running applications from the outside, catching runtime issues like authentication bypasses, server misconfigurations, and cross-site scripting in real browser contexts.",
+        "link": "https://dev.to/rahulxsingh/10-best-checkmarx-alternatives-for-sast-in-2026-4ohe",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-14T04:00:00.000Z",
+        "keywords": [
+          "codereview",
+          "ai",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "codereview",
+          "ai",
+          "programming"
+        ],
+        "pros": [
+          "Great for codereview",
+          "ai-ready automation",
+          "Great for codereview"
+        ],
+        "cons": [
+          "Overkill for codereview experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for codereview experiments"
+        ],
+        "highlights": [
+          "SAST (Static Application Security Testing) analyzes source code without running it, catching issues like injection flaws, hardcoded credentials, and insecure data flows early in development.",
+          "SAST (Static Application Security Testing) analyzes source code without running it, catching issues like injection flaws, hardcoded credentials, and insecure data flows early in development.",
+          "Its core engine is open-source, its rule syntax is intuitive enough that developers actually write custom rules, and it scans fast enough to run on every commit without slowing down CI."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Optimizing Content for",
+        "slug": "optimizing-content-for",
+        "description": "Article URL: https://cra.mr/optimizing-content-for-agents/ Comments URL: https://news.ycombinator.com/item?id=47372672 Points: 26 # Comments: 15",
+        "summary": "Article URL: https://cra.mr/optimizing-content-for-agents/ Comments URL: https://news.ycombinator.com/item?id=47372672 Points: 26 # Comments: 15",
+        "link": "https://cra.mr/optimizing-content-for-agents/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-14T02:27:00.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Adobe Creative Cloud",
+        "slug": "adobe-creative-cloud",
+        "description": "Catch Jordan Jaiyeola's awesome character composition workflow! He shows how Adobe Stock helps supercharge his final pieces, making them pop. Dive into his journey from initial concepts to building scenes, then polishing everything in Premiere and bringing it all to life with After Effects' motion graphics magic.",
+        "summary": "Catch Jordan Jaiyeola's awesome character composition workflow! He shows how Adobe Stock helps supercharge his final pieces, making them pop. Dive into his journey from initial concepts to building scenes, then polishing everything in Premiere and bringing it all to life with After Effects' motion graphics magic.",
+        "link": "https://dev.to/design_youtube/adobe-creative-cloud-creating-character-compositions-with-jordan-jaiyeola-using-adobe-stock-47a6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-14T02:06:27.000Z",
+        "keywords": [
+          "design",
+          "tools",
+          "recommendations",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "design",
+          "tools",
+          "recommendations"
+        ],
+        "pros": [
+          "Great for design",
+          "tools-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "Catch Jordan Jaiyeola's awesome character composition workflow! He shows how Adobe Stock helps supercharge his final pieces, making them pop.",
+          "Dive into his journey from initial concepts to building scenes, then polishing everything in Premiere and bringing it all to life with After Effects' motion graphics magic."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Our Experience with",
+        "slug": "our-experience-with",
+        "description": "Article URL: https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/ Comments URL: https://news.ycombinator.com/item?id=47371922 Points: 55 # Comments: 18",
+        "summary": "Article URL: https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/ Comments URL: https://news.ycombinator.com/item?id=47371922 Points: 55 # Comments: 18",
+        "link": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-14T00:29:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-03-14T06:30:13.928Z",
+    "lastUpdated": "2026-03-14T06:30:13.928Z",
+    "visibleDate": "Mar 14, 2026",
+    "url": "pages/2026-03-14-063013928-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-03-14-063013928-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "I built 200+ free online tools",
+      "10 Best Checkmarx",
+      "Optimizing Content for"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include I built 200+ free online tools, 10 Best Checkmarx, Optimizing Cont",
+    "tools": [
+      {
+        "name": "I built 200+ free online tools",
+        "slug": "i-built-200-free-online-tools",
+        "description": "No signup, no watermarks, no limits.<br> Here's everything I learned building it.<br> Why I built it<br> I was tired of opening 5 different sites to do basic tasks — compress an image, merge a PDF, calculate EMI. Should have started with long-tail, zero-competition keywords from day one and built up.<br> Focused on building tools instead of marketing them.",
+        "summary": "No signup, no watermarks, no limits.<br> Here's everything I learned building it.<br> Why I built it<br> I was tired of opening 5 different sites to do basic tasks — compress an image, merge a PDF, calculate EMI. Should have started with long-tail, zero-competition keywords from day one and built up.<br> Focused on building tools instead of marketing them.",
+        "link": "https://dev.to/ezytoolz/i-built-200-free-online-tools-heres-everything-i-learned-in-8-months-4c4h",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-14T04:07:03.000Z",
+        "keywords": [
+          "webdev",
+          "programming",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "programming",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "programming-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Should have started with long-tail, zero-competition keywords from day one and built up.<br> Focused on building tools instead of marketing them.",
+          "Searches like \"HRA exemption calculator 2024-25\" or \"post office MIS calculator 7.4%\" have real search volume and almost no competition.",
+          "Lesson: start link building on day one, not month eight.<br> Targeted broad keywords too early."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "10 Best Checkmarx",
+        "slug": "10-best-checkmarx",
+        "description": "The auto-triage feature uses context from multiple scan types to reduce noise - if a SAST finding relates to code that is only used in test files, Aikido automatically deprioritizes it rather than alerting your team. DAST (Dynamic Application Security Testing) tests running applications from the outside, catching runtime issues like authentication bypasses, server misconfigurations, and cross-site scripting in real browser contexts.",
+        "summary": "The auto-triage feature uses context from multiple scan types to reduce noise - if a SAST finding relates to code that is only used in test files, Aikido automatically deprioritizes it rather than alerting your team. DAST (Dynamic Application Security Testing) tests running applications from the outside, catching runtime issues like authentication bypasses, server misconfigurations, and cross-site scripting in real browser contexts.",
+        "link": "https://dev.to/rahulxsingh/10-best-checkmarx-alternatives-for-sast-in-2026-4ohe",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-14T04:00:00.000Z",
+        "keywords": [
+          "codereview",
+          "ai",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "codereview",
+          "ai",
+          "programming"
+        ],
+        "pros": [
+          "Great for codereview",
+          "ai-ready automation",
+          "Great for codereview"
+        ],
+        "cons": [
+          "Overkill for codereview experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for codereview experiments"
+        ],
+        "highlights": [
+          "SAST (Static Application Security Testing) analyzes source code without running it, catching issues like injection flaws, hardcoded credentials, and insecure data flows early in development.",
+          "SAST (Static Application Security Testing) analyzes source code without running it, catching issues like injection flaws, hardcoded credentials, and insecure data flows early in development.",
+          "Its core engine is open-source, its rule syntax is intuitive enough that developers actually write custom rules, and it scans fast enough to run on every commit without slowing down CI."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Optimizing Content for",
+        "slug": "optimizing-content-for",
+        "description": "Article URL: https://cra.mr/optimizing-content-for-agents/ Comments URL: https://news.ycombinator.com/item?id=47372672 Points: 26 # Comments: 15",
+        "summary": "Article URL: https://cra.mr/optimizing-content-for-agents/ Comments URL: https://news.ycombinator.com/item?id=47372672 Points: 26 # Comments: 15",
+        "link": "https://cra.mr/optimizing-content-for-agents/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-14T02:27:00.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Adobe Creative Cloud",
+        "slug": "adobe-creative-cloud",
+        "description": "Catch Jordan Jaiyeola's awesome character composition workflow! He shows how Adobe Stock helps supercharge his final pieces, making them pop. Dive into his journey from initial concepts to building scenes, then polishing everything in Premiere and bringing it all to life with After Effects' motion graphics magic.",
+        "summary": "Catch Jordan Jaiyeola's awesome character composition workflow! He shows how Adobe Stock helps supercharge his final pieces, making them pop. Dive into his journey from initial concepts to building scenes, then polishing everything in Premiere and bringing it all to life with After Effects' motion graphics magic.",
+        "link": "https://dev.to/design_youtube/adobe-creative-cloud-creating-character-compositions-with-jordan-jaiyeola-using-adobe-stock-47a6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-14T02:06:27.000Z",
+        "keywords": [
+          "design",
+          "tools",
+          "recommendations",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "design",
+          "tools",
+          "recommendations"
+        ],
+        "pros": [
+          "Great for design",
+          "tools-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "Catch Jordan Jaiyeola's awesome character composition workflow! He shows how Adobe Stock helps supercharge his final pieces, making them pop.",
+          "Dive into his journey from initial concepts to building scenes, then polishing everything in Premiere and bringing it all to life with After Effects' motion graphics magic."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-03-14T06:30:13.928Z",
+    "lastUpdated": "2026-03-14T06:30:13.928Z",
+    "visibleDate": "Mar 14, 2026",
+    "url": "pages/2026-03-14-063013928-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-03-14-063013928-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I built 200+ free online tools",
+      "10 Best Checkmarx"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include I built 200+ free online tools, 10 Best Checkmarx",
+    "tools": [
+      {
+        "name": "I built 200+ free online tools",
+        "slug": "i-built-200-free-online-tools",
+        "description": "No signup, no watermarks, no limits.<br> Here's everything I learned building it.<br> Why I built it<br> I was tired of opening 5 different sites to do basic tasks — compress an image, merge a PDF, calculate EMI. Should have started with long-tail, zero-competition keywords from day one and built up.<br> Focused on building tools instead of marketing them.",
+        "summary": "No signup, no watermarks, no limits.<br> Here's everything I learned building it.<br> Why I built it<br> I was tired of opening 5 different sites to do basic tasks — compress an image, merge a PDF, calculate EMI. Should have started with long-tail, zero-competition keywords from day one and built up.<br> Focused on building tools instead of marketing them.",
+        "link": "https://dev.to/ezytoolz/i-built-200-free-online-tools-heres-everything-i-learned-in-8-months-4c4h",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-14T04:07:03.000Z",
+        "keywords": [
+          "webdev",
+          "programming",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "programming",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "programming-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Should have started with long-tail, zero-competition keywords from day one and built up.<br> Focused on building tools instead of marketing them.",
+          "Searches like \"HRA exemption calculator 2024-25\" or \"post office MIS calculator 7.4%\" have real search volume and almost no competition.",
+          "Lesson: start link building on day one, not month eight.<br> Targeted broad keywords too early."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "10 Best Checkmarx",
+        "slug": "10-best-checkmarx",
+        "description": "The auto-triage feature uses context from multiple scan types to reduce noise - if a SAST finding relates to code that is only used in test files, Aikido automatically deprioritizes it rather than alerting your team. DAST (Dynamic Application Security Testing) tests running applications from the outside, catching runtime issues like authentication bypasses, server misconfigurations, and cross-site scripting in real browser contexts.",
+        "summary": "The auto-triage feature uses context from multiple scan types to reduce noise - if a SAST finding relates to code that is only used in test files, Aikido automatically deprioritizes it rather than alerting your team. DAST (Dynamic Application Security Testing) tests running applications from the outside, catching runtime issues like authentication bypasses, server misconfigurations, and cross-site scripting in real browser contexts.",
+        "link": "https://dev.to/rahulxsingh/10-best-checkmarx-alternatives-for-sast-in-2026-4ohe",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-14T04:00:00.000Z",
+        "keywords": [
+          "codereview",
+          "ai",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "codereview",
+          "ai",
+          "programming"
+        ],
+        "pros": [
+          "Great for codereview",
+          "ai-ready automation",
+          "Great for codereview"
+        ],
+        "cons": [
+          "Overkill for codereview experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for codereview experiments"
+        ],
+        "highlights": [
+          "SAST (Static Application Security Testing) analyzes source code without running it, catching issues like injection flaws, hardcoded credentials, and insecure data flows early in development.",
+          "SAST (Static Application Security Testing) analyzes source code without running it, catching issues like injection flaws, hardcoded credentials, and insecure data flows early in development.",
+          "Its core engine is open-source, its rule syntax is intuitive enough that developers actually write custom rules, and it scans fast enough to run on every commit without slowing down CI."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-03-14T06:30:13.928Z",
+    "lastUpdated": "2026-03-14T06:30:13.928Z",
+    "visibleDate": "Mar 14, 2026",
+    "url": "pages/2026-03-14-063013928-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-03-14-063013928-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I built 200+ free online tools",
+      "10 Best Checkmarx",
+      "Optimizing Content for"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include I built 200+ free online tools, 10 Best Checkmarx, Optimizing Content fo",
+    "tools": [
+      {
+        "name": "I built 200+ free online tools",
+        "slug": "i-built-200-free-online-tools",
+        "description": "No signup, no watermarks, no limits.<br> Here's everything I learned building it.<br> Why I built it<br> I was tired of opening 5 different sites to do basic tasks — compress an image, merge a PDF, calculate EMI. Should have started with long-tail, zero-competition keywords from day one and built up.<br> Focused on building tools instead of marketing them.",
+        "summary": "No signup, no watermarks, no limits.<br> Here's everything I learned building it.<br> Why I built it<br> I was tired of opening 5 different sites to do basic tasks — compress an image, merge a PDF, calculate EMI. Should have started with long-tail, zero-competition keywords from day one and built up.<br> Focused on building tools instead of marketing them.",
+        "link": "https://dev.to/ezytoolz/i-built-200-free-online-tools-heres-everything-i-learned-in-8-months-4c4h",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-14T04:07:03.000Z",
+        "keywords": [
+          "webdev",
+          "programming",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "programming",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "programming-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Should have started with long-tail, zero-competition keywords from day one and built up.<br> Focused on building tools instead of marketing them.",
+          "Searches like \"HRA exemption calculator 2024-25\" or \"post office MIS calculator 7.4%\" have real search volume and almost no competition.",
+          "Lesson: start link building on day one, not month eight.<br> Targeted broad keywords too early."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "10 Best Checkmarx",
+        "slug": "10-best-checkmarx",
+        "description": "The auto-triage feature uses context from multiple scan types to reduce noise - if a SAST finding relates to code that is only used in test files, Aikido automatically deprioritizes it rather than alerting your team. DAST (Dynamic Application Security Testing) tests running applications from the outside, catching runtime issues like authentication bypasses, server misconfigurations, and cross-site scripting in real browser contexts.",
+        "summary": "The auto-triage feature uses context from multiple scan types to reduce noise - if a SAST finding relates to code that is only used in test files, Aikido automatically deprioritizes it rather than alerting your team. DAST (Dynamic Application Security Testing) tests running applications from the outside, catching runtime issues like authentication bypasses, server misconfigurations, and cross-site scripting in real browser contexts.",
+        "link": "https://dev.to/rahulxsingh/10-best-checkmarx-alternatives-for-sast-in-2026-4ohe",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-14T04:00:00.000Z",
+        "keywords": [
+          "codereview",
+          "ai",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "codereview",
+          "ai",
+          "programming"
+        ],
+        "pros": [
+          "Great for codereview",
+          "ai-ready automation",
+          "Great for codereview"
+        ],
+        "cons": [
+          "Overkill for codereview experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for codereview experiments"
+        ],
+        "highlights": [
+          "SAST (Static Application Security Testing) analyzes source code without running it, catching issues like injection flaws, hardcoded credentials, and insecure data flows early in development.",
+          "SAST (Static Application Security Testing) analyzes source code without running it, catching issues like injection flaws, hardcoded credentials, and insecure data flows early in development.",
+          "Its core engine is open-source, its rule syntax is intuitive enough that developers actually write custom rules, and it scans fast enough to run on every commit without slowing down CI."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Optimizing Content for",
+        "slug": "optimizing-content-for",
+        "description": "Article URL: https://cra.mr/optimizing-content-for-agents/ Comments URL: https://news.ycombinator.com/item?id=47372672 Points: 26 # Comments: 15",
+        "summary": "Article URL: https://cra.mr/optimizing-content-for-agents/ Comments URL: https://news.ycombinator.com/item?id=47372672 Points: 26 # Comments: 15",
+        "link": "https://cra.mr/optimizing-content-for-agents/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-14T02:27:00.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-03-13T06:34:53.904Z",
     "lastUpdated": "2026-03-13T06:34:53.904Z",
     "visibleDate": "Mar 13, 2026",

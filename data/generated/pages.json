@@ -7,6 +7,695 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-03-15T06:40:14.070Z",
+    "lastUpdated": "2026-03-15T06:40:14.070Z",
+    "visibleDate": "Mar 15, 2026",
+    "url": "pages/2026-03-15-064014070-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-03-15-064014070-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "The AI Tools",
+      "How to Debug",
+      "10 Free Calculators"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include The AI Tools, How to Debug, 10 Free Calculators. Productivity stacks that ",
+    "tools": [
+      {
+        "name": "The AI Tools",
+        "slug": "the-ai-tools",
+        "description": "Use Claude with good prompts instead Writesonic ($19/mo) — Unnecessary with free tier AI tools Midjourney ($10/mo) — Canva AI covers 90% of my image needs One subscription (Claude Pro) handles 95% of my AI workload. When I need something done RIGHT, not just done fast.</p> <h3> ChatGPT (Free Tier) </h3> <p><strong>Use for:</strong> Quick lookups, brainstorming, simple drafts<br> <strong>Why:</strong> Fastest for simple tasks.",
+        "summary": "Use Claude with good prompts instead Writesonic ($19/mo) — Unnecessary with free tier AI tools Midjourney ($10/mo) — Canva AI covers 90% of my image needs One subscription (Claude Pro) handles 95% of my AI workload. When I need something done RIGHT, not just done fast.</p> <h3> ChatGPT (Free Tier) </h3> <p><strong>Use for:</strong> Quick lookups, brainstorming, simple drafts<br> <strong>Why:</strong> Fastest for simple tasks.",
+        "link": "https://dev.to/stc_ai/the-ai-tools-stack-i-use-daily-all-free-or-under-20month-438h",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-15T06:26:37.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Use for: Heavy-duty work sessions, long documents, code projects Why: Extended context window and priority access.",
+          "Good mobile app for on-the-go.</p> <h3> Perplexity (Free) </h3> <p><strong>Use for:</strong> Research with sources, fact-checking, competitive analysis<br> <strong>Why:</strong> Gives citations.",
+          "Use for: Complex writing, analysis, code review, strategic thinking Why: Best at following nuanced instructions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Debug",
+        "slug": "how-to-debug",
+        "description": "Your test string should include the easy case (a clean match), the edge cases (empty strings, special characters, international characters if relevant), and known non-matches. The Regex Tester lets you paste multi-line test input and see all matches highlighted simultaneously, so you can validate all your cases in one view without switching contexts.",
+        "summary": "Your test string should include the easy case (a clean match), the edge cases (empty strings, special characters, international characters if relevant), and known non-matches. The Regex Tester lets you paste multi-line test input and see all matches highlighted simultaneously, so you can validate all your cases in one view without switching contexts.",
+        "link": "https://dev.to/evvytools/how-to-debug-a-regex-pattern-without-losing-your-mind-f7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-15T05:53:14.000Z",
+        "keywords": [
+          "regex",
+          "webdev",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "regex",
+          "webdev",
+          "productivity"
+        ],
+        "pros": [
+          "Great for regex",
+          "webdev-ready automation",
+          "Great for regex"
+        ],
+        "cons": [
+          "Overkill for regex experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for regex experiments"
+        ],
+        "highlights": [
+          "Your test string should include the easy case (a clean match), the edge cases (empty strings, special characters, international characters if relevant), and known non-matches.",
+          "Regular expressions have a reputation for being write-only code — easy to write when the logic is fresh in your head, nearly impossible to parse six months later.",
+          "The Regex Tester lets you paste multi-line test input and see all matches highlighted simultaneously, so you can validate all your cases in one view without switching contexts."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "10 Free Calculators",
+        "slug": "10-free-calculators",
+        "description": "<strong>MTD deadline: 6 April 2026 — 22 days away.</strong></p> <p><a href=\"https://landolio.com/tools/mtd-readiness-checker\" rel=\"noopener noreferrer\">Check your readiness →</a></p> <h2> Why free? Most freelancers don't know they can charge this.</p> <p><a href=\"https://landolio.com/tools/late-payment-interest-calculator\" rel=\"noopener noreferrer\">Calculate what you're owed →</a></p> <h3> 4.",
+        "summary": "<strong>MTD deadline: 6 April 2026 — 22 days away.</strong></p> <p><a href=\"https://landolio.com/tools/mtd-readiness-checker\" rel=\"noopener noreferrer\">Check your readiness →</a></p> <h2> Why free? Most freelancers don't know they can charge this.</p> <p><a href=\"https://landolio.com/tools/late-payment-interest-calculator\" rel=\"noopener noreferrer\">Calculate what you're owed →</a></p> <h3> 4.",
+        "link": "https://dev.to/landolio/10-free-calculators-every-uk-freelancer-should-bookmark-5e9i",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-15T04:45:38.000Z",
+        "keywords": [
+          "freelancing",
+          "tools",
+          "productivity",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "freelancing",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for freelancing",
+          "tools-ready automation",
+          "Great for freelancing"
+        ],
+        "cons": [
+          "Overkill for freelancing experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for freelancing experiments"
+        ],
+        "highlights": [
+          "<strong>MTD deadline: 6 April 2026 — 22 days away.</strong></p> <p><a href=\"https://landolio.com/tools/mtd-readiness-checker\" rel=\"noopener noreferrer\">Check your readiness →</a></p> <h2> Why free?",
+          "Most freelancers don't know they can charge this.</p> <p><a href=\"https://landolio.com/tools/late-payment-interest-calculator\" rel=\"noopener noreferrer\">Calculate what you're owed →</a></p> <h3> 4.",
+          "Day rates, tax estimates, late payment interest, cash flow gaps — it's relentless.</p> <p>I built these tools because I got tired of searching for them."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Rack-Mount Hydroponics",
+        "slug": "rack-mount-hydroponics",
+        "description": "Article URL: https://sa.lj.am/rack-mount-hydroponics/ Comments URL: https://news.ycombinator.com/item?id=47384352 Points: 63 # Comments: 16",
+        "summary": "Article URL: https://sa.lj.am/rack-mount-hydroponics/ Comments URL: https://news.ycombinator.com/item?id=47384352 Points: 63 # Comments: 16",
+        "link": "https://sa.lj.am/rack-mount-hydroponics/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-15T04:23:43.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🚀 Introducing AI Codebase Analyst",
+        "slug": "introducing-ai-codebase-analyst",
+        "description": "Just provide a GitHub repo in owner/repo format (e.g., QwenLM/Qwen-Agent), and the tool automatically generates: Full content extraction from README.md, README.rst, or README.txt files — no more clicking back and forth. 🚀 AI Codebase Analyst: Understand Any GitHub Repository in Under 60 Seconds Ever spent hours digging through a new GitHub repository just to understand what it does, how to install it, and whether it's worth using?",
+        "summary": "Just provide a GitHub repo in owner/repo format (e.g., QwenLM/Qwen-Agent), and the tool automatically generates: Full content extraction from README.md, README.rst, or README.txt files — no more clicking back and forth. 🚀 AI Codebase Analyst: Understand Any GitHub Repository in Under 60 Seconds Ever spent hours digging through a new GitHub repository just to understand what it does, how to install it, and whether it's worth using?",
+        "link": "https://dev.to/akash_kumarnaik_80d5f390/introducing-ai-codebase-analyst-understand-any-github-repository-in-under-60-seconds-2ogi",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-15T04:15:48.000Z",
+        "keywords": [
+          "ai",
+          "opensource",
+          "tools",
+          "nocode",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "opensource",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "opensource-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for opensource workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "That's exactly why I built AI Codebase Analyst — an AI-powered tool that transforms any public GitHub repository into structured, actionable intelligence in under 60 seconds.",
+          "🔗 Try AI Codebase Analyst Now Built with ❤️ by @akash9078 on the Apify platform.",
+          "What's the first repository you'd analyze?"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-03-15T06:40:14.070Z",
+    "lastUpdated": "2026-03-15T06:40:14.070Z",
+    "visibleDate": "Mar 15, 2026",
+    "url": "pages/2026-03-15-064014070-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-03-15-064014070-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "The AI Tools",
+      "How to Debug",
+      "10 Free Calculators"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include The AI Tools, How to Debug, 10 Free Calculators. Reliable remote d",
+    "tools": [
+      {
+        "name": "The AI Tools",
+        "slug": "the-ai-tools",
+        "description": "Use Claude with good prompts instead Writesonic ($19/mo) — Unnecessary with free tier AI tools Midjourney ($10/mo) — Canva AI covers 90% of my image needs One subscription (Claude Pro) handles 95% of my AI workload. When I need something done RIGHT, not just done fast.</p> <h3> ChatGPT (Free Tier) </h3> <p><strong>Use for:</strong> Quick lookups, brainstorming, simple drafts<br> <strong>Why:</strong> Fastest for simple tasks.",
+        "summary": "Use Claude with good prompts instead Writesonic ($19/mo) — Unnecessary with free tier AI tools Midjourney ($10/mo) — Canva AI covers 90% of my image needs One subscription (Claude Pro) handles 95% of my AI workload. When I need something done RIGHT, not just done fast.</p> <h3> ChatGPT (Free Tier) </h3> <p><strong>Use for:</strong> Quick lookups, brainstorming, simple drafts<br> <strong>Why:</strong> Fastest for simple tasks.",
+        "link": "https://dev.to/stc_ai/the-ai-tools-stack-i-use-daily-all-free-or-under-20month-438h",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-15T06:26:37.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Use for: Heavy-duty work sessions, long documents, code projects Why: Extended context window and priority access.",
+          "Good mobile app for on-the-go.</p> <h3> Perplexity (Free) </h3> <p><strong>Use for:</strong> Research with sources, fact-checking, competitive analysis<br> <strong>Why:</strong> Gives citations.",
+          "Use for: Complex writing, analysis, code review, strategic thinking Why: Best at following nuanced instructions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Debug",
+        "slug": "how-to-debug",
+        "description": "Your test string should include the easy case (a clean match), the edge cases (empty strings, special characters, international characters if relevant), and known non-matches. The Regex Tester lets you paste multi-line test input and see all matches highlighted simultaneously, so you can validate all your cases in one view without switching contexts.",
+        "summary": "Your test string should include the easy case (a clean match), the edge cases (empty strings, special characters, international characters if relevant), and known non-matches. The Regex Tester lets you paste multi-line test input and see all matches highlighted simultaneously, so you can validate all your cases in one view without switching contexts.",
+        "link": "https://dev.to/evvytools/how-to-debug-a-regex-pattern-without-losing-your-mind-f7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-15T05:53:14.000Z",
+        "keywords": [
+          "regex",
+          "webdev",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "regex",
+          "webdev",
+          "productivity"
+        ],
+        "pros": [
+          "Great for regex",
+          "webdev-ready automation",
+          "Great for regex"
+        ],
+        "cons": [
+          "Overkill for regex experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for regex experiments"
+        ],
+        "highlights": [
+          "Your test string should include the easy case (a clean match), the edge cases (empty strings, special characters, international characters if relevant), and known non-matches.",
+          "Regular expressions have a reputation for being write-only code — easy to write when the logic is fresh in your head, nearly impossible to parse six months later.",
+          "The Regex Tester lets you paste multi-line test input and see all matches highlighted simultaneously, so you can validate all your cases in one view without switching contexts."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "10 Free Calculators",
+        "slug": "10-free-calculators",
+        "description": "<strong>MTD deadline: 6 April 2026 — 22 days away.</strong></p> <p><a href=\"https://landolio.com/tools/mtd-readiness-checker\" rel=\"noopener noreferrer\">Check your readiness →</a></p> <h2> Why free? Most freelancers don't know they can charge this.</p> <p><a href=\"https://landolio.com/tools/late-payment-interest-calculator\" rel=\"noopener noreferrer\">Calculate what you're owed →</a></p> <h3> 4.",
+        "summary": "<strong>MTD deadline: 6 April 2026 — 22 days away.</strong></p> <p><a href=\"https://landolio.com/tools/mtd-readiness-checker\" rel=\"noopener noreferrer\">Check your readiness →</a></p> <h2> Why free? Most freelancers don't know they can charge this.</p> <p><a href=\"https://landolio.com/tools/late-payment-interest-calculator\" rel=\"noopener noreferrer\">Calculate what you're owed →</a></p> <h3> 4.",
+        "link": "https://dev.to/landolio/10-free-calculators-every-uk-freelancer-should-bookmark-5e9i",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-15T04:45:38.000Z",
+        "keywords": [
+          "freelancing",
+          "tools",
+          "productivity",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "freelancing",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for freelancing",
+          "tools-ready automation",
+          "Great for freelancing"
+        ],
+        "cons": [
+          "Overkill for freelancing experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for freelancing experiments"
+        ],
+        "highlights": [
+          "<strong>MTD deadline: 6 April 2026 — 22 days away.</strong></p> <p><a href=\"https://landolio.com/tools/mtd-readiness-checker\" rel=\"noopener noreferrer\">Check your readiness →</a></p> <h2> Why free?",
+          "Most freelancers don't know they can charge this.</p> <p><a href=\"https://landolio.com/tools/late-payment-interest-calculator\" rel=\"noopener noreferrer\">Calculate what you're owed →</a></p> <h3> 4.",
+          "Day rates, tax estimates, late payment interest, cash flow gaps — it's relentless.</p> <p>I built these tools because I got tired of searching for them."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Rack-Mount Hydroponics",
+        "slug": "rack-mount-hydroponics",
+        "description": "Article URL: https://sa.lj.am/rack-mount-hydroponics/ Comments URL: https://news.ycombinator.com/item?id=47384352 Points: 63 # Comments: 16",
+        "summary": "Article URL: https://sa.lj.am/rack-mount-hydroponics/ Comments URL: https://news.ycombinator.com/item?id=47384352 Points: 63 # Comments: 16",
+        "link": "https://sa.lj.am/rack-mount-hydroponics/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-15T04:23:43.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-03-15T06:40:14.070Z",
+    "lastUpdated": "2026-03-15T06:40:14.070Z",
+    "visibleDate": "Mar 15, 2026",
+    "url": "pages/2026-03-15-064014070-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-03-15-064014070-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The AI Tools",
+      "How to Debug"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include The AI Tools, How to Debug. Gitpod brings zero-co",
+    "tools": [
+      {
+        "name": "The AI Tools",
+        "slug": "the-ai-tools",
+        "description": "Use Claude with good prompts instead Writesonic ($19/mo) — Unnecessary with free tier AI tools Midjourney ($10/mo) — Canva AI covers 90% of my image needs One subscription (Claude Pro) handles 95% of my AI workload. When I need something done RIGHT, not just done fast.</p> <h3> ChatGPT (Free Tier) </h3> <p><strong>Use for:</strong> Quick lookups, brainstorming, simple drafts<br> <strong>Why:</strong> Fastest for simple tasks.",
+        "summary": "Use Claude with good prompts instead Writesonic ($19/mo) — Unnecessary with free tier AI tools Midjourney ($10/mo) — Canva AI covers 90% of my image needs One subscription (Claude Pro) handles 95% of my AI workload. When I need something done RIGHT, not just done fast.</p> <h3> ChatGPT (Free Tier) </h3> <p><strong>Use for:</strong> Quick lookups, brainstorming, simple drafts<br> <strong>Why:</strong> Fastest for simple tasks.",
+        "link": "https://dev.to/stc_ai/the-ai-tools-stack-i-use-daily-all-free-or-under-20month-438h",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-15T06:26:37.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Use for: Heavy-duty work sessions, long documents, code projects Why: Extended context window and priority access.",
+          "Good mobile app for on-the-go.</p> <h3> Perplexity (Free) </h3> <p><strong>Use for:</strong> Research with sources, fact-checking, competitive analysis<br> <strong>Why:</strong> Gives citations.",
+          "Use for: Complex writing, analysis, code review, strategic thinking Why: Best at following nuanced instructions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Debug",
+        "slug": "how-to-debug",
+        "description": "Your test string should include the easy case (a clean match), the edge cases (empty strings, special characters, international characters if relevant), and known non-matches. The Regex Tester lets you paste multi-line test input and see all matches highlighted simultaneously, so you can validate all your cases in one view without switching contexts.",
+        "summary": "Your test string should include the easy case (a clean match), the edge cases (empty strings, special characters, international characters if relevant), and known non-matches. The Regex Tester lets you paste multi-line test input and see all matches highlighted simultaneously, so you can validate all your cases in one view without switching contexts.",
+        "link": "https://dev.to/evvytools/how-to-debug-a-regex-pattern-without-losing-your-mind-f7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-15T05:53:14.000Z",
+        "keywords": [
+          "regex",
+          "webdev",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "regex",
+          "webdev",
+          "productivity"
+        ],
+        "pros": [
+          "Great for regex",
+          "webdev-ready automation",
+          "Great for regex"
+        ],
+        "cons": [
+          "Overkill for regex experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for regex experiments"
+        ],
+        "highlights": [
+          "Your test string should include the easy case (a clean match), the edge cases (empty strings, special characters, international characters if relevant), and known non-matches.",
+          "Regular expressions have a reputation for being write-only code — easy to write when the logic is fresh in your head, nearly impossible to parse six months later.",
+          "The Regex Tester lets you paste multi-line test input and see all matches highlighted simultaneously, so you can validate all your cases in one view without switching contexts."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-03-15T06:40:14.070Z",
+    "lastUpdated": "2026-03-15T06:40:14.070Z",
+    "visibleDate": "Mar 15, 2026",
+    "url": "pages/2026-03-15-064014070-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-03-15-064014070-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "The AI Tools",
+      "How to Debug",
+      "10 Free Calculators"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include The AI Tools, How to Debug, 10 Free Calculators. New launches that are s",
+    "tools": [
+      {
+        "name": "The AI Tools",
+        "slug": "the-ai-tools",
+        "description": "Use Claude with good prompts instead Writesonic ($19/mo) — Unnecessary with free tier AI tools Midjourney ($10/mo) — Canva AI covers 90% of my image needs One subscription (Claude Pro) handles 95% of my AI workload. When I need something done RIGHT, not just done fast.</p> <h3> ChatGPT (Free Tier) </h3> <p><strong>Use for:</strong> Quick lookups, brainstorming, simple drafts<br> <strong>Why:</strong> Fastest for simple tasks.",
+        "summary": "Use Claude with good prompts instead Writesonic ($19/mo) — Unnecessary with free tier AI tools Midjourney ($10/mo) — Canva AI covers 90% of my image needs One subscription (Claude Pro) handles 95% of my AI workload. When I need something done RIGHT, not just done fast.</p> <h3> ChatGPT (Free Tier) </h3> <p><strong>Use for:</strong> Quick lookups, brainstorming, simple drafts<br> <strong>Why:</strong> Fastest for simple tasks.",
+        "link": "https://dev.to/stc_ai/the-ai-tools-stack-i-use-daily-all-free-or-under-20month-438h",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-15T06:26:37.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Use for: Heavy-duty work sessions, long documents, code projects Why: Extended context window and priority access.",
+          "Good mobile app for on-the-go.</p> <h3> Perplexity (Free) </h3> <p><strong>Use for:</strong> Research with sources, fact-checking, competitive analysis<br> <strong>Why:</strong> Gives citations.",
+          "Use for: Complex writing, analysis, code review, strategic thinking Why: Best at following nuanced instructions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Debug",
+        "slug": "how-to-debug",
+        "description": "Your test string should include the easy case (a clean match), the edge cases (empty strings, special characters, international characters if relevant), and known non-matches. The Regex Tester lets you paste multi-line test input and see all matches highlighted simultaneously, so you can validate all your cases in one view without switching contexts.",
+        "summary": "Your test string should include the easy case (a clean match), the edge cases (empty strings, special characters, international characters if relevant), and known non-matches. The Regex Tester lets you paste multi-line test input and see all matches highlighted simultaneously, so you can validate all your cases in one view without switching contexts.",
+        "link": "https://dev.to/evvytools/how-to-debug-a-regex-pattern-without-losing-your-mind-f7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-15T05:53:14.000Z",
+        "keywords": [
+          "regex",
+          "webdev",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "regex",
+          "webdev",
+          "productivity"
+        ],
+        "pros": [
+          "Great for regex",
+          "webdev-ready automation",
+          "Great for regex"
+        ],
+        "cons": [
+          "Overkill for regex experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for regex experiments"
+        ],
+        "highlights": [
+          "Your test string should include the easy case (a clean match), the edge cases (empty strings, special characters, international characters if relevant), and known non-matches.",
+          "Regular expressions have a reputation for being write-only code — easy to write when the logic is fresh in your head, nearly impossible to parse six months later.",
+          "The Regex Tester lets you paste multi-line test input and see all matches highlighted simultaneously, so you can validate all your cases in one view without switching contexts."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "10 Free Calculators",
+        "slug": "10-free-calculators",
+        "description": "<strong>MTD deadline: 6 April 2026 — 22 days away.</strong></p> <p><a href=\"https://landolio.com/tools/mtd-readiness-checker\" rel=\"noopener noreferrer\">Check your readiness →</a></p> <h2> Why free? Most freelancers don't know they can charge this.</p> <p><a href=\"https://landolio.com/tools/late-payment-interest-calculator\" rel=\"noopener noreferrer\">Calculate what you're owed →</a></p> <h3> 4.",
+        "summary": "<strong>MTD deadline: 6 April 2026 — 22 days away.</strong></p> <p><a href=\"https://landolio.com/tools/mtd-readiness-checker\" rel=\"noopener noreferrer\">Check your readiness →</a></p> <h2> Why free? Most freelancers don't know they can charge this.</p> <p><a href=\"https://landolio.com/tools/late-payment-interest-calculator\" rel=\"noopener noreferrer\">Calculate what you're owed →</a></p> <h3> 4.",
+        "link": "https://dev.to/landolio/10-free-calculators-every-uk-freelancer-should-bookmark-5e9i",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-15T04:45:38.000Z",
+        "keywords": [
+          "freelancing",
+          "tools",
+          "productivity",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "freelancing",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for freelancing",
+          "tools-ready automation",
+          "Great for freelancing"
+        ],
+        "cons": [
+          "Overkill for freelancing experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for freelancing experiments"
+        ],
+        "highlights": [
+          "<strong>MTD deadline: 6 April 2026 — 22 days away.</strong></p> <p><a href=\"https://landolio.com/tools/mtd-readiness-checker\" rel=\"noopener noreferrer\">Check your readiness →</a></p> <h2> Why free?",
+          "Most freelancers don't know they can charge this.</p> <p><a href=\"https://landolio.com/tools/late-payment-interest-calculator\" rel=\"noopener noreferrer\">Calculate what you're owed →</a></p> <h3> 4.",
+          "Day rates, tax estimates, late payment interest, cash flow gaps — it's relentless.</p> <p>I built these tools because I got tired of searching for them."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-03-14T06:30:13.928Z",
     "lastUpdated": "2026-03-14T06:30:13.928Z",
     "visibleDate": "Mar 14, 2026",

@@ -7,6 +7,695 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-03-18T06:45:08.923Z",
+    "lastUpdated": "2026-03-18T06:45:08.923Z",
+    "visibleDate": "Mar 18, 2026",
+    "url": "pages/2026-03-18-064508923-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-03-18-064508923-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "6 Fascinating Physics",
+      "AI Design Tools for Non-Designers",
+      "AI Code Review Tools"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include 6 Fascinating Physics, AI Design Tools for Non-Designers, AI Code Review T",
+    "tools": [
+      {
+        "name": "6 Fascinating Physics",
+        "slug": "6-fascinating-physics",
+        "description": "Explore Capacitor Charge/Discharge Beyond the educational value, physics visualizations offer several practical insights for software engineers: Many physical phenomena map to software patterns. It is a perfect example of extracting information from wave behavior.</p> <p><a href=\"https://elysiatools.com/en/visualizations/doppler-effect\" rel=\"noopener noreferrer\">Explore Doppler Effect</a></p> <h2> 6.",
+        "summary": "Explore Capacitor Charge/Discharge Beyond the educational value, physics visualizations offer several practical insights for software engineers: Many physical phenomena map to software patterns. It is a perfect example of extracting information from wave behavior.</p> <p><a href=\"https://elysiatools.com/en/visualizations/doppler-effect\" rel=\"noopener noreferrer\">Explore Doppler Effect</a></p> <h2> 6.",
+        "link": "https://dev.to/elysiatools/6-fascinating-physics-visualizations-every-developer-should-explore-2904",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-18T06:33:55.000Z",
+        "keywords": [
+          "javascript",
+          "tools",
+          "webdev",
+          "physics",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for javascript",
+          "tools-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "Explore Capacitor Charge/Discharge Beyond the educational value, physics visualizations offer several practical insights for software engineers: Many physical phenomena map to software patterns.",
+          "Whether you are building simulations, teaching concepts, or just satisfying your curiosity, interactive visualizations transform complex equations into intuitive understanding.",
+          "With just two connected pendulums, you get motion that is impossible to predict long-term—sensitive to initial conditions in the most beautiful way."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Design Tools for Non-Designers",
+        "slug": "ai-design-tools-for-non-designers",
+        "description": "You jump straight into creating a social post, pick whatever colors look nice, use a random font, and end up with 30 assets that look like they came from 30 different companies.</p> <p>A brand kit solves this. This is a one-time investment that makes all your AI-generated content better.</li> <li> <strong>High-stakes external materials.</strong> Investor decks, product launch pages, trade show booths, annual reports.",
+        "summary": "You jump straight into creating a social post, pick whatever colors look nice, use a random font, and end up with 30 assets that look like they came from 30 different companies.</p> <p>A brand kit solves this. This is a one-time investment that makes all your AI-generated content better.</li> <li> <strong>High-stakes external materials.</strong> Investor decks, product launch pages, trade show booths, annual reports.",
+        "link": "https://dev.to/luca_bartoccini_ca5788e1e/ai-design-tools-for-non-designers-create-pro-visuals-fast-3lio",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-18T05:55:20.000Z",
+        "keywords": [
+          "tools",
+          "design",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "tools",
+          "design",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "design-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for design workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "You jump straight into creating a social post, pick whatever colors look nice, use a random font, and end up with 30 assets that look like they came from 30 different companies.",
+          "If you pick clashing colors, crowd the layout, and use five different fonts, the AI will faithfully produce a polished version of a bad design.</p> <p>The good news is that design taste is learnable.",
+          "AI remixes existing patterns — it does not invent new ones.</li> </ul> <p>The smartest approach: hire a designer to build your brand system — logo, colors, fonts, templates, and guidelines."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Code Review Tools",
+        "slug": "ai-code-review-tools",
+        "description": "Your team handles the thinking.</p> <p><em>Originally published on <a href=\"https://superdots.sh/blog/ai-code-review-tools/?utm_source=devto&amp;utm_medium=syndication\" rel=\"noopener noreferrer\">Superdots</a>.</em></p> Beyond known CVEs, AI tools spot insecure patterns — hardcoded secrets, SQL injection vectors, improper input validation — in the context of your specific application.",
+        "summary": "Your team handles the thinking.</p> <p><em>Originally published on <a href=\"https://superdots.sh/blog/ai-code-review-tools/?utm_source=devto&amp;utm_medium=syndication\" rel=\"noopener noreferrer\">Superdots</a>.</em></p> Beyond known CVEs, AI tools spot insecure patterns — hardcoded secrets, SQL injection vectors, improper input validation — in the context of your specific application.",
+        "link": "https://dev.to/luca_bartoccini_ca5788e1e/ai-code-review-tools-catch-bugs-before-your-team-does-3ndi",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-18T05:55:15.000Z",
+        "keywords": [
+          "tools",
+          "codereview",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "tools",
+          "codereview",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "codereview-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for codereview workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "Beyond known CVEs, AI tools spot insecure patterns — hardcoded secrets, SQL injection vectors, improper input validation — in the context of your specific application.",
+          "CodeRabbit runs 40+ linters and security scanners alongside its AI analysis, filtering out false positives (a critical feature — nobody wants to triage 50 noise alerts per PR).",
+          "CodeRabbit runs 40+ linters and security scanners alongside its AI analysis, filtering out false positives (a critical feature — nobody wants to triage 50 noise alerts per PR)."
+        ],
+        "pricing": "Paid plans starting at $10",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Switzerland Built an",
+        "slug": "switzerland-built-an",
+        "description": "Article URL: https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/ Comments URL: https://news.ycombinator.com/item?id=47421946 Points: 13 # Comments: 2",
+        "summary": "Article URL: https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/ Comments URL: https://news.ycombinator.com/item?id=47421946 Points: 13 # Comments: 2",
+        "link": "https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-18T05:44:23.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "SSH has no",
+        "slug": "ssh-has-no",
+        "description": "Article URL: https://blog.exe.dev/ssh-host-header Comments URL: https://news.ycombinator.com/item?id=47421828 Points: 50 # Comments: 35",
+        "summary": "Article URL: https://blog.exe.dev/ssh-host-header Comments URL: https://news.ycombinator.com/item?id=47421828 Points: 50 # Comments: 35",
+        "link": "https://blog.exe.dev/ssh-host-header",
+        "source": "Hacker News",
+        "isoDate": "2026-03-18T05:18:02.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-03-18T06:45:08.923Z",
+    "lastUpdated": "2026-03-18T06:45:08.923Z",
+    "visibleDate": "Mar 18, 2026",
+    "url": "pages/2026-03-18-064508923-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-03-18-064508923-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "6 Fascinating Physics",
+      "AI Design Tools for Non-Designers",
+      "AI Code Review Tools"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include 6 Fascinating Physics, AI Design Tools for Non-Designers, AI Code ",
+    "tools": [
+      {
+        "name": "6 Fascinating Physics",
+        "slug": "6-fascinating-physics",
+        "description": "Explore Capacitor Charge/Discharge Beyond the educational value, physics visualizations offer several practical insights for software engineers: Many physical phenomena map to software patterns. It is a perfect example of extracting information from wave behavior.</p> <p><a href=\"https://elysiatools.com/en/visualizations/doppler-effect\" rel=\"noopener noreferrer\">Explore Doppler Effect</a></p> <h2> 6.",
+        "summary": "Explore Capacitor Charge/Discharge Beyond the educational value, physics visualizations offer several practical insights for software engineers: Many physical phenomena map to software patterns. It is a perfect example of extracting information from wave behavior.</p> <p><a href=\"https://elysiatools.com/en/visualizations/doppler-effect\" rel=\"noopener noreferrer\">Explore Doppler Effect</a></p> <h2> 6.",
+        "link": "https://dev.to/elysiatools/6-fascinating-physics-visualizations-every-developer-should-explore-2904",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-18T06:33:55.000Z",
+        "keywords": [
+          "javascript",
+          "tools",
+          "webdev",
+          "physics",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for javascript",
+          "tools-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "Explore Capacitor Charge/Discharge Beyond the educational value, physics visualizations offer several practical insights for software engineers: Many physical phenomena map to software patterns.",
+          "Whether you are building simulations, teaching concepts, or just satisfying your curiosity, interactive visualizations transform complex equations into intuitive understanding.",
+          "With just two connected pendulums, you get motion that is impossible to predict long-term—sensitive to initial conditions in the most beautiful way."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Design Tools for Non-Designers",
+        "slug": "ai-design-tools-for-non-designers",
+        "description": "You jump straight into creating a social post, pick whatever colors look nice, use a random font, and end up with 30 assets that look like they came from 30 different companies.</p> <p>A brand kit solves this. This is a one-time investment that makes all your AI-generated content better.</li> <li> <strong>High-stakes external materials.</strong> Investor decks, product launch pages, trade show booths, annual reports.",
+        "summary": "You jump straight into creating a social post, pick whatever colors look nice, use a random font, and end up with 30 assets that look like they came from 30 different companies.</p> <p>A brand kit solves this. This is a one-time investment that makes all your AI-generated content better.</li> <li> <strong>High-stakes external materials.</strong> Investor decks, product launch pages, trade show booths, annual reports.",
+        "link": "https://dev.to/luca_bartoccini_ca5788e1e/ai-design-tools-for-non-designers-create-pro-visuals-fast-3lio",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-18T05:55:20.000Z",
+        "keywords": [
+          "tools",
+          "design",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "tools",
+          "design",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "design-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for design workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "You jump straight into creating a social post, pick whatever colors look nice, use a random font, and end up with 30 assets that look like they came from 30 different companies.",
+          "If you pick clashing colors, crowd the layout, and use five different fonts, the AI will faithfully produce a polished version of a bad design.</p> <p>The good news is that design taste is learnable.",
+          "AI remixes existing patterns — it does not invent new ones.</li> </ul> <p>The smartest approach: hire a designer to build your brand system — logo, colors, fonts, templates, and guidelines."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Code Review Tools",
+        "slug": "ai-code-review-tools",
+        "description": "Your team handles the thinking.</p> <p><em>Originally published on <a href=\"https://superdots.sh/blog/ai-code-review-tools/?utm_source=devto&amp;utm_medium=syndication\" rel=\"noopener noreferrer\">Superdots</a>.</em></p> Beyond known CVEs, AI tools spot insecure patterns — hardcoded secrets, SQL injection vectors, improper input validation — in the context of your specific application.",
+        "summary": "Your team handles the thinking.</p> <p><em>Originally published on <a href=\"https://superdots.sh/blog/ai-code-review-tools/?utm_source=devto&amp;utm_medium=syndication\" rel=\"noopener noreferrer\">Superdots</a>.</em></p> Beyond known CVEs, AI tools spot insecure patterns — hardcoded secrets, SQL injection vectors, improper input validation — in the context of your specific application.",
+        "link": "https://dev.to/luca_bartoccini_ca5788e1e/ai-code-review-tools-catch-bugs-before-your-team-does-3ndi",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-18T05:55:15.000Z",
+        "keywords": [
+          "tools",
+          "codereview",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "tools",
+          "codereview",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "codereview-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for codereview workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "Beyond known CVEs, AI tools spot insecure patterns — hardcoded secrets, SQL injection vectors, improper input validation — in the context of your specific application.",
+          "CodeRabbit runs 40+ linters and security scanners alongside its AI analysis, filtering out false positives (a critical feature — nobody wants to triage 50 noise alerts per PR).",
+          "CodeRabbit runs 40+ linters and security scanners alongside its AI analysis, filtering out false positives (a critical feature — nobody wants to triage 50 noise alerts per PR)."
+        ],
+        "pricing": "Paid plans starting at $10",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Switzerland Built an",
+        "slug": "switzerland-built-an",
+        "description": "Article URL: https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/ Comments URL: https://news.ycombinator.com/item?id=47421946 Points: 13 # Comments: 2",
+        "summary": "Article URL: https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/ Comments URL: https://news.ycombinator.com/item?id=47421946 Points: 13 # Comments: 2",
+        "link": "https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-18T05:44:23.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-03-18T06:45:08.923Z",
+    "lastUpdated": "2026-03-18T06:45:08.923Z",
+    "visibleDate": "Mar 18, 2026",
+    "url": "pages/2026-03-18-064508923-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-03-18-064508923-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "6 Fascinating Physics",
+      "AI Design Tools for Non-Designers"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include 6 Fascinating Physics, AI Design Tools for Non-De",
+    "tools": [
+      {
+        "name": "6 Fascinating Physics",
+        "slug": "6-fascinating-physics",
+        "description": "Explore Capacitor Charge/Discharge Beyond the educational value, physics visualizations offer several practical insights for software engineers: Many physical phenomena map to software patterns. It is a perfect example of extracting information from wave behavior.</p> <p><a href=\"https://elysiatools.com/en/visualizations/doppler-effect\" rel=\"noopener noreferrer\">Explore Doppler Effect</a></p> <h2> 6.",
+        "summary": "Explore Capacitor Charge/Discharge Beyond the educational value, physics visualizations offer several practical insights for software engineers: Many physical phenomena map to software patterns. It is a perfect example of extracting information from wave behavior.</p> <p><a href=\"https://elysiatools.com/en/visualizations/doppler-effect\" rel=\"noopener noreferrer\">Explore Doppler Effect</a></p> <h2> 6.",
+        "link": "https://dev.to/elysiatools/6-fascinating-physics-visualizations-every-developer-should-explore-2904",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-18T06:33:55.000Z",
+        "keywords": [
+          "javascript",
+          "tools",
+          "webdev",
+          "physics",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for javascript",
+          "tools-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "Explore Capacitor Charge/Discharge Beyond the educational value, physics visualizations offer several practical insights for software engineers: Many physical phenomena map to software patterns.",
+          "Whether you are building simulations, teaching concepts, or just satisfying your curiosity, interactive visualizations transform complex equations into intuitive understanding.",
+          "With just two connected pendulums, you get motion that is impossible to predict long-term—sensitive to initial conditions in the most beautiful way."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Design Tools for Non-Designers",
+        "slug": "ai-design-tools-for-non-designers",
+        "description": "You jump straight into creating a social post, pick whatever colors look nice, use a random font, and end up with 30 assets that look like they came from 30 different companies.</p> <p>A brand kit solves this. This is a one-time investment that makes all your AI-generated content better.</li> <li> <strong>High-stakes external materials.</strong> Investor decks, product launch pages, trade show booths, annual reports.",
+        "summary": "You jump straight into creating a social post, pick whatever colors look nice, use a random font, and end up with 30 assets that look like they came from 30 different companies.</p> <p>A brand kit solves this. This is a one-time investment that makes all your AI-generated content better.</li> <li> <strong>High-stakes external materials.</strong> Investor decks, product launch pages, trade show booths, annual reports.",
+        "link": "https://dev.to/luca_bartoccini_ca5788e1e/ai-design-tools-for-non-designers-create-pro-visuals-fast-3lio",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-18T05:55:20.000Z",
+        "keywords": [
+          "tools",
+          "design",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "tools",
+          "design",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "design-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for design workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "You jump straight into creating a social post, pick whatever colors look nice, use a random font, and end up with 30 assets that look like they came from 30 different companies.",
+          "If you pick clashing colors, crowd the layout, and use five different fonts, the AI will faithfully produce a polished version of a bad design.</p> <p>The good news is that design taste is learnable.",
+          "AI remixes existing patterns — it does not invent new ones.</li> </ul> <p>The smartest approach: hire a designer to build your brand system — logo, colors, fonts, templates, and guidelines."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-03-18T06:45:08.923Z",
+    "lastUpdated": "2026-03-18T06:45:08.923Z",
+    "visibleDate": "Mar 18, 2026",
+    "url": "pages/2026-03-18-064508923-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-03-18-064508923-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "6 Fascinating Physics",
+      "AI Design Tools for Non-Designers",
+      "AI Code Review Tools"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include 6 Fascinating Physics, AI Design Tools for Non-Designers, AI Code Review",
+    "tools": [
+      {
+        "name": "6 Fascinating Physics",
+        "slug": "6-fascinating-physics",
+        "description": "Explore Capacitor Charge/Discharge Beyond the educational value, physics visualizations offer several practical insights for software engineers: Many physical phenomena map to software patterns. It is a perfect example of extracting information from wave behavior.</p> <p><a href=\"https://elysiatools.com/en/visualizations/doppler-effect\" rel=\"noopener noreferrer\">Explore Doppler Effect</a></p> <h2> 6.",
+        "summary": "Explore Capacitor Charge/Discharge Beyond the educational value, physics visualizations offer several practical insights for software engineers: Many physical phenomena map to software patterns. It is a perfect example of extracting information from wave behavior.</p> <p><a href=\"https://elysiatools.com/en/visualizations/doppler-effect\" rel=\"noopener noreferrer\">Explore Doppler Effect</a></p> <h2> 6.",
+        "link": "https://dev.to/elysiatools/6-fascinating-physics-visualizations-every-developer-should-explore-2904",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-18T06:33:55.000Z",
+        "keywords": [
+          "javascript",
+          "tools",
+          "webdev",
+          "physics",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for javascript",
+          "tools-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "Explore Capacitor Charge/Discharge Beyond the educational value, physics visualizations offer several practical insights for software engineers: Many physical phenomena map to software patterns.",
+          "Whether you are building simulations, teaching concepts, or just satisfying your curiosity, interactive visualizations transform complex equations into intuitive understanding.",
+          "With just two connected pendulums, you get motion that is impossible to predict long-term—sensitive to initial conditions in the most beautiful way."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Design Tools for Non-Designers",
+        "slug": "ai-design-tools-for-non-designers",
+        "description": "You jump straight into creating a social post, pick whatever colors look nice, use a random font, and end up with 30 assets that look like they came from 30 different companies.</p> <p>A brand kit solves this. This is a one-time investment that makes all your AI-generated content better.</li> <li> <strong>High-stakes external materials.</strong> Investor decks, product launch pages, trade show booths, annual reports.",
+        "summary": "You jump straight into creating a social post, pick whatever colors look nice, use a random font, and end up with 30 assets that look like they came from 30 different companies.</p> <p>A brand kit solves this. This is a one-time investment that makes all your AI-generated content better.</li> <li> <strong>High-stakes external materials.</strong> Investor decks, product launch pages, trade show booths, annual reports.",
+        "link": "https://dev.to/luca_bartoccini_ca5788e1e/ai-design-tools-for-non-designers-create-pro-visuals-fast-3lio",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-18T05:55:20.000Z",
+        "keywords": [
+          "tools",
+          "design",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "tools",
+          "design",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "design-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for design workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "You jump straight into creating a social post, pick whatever colors look nice, use a random font, and end up with 30 assets that look like they came from 30 different companies.",
+          "If you pick clashing colors, crowd the layout, and use five different fonts, the AI will faithfully produce a polished version of a bad design.</p> <p>The good news is that design taste is learnable.",
+          "AI remixes existing patterns — it does not invent new ones.</li> </ul> <p>The smartest approach: hire a designer to build your brand system — logo, colors, fonts, templates, and guidelines."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Code Review Tools",
+        "slug": "ai-code-review-tools",
+        "description": "Your team handles the thinking.</p> <p><em>Originally published on <a href=\"https://superdots.sh/blog/ai-code-review-tools/?utm_source=devto&amp;utm_medium=syndication\" rel=\"noopener noreferrer\">Superdots</a>.</em></p> Beyond known CVEs, AI tools spot insecure patterns — hardcoded secrets, SQL injection vectors, improper input validation — in the context of your specific application.",
+        "summary": "Your team handles the thinking.</p> <p><em>Originally published on <a href=\"https://superdots.sh/blog/ai-code-review-tools/?utm_source=devto&amp;utm_medium=syndication\" rel=\"noopener noreferrer\">Superdots</a>.</em></p> Beyond known CVEs, AI tools spot insecure patterns — hardcoded secrets, SQL injection vectors, improper input validation — in the context of your specific application.",
+        "link": "https://dev.to/luca_bartoccini_ca5788e1e/ai-code-review-tools-catch-bugs-before-your-team-does-3ndi",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-18T05:55:15.000Z",
+        "keywords": [
+          "tools",
+          "codereview",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "tools",
+          "codereview",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "codereview-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for codereview workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "Beyond known CVEs, AI tools spot insecure patterns — hardcoded secrets, SQL injection vectors, improper input validation — in the context of your specific application.",
+          "CodeRabbit runs 40+ linters and security scanners alongside its AI analysis, filtering out false positives (a critical feature — nobody wants to triage 50 noise alerts per PR).",
+          "CodeRabbit runs 40+ linters and security scanners alongside its AI analysis, filtering out false positives (a critical feature — nobody wants to triage 50 noise alerts per PR)."
+        ],
+        "pricing": "Paid plans starting at $10",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-03-17T06:45:53.181Z",
     "lastUpdated": "2026-03-17T06:45:53.181Z",
     "visibleDate": "Mar 17, 2026",

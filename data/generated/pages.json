@@ -7,6 +7,674 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-03-21T06:26:32.816Z",
+    "lastUpdated": "2026-03-21T06:26:32.816Z",
+    "visibleDate": "Mar 21, 2026",
+    "url": "pages/2026-03-21-062632816-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-03-21-062632816-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "我收藏的开发者资源",
+      "PageBolt vs ScreenshotOne vs Urlbox",
+      "Israel and Weapons"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include 我收藏的开发者资源, PageBolt vs ScreenshotOne vs Urlbox, Israel and Weapons. Produc",
+    "tools": [
+      {
+        "name": "我收藏的开发者资源",
+        "slug": "",
+        "description": "MDN Web Docs </h2> <p>Web开发文档</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3. Dev.to </h2> <p>开发者社区（就是这里！）</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2.",
+        "summary": "MDN Web Docs </h2> <p>Web开发文档</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3. Dev.to </h2> <p>开发者社区（就是这里！）</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2.",
+        "link": "https://dev.to/maquankun/wo-shou-cang-de-kai-fa-zhe-zi-yuan-4dlc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-21T06:00:03.000Z",
+        "keywords": [
+          "developer",
+          "resources",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "developer",
+          "resources",
+          "programming"
+        ],
+        "pros": [
+          "Great for developer",
+          "resources-ready automation",
+          "Great for developer"
+        ],
+        "cons": [
+          "Overkill for developer experiments",
+          "Needs extra setup for resources workflows",
+          "Overkill for developer experiments"
+        ],
+        "highlights": [
+          "MDN Web Docs </h2> <p>Web开发文档</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3.",
+          "Dev.to </h2> <p>开发者社区（就是这里！）</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "PageBolt vs ScreenshotOne vs Urlbox",
+        "slug": "pagebolt-vs-screenshotone-vs-urlbox",
+        "description": "Try all three on your actual use case, then decide.</p> <p><a href=\"https://pagebolt.dev/pricing\" rel=\"noopener noreferrer\">Start PageBolt free</a> — 100 screenshots/month, no credit card.</p> PageBolt is newer (launched 2026) but runs on Hetzner with Docker and has been stable since launch.</p> <p>If you need a years-long reliability track record, ScreenshotOne or Urlbox have the edge.",
+        "summary": "Try all three on your actual use case, then decide.</p> <p><a href=\"https://pagebolt.dev/pricing\" rel=\"noopener noreferrer\">Start PageBolt free</a> — 100 screenshots/month, no credit card.</p> PageBolt is newer (launched 2026) but runs on Hetzner with Docker and has been stable since launch.</p> <p>If you need a years-long reliability track record, ScreenshotOne or Urlbox have the edge.",
+        "link": "https://dev.to/custodiaadmin/pagebolt-vs-screenshotone-vs-urlbox-which-screenshot-api-should-you-use-in-2026-4dh0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-21T05:10:30.000Z",
+        "keywords": [
+          "screenshot",
+          "api",
+          "comparison",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "screenshot",
+          "api",
+          "comparison"
+        ],
+        "pros": [
+          "Great for screenshot",
+          "api-ready automation",
+          "Great for screenshot"
+        ],
+        "cons": [
+          "Overkill for screenshot experiments",
+          "Needs extra setup for api workflows",
+          "Overkill for screenshot experiments"
+        ],
+        "highlights": [
+          "Try all three on your actual use case, then decide.</p> <p><a href=\"https://pagebolt.dev/pricing\" rel=\"noopener noreferrer\">Start PageBolt free</a> — 100 screenshots/month, no credit card.</p>",
+          "PageBolt is newer (launched 2026) but runs on Hetzner with Docker and has been stable since launch.</p> <p>If you need a years-long reliability track record, ScreenshotOne or Urlbox have the edge.",
+          "ScreenshotOne and Urlbox are mature services (2020 and 2015 respectively) with established uptime records."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Israel and Weapons",
+        "slug": "israel-and-weapons",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Israel_and_weapons_of_mass_destruction Comments URL: https://news.ycombinator.com/item?id=47464127 Points: 10 # Comments: 1",
+        "summary": "Article URL: https://en.wikipedia.org/wiki/Israel_and_weapons_of_mass_destruction Comments URL: https://news.ycombinator.com/item?id=47464127 Points: 10 # Comments: 1",
+        "link": "https://en.wikipedia.org/wiki/Israel_and_weapons_of_mass_destruction",
+        "source": "Hacker News",
+        "isoDate": "2026-03-21T05:04:02.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "7 Best Semgrep",
+        "slug": "7-best-semgrep",
+        "description": "Automated mapping to compliance frameworks (PCI DSS, HIPAA, SOC 2, ISO 27001, OWASP ASVS), audit-ready reports, trending dashboards, and policy enforcement across the enterprise are mature and well-regarded by auditors. Automated mapping to compliance frameworks (PCI DSS, HIPAA, SOC 2, ISO 27001, OWASP ASVS), audit-ready reports, trending dashboards, and policy enforcement across the enterprise are mature and well-regarded by auditors.",
+        "summary": "Automated mapping to compliance frameworks (PCI DSS, HIPAA, SOC 2, ISO 27001, OWASP ASVS), audit-ready reports, trending dashboards, and policy enforcement across the enterprise are mature and well-regarded by auditors. Automated mapping to compliance frameworks (PCI DSS, HIPAA, SOC 2, ISO 27001, OWASP ASVS), audit-ready reports, trending dashboards, and policy enforcement across the enterprise are mature and well-regarded by auditors.",
+        "link": "https://dev.to/rahulxsingh/7-best-semgrep-alternatives-for-code-security-scanning-in-2026-21pi",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-21T04:00:00.000Z",
+        "keywords": [
+          "codereview",
+          "ai",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "codereview",
+          "ai",
+          "programming"
+        ],
+        "pros": [
+          "Great for codereview",
+          "ai-ready automation",
+          "Great for codereview"
+        ],
+        "cons": [
+          "Overkill for codereview experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for codereview experiments"
+        ],
+        "highlights": [
+          "Checkmarx offers deeper cross-file taint analysis, broader compliance reporting (PCI DSS, HIPAA, SOC 2), and combined SAST/DAST/SCA/API security in a single enterprise platform.",
+          "</h3> <p>Checkmarx offers deeper cross-file taint analysis, broader compliance reporting (PCI DSS, HIPAA, SOC 2), and combined SAST/DAST/SCA/API security in a single enterprise platform.",
+          "Newer tools like Snyk Code and CodeRabbit use machine learning to detect vulnerability patterns that rule-based systems miss, particularly in novel code patterns and complex data flows."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built an",
+        "slug": "i-built-an",
+        "description": "Employed people (PAYE only) Self-employed with income under £50k Landlords with rental income under £50k People with combined income under £50k If you're under the threshold, you're safe for now. Points reset if you stay compliant.</p> <p><strong>Free software exists.</strong> HMRC has a free bridging tool.",
+        "summary": "Employed people (PAYE only) Self-employed with income under £50k Landlords with rental income under £50k People with combined income under £50k If you're under the threshold, you're safe for now. Points reset if you stay compliant.</p> <p><strong>Free software exists.</strong> HMRC has a free bridging tool.",
+        "link": "https://dev.to/landolio/i-built-an-mtd-readiness-kit-because-hmrcs-guidance-is-unusable-5e4l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-21T03:20:58.000Z",
+        "keywords": [
+          "freelancing",
+          "tax",
+          "uk",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "freelancing",
+          "tax",
+          "uk"
+        ],
+        "pros": [
+          "Great for freelancing",
+          "tax-ready automation",
+          "Great for freelancing"
+        ],
+        "cons": [
+          "Overkill for freelancing experiments",
+          "Needs extra setup for tax workflows",
+          "Overkill for freelancing experiments"
+        ],
+        "highlights": [
+          "Employed people (PAYE only) Self-employed with income under £50k Landlords with rental income under £50k People with combined income under £50k If you're under the threshold, you're safe for now.",
+          "So I built a 2-minute MTD Readiness Checker that asks you 8 questions and gives you a personalised action plan.",
+          "Points reset if you stay compliant.</p> <p><strong>Free software exists.</strong> HMRC has a free bridging tool."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-03-21T06:26:32.816Z",
+    "lastUpdated": "2026-03-21T06:26:32.816Z",
+    "visibleDate": "Mar 21, 2026",
+    "url": "pages/2026-03-21-062632816-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-03-21-062632816-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "我收藏的开发者资源",
+      "PageBolt vs ScreenshotOne vs Urlbox",
+      "Israel and Weapons"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include 我收藏的开发者资源, PageBolt vs ScreenshotOne vs Urlbox, Israel and Weapons",
+    "tools": [
+      {
+        "name": "我收藏的开发者资源",
+        "slug": "",
+        "description": "MDN Web Docs </h2> <p>Web开发文档</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3. Dev.to </h2> <p>开发者社区（就是这里！）</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2.",
+        "summary": "MDN Web Docs </h2> <p>Web开发文档</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3. Dev.to </h2> <p>开发者社区（就是这里！）</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2.",
+        "link": "https://dev.to/maquankun/wo-shou-cang-de-kai-fa-zhe-zi-yuan-4dlc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-21T06:00:03.000Z",
+        "keywords": [
+          "developer",
+          "resources",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "developer",
+          "resources",
+          "programming"
+        ],
+        "pros": [
+          "Great for developer",
+          "resources-ready automation",
+          "Great for developer"
+        ],
+        "cons": [
+          "Overkill for developer experiments",
+          "Needs extra setup for resources workflows",
+          "Overkill for developer experiments"
+        ],
+        "highlights": [
+          "MDN Web Docs </h2> <p>Web开发文档</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3.",
+          "Dev.to </h2> <p>开发者社区（就是这里！）</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "PageBolt vs ScreenshotOne vs Urlbox",
+        "slug": "pagebolt-vs-screenshotone-vs-urlbox",
+        "description": "Try all three on your actual use case, then decide.</p> <p><a href=\"https://pagebolt.dev/pricing\" rel=\"noopener noreferrer\">Start PageBolt free</a> — 100 screenshots/month, no credit card.</p> PageBolt is newer (launched 2026) but runs on Hetzner with Docker and has been stable since launch.</p> <p>If you need a years-long reliability track record, ScreenshotOne or Urlbox have the edge.",
+        "summary": "Try all three on your actual use case, then decide.</p> <p><a href=\"https://pagebolt.dev/pricing\" rel=\"noopener noreferrer\">Start PageBolt free</a> — 100 screenshots/month, no credit card.</p> PageBolt is newer (launched 2026) but runs on Hetzner with Docker and has been stable since launch.</p> <p>If you need a years-long reliability track record, ScreenshotOne or Urlbox have the edge.",
+        "link": "https://dev.to/custodiaadmin/pagebolt-vs-screenshotone-vs-urlbox-which-screenshot-api-should-you-use-in-2026-4dh0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-21T05:10:30.000Z",
+        "keywords": [
+          "screenshot",
+          "api",
+          "comparison",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "screenshot",
+          "api",
+          "comparison"
+        ],
+        "pros": [
+          "Great for screenshot",
+          "api-ready automation",
+          "Great for screenshot"
+        ],
+        "cons": [
+          "Overkill for screenshot experiments",
+          "Needs extra setup for api workflows",
+          "Overkill for screenshot experiments"
+        ],
+        "highlights": [
+          "Try all three on your actual use case, then decide.</p> <p><a href=\"https://pagebolt.dev/pricing\" rel=\"noopener noreferrer\">Start PageBolt free</a> — 100 screenshots/month, no credit card.</p>",
+          "PageBolt is newer (launched 2026) but runs on Hetzner with Docker and has been stable since launch.</p> <p>If you need a years-long reliability track record, ScreenshotOne or Urlbox have the edge.",
+          "ScreenshotOne and Urlbox are mature services (2020 and 2015 respectively) with established uptime records."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Israel and Weapons",
+        "slug": "israel-and-weapons",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Israel_and_weapons_of_mass_destruction Comments URL: https://news.ycombinator.com/item?id=47464127 Points: 10 # Comments: 1",
+        "summary": "Article URL: https://en.wikipedia.org/wiki/Israel_and_weapons_of_mass_destruction Comments URL: https://news.ycombinator.com/item?id=47464127 Points: 10 # Comments: 1",
+        "link": "https://en.wikipedia.org/wiki/Israel_and_weapons_of_mass_destruction",
+        "source": "Hacker News",
+        "isoDate": "2026-03-21T05:04:02.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "7 Best Semgrep",
+        "slug": "7-best-semgrep",
+        "description": "Automated mapping to compliance frameworks (PCI DSS, HIPAA, SOC 2, ISO 27001, OWASP ASVS), audit-ready reports, trending dashboards, and policy enforcement across the enterprise are mature and well-regarded by auditors. Automated mapping to compliance frameworks (PCI DSS, HIPAA, SOC 2, ISO 27001, OWASP ASVS), audit-ready reports, trending dashboards, and policy enforcement across the enterprise are mature and well-regarded by auditors.",
+        "summary": "Automated mapping to compliance frameworks (PCI DSS, HIPAA, SOC 2, ISO 27001, OWASP ASVS), audit-ready reports, trending dashboards, and policy enforcement across the enterprise are mature and well-regarded by auditors. Automated mapping to compliance frameworks (PCI DSS, HIPAA, SOC 2, ISO 27001, OWASP ASVS), audit-ready reports, trending dashboards, and policy enforcement across the enterprise are mature and well-regarded by auditors.",
+        "link": "https://dev.to/rahulxsingh/7-best-semgrep-alternatives-for-code-security-scanning-in-2026-21pi",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-21T04:00:00.000Z",
+        "keywords": [
+          "codereview",
+          "ai",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "codereview",
+          "ai",
+          "programming"
+        ],
+        "pros": [
+          "Great for codereview",
+          "ai-ready automation",
+          "Great for codereview"
+        ],
+        "cons": [
+          "Overkill for codereview experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for codereview experiments"
+        ],
+        "highlights": [
+          "Checkmarx offers deeper cross-file taint analysis, broader compliance reporting (PCI DSS, HIPAA, SOC 2), and combined SAST/DAST/SCA/API security in a single enterprise platform.",
+          "</h3> <p>Checkmarx offers deeper cross-file taint analysis, broader compliance reporting (PCI DSS, HIPAA, SOC 2), and combined SAST/DAST/SCA/API security in a single enterprise platform.",
+          "Newer tools like Snyk Code and CodeRabbit use machine learning to detect vulnerability patterns that rule-based systems miss, particularly in novel code patterns and complex data flows."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-03-21T06:26:32.816Z",
+    "lastUpdated": "2026-03-21T06:26:32.816Z",
+    "visibleDate": "Mar 21, 2026",
+    "url": "pages/2026-03-21-062632816-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-03-21-062632816-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "我收藏的开发者资源",
+      "PageBolt vs ScreenshotOne vs Urlbox"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include 我收藏的开发者资源, PageBolt vs ScreenshotOne vs Urlbox. G",
+    "tools": [
+      {
+        "name": "我收藏的开发者资源",
+        "slug": "",
+        "description": "MDN Web Docs </h2> <p>Web开发文档</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3. Dev.to </h2> <p>开发者社区（就是这里！）</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2.",
+        "summary": "MDN Web Docs </h2> <p>Web开发文档</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3. Dev.to </h2> <p>开发者社区（就是这里！）</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2.",
+        "link": "https://dev.to/maquankun/wo-shou-cang-de-kai-fa-zhe-zi-yuan-4dlc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-21T06:00:03.000Z",
+        "keywords": [
+          "developer",
+          "resources",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "developer",
+          "resources",
+          "programming"
+        ],
+        "pros": [
+          "Great for developer",
+          "resources-ready automation",
+          "Great for developer"
+        ],
+        "cons": [
+          "Overkill for developer experiments",
+          "Needs extra setup for resources workflows",
+          "Overkill for developer experiments"
+        ],
+        "highlights": [
+          "MDN Web Docs </h2> <p>Web开发文档</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3.",
+          "Dev.to </h2> <p>开发者社区（就是这里！）</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "PageBolt vs ScreenshotOne vs Urlbox",
+        "slug": "pagebolt-vs-screenshotone-vs-urlbox",
+        "description": "Try all three on your actual use case, then decide.</p> <p><a href=\"https://pagebolt.dev/pricing\" rel=\"noopener noreferrer\">Start PageBolt free</a> — 100 screenshots/month, no credit card.</p> PageBolt is newer (launched 2026) but runs on Hetzner with Docker and has been stable since launch.</p> <p>If you need a years-long reliability track record, ScreenshotOne or Urlbox have the edge.",
+        "summary": "Try all three on your actual use case, then decide.</p> <p><a href=\"https://pagebolt.dev/pricing\" rel=\"noopener noreferrer\">Start PageBolt free</a> — 100 screenshots/month, no credit card.</p> PageBolt is newer (launched 2026) but runs on Hetzner with Docker and has been stable since launch.</p> <p>If you need a years-long reliability track record, ScreenshotOne or Urlbox have the edge.",
+        "link": "https://dev.to/custodiaadmin/pagebolt-vs-screenshotone-vs-urlbox-which-screenshot-api-should-you-use-in-2026-4dh0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-21T05:10:30.000Z",
+        "keywords": [
+          "screenshot",
+          "api",
+          "comparison",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "screenshot",
+          "api",
+          "comparison"
+        ],
+        "pros": [
+          "Great for screenshot",
+          "api-ready automation",
+          "Great for screenshot"
+        ],
+        "cons": [
+          "Overkill for screenshot experiments",
+          "Needs extra setup for api workflows",
+          "Overkill for screenshot experiments"
+        ],
+        "highlights": [
+          "Try all three on your actual use case, then decide.</p> <p><a href=\"https://pagebolt.dev/pricing\" rel=\"noopener noreferrer\">Start PageBolt free</a> — 100 screenshots/month, no credit card.</p>",
+          "PageBolt is newer (launched 2026) but runs on Hetzner with Docker and has been stable since launch.</p> <p>If you need a years-long reliability track record, ScreenshotOne or Urlbox have the edge.",
+          "ScreenshotOne and Urlbox are mature services (2020 and 2015 respectively) with established uptime records."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-03-21T06:26:32.816Z",
+    "lastUpdated": "2026-03-21T06:26:32.816Z",
+    "visibleDate": "Mar 21, 2026",
+    "url": "pages/2026-03-21-062632816-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-03-21-062632816-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "我收藏的开发者资源",
+      "PageBolt vs ScreenshotOne vs Urlbox",
+      "Israel and Weapons"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include 我收藏的开发者资源, PageBolt vs ScreenshotOne vs Urlbox, Israel and Weapons. New ",
+    "tools": [
+      {
+        "name": "我收藏的开发者资源",
+        "slug": "",
+        "description": "MDN Web Docs </h2> <p>Web开发文档</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3. Dev.to </h2> <p>开发者社区（就是这里！）</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2.",
+        "summary": "MDN Web Docs </h2> <p>Web开发文档</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3. Dev.to </h2> <p>开发者社区（就是这里！）</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2.",
+        "link": "https://dev.to/maquankun/wo-shou-cang-de-kai-fa-zhe-zi-yuan-4dlc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-21T06:00:03.000Z",
+        "keywords": [
+          "developer",
+          "resources",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "developer",
+          "resources",
+          "programming"
+        ],
+        "pros": [
+          "Great for developer",
+          "resources-ready automation",
+          "Great for developer"
+        ],
+        "cons": [
+          "Overkill for developer experiments",
+          "Needs extra setup for resources workflows",
+          "Overkill for developer experiments"
+        ],
+        "highlights": [
+          "MDN Web Docs </h2> <p>Web开发文档</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3.",
+          "Dev.to </h2> <p>开发者社区（就是这里！）</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "PageBolt vs ScreenshotOne vs Urlbox",
+        "slug": "pagebolt-vs-screenshotone-vs-urlbox",
+        "description": "Try all three on your actual use case, then decide.</p> <p><a href=\"https://pagebolt.dev/pricing\" rel=\"noopener noreferrer\">Start PageBolt free</a> — 100 screenshots/month, no credit card.</p> PageBolt is newer (launched 2026) but runs on Hetzner with Docker and has been stable since launch.</p> <p>If you need a years-long reliability track record, ScreenshotOne or Urlbox have the edge.",
+        "summary": "Try all three on your actual use case, then decide.</p> <p><a href=\"https://pagebolt.dev/pricing\" rel=\"noopener noreferrer\">Start PageBolt free</a> — 100 screenshots/month, no credit card.</p> PageBolt is newer (launched 2026) but runs on Hetzner with Docker and has been stable since launch.</p> <p>If you need a years-long reliability track record, ScreenshotOne or Urlbox have the edge.",
+        "link": "https://dev.to/custodiaadmin/pagebolt-vs-screenshotone-vs-urlbox-which-screenshot-api-should-you-use-in-2026-4dh0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-21T05:10:30.000Z",
+        "keywords": [
+          "screenshot",
+          "api",
+          "comparison",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "screenshot",
+          "api",
+          "comparison"
+        ],
+        "pros": [
+          "Great for screenshot",
+          "api-ready automation",
+          "Great for screenshot"
+        ],
+        "cons": [
+          "Overkill for screenshot experiments",
+          "Needs extra setup for api workflows",
+          "Overkill for screenshot experiments"
+        ],
+        "highlights": [
+          "Try all three on your actual use case, then decide.</p> <p><a href=\"https://pagebolt.dev/pricing\" rel=\"noopener noreferrer\">Start PageBolt free</a> — 100 screenshots/month, no credit card.</p>",
+          "PageBolt is newer (launched 2026) but runs on Hetzner with Docker and has been stable since launch.</p> <p>If you need a years-long reliability track record, ScreenshotOne or Urlbox have the edge.",
+          "ScreenshotOne and Urlbox are mature services (2020 and 2015 respectively) with established uptime records."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Israel and Weapons",
+        "slug": "israel-and-weapons",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Israel_and_weapons_of_mass_destruction Comments URL: https://news.ycombinator.com/item?id=47464127 Points: 10 # Comments: 1",
+        "summary": "Article URL: https://en.wikipedia.org/wiki/Israel_and_weapons_of_mass_destruction Comments URL: https://news.ycombinator.com/item?id=47464127 Points: 10 # Comments: 1",
+        "link": "https://en.wikipedia.org/wiki/Israel_and_weapons_of_mass_destruction",
+        "source": "Hacker News",
+        "isoDate": "2026-03-21T05:04:02.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-03-20T06:37:12.609Z",
     "lastUpdated": "2026-03-20T06:37:12.609Z",
     "visibleDate": "Mar 20, 2026",

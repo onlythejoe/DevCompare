@@ -7,6 +7,655 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-03-22T06:34:13.767Z",
+    "lastUpdated": "2026-03-22T06:34:13.767Z",
+    "visibleDate": "Mar 22, 2026",
+    "url": "pages/2026-03-22-063413767-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-03-22-063413767-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to Build",
+      "Sashiko",
+      "Cloudflare flags archive.today"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include How to Build, Sashiko, Cloudflare flags archive.today. Productivity stacks",
+    "tools": [
+      {
+        "name": "How to Build",
+        "slug": "how-to-build",
+        "description": "Every Sunday, spend 5 minutes on your Notion dashboard: Archive completed tasks Set priorities for the week (add a ⭐ tag) Update project statuses Clear the brain dump section That's it. Every good Notion dashboard has three zones: 📋 Tasks — What needs to happen today/this week 📁 Projects — Everything you're working on 🗓️ Calendar — Deadlines and appointments Create a new database for each.",
+        "summary": "Every Sunday, spend 5 minutes on your Notion dashboard: Archive completed tasks Set priorities for the week (add a ⭐ tag) Update project statuses Clear the brain dump section That's it. Every good Notion dashboard has three zones: 📋 Tasks — What needs to happen today/this week 📁 Projects — Everything you're working on 🗓️ Calendar — Deadlines and appointments Create a new database for each.",
+        "link": "https://dev.to/ottoaria/how-to-build-your-first-notion-dashboard-even-if-youve-never-used-it-434j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-22T04:48:54.000Z",
+        "keywords": [
+          "notion",
+          "productivity",
+          "beginners",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "notion",
+          "productivity",
+          "beginners"
+        ],
+        "pros": [
+          "Great for notion",
+          "productivity-ready automation",
+          "Great for notion"
+        ],
+        "cons": [
+          "Overkill for notion experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for notion experiments"
+        ],
+        "highlights": [
+          "Every Sunday, spend 5 minutes on your Notion dashboard: Archive completed tasks Set priorities for the week (add a ⭐ tag) Update project statuses Clear the brain dump section That's it.",
+          "Here's the exact system I built to go from \"blank page panic\" to a dashboard I actually use every single day.</p> <h2> Why Notion Feels Overwhelming at First </h2> <p>Notion is not an app.",
+          "I built a complete Freelancer OS Notion template that includes everything above — plus a CRM for clients, an income tracker, a content calendar, and more."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Sashiko",
+        "slug": "sashiko",
+        "description": "Article URL: https://sashiko.dev/ Comments URL: https://news.ycombinator.com/item?id=47474323 Points: 8 # Comments: 0",
+        "summary": "Article URL: https://sashiko.dev/ Comments URL: https://news.ycombinator.com/item?id=47474323 Points: 8 # Comments: 0",
+        "link": "https://sashiko.dev/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-22T03:59:46.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Cloudflare flags archive.today",
+        "slug": "cloudflare-flags-archive-today",
+        "description": "Article URL: https://radar.cloudflare.com/domains/domain/archive.today Comments URL: https://news.ycombinator.com/item?id=47474255 Points: 57 # Comments: 19",
+        "summary": "Article URL: https://radar.cloudflare.com/domains/domain/archive.today Comments URL: https://news.ycombinator.com/item?id=47474255 Points: 57 # Comments: 19",
+        "link": "https://radar.cloudflare.com/domains/domain/archive.today",
+        "source": "Hacker News",
+        "isoDate": "2026-03-22T03:43:51.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Alpha Micro AM-1000E",
+        "slug": "alpha-micro-am-1000e",
+        "description": "Article URL: http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html Comments URL: https://news.ycombinator.com/item?id=47474236 Points: 7 # Comments: 0",
+        "summary": "Article URL: http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html Comments URL: https://news.ycombinator.com/item?id=47474236 Points: 7 # Comments: 0",
+        "link": "http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html",
+        "source": "Hacker News",
+        "isoDate": "2026-03-22T03:38:10.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Die besten AI",
+        "slug": "die-besten-ai",
+        "description": "Ein Tool das dreimal am Tag abstürzt oder plötzlich seine API ändert, hilft dir als Nomad nicht — egal wie beeindruckend die Demo war.</p> <p>Außerdem: Kein AI-Tool ersetzt Können. Und wenn ich um 23 Uhr auf Koh Phangan eine Kundenanfrage auf Englisch beantworten muss, hilft Claude mir, meine Gedanken klar zu formulieren.</p> <p><strong>Preis:</strong> Free-Tier verfügbar.",
+        "summary": "Ein Tool das dreimal am Tag abstürzt oder plötzlich seine API ändert, hilft dir als Nomad nicht — egal wie beeindruckend die Demo war.</p> <p>Außerdem: Kein AI-Tool ersetzt Können. Und wenn ich um 23 Uhr auf Koh Phangan eine Kundenanfrage auf Englisch beantworten muss, hilft Claude mir, meine Gedanken klar zu formulieren.</p> <p><strong>Preis:</strong> Free-Tier verfügbar.",
+        "link": "https://dev.to/beachmoneyteam/die-besten-ai-tools-fuer-digital-nomads-2026-1859",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-22T02:37:49.000Z",
+        "keywords": [
+          "ai",
+          "digitalnomad",
+          "remotework",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "digitalnomad",
+          "remotework"
+        ],
+        "pros": [
+          "Great for ai",
+          "digitalnomad-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for digitalnomad workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Ein Tool das dreimal am Tag abstürzt oder plötzlich seine API ändert, hilft dir als Nomad nicht — egal wie beeindruckend die Demo war.</p> <p>Außerdem: Kein AI-Tool ersetzt Können.",
+          "Und wenn ich um 23 Uhr auf Koh Phangan eine Kundenanfrage auf Englisch beantworten muss, hilft Claude mir, meine Gedanken klar zu formulieren.</p> <p><strong>Preis:</strong> Free-Tier verfügbar.",
+          "Vor zwei Jahren habe ich angefangen, verschiedene KI-Tools im Alltag zu testen — und bin bei einer Handvoll hängengeblieben, die mir tatsächlich Zeit und Nerven sparen."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-03-22T06:34:13.767Z",
+    "lastUpdated": "2026-03-22T06:34:13.767Z",
+    "visibleDate": "Mar 22, 2026",
+    "url": "pages/2026-03-22-063413767-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-03-22-063413767-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to Build",
+      "Sashiko",
+      "Cloudflare flags archive.today"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include How to Build, Sashiko, Cloudflare flags archive.today. Reliable re",
+    "tools": [
+      {
+        "name": "How to Build",
+        "slug": "how-to-build",
+        "description": "Every Sunday, spend 5 minutes on your Notion dashboard: Archive completed tasks Set priorities for the week (add a ⭐ tag) Update project statuses Clear the brain dump section That's it. Every good Notion dashboard has three zones: 📋 Tasks — What needs to happen today/this week 📁 Projects — Everything you're working on 🗓️ Calendar — Deadlines and appointments Create a new database for each.",
+        "summary": "Every Sunday, spend 5 minutes on your Notion dashboard: Archive completed tasks Set priorities for the week (add a ⭐ tag) Update project statuses Clear the brain dump section That's it. Every good Notion dashboard has three zones: 📋 Tasks — What needs to happen today/this week 📁 Projects — Everything you're working on 🗓️ Calendar — Deadlines and appointments Create a new database for each.",
+        "link": "https://dev.to/ottoaria/how-to-build-your-first-notion-dashboard-even-if-youve-never-used-it-434j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-22T04:48:54.000Z",
+        "keywords": [
+          "notion",
+          "productivity",
+          "beginners",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "notion",
+          "productivity",
+          "beginners"
+        ],
+        "pros": [
+          "Great for notion",
+          "productivity-ready automation",
+          "Great for notion"
+        ],
+        "cons": [
+          "Overkill for notion experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for notion experiments"
+        ],
+        "highlights": [
+          "Every Sunday, spend 5 minutes on your Notion dashboard: Archive completed tasks Set priorities for the week (add a ⭐ tag) Update project statuses Clear the brain dump section That's it.",
+          "Here's the exact system I built to go from \"blank page panic\" to a dashboard I actually use every single day.</p> <h2> Why Notion Feels Overwhelming at First </h2> <p>Notion is not an app.",
+          "I built a complete Freelancer OS Notion template that includes everything above — plus a CRM for clients, an income tracker, a content calendar, and more."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Sashiko",
+        "slug": "sashiko",
+        "description": "Article URL: https://sashiko.dev/ Comments URL: https://news.ycombinator.com/item?id=47474323 Points: 8 # Comments: 0",
+        "summary": "Article URL: https://sashiko.dev/ Comments URL: https://news.ycombinator.com/item?id=47474323 Points: 8 # Comments: 0",
+        "link": "https://sashiko.dev/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-22T03:59:46.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Cloudflare flags archive.today",
+        "slug": "cloudflare-flags-archive-today",
+        "description": "Article URL: https://radar.cloudflare.com/domains/domain/archive.today Comments URL: https://news.ycombinator.com/item?id=47474255 Points: 57 # Comments: 19",
+        "summary": "Article URL: https://radar.cloudflare.com/domains/domain/archive.today Comments URL: https://news.ycombinator.com/item?id=47474255 Points: 57 # Comments: 19",
+        "link": "https://radar.cloudflare.com/domains/domain/archive.today",
+        "source": "Hacker News",
+        "isoDate": "2026-03-22T03:43:51.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Alpha Micro AM-1000E",
+        "slug": "alpha-micro-am-1000e",
+        "description": "Article URL: http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html Comments URL: https://news.ycombinator.com/item?id=47474236 Points: 7 # Comments: 0",
+        "summary": "Article URL: http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html Comments URL: https://news.ycombinator.com/item?id=47474236 Points: 7 # Comments: 0",
+        "link": "http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html",
+        "source": "Hacker News",
+        "isoDate": "2026-03-22T03:38:10.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-03-22T06:34:13.767Z",
+    "lastUpdated": "2026-03-22T06:34:13.767Z",
+    "visibleDate": "Mar 22, 2026",
+    "url": "pages/2026-03-22-063413767-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-03-22-063413767-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to Build",
+      "Sashiko"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include How to Build, Sashiko. Gitpod brings zero-config ",
+    "tools": [
+      {
+        "name": "How to Build",
+        "slug": "how-to-build",
+        "description": "Every Sunday, spend 5 minutes on your Notion dashboard: Archive completed tasks Set priorities for the week (add a ⭐ tag) Update project statuses Clear the brain dump section That's it. Every good Notion dashboard has three zones: 📋 Tasks — What needs to happen today/this week 📁 Projects — Everything you're working on 🗓️ Calendar — Deadlines and appointments Create a new database for each.",
+        "summary": "Every Sunday, spend 5 minutes on your Notion dashboard: Archive completed tasks Set priorities for the week (add a ⭐ tag) Update project statuses Clear the brain dump section That's it. Every good Notion dashboard has three zones: 📋 Tasks — What needs to happen today/this week 📁 Projects — Everything you're working on 🗓️ Calendar — Deadlines and appointments Create a new database for each.",
+        "link": "https://dev.to/ottoaria/how-to-build-your-first-notion-dashboard-even-if-youve-never-used-it-434j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-22T04:48:54.000Z",
+        "keywords": [
+          "notion",
+          "productivity",
+          "beginners",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "notion",
+          "productivity",
+          "beginners"
+        ],
+        "pros": [
+          "Great for notion",
+          "productivity-ready automation",
+          "Great for notion"
+        ],
+        "cons": [
+          "Overkill for notion experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for notion experiments"
+        ],
+        "highlights": [
+          "Every Sunday, spend 5 minutes on your Notion dashboard: Archive completed tasks Set priorities for the week (add a ⭐ tag) Update project statuses Clear the brain dump section That's it.",
+          "Here's the exact system I built to go from \"blank page panic\" to a dashboard I actually use every single day.</p> <h2> Why Notion Feels Overwhelming at First </h2> <p>Notion is not an app.",
+          "I built a complete Freelancer OS Notion template that includes everything above — plus a CRM for clients, an income tracker, a content calendar, and more."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Sashiko",
+        "slug": "sashiko",
+        "description": "Article URL: https://sashiko.dev/ Comments URL: https://news.ycombinator.com/item?id=47474323 Points: 8 # Comments: 0",
+        "summary": "Article URL: https://sashiko.dev/ Comments URL: https://news.ycombinator.com/item?id=47474323 Points: 8 # Comments: 0",
+        "link": "https://sashiko.dev/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-22T03:59:46.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-03-22T06:34:13.767Z",
+    "lastUpdated": "2026-03-22T06:34:13.767Z",
+    "visibleDate": "Mar 22, 2026",
+    "url": "pages/2026-03-22-063413767-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-03-22-063413767-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to Build",
+      "Sashiko",
+      "Cloudflare flags archive.today"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include How to Build, Sashiko, Cloudflare flags archive.today. New launches that",
+    "tools": [
+      {
+        "name": "How to Build",
+        "slug": "how-to-build",
+        "description": "Every Sunday, spend 5 minutes on your Notion dashboard: Archive completed tasks Set priorities for the week (add a ⭐ tag) Update project statuses Clear the brain dump section That's it. Every good Notion dashboard has three zones: 📋 Tasks — What needs to happen today/this week 📁 Projects — Everything you're working on 🗓️ Calendar — Deadlines and appointments Create a new database for each.",
+        "summary": "Every Sunday, spend 5 minutes on your Notion dashboard: Archive completed tasks Set priorities for the week (add a ⭐ tag) Update project statuses Clear the brain dump section That's it. Every good Notion dashboard has three zones: 📋 Tasks — What needs to happen today/this week 📁 Projects — Everything you're working on 🗓️ Calendar — Deadlines and appointments Create a new database for each.",
+        "link": "https://dev.to/ottoaria/how-to-build-your-first-notion-dashboard-even-if-youve-never-used-it-434j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-22T04:48:54.000Z",
+        "keywords": [
+          "notion",
+          "productivity",
+          "beginners",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "notion",
+          "productivity",
+          "beginners"
+        ],
+        "pros": [
+          "Great for notion",
+          "productivity-ready automation",
+          "Great for notion"
+        ],
+        "cons": [
+          "Overkill for notion experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for notion experiments"
+        ],
+        "highlights": [
+          "Every Sunday, spend 5 minutes on your Notion dashboard: Archive completed tasks Set priorities for the week (add a ⭐ tag) Update project statuses Clear the brain dump section That's it.",
+          "Here's the exact system I built to go from \"blank page panic\" to a dashboard I actually use every single day.</p> <h2> Why Notion Feels Overwhelming at First </h2> <p>Notion is not an app.",
+          "I built a complete Freelancer OS Notion template that includes everything above — plus a CRM for clients, an income tracker, a content calendar, and more."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Sashiko",
+        "slug": "sashiko",
+        "description": "Article URL: https://sashiko.dev/ Comments URL: https://news.ycombinator.com/item?id=47474323 Points: 8 # Comments: 0",
+        "summary": "Article URL: https://sashiko.dev/ Comments URL: https://news.ycombinator.com/item?id=47474323 Points: 8 # Comments: 0",
+        "link": "https://sashiko.dev/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-22T03:59:46.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Cloudflare flags archive.today",
+        "slug": "cloudflare-flags-archive-today",
+        "description": "Article URL: https://radar.cloudflare.com/domains/domain/archive.today Comments URL: https://news.ycombinator.com/item?id=47474255 Points: 57 # Comments: 19",
+        "summary": "Article URL: https://radar.cloudflare.com/domains/domain/archive.today Comments URL: https://news.ycombinator.com/item?id=47474255 Points: 57 # Comments: 19",
+        "link": "https://radar.cloudflare.com/domains/domain/archive.today",
+        "source": "Hacker News",
+        "isoDate": "2026-03-22T03:43:51.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-03-21T06:26:32.816Z",
     "lastUpdated": "2026-03-21T06:26:32.816Z",
     "visibleDate": "Mar 21, 2026",

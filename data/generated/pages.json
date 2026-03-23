@@ -7,6 +7,691 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-03-23T06:54:01.500Z",
+    "lastUpdated": "2026-03-23T06:54:01.500Z",
+    "visibleDate": "Mar 23, 2026",
+    "url": "pages/2026-03-23-065401500-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-03-23-065401500-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "7 Free Format",
+      "How I Cut",
+      "Why Your Headline"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include 7 Free Format, How I Cut, Why Your Headline. Productivity stacks that keep",
+    "tools": [
+      {
+        "name": "7 Free Format",
+        "slug": "7-free-format",
+        "description": "<a href=\"https://elysiatools.com/en/tools/base64-converter\" rel=\"noopener noreferrer\">Base64 Converter</a> </h2> <p>Base64 shows up everywhere: API authentication headers, embedded images in CSS, data URIs, JWT tokens. This tool handles the edge cases: custom delimiters (comma, tab, semicolon, pipe), quote character handling, whitespace trimming, and the ability to skip empty lines.",
+        "summary": "<a href=\"https://elysiatools.com/en/tools/base64-converter\" rel=\"noopener noreferrer\">Base64 Converter</a> </h2> <p>Base64 shows up everywhere: API authentication headers, embedded images in CSS, data URIs, JWT tokens. This tool handles the edge cases: custom delimiters (comma, tab, semicolon, pipe), quote character handling, whitespace trimming, and the ability to skip empty lines.",
+        "link": "https://dev.to/elysiatools/7-free-format-conversion-tools-every-developer-needs-in-2026-1kcl",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-23T06:36:35.000Z",
+        "keywords": [
+          "javascript",
+          "tools",
+          "webdev",
+          "typescript",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for javascript",
+          "tools-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "This tool handles the edge cases: custom delimiters (comma, tab, semicolon, pipe), quote character handling, whitespace trimming, and the ability to skip empty lines.",
+          "JSON → XLSX mode: Upload a JSON array, flatten nested objects using dot-notation paths (e.g., user.address.city), and get a spreadsheet where each column is a flattened path.",
+          "Then your data scientist drops an Excel file full of nested objects and asks you to make it \"web-ready.\" You could write a throwaway script for each one."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Cut",
+        "slug": "how-i-cut",
+        "description": "When something broke — a memory leak, a crashed cron job, an nginx config that stopped working after a server update — I was on my own.</p> <p>The average debugging session cost me 90 minutes. Two weeks ago I got this error: FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory I pasted it into ARIA.",
+        "summary": "When something broke — a memory leak, a crashed cron job, an nginx config that stopped working after a server update — I was on my own.</p> <p>The average debugging session cost me 90 minutes. Two weeks ago I got this error: FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory I pasted it into ARIA.",
+        "link": "https://dev.to/yash_step2dev/how-i-cut-my-debugging-time-by-70-with-an-ai-devops-tool-2peo",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-23T06:12:59.000Z",
+        "keywords": [
+          "devops",
+          "productivity",
+          "tools",
+          "node",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devops",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for devops",
+          "productivity-ready automation",
+          "Great for devops"
+        ],
+        "cons": [
+          "Overkill for devops experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for devops experiments"
+        ],
+        "highlights": [
+          "When something broke — a memory leak, a crashed cron job, an nginx config that stopped working after a server update — I was on my own.</p> <p>The average debugging session cost me 90 minutes.",
+          "Two weeks ago I got this error: FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory I pasted it into ARIA.",
+          "How I Cut My Debugging Time by 70% With an AI DevOps Tool I want to share something that changed how I work, because I think a lot of developers are in the same situation I was."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why Your Headline",
+        "slug": "why-your-headline",
+        "description": "Get it wrong and the content doesn't matter.</p> <p>Most headlines fail for the same reasons: too vague to signal value, too clever to be understood quickly, or too long to read at a glance. The best headlines sound like something a competent person would say to a colleague — direct, clear, specific about the value.</p> <p>Write three versions of every headline.",
+        "summary": "Get it wrong and the content doesn't matter.</p> <p>Most headlines fail for the same reasons: too vague to signal value, too clever to be understood quickly, or too long to read at a glance. The best headlines sound like something a competent person would say to a colleague — direct, clear, specific about the value.</p> <p>Write three versions of every headline.",
+        "link": "https://dev.to/evvytools/why-your-headline-is-the-only-part-of-your-post-that-gets-read-twice-4709",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-23T04:43:18.000Z",
+        "keywords": [
+          "tools",
+          "writing",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "tools",
+          "writing",
+          "productivity"
+        ],
+        "pros": [
+          "Great for tools",
+          "writing-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for writing workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "Get it wrong and the content doesn't matter.</p> <p>Most headlines fail for the same reasons: too vague to signal value, too clever to be understood quickly, or too long to read at a glance.",
+          "The best headlines sound like something a competent person would say to a colleague — direct, clear, specific about the value.</p> <p>Write three versions of every headline.",
+          "\"How to Cut Your AWS Bill in Half\" beats \"AWS Cost Optimization Tips.\" The first one tells you exactly what you get; the second could mean anything."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Calculate",
+        "slug": "how-to-calculate",
+        "description": "If you're setting a subscription price, calculate the variable cost per subscriber: hosting increment, support cost per ticket times average tickets per user, and any per-seat API or third-party costs. A break-even analysis takes 10 minutes and tells you exactly how much revenue you need before you stop losing money — the single most useful number in early-stage planning.",
+        "summary": "If you're setting a subscription price, calculate the variable cost per subscriber: hosting increment, support cost per ticket times average tickets per user, and any per-seat API or third-party costs. A break-even analysis takes 10 minutes and tells you exactly how much revenue you need before you stop losing money — the single most useful number in early-stage planning.",
+        "link": "https://dev.to/evvytools/how-to-calculate-your-break-even-point-before-you-launch-4jma",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-23T04:41:25.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "costs"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "A break-even analysis takes 10 minutes and tells you exactly how much revenue you need before you stop losing money — the single most useful number in early-stage planning.",
+          "The formula is simple: Break-even units = Fixed Costs ÷ (Price per Unit − Variable Cost per Unit) The middle term — price minus variable cost — is called contribution margin.",
+          "Advertising that scales with revenue, customer support that grows with user count, and cloud costs that increase with usage are all variable or semi-variable."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 Free Nutrition",
+        "slug": "5-free-nutrition",
+        "description": "The <a href=\"https://evvytools.com/tools/health-fitness/tdee-calculator/\" rel=\"noopener noreferrer\">TDEE Calculator</a> at EvvyTools runs the Mifflin-St Jeor formula and applies an accurate activity multiplier. No direct link needed — search it.</p> <h3> Body Fat Calculator — EvvyTools </h3> <p>Uses measurement-based methods (Navy method or BMI-based) to estimate your body fat percentage without calipers or a DEXA scan.",
+        "summary": "The <a href=\"https://evvytools.com/tools/health-fitness/tdee-calculator/\" rel=\"noopener noreferrer\">TDEE Calculator</a> at EvvyTools runs the Mifflin-St Jeor formula and applies an accurate activity multiplier. No direct link needed — search it.</p> <h3> Body Fat Calculator — EvvyTools </h3> <p>Uses measurement-based methods (Navy method or BMI-based) to estimate your body fat percentage without calipers or a DEXA scan.",
+        "link": "https://dev.to/evvytools/5-free-nutrition-and-fitness-calculators-worth-bookmarking-21en",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-23T04:41:20.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "based"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "https://evvytools.com/tools/health-fitness/macro-calculator/ TDEE (Total Daily Energy Expenditure) is your maintenance number — what you burn in a day doing what you already do.",
+          "Free calculators in the health space are everywhere, but most are plastered with ads, require an email signup, or use simplified formulas that produce numbers too rough to act on.",
+          "<p>Free calculators in the health space are everywhere, but most are plastered with ads, require an email signup, or use simplified formulas that produce numbers too rough to act on."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-03-23T06:54:01.500Z",
+    "lastUpdated": "2026-03-23T06:54:01.500Z",
+    "visibleDate": "Mar 23, 2026",
+    "url": "pages/2026-03-23-065401500-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-03-23-065401500-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "7 Free Format",
+      "How I Cut",
+      "Why Your Headline"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include 7 Free Format, How I Cut, Why Your Headline. Reliable remote debug",
+    "tools": [
+      {
+        "name": "7 Free Format",
+        "slug": "7-free-format",
+        "description": "<a href=\"https://elysiatools.com/en/tools/base64-converter\" rel=\"noopener noreferrer\">Base64 Converter</a> </h2> <p>Base64 shows up everywhere: API authentication headers, embedded images in CSS, data URIs, JWT tokens. This tool handles the edge cases: custom delimiters (comma, tab, semicolon, pipe), quote character handling, whitespace trimming, and the ability to skip empty lines.",
+        "summary": "<a href=\"https://elysiatools.com/en/tools/base64-converter\" rel=\"noopener noreferrer\">Base64 Converter</a> </h2> <p>Base64 shows up everywhere: API authentication headers, embedded images in CSS, data URIs, JWT tokens. This tool handles the edge cases: custom delimiters (comma, tab, semicolon, pipe), quote character handling, whitespace trimming, and the ability to skip empty lines.",
+        "link": "https://dev.to/elysiatools/7-free-format-conversion-tools-every-developer-needs-in-2026-1kcl",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-23T06:36:35.000Z",
+        "keywords": [
+          "javascript",
+          "tools",
+          "webdev",
+          "typescript",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for javascript",
+          "tools-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "This tool handles the edge cases: custom delimiters (comma, tab, semicolon, pipe), quote character handling, whitespace trimming, and the ability to skip empty lines.",
+          "JSON → XLSX mode: Upload a JSON array, flatten nested objects using dot-notation paths (e.g., user.address.city), and get a spreadsheet where each column is a flattened path.",
+          "Then your data scientist drops an Excel file full of nested objects and asks you to make it \"web-ready.\" You could write a throwaway script for each one."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Cut",
+        "slug": "how-i-cut",
+        "description": "When something broke — a memory leak, a crashed cron job, an nginx config that stopped working after a server update — I was on my own.</p> <p>The average debugging session cost me 90 minutes. Two weeks ago I got this error: FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory I pasted it into ARIA.",
+        "summary": "When something broke — a memory leak, a crashed cron job, an nginx config that stopped working after a server update — I was on my own.</p> <p>The average debugging session cost me 90 minutes. Two weeks ago I got this error: FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory I pasted it into ARIA.",
+        "link": "https://dev.to/yash_step2dev/how-i-cut-my-debugging-time-by-70-with-an-ai-devops-tool-2peo",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-23T06:12:59.000Z",
+        "keywords": [
+          "devops",
+          "productivity",
+          "tools",
+          "node",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devops",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for devops",
+          "productivity-ready automation",
+          "Great for devops"
+        ],
+        "cons": [
+          "Overkill for devops experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for devops experiments"
+        ],
+        "highlights": [
+          "When something broke — a memory leak, a crashed cron job, an nginx config that stopped working after a server update — I was on my own.</p> <p>The average debugging session cost me 90 minutes.",
+          "Two weeks ago I got this error: FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory I pasted it into ARIA.",
+          "How I Cut My Debugging Time by 70% With an AI DevOps Tool I want to share something that changed how I work, because I think a lot of developers are in the same situation I was."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why Your Headline",
+        "slug": "why-your-headline",
+        "description": "Get it wrong and the content doesn't matter.</p> <p>Most headlines fail for the same reasons: too vague to signal value, too clever to be understood quickly, or too long to read at a glance. The best headlines sound like something a competent person would say to a colleague — direct, clear, specific about the value.</p> <p>Write three versions of every headline.",
+        "summary": "Get it wrong and the content doesn't matter.</p> <p>Most headlines fail for the same reasons: too vague to signal value, too clever to be understood quickly, or too long to read at a glance. The best headlines sound like something a competent person would say to a colleague — direct, clear, specific about the value.</p> <p>Write three versions of every headline.",
+        "link": "https://dev.to/evvytools/why-your-headline-is-the-only-part-of-your-post-that-gets-read-twice-4709",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-23T04:43:18.000Z",
+        "keywords": [
+          "tools",
+          "writing",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "tools",
+          "writing",
+          "productivity"
+        ],
+        "pros": [
+          "Great for tools",
+          "writing-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for writing workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "Get it wrong and the content doesn't matter.</p> <p>Most headlines fail for the same reasons: too vague to signal value, too clever to be understood quickly, or too long to read at a glance.",
+          "The best headlines sound like something a competent person would say to a colleague — direct, clear, specific about the value.</p> <p>Write three versions of every headline.",
+          "\"How to Cut Your AWS Bill in Half\" beats \"AWS Cost Optimization Tips.\" The first one tells you exactly what you get; the second could mean anything."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Calculate",
+        "slug": "how-to-calculate",
+        "description": "If you're setting a subscription price, calculate the variable cost per subscriber: hosting increment, support cost per ticket times average tickets per user, and any per-seat API or third-party costs. A break-even analysis takes 10 minutes and tells you exactly how much revenue you need before you stop losing money — the single most useful number in early-stage planning.",
+        "summary": "If you're setting a subscription price, calculate the variable cost per subscriber: hosting increment, support cost per ticket times average tickets per user, and any per-seat API or third-party costs. A break-even analysis takes 10 minutes and tells you exactly how much revenue you need before you stop losing money — the single most useful number in early-stage planning.",
+        "link": "https://dev.to/evvytools/how-to-calculate-your-break-even-point-before-you-launch-4jma",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-23T04:41:25.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "costs"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "A break-even analysis takes 10 minutes and tells you exactly how much revenue you need before you stop losing money — the single most useful number in early-stage planning.",
+          "The formula is simple: Break-even units = Fixed Costs ÷ (Price per Unit − Variable Cost per Unit) The middle term — price minus variable cost — is called contribution margin.",
+          "Advertising that scales with revenue, customer support that grows with user count, and cloud costs that increase with usage are all variable or semi-variable."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-03-23T06:54:01.500Z",
+    "lastUpdated": "2026-03-23T06:54:01.500Z",
+    "visibleDate": "Mar 23, 2026",
+    "url": "pages/2026-03-23-065401500-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-03-23-065401500-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "7 Free Format",
+      "How I Cut"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include 7 Free Format, How I Cut. Gitpod brings zero-conf",
+    "tools": [
+      {
+        "name": "7 Free Format",
+        "slug": "7-free-format",
+        "description": "<a href=\"https://elysiatools.com/en/tools/base64-converter\" rel=\"noopener noreferrer\">Base64 Converter</a> </h2> <p>Base64 shows up everywhere: API authentication headers, embedded images in CSS, data URIs, JWT tokens. This tool handles the edge cases: custom delimiters (comma, tab, semicolon, pipe), quote character handling, whitespace trimming, and the ability to skip empty lines.",
+        "summary": "<a href=\"https://elysiatools.com/en/tools/base64-converter\" rel=\"noopener noreferrer\">Base64 Converter</a> </h2> <p>Base64 shows up everywhere: API authentication headers, embedded images in CSS, data URIs, JWT tokens. This tool handles the edge cases: custom delimiters (comma, tab, semicolon, pipe), quote character handling, whitespace trimming, and the ability to skip empty lines.",
+        "link": "https://dev.to/elysiatools/7-free-format-conversion-tools-every-developer-needs-in-2026-1kcl",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-23T06:36:35.000Z",
+        "keywords": [
+          "javascript",
+          "tools",
+          "webdev",
+          "typescript",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for javascript",
+          "tools-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "This tool handles the edge cases: custom delimiters (comma, tab, semicolon, pipe), quote character handling, whitespace trimming, and the ability to skip empty lines.",
+          "JSON → XLSX mode: Upload a JSON array, flatten nested objects using dot-notation paths (e.g., user.address.city), and get a spreadsheet where each column is a flattened path.",
+          "Then your data scientist drops an Excel file full of nested objects and asks you to make it \"web-ready.\" You could write a throwaway script for each one."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Cut",
+        "slug": "how-i-cut",
+        "description": "When something broke — a memory leak, a crashed cron job, an nginx config that stopped working after a server update — I was on my own.</p> <p>The average debugging session cost me 90 minutes. Two weeks ago I got this error: FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory I pasted it into ARIA.",
+        "summary": "When something broke — a memory leak, a crashed cron job, an nginx config that stopped working after a server update — I was on my own.</p> <p>The average debugging session cost me 90 minutes. Two weeks ago I got this error: FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory I pasted it into ARIA.",
+        "link": "https://dev.to/yash_step2dev/how-i-cut-my-debugging-time-by-70-with-an-ai-devops-tool-2peo",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-23T06:12:59.000Z",
+        "keywords": [
+          "devops",
+          "productivity",
+          "tools",
+          "node",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devops",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for devops",
+          "productivity-ready automation",
+          "Great for devops"
+        ],
+        "cons": [
+          "Overkill for devops experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for devops experiments"
+        ],
+        "highlights": [
+          "When something broke — a memory leak, a crashed cron job, an nginx config that stopped working after a server update — I was on my own.</p> <p>The average debugging session cost me 90 minutes.",
+          "Two weeks ago I got this error: FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory I pasted it into ARIA.",
+          "How I Cut My Debugging Time by 70% With an AI DevOps Tool I want to share something that changed how I work, because I think a lot of developers are in the same situation I was."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-03-23T06:54:01.500Z",
+    "lastUpdated": "2026-03-23T06:54:01.500Z",
+    "visibleDate": "Mar 23, 2026",
+    "url": "pages/2026-03-23-065401500-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-03-23-065401500-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "7 Free Format",
+      "How I Cut",
+      "Why Your Headline"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include 7 Free Format, How I Cut, Why Your Headline. New launches that are shipp",
+    "tools": [
+      {
+        "name": "7 Free Format",
+        "slug": "7-free-format",
+        "description": "<a href=\"https://elysiatools.com/en/tools/base64-converter\" rel=\"noopener noreferrer\">Base64 Converter</a> </h2> <p>Base64 shows up everywhere: API authentication headers, embedded images in CSS, data URIs, JWT tokens. This tool handles the edge cases: custom delimiters (comma, tab, semicolon, pipe), quote character handling, whitespace trimming, and the ability to skip empty lines.",
+        "summary": "<a href=\"https://elysiatools.com/en/tools/base64-converter\" rel=\"noopener noreferrer\">Base64 Converter</a> </h2> <p>Base64 shows up everywhere: API authentication headers, embedded images in CSS, data URIs, JWT tokens. This tool handles the edge cases: custom delimiters (comma, tab, semicolon, pipe), quote character handling, whitespace trimming, and the ability to skip empty lines.",
+        "link": "https://dev.to/elysiatools/7-free-format-conversion-tools-every-developer-needs-in-2026-1kcl",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-23T06:36:35.000Z",
+        "keywords": [
+          "javascript",
+          "tools",
+          "webdev",
+          "typescript",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for javascript",
+          "tools-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "This tool handles the edge cases: custom delimiters (comma, tab, semicolon, pipe), quote character handling, whitespace trimming, and the ability to skip empty lines.",
+          "JSON → XLSX mode: Upload a JSON array, flatten nested objects using dot-notation paths (e.g., user.address.city), and get a spreadsheet where each column is a flattened path.",
+          "Then your data scientist drops an Excel file full of nested objects and asks you to make it \"web-ready.\" You could write a throwaway script for each one."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Cut",
+        "slug": "how-i-cut",
+        "description": "When something broke — a memory leak, a crashed cron job, an nginx config that stopped working after a server update — I was on my own.</p> <p>The average debugging session cost me 90 minutes. Two weeks ago I got this error: FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory I pasted it into ARIA.",
+        "summary": "When something broke — a memory leak, a crashed cron job, an nginx config that stopped working after a server update — I was on my own.</p> <p>The average debugging session cost me 90 minutes. Two weeks ago I got this error: FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory I pasted it into ARIA.",
+        "link": "https://dev.to/yash_step2dev/how-i-cut-my-debugging-time-by-70-with-an-ai-devops-tool-2peo",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-23T06:12:59.000Z",
+        "keywords": [
+          "devops",
+          "productivity",
+          "tools",
+          "node",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devops",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for devops",
+          "productivity-ready automation",
+          "Great for devops"
+        ],
+        "cons": [
+          "Overkill for devops experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for devops experiments"
+        ],
+        "highlights": [
+          "When something broke — a memory leak, a crashed cron job, an nginx config that stopped working after a server update — I was on my own.</p> <p>The average debugging session cost me 90 minutes.",
+          "Two weeks ago I got this error: FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory I pasted it into ARIA.",
+          "How I Cut My Debugging Time by 70% With an AI DevOps Tool I want to share something that changed how I work, because I think a lot of developers are in the same situation I was."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why Your Headline",
+        "slug": "why-your-headline",
+        "description": "Get it wrong and the content doesn't matter.</p> <p>Most headlines fail for the same reasons: too vague to signal value, too clever to be understood quickly, or too long to read at a glance. The best headlines sound like something a competent person would say to a colleague — direct, clear, specific about the value.</p> <p>Write three versions of every headline.",
+        "summary": "Get it wrong and the content doesn't matter.</p> <p>Most headlines fail for the same reasons: too vague to signal value, too clever to be understood quickly, or too long to read at a glance. The best headlines sound like something a competent person would say to a colleague — direct, clear, specific about the value.</p> <p>Write three versions of every headline.",
+        "link": "https://dev.to/evvytools/why-your-headline-is-the-only-part-of-your-post-that-gets-read-twice-4709",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-23T04:43:18.000Z",
+        "keywords": [
+          "tools",
+          "writing",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "tools",
+          "writing",
+          "productivity"
+        ],
+        "pros": [
+          "Great for tools",
+          "writing-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for writing workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "Get it wrong and the content doesn't matter.</p> <p>Most headlines fail for the same reasons: too vague to signal value, too clever to be understood quickly, or too long to read at a glance.",
+          "The best headlines sound like something a competent person would say to a colleague — direct, clear, specific about the value.</p> <p>Write three versions of every headline.",
+          "\"How to Cut Your AWS Bill in Half\" beats \"AWS Cost Optimization Tips.\" The first one tells you exactly what you get; the second could mean anything."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-03-22T06:34:13.767Z",
     "lastUpdated": "2026-03-22T06:34:13.767Z",
     "visibleDate": "Mar 22, 2026",

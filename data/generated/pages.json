@@ -7,6 +7,663 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-03-24T06:46:48.359Z",
+    "lastUpdated": "2026-03-24T06:46:48.359Z",
+    "visibleDate": "Mar 24, 2026",
+    "url": "pages/2026-03-24-064648359-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-03-24-064648359-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Multi-stage attacks are",
+      "Stop losing your Markdown images",
+      "每个开发者都应该知道的开发者资源"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Multi-stage attacks are, Stop losing your Markdown images, 每个开发者都应该知道的开发者资",
+    "tools": [
+      {
+        "name": "Multi-stage attacks are",
+        "slug": "multi-stage-attacks-are",
+        "description": "Ryan welcomes Gee Rittenhouse, VP of Security at AWS, to the show to discuss the complexities of multi-stage attacks in cybersecurity and how these attacks unfold, the challenges in detecting them, and the evolving role of AI in both enhancing security and creating new vulnerabilities.",
+        "summary": "Ryan welcomes Gee Rittenhouse, VP of Security at AWS, to the show to discuss the complexities of multi-stage attacks in cybersecurity and how these attacks unfold, the challenges in detecting them, and the evolving role of AI in both enhancing security and creating new vulnerabilities.",
+        "link": "https://stackoverflow.blog/2026/03/24/multi-stage-attacks-are-the-final-fantasy-bosses-of-security/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-03-24T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "security",
+          "aws",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Stop losing your Markdown images",
+        "slug": "stop-losing-your-markdown-images",
+        "description": "The Pain Point 😩 Many free image hosts either silently delete your files after a few months, block hotlinking, or force you through a paywall just to get a direct image URL. It’s a dead-simple, privacy-first image host designed specifically for developers and technical writers.</p> <p>Why you might love it:</p> <p>💾 Permanent Storage: Once you upload it, it stays there.",
+        "summary": "The Pain Point 😩 Many free image hosts either silently delete your files after a few months, block hotlinking, or force you through a paywall just to get a direct image URL. It’s a dead-simple, privacy-first image host designed specifically for developers and technical writers.</p> <p>Why you might love it:</p> <p>💾 Permanent Storage: Once you upload it, it stays there.",
+        "link": "https://dev.to/yanan_yu_800ff3378c9d3377/stop-losing-your-markdown-images-i-built-a-free-permanent-image-host-for-devs-1ln",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-24T06:42:16.000Z",
+        "keywords": [
+          "webdev",
+          "productivity",
+          "markdown",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "productivity",
+          "markdown"
+        ],
+        "pros": [
+          "Great for webdev",
+          "productivity-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "The Pain Point 😩 Many free image hosts either silently delete your files after a few months, block hotlinking, or force you through a paywall just to get a direct image URL.",
+          "It’s a dead-simple, privacy-first image host designed specifically for developers and technical writers.</p> <p>Why you might love it:</p> <p>💾 Permanent Storage: Once you upload it, it stays there.",
+          "Just drag, drop, and copy the link.</p> <p>🔥 Burn-After-Reading Mode: Sharing an error log or a sensitive API screenshot with a colleague?"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "每个开发者都应该知道的开发者资源",
+        "slug": "",
+        "description": "Stack Overflow </h2> <p>程序员问答社区</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2. GitHub </h2> <p>代码托管和开源项目</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3.",
+        "summary": "Stack Overflow </h2> <p>程序员问答社区</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2. GitHub </h2> <p>代码托管和开源项目</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3.",
+        "link": "https://dev.to/maquankun/mei-ge-kai-fa-zhe-du-ying-gai-zhi-dao-de-kai-fa-zhe-zi-yuan-53o6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-24T06:00:02.000Z",
+        "keywords": [
+          "developer",
+          "resources",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "developer",
+          "resources",
+          "programming",
+          "affiliate"
+        ],
+        "pros": [
+          "Great for developer",
+          "resources-ready automation",
+          "Great for developer"
+        ],
+        "cons": [
+          "Overkill for developer experiments",
+          "Needs extra setup for resources workflows",
+          "Overkill for developer experiments"
+        ],
+        "highlights": [
+          "Stack Overflow </h2> <p>程序员问答社区</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2.",
+          "GitHub </h2> <p>代码托管和开源项目</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Log File Viewer",
+        "slug": "log-file-viewer",
+        "description": "Article URL: https://lnav.org/ Comments URL: https://news.ycombinator.com/item?id=47498924 Points: 20 # Comments: 4",
+        "summary": "Article URL: https://lnav.org/ Comments URL: https://news.ycombinator.com/item?id=47498924 Points: 20 # Comments: 4",
+        "link": "https://lnav.org/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-24T05:32:53.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Microsoft blocks trick",
+        "slug": "microsoft-blocks-trick",
+        "description": "Article URL: https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11 Comments URL: https://news.ycombinator.com/item?id=47498766 Points: 20 # Comments: 2",
+        "summary": "Article URL: https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11 Comments URL: https://news.ycombinator.com/item?id=47498766 Points: 20 # Comments: 2",
+        "link": "https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11",
+        "source": "Hacker News",
+        "isoDate": "2026-03-24T05:00:21.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-03-24T06:46:48.359Z",
+    "lastUpdated": "2026-03-24T06:46:48.359Z",
+    "visibleDate": "Mar 24, 2026",
+    "url": "pages/2026-03-24-064648359-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-03-24-064648359-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Multi-stage attacks are",
+      "Stop losing your Markdown images",
+      "每个开发者都应该知道的开发者资源"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Multi-stage attacks are, Stop losing your Markdown images, 每个开发者都应",
+    "tools": [
+      {
+        "name": "Multi-stage attacks are",
+        "slug": "multi-stage-attacks-are",
+        "description": "Ryan welcomes Gee Rittenhouse, VP of Security at AWS, to the show to discuss the complexities of multi-stage attacks in cybersecurity and how these attacks unfold, the challenges in detecting them, and the evolving role of AI in both enhancing security and creating new vulnerabilities.",
+        "summary": "Ryan welcomes Gee Rittenhouse, VP of Security at AWS, to the show to discuss the complexities of multi-stage attacks in cybersecurity and how these attacks unfold, the challenges in detecting them, and the evolving role of AI in both enhancing security and creating new vulnerabilities.",
+        "link": "https://stackoverflow.blog/2026/03/24/multi-stage-attacks-are-the-final-fantasy-bosses-of-security/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-03-24T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "security",
+          "aws",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Stop losing your Markdown images",
+        "slug": "stop-losing-your-markdown-images",
+        "description": "The Pain Point 😩 Many free image hosts either silently delete your files after a few months, block hotlinking, or force you through a paywall just to get a direct image URL. It’s a dead-simple, privacy-first image host designed specifically for developers and technical writers.</p> <p>Why you might love it:</p> <p>💾 Permanent Storage: Once you upload it, it stays there.",
+        "summary": "The Pain Point 😩 Many free image hosts either silently delete your files after a few months, block hotlinking, or force you through a paywall just to get a direct image URL. It’s a dead-simple, privacy-first image host designed specifically for developers and technical writers.</p> <p>Why you might love it:</p> <p>💾 Permanent Storage: Once you upload it, it stays there.",
+        "link": "https://dev.to/yanan_yu_800ff3378c9d3377/stop-losing-your-markdown-images-i-built-a-free-permanent-image-host-for-devs-1ln",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-24T06:42:16.000Z",
+        "keywords": [
+          "webdev",
+          "productivity",
+          "markdown",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "productivity",
+          "markdown"
+        ],
+        "pros": [
+          "Great for webdev",
+          "productivity-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "The Pain Point 😩 Many free image hosts either silently delete your files after a few months, block hotlinking, or force you through a paywall just to get a direct image URL.",
+          "It’s a dead-simple, privacy-first image host designed specifically for developers and technical writers.</p> <p>Why you might love it:</p> <p>💾 Permanent Storage: Once you upload it, it stays there.",
+          "Just drag, drop, and copy the link.</p> <p>🔥 Burn-After-Reading Mode: Sharing an error log or a sensitive API screenshot with a colleague?"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "每个开发者都应该知道的开发者资源",
+        "slug": "",
+        "description": "Stack Overflow </h2> <p>程序员问答社区</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2. GitHub </h2> <p>代码托管和开源项目</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3.",
+        "summary": "Stack Overflow </h2> <p>程序员问答社区</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2. GitHub </h2> <p>代码托管和开源项目</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3.",
+        "link": "https://dev.to/maquankun/mei-ge-kai-fa-zhe-du-ying-gai-zhi-dao-de-kai-fa-zhe-zi-yuan-53o6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-24T06:00:02.000Z",
+        "keywords": [
+          "developer",
+          "resources",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "developer",
+          "resources",
+          "programming",
+          "affiliate"
+        ],
+        "pros": [
+          "Great for developer",
+          "resources-ready automation",
+          "Great for developer"
+        ],
+        "cons": [
+          "Overkill for developer experiments",
+          "Needs extra setup for resources workflows",
+          "Overkill for developer experiments"
+        ],
+        "highlights": [
+          "Stack Overflow </h2> <p>程序员问答社区</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2.",
+          "GitHub </h2> <p>代码托管和开源项目</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Log File Viewer",
+        "slug": "log-file-viewer",
+        "description": "Article URL: https://lnav.org/ Comments URL: https://news.ycombinator.com/item?id=47498924 Points: 20 # Comments: 4",
+        "summary": "Article URL: https://lnav.org/ Comments URL: https://news.ycombinator.com/item?id=47498924 Points: 20 # Comments: 4",
+        "link": "https://lnav.org/",
+        "source": "Hacker News",
+        "isoDate": "2026-03-24T05:32:53.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-03-24T06:46:48.359Z",
+    "lastUpdated": "2026-03-24T06:46:48.359Z",
+    "visibleDate": "Mar 24, 2026",
+    "url": "pages/2026-03-24-064648359-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-03-24-064648359-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Multi-stage attacks are",
+      "Stop losing your Markdown images"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Multi-stage attacks are, Stop losing your Markdow",
+    "tools": [
+      {
+        "name": "Multi-stage attacks are",
+        "slug": "multi-stage-attacks-are",
+        "description": "Ryan welcomes Gee Rittenhouse, VP of Security at AWS, to the show to discuss the complexities of multi-stage attacks in cybersecurity and how these attacks unfold, the challenges in detecting them, and the evolving role of AI in both enhancing security and creating new vulnerabilities.",
+        "summary": "Ryan welcomes Gee Rittenhouse, VP of Security at AWS, to the show to discuss the complexities of multi-stage attacks in cybersecurity and how these attacks unfold, the challenges in detecting them, and the evolving role of AI in both enhancing security and creating new vulnerabilities.",
+        "link": "https://stackoverflow.blog/2026/03/24/multi-stage-attacks-are-the-final-fantasy-bosses-of-security/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-03-24T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "security",
+          "aws",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Stop losing your Markdown images",
+        "slug": "stop-losing-your-markdown-images",
+        "description": "The Pain Point 😩 Many free image hosts either silently delete your files after a few months, block hotlinking, or force you through a paywall just to get a direct image URL. It’s a dead-simple, privacy-first image host designed specifically for developers and technical writers.</p> <p>Why you might love it:</p> <p>💾 Permanent Storage: Once you upload it, it stays there.",
+        "summary": "The Pain Point 😩 Many free image hosts either silently delete your files after a few months, block hotlinking, or force you through a paywall just to get a direct image URL. It’s a dead-simple, privacy-first image host designed specifically for developers and technical writers.</p> <p>Why you might love it:</p> <p>💾 Permanent Storage: Once you upload it, it stays there.",
+        "link": "https://dev.to/yanan_yu_800ff3378c9d3377/stop-losing-your-markdown-images-i-built-a-free-permanent-image-host-for-devs-1ln",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-24T06:42:16.000Z",
+        "keywords": [
+          "webdev",
+          "productivity",
+          "markdown",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "productivity",
+          "markdown"
+        ],
+        "pros": [
+          "Great for webdev",
+          "productivity-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "The Pain Point 😩 Many free image hosts either silently delete your files after a few months, block hotlinking, or force you through a paywall just to get a direct image URL.",
+          "It’s a dead-simple, privacy-first image host designed specifically for developers and technical writers.</p> <p>Why you might love it:</p> <p>💾 Permanent Storage: Once you upload it, it stays there.",
+          "Just drag, drop, and copy the link.</p> <p>🔥 Burn-After-Reading Mode: Sharing an error log or a sensitive API screenshot with a colleague?"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-03-24T06:46:48.359Z",
+    "lastUpdated": "2026-03-24T06:46:48.359Z",
+    "visibleDate": "Mar 24, 2026",
+    "url": "pages/2026-03-24-064648359-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-03-24-064648359-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Multi-stage attacks are",
+      "Stop losing your Markdown images",
+      "每个开发者都应该知道的开发者资源"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Multi-stage attacks are, Stop losing your Markdown images, 每个开发者都应该知道的开发",
+    "tools": [
+      {
+        "name": "Multi-stage attacks are",
+        "slug": "multi-stage-attacks-are",
+        "description": "Ryan welcomes Gee Rittenhouse, VP of Security at AWS, to the show to discuss the complexities of multi-stage attacks in cybersecurity and how these attacks unfold, the challenges in detecting them, and the evolving role of AI in both enhancing security and creating new vulnerabilities.",
+        "summary": "Ryan welcomes Gee Rittenhouse, VP of Security at AWS, to the show to discuss the complexities of multi-stage attacks in cybersecurity and how these attacks unfold, the challenges in detecting them, and the evolving role of AI in both enhancing security and creating new vulnerabilities.",
+        "link": "https://stackoverflow.blog/2026/03/24/multi-stage-attacks-are-the-final-fantasy-bosses-of-security/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-03-24T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "security",
+          "aws",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Stop losing your Markdown images",
+        "slug": "stop-losing-your-markdown-images",
+        "description": "The Pain Point 😩 Many free image hosts either silently delete your files after a few months, block hotlinking, or force you through a paywall just to get a direct image URL. It’s a dead-simple, privacy-first image host designed specifically for developers and technical writers.</p> <p>Why you might love it:</p> <p>💾 Permanent Storage: Once you upload it, it stays there.",
+        "summary": "The Pain Point 😩 Many free image hosts either silently delete your files after a few months, block hotlinking, or force you through a paywall just to get a direct image URL. It’s a dead-simple, privacy-first image host designed specifically for developers and technical writers.</p> <p>Why you might love it:</p> <p>💾 Permanent Storage: Once you upload it, it stays there.",
+        "link": "https://dev.to/yanan_yu_800ff3378c9d3377/stop-losing-your-markdown-images-i-built-a-free-permanent-image-host-for-devs-1ln",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-24T06:42:16.000Z",
+        "keywords": [
+          "webdev",
+          "productivity",
+          "markdown",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "productivity",
+          "markdown"
+        ],
+        "pros": [
+          "Great for webdev",
+          "productivity-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "The Pain Point 😩 Many free image hosts either silently delete your files after a few months, block hotlinking, or force you through a paywall just to get a direct image URL.",
+          "It’s a dead-simple, privacy-first image host designed specifically for developers and technical writers.</p> <p>Why you might love it:</p> <p>💾 Permanent Storage: Once you upload it, it stays there.",
+          "Just drag, drop, and copy the link.</p> <p>🔥 Burn-After-Reading Mode: Sharing an error log or a sensitive API screenshot with a colleague?"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "每个开发者都应该知道的开发者资源",
+        "slug": "",
+        "description": "Stack Overflow </h2> <p>程序员问答社区</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2. GitHub </h2> <p>代码托管和开源项目</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3.",
+        "summary": "Stack Overflow </h2> <p>程序员问答社区</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2. GitHub </h2> <p>代码托管和开源项目</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3.",
+        "link": "https://dev.to/maquankun/mei-ge-kai-fa-zhe-du-ying-gai-zhi-dao-de-kai-fa-zhe-zi-yuan-53o6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-24T06:00:02.000Z",
+        "keywords": [
+          "developer",
+          "resources",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "developer",
+          "resources",
+          "programming",
+          "affiliate"
+        ],
+        "pros": [
+          "Great for developer",
+          "resources-ready automation",
+          "Great for developer"
+        ],
+        "cons": [
+          "Overkill for developer experiments",
+          "Needs extra setup for resources workflows",
+          "Overkill for developer experiments"
+        ],
+        "highlights": [
+          "Stack Overflow </h2> <p>程序员问答社区</p> <p><strong>为什么推荐：</strong> 这是开发者的必备工具，几乎每天都在用。</p> <h2> 2.",
+          "GitHub </h2> <p>代码托管和开源项目</p> <p><strong>为什么推荐：</strong> 遇到问题时，这里是最好的求助地。</p> <h2> 3."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-03-23T06:54:01.500Z",
     "lastUpdated": "2026-03-23T06:54:01.500Z",
     "visibleDate": "Mar 23, 2026",

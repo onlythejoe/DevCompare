@@ -7,6 +7,662 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-03-25T06:45:36.226Z",
+    "lastUpdated": "2026-03-25T06:45:36.226Z",
+    "visibleDate": "Mar 25, 2026",
+    "url": "pages/2026-03-25-064536226-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-03-25-064536226-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "5 Free Phone & Gadget Calculators",
+      "ChatGPT vs Claude：AI对话工具终极对比（2025）",
+      "I built 7"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include 5 Free Phone & Gadget Calculators, ChatGPT vs Claude：AI对话工具终极对比（2025）, I b",
+    "tools": [
+      {
+        "name": "5 Free Phone & Gadget Calculators",
+        "slug": "5-free-phone-gadget-calculators",
+        "description": "We built them because the alternatives are either: Behind paywalls or app installs Carrier-specific and biased Overly complex for a simple question These tools give you fast, accurate, no-BS answers. These are questions we all have but rarely get precise answers to.</p> <p>We just launched <strong>5 new mobile &amp; gadget tools</strong> — all free, private, and browser-based.",
+        "summary": "We built them because the alternatives are either: Behind paywalls or app installs Carrier-specific and biased Overly complex for a simple question These tools give you fast, accurate, no-BS answers. These are questions we all have but rarely get precise answers to.</p> <p>We just launched <strong>5 new mobile &amp; gadget tools</strong> — all free, private, and browser-based.",
+        "link": "https://dev.to/teamzlab/5-free-phone-gadget-calculators-screen-time-storage-charging-data-depreciation-2d8m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-25T06:35:52.000Z",
+        "keywords": [
+          "tools",
+          "free",
+          "web",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "tools",
+          "free",
+          "web"
+        ],
+        "pros": [
+          "Great for tools",
+          "free-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for free workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "We built them because the alternatives are either: Behind paywalls or app installs Carrier-specific and biased Overly complex for a simple question These tools give you fast, accurate, no-BS answers.",
+          "These are questions we all have but rarely get precise answers to.</p> <p>We just launched <strong>5 new mobile &amp; gadget tools</strong> — all free, private, and browser-based.",
+          "Screen Time Lifetime Calculator </h2> <p>Ever wondered how many <strong>years</strong> of your life you'll spend staring at screens?</p> <p>Enter your daily phone, computer, and TV usage."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "ChatGPT vs Claude：AI对话工具终极对比（2025）",
+        "slug": "chatgpt-vs-claude-ai-2025",
+        "description": "ChatGPT vs Claude：AI对话工具终极对比（2025） 选择ChatGPT还是Claude？这篇文章帮你做决定。 特性 ChatGPT Claude 价格 中 高 学习曲线 平缓 陡峭 社区支持 强 中 易用性强 文档完善 社区活跃 性能更强 功能更丰富 企业级支持 《The Pragmatic Programmer》 - 程序员修炼之道 蓝光眼镜 - 长时间编程的眼睛保护 MacBook Air M3 - 开发者的生产力神器 根据你的需求选择： 初学者选ChatGPT 专业开发者选Claude 通过链接购买支持我的创作",
+        "summary": "ChatGPT vs Claude：AI对话工具终极对比（2025） 选择ChatGPT还是Claude？这篇文章帮你做决定。 特性 ChatGPT Claude 价格 中 高 学习曲线 平缓 陡峭 社区支持 强 中 易用性强 文档完善 社区活跃 性能更强 功能更丰富 企业级支持 《The Pragmatic Programmer》 - 程序员修炼之道 蓝光眼镜 - 长时间编程的眼睛保护 MacBook Air M3 - 开发者的生产力神器 根据你的需求选择： 初学者选ChatGPT 专业开发者选Claude 通过链接购买支持我的创作",
+        "link": "https://dev.to/maquankun/chatgpt-vs-claudeaidui-hua-gong-ju-zhong-ji-dui-bi-2025-md4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-25T06:00:03.000Z",
+        "keywords": [
+          "comparison",
+          "tools",
+          "review",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "comparison",
+          "tools",
+          "review"
+        ],
+        "pros": [
+          "Great for comparison",
+          "tools-ready automation",
+          "Great for comparison"
+        ],
+        "cons": [
+          "Overkill for comparison experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for comparison experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built 7",
+        "slug": "i-built-7",
+        "description": "The hash generator uses SubtleCrypto.digest(), the diff checker uses a longest common subsequence algorithm, the CSV parser handles quoted fields and custom delimiters. Meta tag generator - Fills in og:title, og:description, twitter:card, and all the other tags you forget exist until your link preview looks broken on LinkedIn.",
+        "summary": "The hash generator uses SubtleCrypto.digest(), the diff checker uses a longest common subsequence algorithm, the CSV parser handles quoted fields and custom delimiters. Meta tag generator - Fills in og:title, og:description, twitter:card, and all the other tags you forget exist until your link preview looks broken on LinkedIn.",
+        "link": "https://dev.to/narender_singh_6c6e271c67/i-built-7-browser-only-dev-tools-because-i-got-tired-of-ads-and-data-collection-n5b",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-25T05:57:00.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Meta tag generator - Fills in og:title, og:description, twitter:card, and all the other tags you forget exist until your link preview looks broken on LinkedIn.",
+          "The hash generator uses SubtleCrypto.digest(), the diff checker uses a longest common subsequence algorithm, the CSV parser handles quoted fields and custom delimiters.",
+          "Cookie banners, ads covering half the page, and that nagging feeling that my data just got sent to someone's server.</p> <p>So I built my own versions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Implementing automatic eSIM",
+        "slug": "implementing-automatic-esim",
+        "description": "Article URL: https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb Comments URL: https://news.ycombinator.com/item?id=47513728 Points: 11 # Comments: 0",
+        "summary": "Article URL: https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb Comments URL: https://news.ycombinator.com/item?id=47513728 Points: 11 # Comments: 0",
+        "link": "https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb",
+        "source": "Hacker News",
+        "isoDate": "2026-03-25T05:42:09.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built a",
+        "slug": "i-built-a",
+        "description": "I open the first Google result and get hit with a cookie banner, two pop-ups, and an ad for VPNs covering half the screen.</p> <p>This happens every single time.</p> <p>So I built my own JSON formatter. If you're working with API keys, user data, or anything remotely sensitive, that should bother you.</p> <p>I've pasted production database exports into JSON formatters before without thinking twice.",
+        "summary": "I open the first Google result and get hit with a cookie banner, two pop-ups, and an ad for VPNs covering half the screen.</p> <p>This happens every single time.</p> <p>So I built my own JSON formatter. If you're working with API keys, user data, or anything remotely sensitive, that should bother you.</p> <p>I've pasted production database exports into JSON formatters before without thinking twice.",
+        "link": "https://dev.to/narender_singh_6c6e271c67/i-built-a-json-formatter-because-every-existing-one-has-ads-1ce3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-25T05:27:59.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "If you're working with API keys, user data, or anything remotely sensitive, that should bother you.</p> <p>I've pasted production database exports into JSON formatters before without thinking twice.",
+          "I open the first Google result and get hit with a cookie banner, two pop-ups, and an ad for VPNs covering half the screen.",
+          "Not because the world needed another one, but because I was tired of fighting through ad-infested tools just to add some whitespace to a JSON string."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-03-25T06:45:36.226Z",
+    "lastUpdated": "2026-03-25T06:45:36.226Z",
+    "visibleDate": "Mar 25, 2026",
+    "url": "pages/2026-03-25-064536226-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-03-25-064536226-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "5 Free Phone & Gadget Calculators",
+      "ChatGPT vs Claude：AI对话工具终极对比（2025）",
+      "I built 7"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include 5 Free Phone & Gadget Calculators, ChatGPT vs Claude：AI对话工具终极对比（20",
+    "tools": [
+      {
+        "name": "5 Free Phone & Gadget Calculators",
+        "slug": "5-free-phone-gadget-calculators",
+        "description": "We built them because the alternatives are either: Behind paywalls or app installs Carrier-specific and biased Overly complex for a simple question These tools give you fast, accurate, no-BS answers. These are questions we all have but rarely get precise answers to.</p> <p>We just launched <strong>5 new mobile &amp; gadget tools</strong> — all free, private, and browser-based.",
+        "summary": "We built them because the alternatives are either: Behind paywalls or app installs Carrier-specific and biased Overly complex for a simple question These tools give you fast, accurate, no-BS answers. These are questions we all have but rarely get precise answers to.</p> <p>We just launched <strong>5 new mobile &amp; gadget tools</strong> — all free, private, and browser-based.",
+        "link": "https://dev.to/teamzlab/5-free-phone-gadget-calculators-screen-time-storage-charging-data-depreciation-2d8m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-25T06:35:52.000Z",
+        "keywords": [
+          "tools",
+          "free",
+          "web",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "tools",
+          "free",
+          "web"
+        ],
+        "pros": [
+          "Great for tools",
+          "free-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for free workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "We built them because the alternatives are either: Behind paywalls or app installs Carrier-specific and biased Overly complex for a simple question These tools give you fast, accurate, no-BS answers.",
+          "These are questions we all have but rarely get precise answers to.</p> <p>We just launched <strong>5 new mobile &amp; gadget tools</strong> — all free, private, and browser-based.",
+          "Screen Time Lifetime Calculator </h2> <p>Ever wondered how many <strong>years</strong> of your life you'll spend staring at screens?</p> <p>Enter your daily phone, computer, and TV usage."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "ChatGPT vs Claude：AI对话工具终极对比（2025）",
+        "slug": "chatgpt-vs-claude-ai-2025",
+        "description": "ChatGPT vs Claude：AI对话工具终极对比（2025） 选择ChatGPT还是Claude？这篇文章帮你做决定。 特性 ChatGPT Claude 价格 中 高 学习曲线 平缓 陡峭 社区支持 强 中 易用性强 文档完善 社区活跃 性能更强 功能更丰富 企业级支持 《The Pragmatic Programmer》 - 程序员修炼之道 蓝光眼镜 - 长时间编程的眼睛保护 MacBook Air M3 - 开发者的生产力神器 根据你的需求选择： 初学者选ChatGPT 专业开发者选Claude 通过链接购买支持我的创作",
+        "summary": "ChatGPT vs Claude：AI对话工具终极对比（2025） 选择ChatGPT还是Claude？这篇文章帮你做决定。 特性 ChatGPT Claude 价格 中 高 学习曲线 平缓 陡峭 社区支持 强 中 易用性强 文档完善 社区活跃 性能更强 功能更丰富 企业级支持 《The Pragmatic Programmer》 - 程序员修炼之道 蓝光眼镜 - 长时间编程的眼睛保护 MacBook Air M3 - 开发者的生产力神器 根据你的需求选择： 初学者选ChatGPT 专业开发者选Claude 通过链接购买支持我的创作",
+        "link": "https://dev.to/maquankun/chatgpt-vs-claudeaidui-hua-gong-ju-zhong-ji-dui-bi-2025-md4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-25T06:00:03.000Z",
+        "keywords": [
+          "comparison",
+          "tools",
+          "review",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "comparison",
+          "tools",
+          "review"
+        ],
+        "pros": [
+          "Great for comparison",
+          "tools-ready automation",
+          "Great for comparison"
+        ],
+        "cons": [
+          "Overkill for comparison experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for comparison experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built 7",
+        "slug": "i-built-7",
+        "description": "The hash generator uses SubtleCrypto.digest(), the diff checker uses a longest common subsequence algorithm, the CSV parser handles quoted fields and custom delimiters. Meta tag generator - Fills in og:title, og:description, twitter:card, and all the other tags you forget exist until your link preview looks broken on LinkedIn.",
+        "summary": "The hash generator uses SubtleCrypto.digest(), the diff checker uses a longest common subsequence algorithm, the CSV parser handles quoted fields and custom delimiters. Meta tag generator - Fills in og:title, og:description, twitter:card, and all the other tags you forget exist until your link preview looks broken on LinkedIn.",
+        "link": "https://dev.to/narender_singh_6c6e271c67/i-built-7-browser-only-dev-tools-because-i-got-tired-of-ads-and-data-collection-n5b",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-25T05:57:00.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Meta tag generator - Fills in og:title, og:description, twitter:card, and all the other tags you forget exist until your link preview looks broken on LinkedIn.",
+          "The hash generator uses SubtleCrypto.digest(), the diff checker uses a longest common subsequence algorithm, the CSV parser handles quoted fields and custom delimiters.",
+          "Cookie banners, ads covering half the page, and that nagging feeling that my data just got sent to someone's server.</p> <p>So I built my own versions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Implementing automatic eSIM",
+        "slug": "implementing-automatic-esim",
+        "description": "Article URL: https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb Comments URL: https://news.ycombinator.com/item?id=47513728 Points: 11 # Comments: 0",
+        "summary": "Article URL: https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb Comments URL: https://news.ycombinator.com/item?id=47513728 Points: 11 # Comments: 0",
+        "link": "https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb",
+        "source": "Hacker News",
+        "isoDate": "2026-03-25T05:42:09.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-03-25T06:45:36.226Z",
+    "lastUpdated": "2026-03-25T06:45:36.226Z",
+    "visibleDate": "Mar 25, 2026",
+    "url": "pages/2026-03-25-064536226-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-03-25-064536226-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "5 Free Phone & Gadget Calculators",
+      "ChatGPT vs Claude：AI对话工具终极对比（2025）"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include 5 Free Phone & Gadget Calculators, ChatGPT vs Cla",
+    "tools": [
+      {
+        "name": "5 Free Phone & Gadget Calculators",
+        "slug": "5-free-phone-gadget-calculators",
+        "description": "We built them because the alternatives are either: Behind paywalls or app installs Carrier-specific and biased Overly complex for a simple question These tools give you fast, accurate, no-BS answers. These are questions we all have but rarely get precise answers to.</p> <p>We just launched <strong>5 new mobile &amp; gadget tools</strong> — all free, private, and browser-based.",
+        "summary": "We built them because the alternatives are either: Behind paywalls or app installs Carrier-specific and biased Overly complex for a simple question These tools give you fast, accurate, no-BS answers. These are questions we all have but rarely get precise answers to.</p> <p>We just launched <strong>5 new mobile &amp; gadget tools</strong> — all free, private, and browser-based.",
+        "link": "https://dev.to/teamzlab/5-free-phone-gadget-calculators-screen-time-storage-charging-data-depreciation-2d8m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-25T06:35:52.000Z",
+        "keywords": [
+          "tools",
+          "free",
+          "web",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "tools",
+          "free",
+          "web"
+        ],
+        "pros": [
+          "Great for tools",
+          "free-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for free workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "We built them because the alternatives are either: Behind paywalls or app installs Carrier-specific and biased Overly complex for a simple question These tools give you fast, accurate, no-BS answers.",
+          "These are questions we all have but rarely get precise answers to.</p> <p>We just launched <strong>5 new mobile &amp; gadget tools</strong> — all free, private, and browser-based.",
+          "Screen Time Lifetime Calculator </h2> <p>Ever wondered how many <strong>years</strong> of your life you'll spend staring at screens?</p> <p>Enter your daily phone, computer, and TV usage."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "ChatGPT vs Claude：AI对话工具终极对比（2025）",
+        "slug": "chatgpt-vs-claude-ai-2025",
+        "description": "ChatGPT vs Claude：AI对话工具终极对比（2025） 选择ChatGPT还是Claude？这篇文章帮你做决定。 特性 ChatGPT Claude 价格 中 高 学习曲线 平缓 陡峭 社区支持 强 中 易用性强 文档完善 社区活跃 性能更强 功能更丰富 企业级支持 《The Pragmatic Programmer》 - 程序员修炼之道 蓝光眼镜 - 长时间编程的眼睛保护 MacBook Air M3 - 开发者的生产力神器 根据你的需求选择： 初学者选ChatGPT 专业开发者选Claude 通过链接购买支持我的创作",
+        "summary": "ChatGPT vs Claude：AI对话工具终极对比（2025） 选择ChatGPT还是Claude？这篇文章帮你做决定。 特性 ChatGPT Claude 价格 中 高 学习曲线 平缓 陡峭 社区支持 强 中 易用性强 文档完善 社区活跃 性能更强 功能更丰富 企业级支持 《The Pragmatic Programmer》 - 程序员修炼之道 蓝光眼镜 - 长时间编程的眼睛保护 MacBook Air M3 - 开发者的生产力神器 根据你的需求选择： 初学者选ChatGPT 专业开发者选Claude 通过链接购买支持我的创作",
+        "link": "https://dev.to/maquankun/chatgpt-vs-claudeaidui-hua-gong-ju-zhong-ji-dui-bi-2025-md4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-25T06:00:03.000Z",
+        "keywords": [
+          "comparison",
+          "tools",
+          "review",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "comparison",
+          "tools",
+          "review"
+        ],
+        "pros": [
+          "Great for comparison",
+          "tools-ready automation",
+          "Great for comparison"
+        ],
+        "cons": [
+          "Overkill for comparison experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for comparison experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-03-25T06:45:36.226Z",
+    "lastUpdated": "2026-03-25T06:45:36.226Z",
+    "visibleDate": "Mar 25, 2026",
+    "url": "pages/2026-03-25-064536226-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-03-25-064536226-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "5 Free Phone & Gadget Calculators",
+      "ChatGPT vs Claude：AI对话工具终极对比（2025）",
+      "I built 7"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include 5 Free Phone & Gadget Calculators, ChatGPT vs Claude：AI对话工具终极对比（2025）, I",
+    "tools": [
+      {
+        "name": "5 Free Phone & Gadget Calculators",
+        "slug": "5-free-phone-gadget-calculators",
+        "description": "We built them because the alternatives are either: Behind paywalls or app installs Carrier-specific and biased Overly complex for a simple question These tools give you fast, accurate, no-BS answers. These are questions we all have but rarely get precise answers to.</p> <p>We just launched <strong>5 new mobile &amp; gadget tools</strong> — all free, private, and browser-based.",
+        "summary": "We built them because the alternatives are either: Behind paywalls or app installs Carrier-specific and biased Overly complex for a simple question These tools give you fast, accurate, no-BS answers. These are questions we all have but rarely get precise answers to.</p> <p>We just launched <strong>5 new mobile &amp; gadget tools</strong> — all free, private, and browser-based.",
+        "link": "https://dev.to/teamzlab/5-free-phone-gadget-calculators-screen-time-storage-charging-data-depreciation-2d8m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-25T06:35:52.000Z",
+        "keywords": [
+          "tools",
+          "free",
+          "web",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "tools",
+          "free",
+          "web"
+        ],
+        "pros": [
+          "Great for tools",
+          "free-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for free workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "We built them because the alternatives are either: Behind paywalls or app installs Carrier-specific and biased Overly complex for a simple question These tools give you fast, accurate, no-BS answers.",
+          "These are questions we all have but rarely get precise answers to.</p> <p>We just launched <strong>5 new mobile &amp; gadget tools</strong> — all free, private, and browser-based.",
+          "Screen Time Lifetime Calculator </h2> <p>Ever wondered how many <strong>years</strong> of your life you'll spend staring at screens?</p> <p>Enter your daily phone, computer, and TV usage."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "ChatGPT vs Claude：AI对话工具终极对比（2025）",
+        "slug": "chatgpt-vs-claude-ai-2025",
+        "description": "ChatGPT vs Claude：AI对话工具终极对比（2025） 选择ChatGPT还是Claude？这篇文章帮你做决定。 特性 ChatGPT Claude 价格 中 高 学习曲线 平缓 陡峭 社区支持 强 中 易用性强 文档完善 社区活跃 性能更强 功能更丰富 企业级支持 《The Pragmatic Programmer》 - 程序员修炼之道 蓝光眼镜 - 长时间编程的眼睛保护 MacBook Air M3 - 开发者的生产力神器 根据你的需求选择： 初学者选ChatGPT 专业开发者选Claude 通过链接购买支持我的创作",
+        "summary": "ChatGPT vs Claude：AI对话工具终极对比（2025） 选择ChatGPT还是Claude？这篇文章帮你做决定。 特性 ChatGPT Claude 价格 中 高 学习曲线 平缓 陡峭 社区支持 强 中 易用性强 文档完善 社区活跃 性能更强 功能更丰富 企业级支持 《The Pragmatic Programmer》 - 程序员修炼之道 蓝光眼镜 - 长时间编程的眼睛保护 MacBook Air M3 - 开发者的生产力神器 根据你的需求选择： 初学者选ChatGPT 专业开发者选Claude 通过链接购买支持我的创作",
+        "link": "https://dev.to/maquankun/chatgpt-vs-claudeaidui-hua-gong-ju-zhong-ji-dui-bi-2025-md4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-25T06:00:03.000Z",
+        "keywords": [
+          "comparison",
+          "tools",
+          "review",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "comparison",
+          "tools",
+          "review"
+        ],
+        "pros": [
+          "Great for comparison",
+          "tools-ready automation",
+          "Great for comparison"
+        ],
+        "cons": [
+          "Overkill for comparison experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for comparison experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built 7",
+        "slug": "i-built-7",
+        "description": "The hash generator uses SubtleCrypto.digest(), the diff checker uses a longest common subsequence algorithm, the CSV parser handles quoted fields and custom delimiters. Meta tag generator - Fills in og:title, og:description, twitter:card, and all the other tags you forget exist until your link preview looks broken on LinkedIn.",
+        "summary": "The hash generator uses SubtleCrypto.digest(), the diff checker uses a longest common subsequence algorithm, the CSV parser handles quoted fields and custom delimiters. Meta tag generator - Fills in og:title, og:description, twitter:card, and all the other tags you forget exist until your link preview looks broken on LinkedIn.",
+        "link": "https://dev.to/narender_singh_6c6e271c67/i-built-7-browser-only-dev-tools-because-i-got-tired-of-ads-and-data-collection-n5b",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-25T05:57:00.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Meta tag generator - Fills in og:title, og:description, twitter:card, and all the other tags you forget exist until your link preview looks broken on LinkedIn.",
+          "The hash generator uses SubtleCrypto.digest(), the diff checker uses a longest common subsequence algorithm, the CSV parser handles quoted fields and custom delimiters.",
+          "Cookie banners, ads covering half the page, and that nagging feeling that my data just got sent to someone's server.</p> <p>So I built my own versions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-03-24T06:46:48.359Z",
     "lastUpdated": "2026-03-24T06:46:48.359Z",
     "visibleDate": "Mar 24, 2026",

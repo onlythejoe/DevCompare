@@ -7,6 +7,676 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-03-31T06:58:02.170Z",
+    "lastUpdated": "2026-03-31T06:58:02.170Z",
+    "visibleDate": "Mar 31, 2026",
+    "url": "pages/2026-03-31-065802170-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-03-31-065802170-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Webhook Testing Tools Compared (2026)",
+      "5 Free AI",
+      "2024年值得使用的5款AI工具"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Webhook Testing Tools Compared (2026), 5 Free AI, 2024年值得使用的5款AI工具. Produc",
+    "tools": [
+      {
+        "name": "Webhook Testing Tools Compared (2026)",
+        "slug": "webhook-testing-tools-compared-2026",
+        "description": "Built-in replay: HookCap No replay: webhook.site, Beeceptor, RequestBin, ngrok Response mocking lets you configure what your test endpoint returns (status code, headers, body). The replay and real-time features pay off when you are iterating on webhook handler code, not just inspecting payloads once.</p> <h3> Beeceptor </h3> <p><strong>What it is:</strong> Mock API and webhook interceptor.",
+        "summary": "Built-in replay: HookCap No replay: webhook.site, Beeceptor, RequestBin, ngrok Response mocking lets you configure what your test endpoint returns (status code, headers, body). The replay and real-time features pay off when you are iterating on webhook handler code, not just inspecting payloads once.</p> <h3> Beeceptor </h3> <p><strong>What it is:</strong> Mock API and webhook interceptor.",
+        "link": "https://dev.to/henry_hang/webhook-testing-tools-compared-2026-webhooksite-vs-hookcap-vs-beeceptor-vs-requestbin-vs-ngrok-3ple",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-31T06:48:58.000Z",
+        "keywords": [
+          "webhooks",
+          "devtools",
+          "testing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webhooks",
+          "devtools",
+          "testing"
+        ],
+        "pros": [
+          "Great for webhooks",
+          "devtools-ready automation",
+          "Great for webhooks"
+        ],
+        "cons": [
+          "Overkill for webhooks experiments",
+          "Needs extra setup for devtools workflows",
+          "Overkill for webhooks experiments"
+        ],
+        "highlights": [
+          "Built-in replay: HookCap No replay: webhook.site, Beeceptor, RequestBin, ngrok Response mocking lets you configure what your test endpoint returns (status code, headers, body).",
+          "This sounds minor, but when you are iterating through a cycle of \"trigger event, see payload, fix handler, trigger again,\" even a 2-3 second polling delay adds up across dozens of iterations.",
+          "It exposes your real local server, so you can set breakpoints and step through your handler.</p> <p><strong>\"I need API mocking plus webhook capture.\"</strong><br> Use Beeceptor."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 Free AI",
+        "slug": "5-free-ai",
+        "description": "It also supports voice cloning for paid tiers, but the free offering is substantial for most solo creators.</p> <p><strong>Best use case:</strong> Repurpose existing written blog posts into audio content automatically. Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot.",
+        "summary": "It also supports voice cloning for paid tiers, but the free offering is substantial for most solo creators.</p> <p><strong>Best use case:</strong> Repurpose existing written blog posts into audio content automatically. Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot.",
+        "link": "https://dev.to/kevin_hamburg/5-free-ai-tools-that-replace-expensive-software-in-2026-2l6n",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-31T06:07:51.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot.",
+          "When to use it: Anywhere you'd normally open ChatGPT for text-based tasks — writing, editing, coding assistance, structured data generation, or breaking down complex topics into plain language.",
+          "Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "2024年值得使用的5款AI工具",
+        "slug": "2024-5-ai",
+        "description": "ChatGPT ⭐ 4.8 </h2> <p>最强大的对话AI，适合文案写作、代码生成、问题解答</p> <p><strong>价格：</strong> 免费 / $20月付</p> <p><strong>适合人群：</strong> 程序员、写作者、研究人员</p> <h2> 2. Midjourney ⭐ 4.9 </h2> <p>AI图像生成工具，创意设计和视觉内容创作</p> <p><strong>价格：</strong> $10/月起</p> <p><strong>适合人群：</strong> 设计师、内容创作者</p> <h2> 3.",
+        "summary": "ChatGPT ⭐ 4.8 </h2> <p>最强大的对话AI，适合文案写作、代码生成、问题解答</p> <p><strong>价格：</strong> 免费 / $20月付</p> <p><strong>适合人群：</strong> 程序员、写作者、研究人员</p> <h2> 2. Midjourney ⭐ 4.9 </h2> <p>AI图像生成工具，创意设计和视觉内容创作</p> <p><strong>价格：</strong> $10/月起</p> <p><strong>适合人群：</strong> 设计师、内容创作者</p> <h2> 3.",
+        "link": "https://dev.to/maquankun/2024nian-zhi-de-shi-yong-de-5kuan-aigong-ju-4oih",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-31T06:00:03.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "developer",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "ChatGPT ⭐ 4.8 </h2> <p>最强大的对话AI，适合文案写作、代码生成、问题解答</p> <p><strong>价格：</strong> 免费 / $20月付</p> <p><strong>适合人群：</strong> 程序员、写作者、研究人员</p> <h2> 2.",
+          "Midjourney ⭐ 4.9 </h2> <p>AI图像生成工具，创意设计和视觉内容创作</p> <p><strong>价格：</strong> $10/月起</p> <p><strong>适合人群：</strong> 设计师、内容创作者</p> <h2> 3."
+        ],
+        "pricing": "Paid plans starting at $20",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Article URL: https://github.com/tihiera/raincast Comments URL: https://news.ycombinator.com/item?id=47583151 Points: 8 # Comments: 8",
+        "summary": "Article URL: https://github.com/tihiera/raincast Comments URL: https://news.ycombinator.com/item?id=47583151 Points: 8 # Comments: 8",
+        "link": "https://github.com/tihiera/raincast",
+        "source": "Hacker News",
+        "isoDate": "2026-03-31T05:39:41.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Google's 200M-parameter time-series",
+        "slug": "google-s-200m-parameter-time-series",
+        "description": "Article URL: https://github.com/google-research/timesfm Comments URL: https://news.ycombinator.com/item?id=47583045 Points: 47 # Comments: 21",
+        "summary": "Article URL: https://github.com/google-research/timesfm Comments URL: https://news.ycombinator.com/item?id=47583045 Points: 47 # Comments: 21",
+        "link": "https://github.com/google-research/timesfm",
+        "source": "Hacker News",
+        "isoDate": "2026-03-31T05:21:59.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-03-31T06:58:02.170Z",
+    "lastUpdated": "2026-03-31T06:58:02.170Z",
+    "visibleDate": "Mar 31, 2026",
+    "url": "pages/2026-03-31-065802170-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-03-31-065802170-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Webhook Testing Tools Compared (2026)",
+      "5 Free AI",
+      "2024年值得使用的5款AI工具"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Webhook Testing Tools Compared (2026), 5 Free AI, 2024年值得使用的5款AI工具",
+    "tools": [
+      {
+        "name": "Webhook Testing Tools Compared (2026)",
+        "slug": "webhook-testing-tools-compared-2026",
+        "description": "Built-in replay: HookCap No replay: webhook.site, Beeceptor, RequestBin, ngrok Response mocking lets you configure what your test endpoint returns (status code, headers, body). The replay and real-time features pay off when you are iterating on webhook handler code, not just inspecting payloads once.</p> <h3> Beeceptor </h3> <p><strong>What it is:</strong> Mock API and webhook interceptor.",
+        "summary": "Built-in replay: HookCap No replay: webhook.site, Beeceptor, RequestBin, ngrok Response mocking lets you configure what your test endpoint returns (status code, headers, body). The replay and real-time features pay off when you are iterating on webhook handler code, not just inspecting payloads once.</p> <h3> Beeceptor </h3> <p><strong>What it is:</strong> Mock API and webhook interceptor.",
+        "link": "https://dev.to/henry_hang/webhook-testing-tools-compared-2026-webhooksite-vs-hookcap-vs-beeceptor-vs-requestbin-vs-ngrok-3ple",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-31T06:48:58.000Z",
+        "keywords": [
+          "webhooks",
+          "devtools",
+          "testing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webhooks",
+          "devtools",
+          "testing"
+        ],
+        "pros": [
+          "Great for webhooks",
+          "devtools-ready automation",
+          "Great for webhooks"
+        ],
+        "cons": [
+          "Overkill for webhooks experiments",
+          "Needs extra setup for devtools workflows",
+          "Overkill for webhooks experiments"
+        ],
+        "highlights": [
+          "Built-in replay: HookCap No replay: webhook.site, Beeceptor, RequestBin, ngrok Response mocking lets you configure what your test endpoint returns (status code, headers, body).",
+          "This sounds minor, but when you are iterating through a cycle of \"trigger event, see payload, fix handler, trigger again,\" even a 2-3 second polling delay adds up across dozens of iterations.",
+          "It exposes your real local server, so you can set breakpoints and step through your handler.</p> <p><strong>\"I need API mocking plus webhook capture.\"</strong><br> Use Beeceptor."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 Free AI",
+        "slug": "5-free-ai",
+        "description": "It also supports voice cloning for paid tiers, but the free offering is substantial for most solo creators.</p> <p><strong>Best use case:</strong> Repurpose existing written blog posts into audio content automatically. Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot.",
+        "summary": "It also supports voice cloning for paid tiers, but the free offering is substantial for most solo creators.</p> <p><strong>Best use case:</strong> Repurpose existing written blog posts into audio content automatically. Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot.",
+        "link": "https://dev.to/kevin_hamburg/5-free-ai-tools-that-replace-expensive-software-in-2026-2l6n",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-31T06:07:51.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot.",
+          "When to use it: Anywhere you'd normally open ChatGPT for text-based tasks — writing, editing, coding assistance, structured data generation, or breaking down complex topics into plain language.",
+          "Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "2024年值得使用的5款AI工具",
+        "slug": "2024-5-ai",
+        "description": "ChatGPT ⭐ 4.8 </h2> <p>最强大的对话AI，适合文案写作、代码生成、问题解答</p> <p><strong>价格：</strong> 免费 / $20月付</p> <p><strong>适合人群：</strong> 程序员、写作者、研究人员</p> <h2> 2. Midjourney ⭐ 4.9 </h2> <p>AI图像生成工具，创意设计和视觉内容创作</p> <p><strong>价格：</strong> $10/月起</p> <p><strong>适合人群：</strong> 设计师、内容创作者</p> <h2> 3.",
+        "summary": "ChatGPT ⭐ 4.8 </h2> <p>最强大的对话AI，适合文案写作、代码生成、问题解答</p> <p><strong>价格：</strong> 免费 / $20月付</p> <p><strong>适合人群：</strong> 程序员、写作者、研究人员</p> <h2> 2. Midjourney ⭐ 4.9 </h2> <p>AI图像生成工具，创意设计和视觉内容创作</p> <p><strong>价格：</strong> $10/月起</p> <p><strong>适合人群：</strong> 设计师、内容创作者</p> <h2> 3.",
+        "link": "https://dev.to/maquankun/2024nian-zhi-de-shi-yong-de-5kuan-aigong-ju-4oih",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-31T06:00:03.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "developer",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "ChatGPT ⭐ 4.8 </h2> <p>最强大的对话AI，适合文案写作、代码生成、问题解答</p> <p><strong>价格：</strong> 免费 / $20月付</p> <p><strong>适合人群：</strong> 程序员、写作者、研究人员</p> <h2> 2.",
+          "Midjourney ⭐ 4.9 </h2> <p>AI图像生成工具，创意设计和视觉内容创作</p> <p><strong>价格：</strong> $10/月起</p> <p><strong>适合人群：</strong> 设计师、内容创作者</p> <h2> 3."
+        ],
+        "pricing": "Paid plans starting at $20",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Article URL: https://github.com/tihiera/raincast Comments URL: https://news.ycombinator.com/item?id=47583151 Points: 8 # Comments: 8",
+        "summary": "Article URL: https://github.com/tihiera/raincast Comments URL: https://news.ycombinator.com/item?id=47583151 Points: 8 # Comments: 8",
+        "link": "https://github.com/tihiera/raincast",
+        "source": "Hacker News",
+        "isoDate": "2026-03-31T05:39:41.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-03-31T06:58:02.170Z",
+    "lastUpdated": "2026-03-31T06:58:02.170Z",
+    "visibleDate": "Mar 31, 2026",
+    "url": "pages/2026-03-31-065802170-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-03-31-065802170-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Webhook Testing Tools Compared (2026)",
+      "5 Free AI"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Webhook Testing Tools Compared (2026), 5 Free AI.",
+    "tools": [
+      {
+        "name": "Webhook Testing Tools Compared (2026)",
+        "slug": "webhook-testing-tools-compared-2026",
+        "description": "Built-in replay: HookCap No replay: webhook.site, Beeceptor, RequestBin, ngrok Response mocking lets you configure what your test endpoint returns (status code, headers, body). The replay and real-time features pay off when you are iterating on webhook handler code, not just inspecting payloads once.</p> <h3> Beeceptor </h3> <p><strong>What it is:</strong> Mock API and webhook interceptor.",
+        "summary": "Built-in replay: HookCap No replay: webhook.site, Beeceptor, RequestBin, ngrok Response mocking lets you configure what your test endpoint returns (status code, headers, body). The replay and real-time features pay off when you are iterating on webhook handler code, not just inspecting payloads once.</p> <h3> Beeceptor </h3> <p><strong>What it is:</strong> Mock API and webhook interceptor.",
+        "link": "https://dev.to/henry_hang/webhook-testing-tools-compared-2026-webhooksite-vs-hookcap-vs-beeceptor-vs-requestbin-vs-ngrok-3ple",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-31T06:48:58.000Z",
+        "keywords": [
+          "webhooks",
+          "devtools",
+          "testing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webhooks",
+          "devtools",
+          "testing"
+        ],
+        "pros": [
+          "Great for webhooks",
+          "devtools-ready automation",
+          "Great for webhooks"
+        ],
+        "cons": [
+          "Overkill for webhooks experiments",
+          "Needs extra setup for devtools workflows",
+          "Overkill for webhooks experiments"
+        ],
+        "highlights": [
+          "Built-in replay: HookCap No replay: webhook.site, Beeceptor, RequestBin, ngrok Response mocking lets you configure what your test endpoint returns (status code, headers, body).",
+          "This sounds minor, but when you are iterating through a cycle of \"trigger event, see payload, fix handler, trigger again,\" even a 2-3 second polling delay adds up across dozens of iterations.",
+          "It exposes your real local server, so you can set breakpoints and step through your handler.</p> <p><strong>\"I need API mocking plus webhook capture.\"</strong><br> Use Beeceptor."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 Free AI",
+        "slug": "5-free-ai",
+        "description": "It also supports voice cloning for paid tiers, but the free offering is substantial for most solo creators.</p> <p><strong>Best use case:</strong> Repurpose existing written blog posts into audio content automatically. Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot.",
+        "summary": "It also supports voice cloning for paid tiers, but the free offering is substantial for most solo creators.</p> <p><strong>Best use case:</strong> Repurpose existing written blog posts into audio content automatically. Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot.",
+        "link": "https://dev.to/kevin_hamburg/5-free-ai-tools-that-replace-expensive-software-in-2026-2l6n",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-31T06:07:51.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot.",
+          "When to use it: Anywhere you'd normally open ChatGPT for text-based tasks — writing, editing, coding assistance, structured data generation, or breaking down complex topics into plain language.",
+          "Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-03-31T06:58:02.170Z",
+    "lastUpdated": "2026-03-31T06:58:02.170Z",
+    "visibleDate": "Mar 31, 2026",
+    "url": "pages/2026-03-31-065802170-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-03-31-065802170-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Webhook Testing Tools Compared (2026)",
+      "5 Free AI",
+      "2024年值得使用的5款AI工具"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Webhook Testing Tools Compared (2026), 5 Free AI, 2024年值得使用的5款AI工具. New ",
+    "tools": [
+      {
+        "name": "Webhook Testing Tools Compared (2026)",
+        "slug": "webhook-testing-tools-compared-2026",
+        "description": "Built-in replay: HookCap No replay: webhook.site, Beeceptor, RequestBin, ngrok Response mocking lets you configure what your test endpoint returns (status code, headers, body). The replay and real-time features pay off when you are iterating on webhook handler code, not just inspecting payloads once.</p> <h3> Beeceptor </h3> <p><strong>What it is:</strong> Mock API and webhook interceptor.",
+        "summary": "Built-in replay: HookCap No replay: webhook.site, Beeceptor, RequestBin, ngrok Response mocking lets you configure what your test endpoint returns (status code, headers, body). The replay and real-time features pay off when you are iterating on webhook handler code, not just inspecting payloads once.</p> <h3> Beeceptor </h3> <p><strong>What it is:</strong> Mock API and webhook interceptor.",
+        "link": "https://dev.to/henry_hang/webhook-testing-tools-compared-2026-webhooksite-vs-hookcap-vs-beeceptor-vs-requestbin-vs-ngrok-3ple",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-31T06:48:58.000Z",
+        "keywords": [
+          "webhooks",
+          "devtools",
+          "testing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webhooks",
+          "devtools",
+          "testing"
+        ],
+        "pros": [
+          "Great for webhooks",
+          "devtools-ready automation",
+          "Great for webhooks"
+        ],
+        "cons": [
+          "Overkill for webhooks experiments",
+          "Needs extra setup for devtools workflows",
+          "Overkill for webhooks experiments"
+        ],
+        "highlights": [
+          "Built-in replay: HookCap No replay: webhook.site, Beeceptor, RequestBin, ngrok Response mocking lets you configure what your test endpoint returns (status code, headers, body).",
+          "This sounds minor, but when you are iterating through a cycle of \"trigger event, see payload, fix handler, trigger again,\" even a 2-3 second polling delay adds up across dozens of iterations.",
+          "It exposes your real local server, so you can set breakpoints and step through your handler.</p> <p><strong>\"I need API mocking plus webhook capture.\"</strong><br> Use Beeceptor."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 Free AI",
+        "slug": "5-free-ai",
+        "description": "It also supports voice cloning for paid tiers, but the free offering is substantial for most solo creators.</p> <p><strong>Best use case:</strong> Repurpose existing written blog posts into audio content automatically. Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot.",
+        "summary": "It also supports voice cloning for paid tiers, but the free offering is substantial for most solo creators.</p> <p><strong>Best use case:</strong> Repurpose existing written blog posts into audio content automatically. Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot.",
+        "link": "https://dev.to/kevin_hamburg/5-free-ai-tools-that-replace-expensive-software-in-2026-2l6n",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-31T06:07:51.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot.",
+          "When to use it: Anywhere you'd normally open ChatGPT for text-based tasks — writing, editing, coding assistance, structured data generation, or breaking down complex topics into plain language.",
+          "Perplexity AI's free tier gives you a real-time AI-powered search engine that cites sources, summarises academic papers, and answers complex research questions with links you can verify on the spot."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "2024年值得使用的5款AI工具",
+        "slug": "2024-5-ai",
+        "description": "ChatGPT ⭐ 4.8 </h2> <p>最强大的对话AI，适合文案写作、代码生成、问题解答</p> <p><strong>价格：</strong> 免费 / $20月付</p> <p><strong>适合人群：</strong> 程序员、写作者、研究人员</p> <h2> 2. Midjourney ⭐ 4.9 </h2> <p>AI图像生成工具，创意设计和视觉内容创作</p> <p><strong>价格：</strong> $10/月起</p> <p><strong>适合人群：</strong> 设计师、内容创作者</p> <h2> 3.",
+        "summary": "ChatGPT ⭐ 4.8 </h2> <p>最强大的对话AI，适合文案写作、代码生成、问题解答</p> <p><strong>价格：</strong> 免费 / $20月付</p> <p><strong>适合人群：</strong> 程序员、写作者、研究人员</p> <h2> 2. Midjourney ⭐ 4.9 </h2> <p>AI图像生成工具，创意设计和视觉内容创作</p> <p><strong>价格：</strong> $10/月起</p> <p><strong>适合人群：</strong> 设计师、内容创作者</p> <h2> 3.",
+        "link": "https://dev.to/maquankun/2024nian-zhi-de-shi-yong-de-5kuan-aigong-ju-4oih",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-03-31T06:00:03.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "developer",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "ChatGPT ⭐ 4.8 </h2> <p>最强大的对话AI，适合文案写作、代码生成、问题解答</p> <p><strong>价格：</strong> 免费 / $20月付</p> <p><strong>适合人群：</strong> 程序员、写作者、研究人员</p> <h2> 2.",
+          "Midjourney ⭐ 4.9 </h2> <p>AI图像生成工具，创意设计和视觉内容创作</p> <p><strong>价格：</strong> $10/月起</p> <p><strong>适合人群：</strong> 设计师、内容创作者</p> <h2> 3."
+        ],
+        "pricing": "Paid plans starting at $20",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-03-30T07:11:25.380Z",
     "lastUpdated": "2026-03-30T07:11:25.380Z",
     "visibleDate": "Mar 30, 2026",

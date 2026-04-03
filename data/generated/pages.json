@@ -7,6 +7,669 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-04-03T06:53:08.696Z",
+    "lastUpdated": "2026-04-03T06:53:08.696Z",
+    "visibleDate": "Apr 3, 2026",
+    "url": "pages/2026-04-03-065308696-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-04-03-065308696-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Seizing the means",
+      "Pentagon Pete's Bigoted",
+      "Estimate Your Solar"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Seizing the means, Pentagon Pete's Bigoted, Estimate Your Solar. Productiv",
+    "tools": [
+      {
+        "name": "Seizing the means",
+        "slug": "seizing-the-means",
+        "description": "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world. Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world.",
+        "summary": "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world. Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world.",
+        "link": "https://stackoverflow.blog/2026/04/03/seizing-the-means-of-messenger-production/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-04-03T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "digital-sovereignty",
+          "ai",
+          "decentralized"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [
+          "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world.",
+          "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Pentagon Pete's Bigoted",
+        "slug": "pentagon-pete-s-bigoted",
+        "description": "Article URL: https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/ Comments URL: https://news.ycombinator.com/item?id=47623665 Points: 9 # Comments: 0",
+        "summary": "Article URL: https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/ Comments URL: https://news.ycombinator.com/item?id=47623665 Points: 9 # Comments: 0",
+        "link": "https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/",
+        "source": "Hacker News",
+        "isoDate": "2026-04-03T06:08:12.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Estimate Your Solar",
+        "slug": "estimate-your-solar",
+        "description": "Replacing a 15-year-old HVAC system or a second refrigerator in the garage might reduce your annual consumption by 2,000+ kWh, which changes the optimal solar system size and improves your payback math. The national average sits around $0.16/kWh according to the <a href=\"https://www.eia.gov/electricity/monthly/\" rel=\"noopener noreferrer\">EIA Electric Power Monthly</a>, but rates vary enormously.",
+        "summary": "Replacing a 15-year-old HVAC system or a second refrigerator in the garage might reduce your annual consumption by 2,000+ kWh, which changes the optimal solar system size and improves your payback math. The national average sits around $0.16/kWh according to the <a href=\"https://www.eia.gov/electricity/monthly/\" rel=\"noopener noreferrer\">EIA Electric Power Monthly</a>, but rates vary enormously.",
+        "link": "https://dev.to/evvytools/estimate-your-solar-panel-payback-period-using-your-actual-electricity-data-1g6g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-03T03:37:23.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "kwh"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The national average sits around $0.16/kWh according to the <a href=\"https://www.eia.gov/electricity/monthly/\" rel=\"noopener noreferrer\">EIA Electric Power Monthly</a>, but rates vary enormously.",
+          "The Lawrence Berkeley National Laboratory's Tracking the Sun dataset publishes actual installed system costs by state and year, so you can benchmark your quote against real transaction data.",
+          "Enter your annual kWh usage, current rate, system size, and cost, and it returns your estimated payback period, 25-year savings projection, and monthly savings breakdown."
+        ],
+        "pricing": "Paid plans starting at $18",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Build",
+        "slug": "how-to-build",
+        "description": "If your budget assumes a fixed number for electricity every month, you are either over-allocating money you could use elsewhere or, worse, coming up short during peak cooling and heating months. Enter your monthly take-home income, list your fixed costs (rent, insurance, car payment, subscriptions), and then set your utility line item to your high-season average, not your annual average.",
+        "summary": "If your budget assumes a fixed number for electricity every month, you are either over-allocating money you could use elsewhere or, worse, coming up short during peak cooling and heating months. Enter your monthly take-home income, list your fixed costs (rent, insurance, car payment, subscriptions), and then set your utility line item to your high-season average, not your annual average.",
+        "link": "https://dev.to/evvytools/how-to-build-a-monthly-budget-that-handles-wildly-unpredictable-utility-bills-5a5j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-03T03:37:21.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "months"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "If your budget assumes a fixed number for electricity every month, you are either over-allocating money you could use elsewhere or, worse, coming up short during peak cooling and heating months.",
+          "Enter your monthly take-home income, list your fixed costs (rent, insurance, car payment, subscriptions), and then set your utility line item to your high-season average, not your annual average.",
+          "If your budget assumes a fixed number for electricity every month, you are either over-allocating money you could use elsewhere or, worse, coming up short during peak cooling and heating months."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "2025年开发者必备的10款工具（亲测好用）",
+        "slug": "2025-10",
+        "description": "蓝光眼镜 - 长时间编程的眼睛保护 MacBook Air M3 - 开发者的生产力神器 USB-C 扩展坞 - 解决接口不足的烦恼 从免费工具开始 逐步升级专业版 形成工作流 持续更新，关注获取最新工具推荐 <h1> 2025年开发者必备的10款工具（亲测好用） </h1> <p>作为开发者，这些工具让我效率翻倍。程序员必备的生产力工具，建议你收藏。</p> <h2> 工具清单 </h2> <h3> 1. 2025年开发者必备的10款工具（亲测好用） 作为开发者，这些工具让我效率翻倍。程序员必备的生产力工具，建议你收藏。 详细推荐...",
+        "summary": "蓝光眼镜 - 长时间编程的眼睛保护 MacBook Air M3 - 开发者的生产力神器 USB-C 扩展坞 - 解决接口不足的烦恼 从免费工具开始 逐步升级专业版 形成工作流 持续更新，关注获取最新工具推荐 <h1> 2025年开发者必备的10款工具（亲测好用） </h1> <p>作为开发者，这些工具让我效率翻倍。程序员必备的生产力工具，建议你收藏。</p> <h2> 工具清单 </h2> <h3> 1. 2025年开发者必备的10款工具（亲测好用） 作为开发者，这些工具让我效率翻倍。程序员必备的生产力工具，建议你收藏。 详细推荐...",
+        "link": "https://dev.to/maquankun/2025nian-kai-fa-zhe-bi-bei-de-10kuan-gong-ju-qin-ce-hao-yong--30fh",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-03T03:00:02.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "recommendations",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "recommendations"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "2025年开发者必备的10款工具（亲测好用） 作为开发者，这些工具让我效率翻倍。程序员必备的生产力工具，建议你收藏。 详细推荐..."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-04-03T06:53:08.696Z",
+    "lastUpdated": "2026-04-03T06:53:08.696Z",
+    "visibleDate": "Apr 3, 2026",
+    "url": "pages/2026-04-03-065308696-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-04-03-065308696-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Seizing the means",
+      "Pentagon Pete's Bigoted",
+      "Estimate Your Solar"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Seizing the means, Pentagon Pete's Bigoted, Estimate Your Solar. R",
+    "tools": [
+      {
+        "name": "Seizing the means",
+        "slug": "seizing-the-means",
+        "description": "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world. Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world.",
+        "summary": "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world. Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world.",
+        "link": "https://stackoverflow.blog/2026/04/03/seizing-the-means-of-messenger-production/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-04-03T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "digital-sovereignty",
+          "ai",
+          "decentralized"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [
+          "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world.",
+          "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Pentagon Pete's Bigoted",
+        "slug": "pentagon-pete-s-bigoted",
+        "description": "Article URL: https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/ Comments URL: https://news.ycombinator.com/item?id=47623665 Points: 9 # Comments: 0",
+        "summary": "Article URL: https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/ Comments URL: https://news.ycombinator.com/item?id=47623665 Points: 9 # Comments: 0",
+        "link": "https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/",
+        "source": "Hacker News",
+        "isoDate": "2026-04-03T06:08:12.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Estimate Your Solar",
+        "slug": "estimate-your-solar",
+        "description": "Replacing a 15-year-old HVAC system or a second refrigerator in the garage might reduce your annual consumption by 2,000+ kWh, which changes the optimal solar system size and improves your payback math. The national average sits around $0.16/kWh according to the <a href=\"https://www.eia.gov/electricity/monthly/\" rel=\"noopener noreferrer\">EIA Electric Power Monthly</a>, but rates vary enormously.",
+        "summary": "Replacing a 15-year-old HVAC system or a second refrigerator in the garage might reduce your annual consumption by 2,000+ kWh, which changes the optimal solar system size and improves your payback math. The national average sits around $0.16/kWh according to the <a href=\"https://www.eia.gov/electricity/monthly/\" rel=\"noopener noreferrer\">EIA Electric Power Monthly</a>, but rates vary enormously.",
+        "link": "https://dev.to/evvytools/estimate-your-solar-panel-payback-period-using-your-actual-electricity-data-1g6g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-03T03:37:23.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "kwh"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The national average sits around $0.16/kWh according to the <a href=\"https://www.eia.gov/electricity/monthly/\" rel=\"noopener noreferrer\">EIA Electric Power Monthly</a>, but rates vary enormously.",
+          "The Lawrence Berkeley National Laboratory's Tracking the Sun dataset publishes actual installed system costs by state and year, so you can benchmark your quote against real transaction data.",
+          "Enter your annual kWh usage, current rate, system size, and cost, and it returns your estimated payback period, 25-year savings projection, and monthly savings breakdown."
+        ],
+        "pricing": "Paid plans starting at $18",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Build",
+        "slug": "how-to-build",
+        "description": "If your budget assumes a fixed number for electricity every month, you are either over-allocating money you could use elsewhere or, worse, coming up short during peak cooling and heating months. Enter your monthly take-home income, list your fixed costs (rent, insurance, car payment, subscriptions), and then set your utility line item to your high-season average, not your annual average.",
+        "summary": "If your budget assumes a fixed number for electricity every month, you are either over-allocating money you could use elsewhere or, worse, coming up short during peak cooling and heating months. Enter your monthly take-home income, list your fixed costs (rent, insurance, car payment, subscriptions), and then set your utility line item to your high-season average, not your annual average.",
+        "link": "https://dev.to/evvytools/how-to-build-a-monthly-budget-that-handles-wildly-unpredictable-utility-bills-5a5j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-03T03:37:21.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "months"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "If your budget assumes a fixed number for electricity every month, you are either over-allocating money you could use elsewhere or, worse, coming up short during peak cooling and heating months.",
+          "Enter your monthly take-home income, list your fixed costs (rent, insurance, car payment, subscriptions), and then set your utility line item to your high-season average, not your annual average.",
+          "If your budget assumes a fixed number for electricity every month, you are either over-allocating money you could use elsewhere or, worse, coming up short during peak cooling and heating months."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-04-03T06:53:08.696Z",
+    "lastUpdated": "2026-04-03T06:53:08.696Z",
+    "visibleDate": "Apr 3, 2026",
+    "url": "pages/2026-04-03-065308696-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-04-03-065308696-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Seizing the means",
+      "Pentagon Pete's Bigoted"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Seizing the means, Pentagon Pete's Bigoted. Gitpo",
+    "tools": [
+      {
+        "name": "Seizing the means",
+        "slug": "seizing-the-means",
+        "description": "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world. Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world.",
+        "summary": "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world. Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world.",
+        "link": "https://stackoverflow.blog/2026/04/03/seizing-the-means-of-messenger-production/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-04-03T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "digital-sovereignty",
+          "ai",
+          "decentralized"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [
+          "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world.",
+          "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Pentagon Pete's Bigoted",
+        "slug": "pentagon-pete-s-bigoted",
+        "description": "Article URL: https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/ Comments URL: https://news.ycombinator.com/item?id=47623665 Points: 9 # Comments: 0",
+        "summary": "Article URL: https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/ Comments URL: https://news.ycombinator.com/item?id=47623665 Points: 9 # Comments: 0",
+        "link": "https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/",
+        "source": "Hacker News",
+        "isoDate": "2026-04-03T06:08:12.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-04-03T06:53:08.696Z",
+    "lastUpdated": "2026-04-03T06:53:08.696Z",
+    "visibleDate": "Apr 3, 2026",
+    "url": "pages/2026-04-03-065308696-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-04-03-065308696-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Seizing the means",
+      "Pentagon Pete's Bigoted",
+      "Estimate Your Solar"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Seizing the means, Pentagon Pete's Bigoted, Estimate Your Solar. New lau",
+    "tools": [
+      {
+        "name": "Seizing the means",
+        "slug": "seizing-the-means",
+        "description": "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world. Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world.",
+        "summary": "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world. Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world.",
+        "link": "https://stackoverflow.blog/2026/04/03/seizing-the-means-of-messenger-production/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-04-03T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "digital-sovereignty",
+          "ai",
+          "decentralized"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [
+          "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world.",
+          "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Pentagon Pete's Bigoted",
+        "slug": "pentagon-pete-s-bigoted",
+        "description": "Article URL: https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/ Comments URL: https://news.ycombinator.com/item?id=47623665 Points: 9 # Comments: 0",
+        "summary": "Article URL: https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/ Comments URL: https://news.ycombinator.com/item?id=47623665 Points: 9 # Comments: 0",
+        "link": "https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/",
+        "source": "Hacker News",
+        "isoDate": "2026-04-03T06:08:12.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Estimate Your Solar",
+        "slug": "estimate-your-solar",
+        "description": "Replacing a 15-year-old HVAC system or a second refrigerator in the garage might reduce your annual consumption by 2,000+ kWh, which changes the optimal solar system size and improves your payback math. The national average sits around $0.16/kWh according to the <a href=\"https://www.eia.gov/electricity/monthly/\" rel=\"noopener noreferrer\">EIA Electric Power Monthly</a>, but rates vary enormously.",
+        "summary": "Replacing a 15-year-old HVAC system or a second refrigerator in the garage might reduce your annual consumption by 2,000+ kWh, which changes the optimal solar system size and improves your payback math. The national average sits around $0.16/kWh according to the <a href=\"https://www.eia.gov/electricity/monthly/\" rel=\"noopener noreferrer\">EIA Electric Power Monthly</a>, but rates vary enormously.",
+        "link": "https://dev.to/evvytools/estimate-your-solar-panel-payback-period-using-your-actual-electricity-data-1g6g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-03T03:37:23.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "kwh"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The national average sits around $0.16/kWh according to the <a href=\"https://www.eia.gov/electricity/monthly/\" rel=\"noopener noreferrer\">EIA Electric Power Monthly</a>, but rates vary enormously.",
+          "The Lawrence Berkeley National Laboratory's Tracking the Sun dataset publishes actual installed system costs by state and year, so you can benchmark your quote against real transaction data.",
+          "Enter your annual kWh usage, current rate, system size, and cost, and it returns your estimated payback period, 25-year savings projection, and monthly savings breakdown."
+        ],
+        "pricing": "Paid plans starting at $18",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-04-02T06:56:10.088Z",
     "lastUpdated": "2026-04-02T06:56:10.088Z",
     "visibleDate": "Apr 2, 2026",

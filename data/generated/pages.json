@@ -7,6 +7,663 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-04-04T06:42:26.794Z",
+    "lastUpdated": "2026-04-04T06:42:26.794Z",
+    "visibleDate": "Apr 4, 2026",
+    "url": "pages/2026-04-04-064226794-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-04-04-064226794-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Cursor vs Claude Code vs GitHub Copilot",
+      "Scientists are working",
+      "Naming rights to"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Cursor vs Claude Code vs GitHub Copilot, Scientists are working, Naming ri",
+    "tools": [
+      {
+        "name": "Cursor vs Claude Code vs GitHub Copilot",
+        "slug": "cursor-vs-claude-code-vs-github-copilot",
+        "description": "It sees your whole project, not just the open file.</p> <p>Composer mode is where Cursor shines — describe a change in natural language and it generates a multi-file diff you can review and apply. <p> <iframe src=\"https://www.youtube.com/embed/S2dtTuDq218\"> </iframe> </p> <p>I've used all three of these tools on real projects — not toy demos, not benchmarks.",
+        "summary": "It sees your whole project, not just the open file.</p> <p>Composer mode is where Cursor shines — describe a change in natural language and it generates a multi-file diff you can review and apply. <p> <iframe src=\"https://www.youtube.com/embed/S2dtTuDq218\"> </iframe> </p> <p>I've used all three of these tools on real projects — not toy demos, not benchmarks.",
+        "link": "https://dev.to/tyson_cung/cursor-vs-claude-code-vs-github-copilot-which-ai-coding-tool-is-actually-worth-it-4p78",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-04T06:39:47.000Z",
+        "keywords": [
+          "ai",
+          "programming",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "programming",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "programming-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "It sees your whole project, not just the open file.</p> <p>Composer mode is where Cursor shines — describe a change in natural language and it generates a multi-file diff you can review and apply.",
+          "<p> <iframe src=\"https://www.youtube.com/embed/S2dtTuDq218\"> </iframe> </p> <p>I've used all three of these tools on real projects — not toy demos, not benchmarks.",
+          "Tedious stuff that doesn't require creative thinking — Copilot eats it for breakfast.</p> <p>Copilot Chat (the sidebar conversation mode) is decent for quick questions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://github.com?ref=XXXX"
+      },
+      {
+        "name": "Scientists are working",
+        "slug": "scientists-are-working",
+        "description": "Article URL: https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines Comments URL: https://news.ycombinator.com/item?id=47636203 Points: 5 # Comments: 2",
+        "summary": "Article URL: https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines Comments URL: https://news.ycombinator.com/item?id=47636203 Points: 5 # Comments: 2",
+        "link": "https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines",
+        "source": "Hacker News",
+        "isoDate": "2026-04-04T05:47:18.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Naming rights to",
+        "slug": "naming-rights-to",
+        "description": "Article URL: https://paintastreet.com/auction Comments URL: https://news.ycombinator.com/item?id=47635929 Points: 6 # Comments: 2",
+        "summary": "Article URL: https://paintastreet.com/auction Comments URL: https://news.ycombinator.com/item?id=47635929 Points: 6 # Comments: 2",
+        "link": "https://paintastreet.com/auction",
+        "source": "Hacker News",
+        "isoDate": "2026-04-04T04:59:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "6 Free Browser",
+        "slug": "6-free-browser",
+        "description": "Squoosh - built by the Google Chrome team - lets you compare compression settings and codecs (WebP, AVIF, MozJPEG, OxiPNG) side by side with a before/after slider showing the visual quality difference at each file size. This is not a standalone tool, but treating the browser's inspection panel as a proper design token debugger rather than just a CSS editor changes how you approach component styling during development.",
+        "summary": "Squoosh - built by the Google Chrome team - lets you compare compression settings and codecs (WebP, AVIF, MozJPEG, OxiPNG) side by side with a before/after slider showing the visual quality difference at each file size. This is not a standalone tool, but treating the browser's inspection panel as a proper design token debugger rather than just a CSS editor changes how you approach component styling during development.",
+        "link": "https://dev.to/evvytools/6-free-browser-tools-for-frontend-developers-worth-keeping-open-59cj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-04T04:38:36.000Z",
+        "keywords": [
+          "tools",
+          "webdev",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "tools",
+          "webdev",
+          "productivity"
+        ],
+        "pros": [
+          "Great for tools",
+          "webdev-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "These tools live in browser tabs and get used in the gaps: when you need to check a spec, generate boilerplate, or convert a value in the middle of building something else.",
+          "The MDN color value reference covers the full range of CSS color formats including newer additions like oklch and display-p3 that are landing in major browsers.",
+          "For debugging complex design token systems where one semantic token references a primitive token that references a raw value, Chrome's approach is more useful during active development."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Generate",
+        "slug": "how-to-generate",
+        "description": "Photo by Nemuel Sereti on Pexels CSS gradients, shadows, and blur effects have existed in browsers for years, but their adoption has been inconsistent because the syntax is verbose and error-prone to write by hand. A glassmorphism card needs blur, transparency, and border to land in the right combination or it looks wrong.</p> <p>The result is a lot of time spent looking up syntax rather than making design decisions.",
+        "summary": "Photo by Nemuel Sereti on Pexels CSS gradients, shadows, and blur effects have existed in browsers for years, but their adoption has been inconsistent because the syntax is verbose and error-prone to write by hand. A glassmorphism card needs blur, transparency, and border to land in the right combination or it looks wrong.</p> <p>The result is a lot of time spent looking up syntax rather than making design decisions.",
+        "link": "https://dev.to/evvytools/how-to-generate-complex-css-effects-without-writing-a-single-property-from-memory-2dhd",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-04T04:38:34.000Z",
+        "keywords": [
+          "tools",
+          "webdev",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "tools",
+          "webdev",
+          "productivity"
+        ],
+        "pros": [
+          "Great for tools",
+          "webdev-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "CSS gradients, box shadows, and glassmorphism effects are properties where the syntax is just inconvenient enough that most developers end up googling the exact format every single time.",
+          "<p>CSS gradients, box shadows, and glassmorphism effects are properties where the syntax is just inconvenient enough that most developers end up googling the exact format every single time.",
+          "For gradient colors specifically, if you are working from a design system built on CSS custom properties, replace the hardcoded hex values in the generated gradient with your token names."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-04-04T06:42:26.794Z",
+    "lastUpdated": "2026-04-04T06:42:26.794Z",
+    "visibleDate": "Apr 4, 2026",
+    "url": "pages/2026-04-04-064226794-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-04-04-064226794-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Cursor vs Claude Code vs GitHub Copilot",
+      "Scientists are working",
+      "Naming rights to"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Cursor vs Claude Code vs GitHub Copilot, Scientists are working, N",
+    "tools": [
+      {
+        "name": "Cursor vs Claude Code vs GitHub Copilot",
+        "slug": "cursor-vs-claude-code-vs-github-copilot",
+        "description": "It sees your whole project, not just the open file.</p> <p>Composer mode is where Cursor shines — describe a change in natural language and it generates a multi-file diff you can review and apply. <p> <iframe src=\"https://www.youtube.com/embed/S2dtTuDq218\"> </iframe> </p> <p>I've used all three of these tools on real projects — not toy demos, not benchmarks.",
+        "summary": "It sees your whole project, not just the open file.</p> <p>Composer mode is where Cursor shines — describe a change in natural language and it generates a multi-file diff you can review and apply. <p> <iframe src=\"https://www.youtube.com/embed/S2dtTuDq218\"> </iframe> </p> <p>I've used all three of these tools on real projects — not toy demos, not benchmarks.",
+        "link": "https://dev.to/tyson_cung/cursor-vs-claude-code-vs-github-copilot-which-ai-coding-tool-is-actually-worth-it-4p78",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-04T06:39:47.000Z",
+        "keywords": [
+          "ai",
+          "programming",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "programming",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "programming-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "It sees your whole project, not just the open file.</p> <p>Composer mode is where Cursor shines — describe a change in natural language and it generates a multi-file diff you can review and apply.",
+          "<p> <iframe src=\"https://www.youtube.com/embed/S2dtTuDq218\"> </iframe> </p> <p>I've used all three of these tools on real projects — not toy demos, not benchmarks.",
+          "Tedious stuff that doesn't require creative thinking — Copilot eats it for breakfast.</p> <p>Copilot Chat (the sidebar conversation mode) is decent for quick questions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://github.com?ref=XXXX"
+      },
+      {
+        "name": "Scientists are working",
+        "slug": "scientists-are-working",
+        "description": "Article URL: https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines Comments URL: https://news.ycombinator.com/item?id=47636203 Points: 5 # Comments: 2",
+        "summary": "Article URL: https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines Comments URL: https://news.ycombinator.com/item?id=47636203 Points: 5 # Comments: 2",
+        "link": "https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines",
+        "source": "Hacker News",
+        "isoDate": "2026-04-04T05:47:18.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Naming rights to",
+        "slug": "naming-rights-to",
+        "description": "Article URL: https://paintastreet.com/auction Comments URL: https://news.ycombinator.com/item?id=47635929 Points: 6 # Comments: 2",
+        "summary": "Article URL: https://paintastreet.com/auction Comments URL: https://news.ycombinator.com/item?id=47635929 Points: 6 # Comments: 2",
+        "link": "https://paintastreet.com/auction",
+        "source": "Hacker News",
+        "isoDate": "2026-04-04T04:59:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "6 Free Browser",
+        "slug": "6-free-browser",
+        "description": "Squoosh - built by the Google Chrome team - lets you compare compression settings and codecs (WebP, AVIF, MozJPEG, OxiPNG) side by side with a before/after slider showing the visual quality difference at each file size. This is not a standalone tool, but treating the browser's inspection panel as a proper design token debugger rather than just a CSS editor changes how you approach component styling during development.",
+        "summary": "Squoosh - built by the Google Chrome team - lets you compare compression settings and codecs (WebP, AVIF, MozJPEG, OxiPNG) side by side with a before/after slider showing the visual quality difference at each file size. This is not a standalone tool, but treating the browser's inspection panel as a proper design token debugger rather than just a CSS editor changes how you approach component styling during development.",
+        "link": "https://dev.to/evvytools/6-free-browser-tools-for-frontend-developers-worth-keeping-open-59cj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-04T04:38:36.000Z",
+        "keywords": [
+          "tools",
+          "webdev",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "tools",
+          "webdev",
+          "productivity"
+        ],
+        "pros": [
+          "Great for tools",
+          "webdev-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "These tools live in browser tabs and get used in the gaps: when you need to check a spec, generate boilerplate, or convert a value in the middle of building something else.",
+          "The MDN color value reference covers the full range of CSS color formats including newer additions like oklch and display-p3 that are landing in major browsers.",
+          "For debugging complex design token systems where one semantic token references a primitive token that references a raw value, Chrome's approach is more useful during active development."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-04-04T06:42:26.794Z",
+    "lastUpdated": "2026-04-04T06:42:26.794Z",
+    "visibleDate": "Apr 4, 2026",
+    "url": "pages/2026-04-04-064226794-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-04-04-064226794-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Cursor vs Claude Code vs GitHub Copilot",
+      "Scientists are working"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Cursor vs Claude Code vs GitHub Copilot, Scientis",
+    "tools": [
+      {
+        "name": "Cursor vs Claude Code vs GitHub Copilot",
+        "slug": "cursor-vs-claude-code-vs-github-copilot",
+        "description": "It sees your whole project, not just the open file.</p> <p>Composer mode is where Cursor shines — describe a change in natural language and it generates a multi-file diff you can review and apply. <p> <iframe src=\"https://www.youtube.com/embed/S2dtTuDq218\"> </iframe> </p> <p>I've used all three of these tools on real projects — not toy demos, not benchmarks.",
+        "summary": "It sees your whole project, not just the open file.</p> <p>Composer mode is where Cursor shines — describe a change in natural language and it generates a multi-file diff you can review and apply. <p> <iframe src=\"https://www.youtube.com/embed/S2dtTuDq218\"> </iframe> </p> <p>I've used all three of these tools on real projects — not toy demos, not benchmarks.",
+        "link": "https://dev.to/tyson_cung/cursor-vs-claude-code-vs-github-copilot-which-ai-coding-tool-is-actually-worth-it-4p78",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-04T06:39:47.000Z",
+        "keywords": [
+          "ai",
+          "programming",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "programming",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "programming-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "It sees your whole project, not just the open file.</p> <p>Composer mode is where Cursor shines — describe a change in natural language and it generates a multi-file diff you can review and apply.",
+          "<p> <iframe src=\"https://www.youtube.com/embed/S2dtTuDq218\"> </iframe> </p> <p>I've used all three of these tools on real projects — not toy demos, not benchmarks.",
+          "Tedious stuff that doesn't require creative thinking — Copilot eats it for breakfast.</p> <p>Copilot Chat (the sidebar conversation mode) is decent for quick questions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://github.com?ref=XXXX"
+      },
+      {
+        "name": "Scientists are working",
+        "slug": "scientists-are-working",
+        "description": "Article URL: https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines Comments URL: https://news.ycombinator.com/item?id=47636203 Points: 5 # Comments: 2",
+        "summary": "Article URL: https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines Comments URL: https://news.ycombinator.com/item?id=47636203 Points: 5 # Comments: 2",
+        "link": "https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines",
+        "source": "Hacker News",
+        "isoDate": "2026-04-04T05:47:18.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-04-04T06:42:26.794Z",
+    "lastUpdated": "2026-04-04T06:42:26.794Z",
+    "visibleDate": "Apr 4, 2026",
+    "url": "pages/2026-04-04-064226794-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-04-04-064226794-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Cursor vs Claude Code vs GitHub Copilot",
+      "Scientists are working",
+      "Naming rights to"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Cursor vs Claude Code vs GitHub Copilot, Scientists are working, Naming ",
+    "tools": [
+      {
+        "name": "Cursor vs Claude Code vs GitHub Copilot",
+        "slug": "cursor-vs-claude-code-vs-github-copilot",
+        "description": "It sees your whole project, not just the open file.</p> <p>Composer mode is where Cursor shines — describe a change in natural language and it generates a multi-file diff you can review and apply. <p> <iframe src=\"https://www.youtube.com/embed/S2dtTuDq218\"> </iframe> </p> <p>I've used all three of these tools on real projects — not toy demos, not benchmarks.",
+        "summary": "It sees your whole project, not just the open file.</p> <p>Composer mode is where Cursor shines — describe a change in natural language and it generates a multi-file diff you can review and apply. <p> <iframe src=\"https://www.youtube.com/embed/S2dtTuDq218\"> </iframe> </p> <p>I've used all three of these tools on real projects — not toy demos, not benchmarks.",
+        "link": "https://dev.to/tyson_cung/cursor-vs-claude-code-vs-github-copilot-which-ai-coding-tool-is-actually-worth-it-4p78",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-04T06:39:47.000Z",
+        "keywords": [
+          "ai",
+          "programming",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "programming",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "programming-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "It sees your whole project, not just the open file.</p> <p>Composer mode is where Cursor shines — describe a change in natural language and it generates a multi-file diff you can review and apply.",
+          "<p> <iframe src=\"https://www.youtube.com/embed/S2dtTuDq218\"> </iframe> </p> <p>I've used all three of these tools on real projects — not toy demos, not benchmarks.",
+          "Tedious stuff that doesn't require creative thinking — Copilot eats it for breakfast.</p> <p>Copilot Chat (the sidebar conversation mode) is decent for quick questions."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://github.com?ref=XXXX"
+      },
+      {
+        "name": "Scientists are working",
+        "slug": "scientists-are-working",
+        "description": "Article URL: https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines Comments URL: https://news.ycombinator.com/item?id=47636203 Points: 5 # Comments: 2",
+        "summary": "Article URL: https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines Comments URL: https://news.ycombinator.com/item?id=47636203 Points: 5 # Comments: 2",
+        "link": "https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines",
+        "source": "Hacker News",
+        "isoDate": "2026-04-04T05:47:18.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Naming rights to",
+        "slug": "naming-rights-to",
+        "description": "Article URL: https://paintastreet.com/auction Comments URL: https://news.ycombinator.com/item?id=47635929 Points: 6 # Comments: 2",
+        "summary": "Article URL: https://paintastreet.com/auction Comments URL: https://news.ycombinator.com/item?id=47635929 Points: 6 # Comments: 2",
+        "link": "https://paintastreet.com/auction",
+        "source": "Hacker News",
+        "isoDate": "2026-04-04T04:59:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-04-03T06:53:08.696Z",
     "lastUpdated": "2026-04-03T06:53:08.696Z",
     "visibleDate": "Apr 3, 2026",

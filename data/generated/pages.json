@@ -7,6 +7,666 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-04-07T07:00:28.517Z",
+    "lastUpdated": "2026-04-07T07:00:28.517Z",
+    "visibleDate": "Apr 7, 2026",
+    "url": "pages/2026-04-07-070028517-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-04-07-070028517-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "He designed C++",
+      "💎 Featured on #CodeTrendy AiVIS",
+      "6 Free Strength"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include He designed C++, 💎 Featured on #CodeTrendy AiVIS, 6 Free Strength. Produc",
+    "tools": [
+      {
+        "name": "He designed C++",
+        "slug": "he-designed-c",
+        "description": "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it&#x27;s going today. Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it's going today.",
+        "summary": "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it&#x27;s going today. Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it's going today.",
+        "link": "https://stackoverflow.blog/2026/04/07/he-designed-c-to-solve-your-code-problems/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-04-07T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "c",
+          "programming-language",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [
+          "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it&#x27;s going today.",
+          "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it's going today."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "💎 Featured on #CodeTrendy AiVIS",
+        "slug": "featured-on-codetrendy-aivis",
+        "description": "💎 Featured on #CodeTrendy → AiVIS - AI visibility intellig AiVIS is an AI visibility intelligence platform that audits how answer engines read and trust sites https://codetrendy.com/listing/aivis",
+        "summary": "💎 Featured on #CodeTrendy → AiVIS - AI visibility intellig AiVIS is an AI visibility intelligence platform that audits how answer engines read and trust sites https://codetrendy.com/listing/aivis",
+        "link": "https://dev.to/codetrendy/featured-on-codetrendy-aivis-ai-visibility-intelligaivis-is-an-ai-visibility-intelligence-396d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-07T05:58:53.000Z",
+        "keywords": [
+          "directory",
+          "web",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "directory",
+          "web",
+          "tools"
+        ],
+        "pros": [
+          "Great for directory",
+          "web-ready automation",
+          "Great for directory"
+        ],
+        "cons": [
+          "Overkill for directory experiments",
+          "Needs extra setup for web workflows",
+          "Overkill for directory experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "6 Free Strength",
+        "slug": "6-free-strength",
+        "description": "The free keto macro calculator at EvvyTools explains the methodology behind setting keto macros correctly, including why percentage-based splits are less accurate than gram-based targets derived from lean body mass. The <a href=\"https://www.openpowerlifting.org/wilks\" rel=\"noopener noreferrer\">Open Powerlifting Wilks calculator</a> lets you input your total lifted and body weight and returns a score that normalizes for body mass.",
+        "summary": "The free keto macro calculator at EvvyTools explains the methodology behind setting keto macros correctly, including why percentage-based splits are less accurate than gram-based targets derived from lean body mass. The <a href=\"https://www.openpowerlifting.org/wilks\" rel=\"noopener noreferrer\">Open Powerlifting Wilks calculator</a> lets you input your total lifted and body weight and returns a score that normalizes for body mass.",
+        "link": "https://dev.to/evvytools/6-free-strength-and-fitness-calculators-that-actually-belong-in-your-training-toolkit-2044",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-07T04:00:24.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "strength"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The VO2 max calculator at EvvyTools lets you estimate your VO2 max using four different field test protocols: the Cooper 12-minute run, Rockport walk test, 1.5-mile run, or resting heart rate method.",
+          "Estimated 1RM tracking provides the same benefit without the injury risk of true max testing, particularly useful for intermediate and advanced lifters who train heavy consistently.",
+          "Photo by Wolf Art on Pexels If you are interested in comparing your strength across different body weights, the Wilks coefficient is the standard formula used in powerlifting."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Track",
+        "slug": "how-to-track",
+        "description": "This guide walks through how to assess your recovery state during keto adaptation and how to use a structured scoring tool to make training decisions with real data rather than guesswork. For those tracking keto macros and athletic goals together, the keto macro guide at EvvyTools explains how protein targets shift based on activity level, which directly affects recovery capacity.",
+        "summary": "This guide walks through how to assess your recovery state during keto adaptation and how to use a structured scoring tool to make training decisions with real data rather than guesswork. For those tracking keto macros and athletic goals together, the keto macro guide at EvvyTools explains how protein targets shift based on activity level, which directly affects recovery capacity.",
+        "link": "https://dev.to/evvytools/how-to-track-your-recovery-when-youre-adapting-to-a-ketogenic-diet-1gld",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-07T03:59:03.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "keto"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "This guide walks through how to assess your recovery state during keto adaptation and how to use a structured scoring tool to make training decisions with real data rather than guesswork.",
+          "On a standard carbohydrate diet, your body has consistent fuel availability throughout the day, glycogen stores replenish overnight, and your stress hormones follow a relatively stable pattern.",
+          "For those tracking keto macros and athletic goals together, the keto macro guide at EvvyTools explains how protein targets shift based on activity level, which directly affects recovery capacity."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Tools That",
+        "slug": "ai-tools-that",
+        "description": "Surfer SEO — Best for Content Optimization</a><a href=\"https://samshustlebarn.com/top-ai-productivity-tools-for-small-businesses-in-2026/#5_Zapier_%E2%80%94_Best_for_Workflow_Automation\" rel=\"noopener noreferrer\">5. Unlike generic AI chatbots, Jasper understands brand voice, and once you train it on your style, the output is genuinely close to what you'd write yourself — just ten times faster.",
+        "summary": "Surfer SEO — Best for Content Optimization</a><a href=\"https://samshustlebarn.com/top-ai-productivity-tools-for-small-businesses-in-2026/#5_Zapier_%E2%80%94_Best_for_Workflow_Automation\" rel=\"noopener noreferrer\">5. Unlike generic AI chatbots, Jasper understands brand voice, and once you train it on your style, the output is genuinely close to what you'd write yourself — just ten times faster.",
+        "link": "https://dev.to/samshustlebarn/ai-tools-that-actually-save-small-business-owners-time-not-just-hype-3n4c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-07T02:07:03.000Z",
+        "keywords": [
+          "ai",
+          "smallbusiness",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "smallbusiness",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "smallbusiness-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for smallbusiness workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Originally published at samshustlebarn.com AI Tools That Actually Save Small Business Owners Time (Not Just Hype) Last updated: April 7, 2026 Let me guess.",
+          "They demo beautifully, the landing pages are gorgeous, and then you sign up and realize you need a PhD in prompt engineering just to get a halfway decent email draft out of them.",
+          "Unlike generic AI chatbots, Jasper understands brand voice, and once you train it on your style, the output is genuinely close to what you'd write yourself — just ten times faster."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-04-07T07:00:28.517Z",
+    "lastUpdated": "2026-04-07T07:00:28.517Z",
+    "visibleDate": "Apr 7, 2026",
+    "url": "pages/2026-04-07-070028517-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-04-07-070028517-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "He designed C++",
+      "💎 Featured on #CodeTrendy AiVIS",
+      "6 Free Strength"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include He designed C++, 💎 Featured on #CodeTrendy AiVIS, 6 Free Strength",
+    "tools": [
+      {
+        "name": "He designed C++",
+        "slug": "he-designed-c",
+        "description": "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it&#x27;s going today. Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it's going today.",
+        "summary": "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it&#x27;s going today. Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it's going today.",
+        "link": "https://stackoverflow.blog/2026/04/07/he-designed-c-to-solve-your-code-problems/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-04-07T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "c",
+          "programming-language",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [
+          "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it&#x27;s going today.",
+          "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it's going today."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "💎 Featured on #CodeTrendy AiVIS",
+        "slug": "featured-on-codetrendy-aivis",
+        "description": "💎 Featured on #CodeTrendy → AiVIS - AI visibility intellig AiVIS is an AI visibility intelligence platform that audits how answer engines read and trust sites https://codetrendy.com/listing/aivis",
+        "summary": "💎 Featured on #CodeTrendy → AiVIS - AI visibility intellig AiVIS is an AI visibility intelligence platform that audits how answer engines read and trust sites https://codetrendy.com/listing/aivis",
+        "link": "https://dev.to/codetrendy/featured-on-codetrendy-aivis-ai-visibility-intelligaivis-is-an-ai-visibility-intelligence-396d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-07T05:58:53.000Z",
+        "keywords": [
+          "directory",
+          "web",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "directory",
+          "web",
+          "tools"
+        ],
+        "pros": [
+          "Great for directory",
+          "web-ready automation",
+          "Great for directory"
+        ],
+        "cons": [
+          "Overkill for directory experiments",
+          "Needs extra setup for web workflows",
+          "Overkill for directory experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "6 Free Strength",
+        "slug": "6-free-strength",
+        "description": "The free keto macro calculator at EvvyTools explains the methodology behind setting keto macros correctly, including why percentage-based splits are less accurate than gram-based targets derived from lean body mass. The <a href=\"https://www.openpowerlifting.org/wilks\" rel=\"noopener noreferrer\">Open Powerlifting Wilks calculator</a> lets you input your total lifted and body weight and returns a score that normalizes for body mass.",
+        "summary": "The free keto macro calculator at EvvyTools explains the methodology behind setting keto macros correctly, including why percentage-based splits are less accurate than gram-based targets derived from lean body mass. The <a href=\"https://www.openpowerlifting.org/wilks\" rel=\"noopener noreferrer\">Open Powerlifting Wilks calculator</a> lets you input your total lifted and body weight and returns a score that normalizes for body mass.",
+        "link": "https://dev.to/evvytools/6-free-strength-and-fitness-calculators-that-actually-belong-in-your-training-toolkit-2044",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-07T04:00:24.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "strength"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The VO2 max calculator at EvvyTools lets you estimate your VO2 max using four different field test protocols: the Cooper 12-minute run, Rockport walk test, 1.5-mile run, or resting heart rate method.",
+          "Estimated 1RM tracking provides the same benefit without the injury risk of true max testing, particularly useful for intermediate and advanced lifters who train heavy consistently.",
+          "Photo by Wolf Art on Pexels If you are interested in comparing your strength across different body weights, the Wilks coefficient is the standard formula used in powerlifting."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Track",
+        "slug": "how-to-track",
+        "description": "This guide walks through how to assess your recovery state during keto adaptation and how to use a structured scoring tool to make training decisions with real data rather than guesswork. For those tracking keto macros and athletic goals together, the keto macro guide at EvvyTools explains how protein targets shift based on activity level, which directly affects recovery capacity.",
+        "summary": "This guide walks through how to assess your recovery state during keto adaptation and how to use a structured scoring tool to make training decisions with real data rather than guesswork. For those tracking keto macros and athletic goals together, the keto macro guide at EvvyTools explains how protein targets shift based on activity level, which directly affects recovery capacity.",
+        "link": "https://dev.to/evvytools/how-to-track-your-recovery-when-youre-adapting-to-a-ketogenic-diet-1gld",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-07T03:59:03.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "keto"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "This guide walks through how to assess your recovery state during keto adaptation and how to use a structured scoring tool to make training decisions with real data rather than guesswork.",
+          "On a standard carbohydrate diet, your body has consistent fuel availability throughout the day, glycogen stores replenish overnight, and your stress hormones follow a relatively stable pattern.",
+          "For those tracking keto macros and athletic goals together, the keto macro guide at EvvyTools explains how protein targets shift based on activity level, which directly affects recovery capacity."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-04-07T07:00:28.517Z",
+    "lastUpdated": "2026-04-07T07:00:28.517Z",
+    "visibleDate": "Apr 7, 2026",
+    "url": "pages/2026-04-07-070028517-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-04-07-070028517-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "He designed C++",
+      "💎 Featured on #CodeTrendy AiVIS"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include He designed C++, 💎 Featured on #CodeTrendy AiVIS",
+    "tools": [
+      {
+        "name": "He designed C++",
+        "slug": "he-designed-c",
+        "description": "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it&#x27;s going today. Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it's going today.",
+        "summary": "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it&#x27;s going today. Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it's going today.",
+        "link": "https://stackoverflow.blog/2026/04/07/he-designed-c-to-solve-your-code-problems/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-04-07T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "c",
+          "programming-language",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [
+          "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it&#x27;s going today.",
+          "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it's going today."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "💎 Featured on #CodeTrendy AiVIS",
+        "slug": "featured-on-codetrendy-aivis",
+        "description": "💎 Featured on #CodeTrendy → AiVIS - AI visibility intellig AiVIS is an AI visibility intelligence platform that audits how answer engines read and trust sites https://codetrendy.com/listing/aivis",
+        "summary": "💎 Featured on #CodeTrendy → AiVIS - AI visibility intellig AiVIS is an AI visibility intelligence platform that audits how answer engines read and trust sites https://codetrendy.com/listing/aivis",
+        "link": "https://dev.to/codetrendy/featured-on-codetrendy-aivis-ai-visibility-intelligaivis-is-an-ai-visibility-intelligence-396d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-07T05:58:53.000Z",
+        "keywords": [
+          "directory",
+          "web",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "directory",
+          "web",
+          "tools"
+        ],
+        "pros": [
+          "Great for directory",
+          "web-ready automation",
+          "Great for directory"
+        ],
+        "cons": [
+          "Overkill for directory experiments",
+          "Needs extra setup for web workflows",
+          "Overkill for directory experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-04-07T07:00:28.517Z",
+    "lastUpdated": "2026-04-07T07:00:28.517Z",
+    "visibleDate": "Apr 7, 2026",
+    "url": "pages/2026-04-07-070028517-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-04-07-070028517-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "He designed C++",
+      "💎 Featured on #CodeTrendy AiVIS",
+      "6 Free Strength"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include He designed C++, 💎 Featured on #CodeTrendy AiVIS, 6 Free Strength. New ",
+    "tools": [
+      {
+        "name": "He designed C++",
+        "slug": "he-designed-c",
+        "description": "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it&#x27;s going today. Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it's going today.",
+        "summary": "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it&#x27;s going today. Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it's going today.",
+        "link": "https://stackoverflow.blog/2026/04/07/he-designed-c-to-solve-your-code-problems/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-04-07T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "c",
+          "programming-language",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [
+          "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it&#x27;s going today.",
+          "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it's going today."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "💎 Featured on #CodeTrendy AiVIS",
+        "slug": "featured-on-codetrendy-aivis",
+        "description": "💎 Featured on #CodeTrendy → AiVIS - AI visibility intellig AiVIS is an AI visibility intelligence platform that audits how answer engines read and trust sites https://codetrendy.com/listing/aivis",
+        "summary": "💎 Featured on #CodeTrendy → AiVIS - AI visibility intellig AiVIS is an AI visibility intelligence platform that audits how answer engines read and trust sites https://codetrendy.com/listing/aivis",
+        "link": "https://dev.to/codetrendy/featured-on-codetrendy-aivis-ai-visibility-intelligaivis-is-an-ai-visibility-intelligence-396d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-07T05:58:53.000Z",
+        "keywords": [
+          "directory",
+          "web",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "directory",
+          "web",
+          "tools"
+        ],
+        "pros": [
+          "Great for directory",
+          "web-ready automation",
+          "Great for directory"
+        ],
+        "cons": [
+          "Overkill for directory experiments",
+          "Needs extra setup for web workflows",
+          "Overkill for directory experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "6 Free Strength",
+        "slug": "6-free-strength",
+        "description": "The free keto macro calculator at EvvyTools explains the methodology behind setting keto macros correctly, including why percentage-based splits are less accurate than gram-based targets derived from lean body mass. The <a href=\"https://www.openpowerlifting.org/wilks\" rel=\"noopener noreferrer\">Open Powerlifting Wilks calculator</a> lets you input your total lifted and body weight and returns a score that normalizes for body mass.",
+        "summary": "The free keto macro calculator at EvvyTools explains the methodology behind setting keto macros correctly, including why percentage-based splits are less accurate than gram-based targets derived from lean body mass. The <a href=\"https://www.openpowerlifting.org/wilks\" rel=\"noopener noreferrer\">Open Powerlifting Wilks calculator</a> lets you input your total lifted and body weight and returns a score that normalizes for body mass.",
+        "link": "https://dev.to/evvytools/6-free-strength-and-fitness-calculators-that-actually-belong-in-your-training-toolkit-2044",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-07T04:00:24.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "strength"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The VO2 max calculator at EvvyTools lets you estimate your VO2 max using four different field test protocols: the Cooper 12-minute run, Rockport walk test, 1.5-mile run, or resting heart rate method.",
+          "Estimated 1RM tracking provides the same benefit without the injury risk of true max testing, particularly useful for intermediate and advanced lifters who train heavy consistently.",
+          "Photo by Wolf Art on Pexels If you are interested in comparing your strength across different body weights, the Wilks coefficient is the standard formula used in powerlifting."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-04-06T07:13:12.565Z",
     "lastUpdated": "2026-04-06T07:13:12.565Z",
     "visibleDate": "Apr 6, 2026",

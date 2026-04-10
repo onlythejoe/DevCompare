@@ -7,6 +7,687 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-04-10T07:11:12.361Z",
+    "lastUpdated": "2026-04-10T07:11:12.361Z",
+    "visibleDate": "Apr 10, 2026",
+    "url": "pages/2026-04-10-071112361-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-04-10-071112361-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      },
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "5 Free Kitchen",
+      "How to Plan",
+      "The tool that"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include 5 Free Kitchen, How to Plan, The tool that. Productivity stacks that keep ",
+    "tools": [
+      {
+        "name": "5 Free Kitchen",
+        "slug": "5-free-kitchen",
+        "description": "A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile. A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile.",
+        "summary": "A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile. A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile.",
+        "link": "https://dev.to/evvytools/5-free-kitchen-calculators-home-cooks-actually-reach-for-42f8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-10T06:46:46.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "recipe"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The USDA FoodData Central database, which most of these tools use as a source, gives you the average nutritional profile of a food, not the specific one you bought at your local grocery store.",
+          "Cronometer (external) </h3> <p><a href=\"https://cronometer.com/\" rel=\"noopener noreferrer\">Cronometer</a> has a small but loyal following among people who care about micronutrients, not just macros.",
+          "Most online \"best kitchen tools\" lists are full of gadgets you will use twice, lose in a drawer, and find again in three years."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Plan",
+        "slug": "how-to-plan",
+        "description": "A free BBQ smoking calculator takes your guest count, the cut you want, and your target serving size, and returns raw weights, estimated cook times, and smoker temperatures all in one shot. This is the math that surprises first-time hosts, and it is why people routinely run out of meat at parties where they thought they had bought \"enough.\" Step 1: Count your adults, teens, and kids separately.",
+        "summary": "A free BBQ smoking calculator takes your guest count, the cut you want, and your target serving size, and returns raw weights, estimated cook times, and smoker temperatures all in one shot. This is the math that surprises first-time hosts, and it is why people routinely run out of meat at parties where they thought they had bought \"enough.\" Step 1: Count your adults, teens, and kids separately.",
+        "link": "https://dev.to/evvytools/how-to-plan-a-backyard-bbq-for-20-people-without-running-out-of-meat-or-burning-the-brisket-i2i",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-10T06:46:44.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "meat"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "A free BBQ smoking calculator takes your guest count, the cut you want, and your target serving size, and returns raw weights, estimated cook times, and smoker temperatures all in one shot.",
+          "It is directly relevant to BBQ sides, especially dressings and bases where the flavor profile depends heavily on ratios rather than raw amounts.</p> <p>Drinks are the easy part.",
+          "The calculator at EvvyTools helps here because it includes expected cook times alongside the weights, so you can plan the smoker schedule at the same time you plan the shopping list."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The tool that",
+        "slug": "the-tool-that",
+        "description": "Article URL: https://github.com/grainulation/grainulator Comments URL: https://news.ycombinator.com/item?id=47714239 Points: 23 # Comments: 3",
+        "summary": "Article URL: https://github.com/grainulation/grainulator Comments URL: https://news.ycombinator.com/item?id=47714239 Points: 23 # Comments: 3",
+        "link": "https://github.com/grainulation/grainulator",
+        "source": "Hacker News",
+        "isoDate": "2026-04-10T06:09:47.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Waypoint-1.5",
+        "slug": "waypoint-1-5",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/waypoint-1-5",
+        "source": "Product Hunt",
+        "isoDate": "2026-04-10T05:47:38.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Nano Agent, Mega Senses",
+        "slug": "nano-agent-mega-senses",
+        "description": "To ground this in something non-trivial, the same Java LSP stack was exercised against keycloak-mcp-server: a Quarkus-based MCP server on Java 21, Maven BOM, and many command classes under dev.shaaf.keycloak.mcp.server. Use java_hover at that position, then java_definition if it is a field.” The model no longer has to re-derive the type from imports and local inference across half a dozen files unless it wants to double-check.",
+        "summary": "To ground this in something non-trivial, the same Java LSP stack was exercised against keycloak-mcp-server: a Quarkus-based MCP server on Java 21, Maven BOM, and many command classes under dev.shaaf.keycloak.mcp.server. Use java_hover at that position, then java_definition if it is a field.” The model no longer has to re-derive the type from imports and local inference across half a dozen files unless it wants to double-check.",
+        "link": "https://dev.to/sshaaf/nano-agent-mega-senses-adding-lsp-to-the-260-line-coding-agent-3343",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-10T05:19:09.000Z",
+        "keywords": [
+          "java",
+          "llm",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "java",
+          "llm",
+          "tools"
+        ],
+        "pros": [
+          "Great for java",
+          "llm-ready automation",
+          "Great for java"
+        ],
+        "cons": [
+          "Overkill for java experiments",
+          "Needs extra setup for llm workflows",
+          "Overkill for java experiments"
+        ],
+        "highlights": [
+          "It adds an optional extra sense for Java workspaces: a language server, so the model can ask project-aware questions instead of inferring everything from raw files.",
+          "</p> <p>The original <a href=\"https://github.com/1rgs/nanocode\" rel=\"noopener noreferrer\">nanocode</a> idea is easy to lose in the hype: <strong>a coding agent is mostly a loop</strong>.",
+          "It takes a bit more time, but the expertise you gain along the way sets you up for the long haul.\" So here I read Max's post and thought, how about add some more things to this."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-04-10T07:11:12.361Z",
+    "lastUpdated": "2026-04-10T07:11:12.361Z",
+    "visibleDate": "Apr 10, 2026",
+    "url": "pages/2026-04-10-071112361-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-04-10-071112361-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      },
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "5 Free Kitchen",
+      "How to Plan",
+      "The tool that"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include 5 Free Kitchen, How to Plan, The tool that. Reliable remote debugg",
+    "tools": [
+      {
+        "name": "5 Free Kitchen",
+        "slug": "5-free-kitchen",
+        "description": "A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile. A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile.",
+        "summary": "A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile. A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile.",
+        "link": "https://dev.to/evvytools/5-free-kitchen-calculators-home-cooks-actually-reach-for-42f8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-10T06:46:46.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "recipe"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The USDA FoodData Central database, which most of these tools use as a source, gives you the average nutritional profile of a food, not the specific one you bought at your local grocery store.",
+          "Cronometer (external) </h3> <p><a href=\"https://cronometer.com/\" rel=\"noopener noreferrer\">Cronometer</a> has a small but loyal following among people who care about micronutrients, not just macros.",
+          "Most online \"best kitchen tools\" lists are full of gadgets you will use twice, lose in a drawer, and find again in three years."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Plan",
+        "slug": "how-to-plan",
+        "description": "A free BBQ smoking calculator takes your guest count, the cut you want, and your target serving size, and returns raw weights, estimated cook times, and smoker temperatures all in one shot. This is the math that surprises first-time hosts, and it is why people routinely run out of meat at parties where they thought they had bought \"enough.\" Step 1: Count your adults, teens, and kids separately.",
+        "summary": "A free BBQ smoking calculator takes your guest count, the cut you want, and your target serving size, and returns raw weights, estimated cook times, and smoker temperatures all in one shot. This is the math that surprises first-time hosts, and it is why people routinely run out of meat at parties where they thought they had bought \"enough.\" Step 1: Count your adults, teens, and kids separately.",
+        "link": "https://dev.to/evvytools/how-to-plan-a-backyard-bbq-for-20-people-without-running-out-of-meat-or-burning-the-brisket-i2i",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-10T06:46:44.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "meat"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "A free BBQ smoking calculator takes your guest count, the cut you want, and your target serving size, and returns raw weights, estimated cook times, and smoker temperatures all in one shot.",
+          "It is directly relevant to BBQ sides, especially dressings and bases where the flavor profile depends heavily on ratios rather than raw amounts.</p> <p>Drinks are the easy part.",
+          "The calculator at EvvyTools helps here because it includes expected cook times alongside the weights, so you can plan the smoker schedule at the same time you plan the shopping list."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The tool that",
+        "slug": "the-tool-that",
+        "description": "Article URL: https://github.com/grainulation/grainulator Comments URL: https://news.ycombinator.com/item?id=47714239 Points: 23 # Comments: 3",
+        "summary": "Article URL: https://github.com/grainulation/grainulator Comments URL: https://news.ycombinator.com/item?id=47714239 Points: 23 # Comments: 3",
+        "link": "https://github.com/grainulation/grainulator",
+        "source": "Hacker News",
+        "isoDate": "2026-04-10T06:09:47.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Waypoint-1.5",
+        "slug": "waypoint-1-5",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/waypoint-1-5",
+        "source": "Product Hunt",
+        "isoDate": "2026-04-10T05:47:38.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-04-10T07:11:12.361Z",
+    "lastUpdated": "2026-04-10T07:11:12.361Z",
+    "visibleDate": "Apr 10, 2026",
+    "url": "pages/2026-04-10-071112361-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-04-10-071112361-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      },
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "5 Free Kitchen",
+      "How to Plan"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include 5 Free Kitchen, How to Plan. Gitpod brings zero-c",
+    "tools": [
+      {
+        "name": "5 Free Kitchen",
+        "slug": "5-free-kitchen",
+        "description": "A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile. A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile.",
+        "summary": "A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile. A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile.",
+        "link": "https://dev.to/evvytools/5-free-kitchen-calculators-home-cooks-actually-reach-for-42f8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-10T06:46:46.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "recipe"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The USDA FoodData Central database, which most of these tools use as a source, gives you the average nutritional profile of a food, not the specific one you bought at your local grocery store.",
+          "Cronometer (external) </h3> <p><a href=\"https://cronometer.com/\" rel=\"noopener noreferrer\">Cronometer</a> has a small but loyal following among people who care about micronutrients, not just macros.",
+          "Most online \"best kitchen tools\" lists are full of gadgets you will use twice, lose in a drawer, and find again in three years."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Plan",
+        "slug": "how-to-plan",
+        "description": "A free BBQ smoking calculator takes your guest count, the cut you want, and your target serving size, and returns raw weights, estimated cook times, and smoker temperatures all in one shot. This is the math that surprises first-time hosts, and it is why people routinely run out of meat at parties where they thought they had bought \"enough.\" Step 1: Count your adults, teens, and kids separately.",
+        "summary": "A free BBQ smoking calculator takes your guest count, the cut you want, and your target serving size, and returns raw weights, estimated cook times, and smoker temperatures all in one shot. This is the math that surprises first-time hosts, and it is why people routinely run out of meat at parties where they thought they had bought \"enough.\" Step 1: Count your adults, teens, and kids separately.",
+        "link": "https://dev.to/evvytools/how-to-plan-a-backyard-bbq-for-20-people-without-running-out-of-meat-or-burning-the-brisket-i2i",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-10T06:46:44.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "meat"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "A free BBQ smoking calculator takes your guest count, the cut you want, and your target serving size, and returns raw weights, estimated cook times, and smoker temperatures all in one shot.",
+          "It is directly relevant to BBQ sides, especially dressings and bases where the flavor profile depends heavily on ratios rather than raw amounts.</p> <p>Drinks are the easy part.",
+          "The calculator at EvvyTools helps here because it includes expected cook times alongside the weights, so you can plan the smoker schedule at the same time you plan the shopping list."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-04-10T07:11:12.361Z",
+    "lastUpdated": "2026-04-10T07:11:12.361Z",
+    "visibleDate": "Apr 10, 2026",
+    "url": "pages/2026-04-10-071112361-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-04-10-071112361-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      },
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "5 Free Kitchen",
+      "How to Plan",
+      "The tool that"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include 5 Free Kitchen, How to Plan, The tool that. New launches that are shippi",
+    "tools": [
+      {
+        "name": "5 Free Kitchen",
+        "slug": "5-free-kitchen",
+        "description": "A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile. A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile.",
+        "summary": "A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile. A paid recipe tool has to justify its subscription with meal planning, shopping lists, video content, social features, community, and 15 other things, and the actual nutrition calculator becomes one checkbox in a pile.",
+        "link": "https://dev.to/evvytools/5-free-kitchen-calculators-home-cooks-actually-reach-for-42f8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-10T06:46:46.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "recipe"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The USDA FoodData Central database, which most of these tools use as a source, gives you the average nutritional profile of a food, not the specific one you bought at your local grocery store.",
+          "Cronometer (external) </h3> <p><a href=\"https://cronometer.com/\" rel=\"noopener noreferrer\">Cronometer</a> has a small but loyal following among people who care about micronutrients, not just macros.",
+          "Most online \"best kitchen tools\" lists are full of gadgets you will use twice, lose in a drawer, and find again in three years."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Plan",
+        "slug": "how-to-plan",
+        "description": "A free BBQ smoking calculator takes your guest count, the cut you want, and your target serving size, and returns raw weights, estimated cook times, and smoker temperatures all in one shot. This is the math that surprises first-time hosts, and it is why people routinely run out of meat at parties where they thought they had bought \"enough.\" Step 1: Count your adults, teens, and kids separately.",
+        "summary": "A free BBQ smoking calculator takes your guest count, the cut you want, and your target serving size, and returns raw weights, estimated cook times, and smoker temperatures all in one shot. This is the math that surprises first-time hosts, and it is why people routinely run out of meat at parties where they thought they had bought \"enough.\" Step 1: Count your adults, teens, and kids separately.",
+        "link": "https://dev.to/evvytools/how-to-plan-a-backyard-bbq-for-20-people-without-running-out-of-meat-or-burning-the-brisket-i2i",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-10T06:46:44.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software",
+          "meat"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "A free BBQ smoking calculator takes your guest count, the cut you want, and your target serving size, and returns raw weights, estimated cook times, and smoker temperatures all in one shot.",
+          "It is directly relevant to BBQ sides, especially dressings and bases where the flavor profile depends heavily on ratios rather than raw amounts.</p> <p>Drinks are the easy part.",
+          "The calculator at EvvyTools helps here because it includes expected cook times alongside the weights, so you can plan the smoker schedule at the same time you plan the shopping list."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The tool that",
+        "slug": "the-tool-that",
+        "description": "Article URL: https://github.com/grainulation/grainulator Comments URL: https://news.ycombinator.com/item?id=47714239 Points: 23 # Comments: 3",
+        "summary": "Article URL: https://github.com/grainulation/grainulator Comments URL: https://news.ycombinator.com/item?id=47714239 Points: 23 # Comments: 3",
+        "link": "https://github.com/grainulation/grainulator",
+        "source": "Hacker News",
+        "isoDate": "2026-04-10T06:09:47.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-04-09T07:05:51.591Z",
     "lastUpdated": "2026-04-09T07:05:51.591Z",
     "visibleDate": "Apr 9, 2026",

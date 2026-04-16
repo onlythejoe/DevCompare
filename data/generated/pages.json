@@ -7,6 +7,635 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-04-16T07:14:04.484Z",
+    "lastUpdated": "2026-04-16T07:14:04.484Z",
+    "visibleDate": "Apr 16, 2026",
+    "url": "pages/2026-04-16-071404484-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-04-16-071404484-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "RamAIn (YC W26)",
+      "Foyer",
+      "OpenAI Agents SDK"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include RamAIn (YC W26), Foyer, OpenAI Agents SDK. Productivity stacks that keep d",
+    "tools": [
+      {
+        "name": "RamAIn (YC W26)",
+        "slug": "ramain-yc-w26",
+        "description": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead Comments URL: https://news.ycombinator.com/item?id=47789607 Points: 0 # Comments: 0",
+        "summary": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead Comments URL: https://news.ycombinator.com/item?id=47789607 Points: 0 # Comments: 0",
+        "link": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
+        "source": "Hacker News",
+        "isoDate": "2026-04-16T07:01:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Foyer",
+        "slug": "foyer",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/foyer-3",
+        "source": "Product Hunt",
+        "isoDate": "2026-04-16T06:59:06.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "OpenAI Agents SDK",
+        "slug": "openai-agents-sdk",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/openai",
+        "source": "Product Hunt",
+        "isoDate": "2026-04-16T06:51:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "TaskShell",
+        "slug": "taskshell",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/taskshell",
+        "source": "Product Hunt",
+        "isoDate": "2026-04-16T06:48:10.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Agent Card",
+        "slug": "agent-card",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/agent-card",
+        "source": "Product Hunt",
+        "isoDate": "2026-04-16T05:42:07.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-04-16T07:14:04.484Z",
+    "lastUpdated": "2026-04-16T07:14:04.484Z",
+    "visibleDate": "Apr 16, 2026",
+    "url": "pages/2026-04-16-071404484-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-04-16-071404484-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "RamAIn (YC W26)",
+      "Foyer",
+      "OpenAI Agents SDK"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include RamAIn (YC W26), Foyer, OpenAI Agents SDK. Reliable remote debuggi",
+    "tools": [
+      {
+        "name": "RamAIn (YC W26)",
+        "slug": "ramain-yc-w26",
+        "description": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead Comments URL: https://news.ycombinator.com/item?id=47789607 Points: 0 # Comments: 0",
+        "summary": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead Comments URL: https://news.ycombinator.com/item?id=47789607 Points: 0 # Comments: 0",
+        "link": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
+        "source": "Hacker News",
+        "isoDate": "2026-04-16T07:01:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Foyer",
+        "slug": "foyer",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/foyer-3",
+        "source": "Product Hunt",
+        "isoDate": "2026-04-16T06:59:06.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "OpenAI Agents SDK",
+        "slug": "openai-agents-sdk",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/openai",
+        "source": "Product Hunt",
+        "isoDate": "2026-04-16T06:51:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "TaskShell",
+        "slug": "taskshell",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/taskshell",
+        "source": "Product Hunt",
+        "isoDate": "2026-04-16T06:48:10.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-04-16T07:14:04.484Z",
+    "lastUpdated": "2026-04-16T07:14:04.484Z",
+    "visibleDate": "Apr 16, 2026",
+    "url": "pages/2026-04-16-071404484-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-04-16-071404484-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "RamAIn (YC W26)",
+      "Foyer"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include RamAIn (YC W26), Foyer. Gitpod brings zero-config",
+    "tools": [
+      {
+        "name": "RamAIn (YC W26)",
+        "slug": "ramain-yc-w26",
+        "description": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead Comments URL: https://news.ycombinator.com/item?id=47789607 Points: 0 # Comments: 0",
+        "summary": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead Comments URL: https://news.ycombinator.com/item?id=47789607 Points: 0 # Comments: 0",
+        "link": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
+        "source": "Hacker News",
+        "isoDate": "2026-04-16T07:01:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Foyer",
+        "slug": "foyer",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/foyer-3",
+        "source": "Product Hunt",
+        "isoDate": "2026-04-16T06:59:06.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-04-16T07:14:04.484Z",
+    "lastUpdated": "2026-04-16T07:14:04.484Z",
+    "visibleDate": "Apr 16, 2026",
+    "url": "pages/2026-04-16-071404484-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-04-16-071404484-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "RamAIn (YC W26)",
+      "Foyer",
+      "OpenAI Agents SDK"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include RamAIn (YC W26), Foyer, OpenAI Agents SDK. New launches that are shippin",
+    "tools": [
+      {
+        "name": "RamAIn (YC W26)",
+        "slug": "ramain-yc-w26",
+        "description": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead Comments URL: https://news.ycombinator.com/item?id=47789607 Points: 0 # Comments: 0",
+        "summary": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead Comments URL: https://news.ycombinator.com/item?id=47789607 Points: 0 # Comments: 0",
+        "link": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
+        "source": "Hacker News",
+        "isoDate": "2026-04-16T07:01:29.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Foyer",
+        "slug": "foyer",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/foyer-3",
+        "source": "Product Hunt",
+        "isoDate": "2026-04-16T06:59:06.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "OpenAI Agents SDK",
+        "slug": "openai-agents-sdk",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/openai",
+        "source": "Product Hunt",
+        "isoDate": "2026-04-16T06:51:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-04-15T07:13:33.867Z",
     "lastUpdated": "2026-04-15T07:13:33.867Z",
     "visibleDate": "Apr 15, 2026",

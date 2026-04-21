@@ -7,6 +7,659 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-04-21T07:16:56.001Z",
+    "lastUpdated": "2026-04-21T07:16:56.001Z",
+    "visibleDate": "Apr 21, 2026",
+    "url": "pages/2026-04-21-071656001-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-04-21-071656001-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "We still need",
+      "I Automated The AI Productivity Stack",
+      "Fabi"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include We still need, I Automated The AI Productivity Stack, Fabi. Productivity s",
+    "tools": [
+      {
+        "name": "We still need",
+        "slug": "we-still-need",
+        "description": "Ryan welcomes Mike Swift, co-founder and CEO of Major League Hacking, to the show to chat about the never-ending need for software developer communities and entry points into programming; MHL’s recent acquisition of DEV and how they’re creating a place for shared knowledge, building, and publishing; and why now is the best time to be both an artisan and a builder in a world with AI software development tools.",
+        "summary": "Ryan welcomes Mike Swift, co-founder and CEO of Major League Hacking, to the show to chat about the never-ending need for software developer communities and entry points into programming; MHL’s recent acquisition of DEV and how they’re creating a place for shared knowledge, building, and publishing; and why now is the best time to be both an artisan and a builder in a world with AI software development tools.",
+        "link": "https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-04-21T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "hackathon",
+          "dev-life",
+          "career-development"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Automated The AI Productivity Stack",
+        "slug": "i-automated-the-ai-productivity-stack",
+        "description": "You approve.</p> <p><strong>During the day, two rules:</strong></p> <ol> <li>Deep work sessions = phone on airplane mode, Slack paused, email closed.</li> <li>Every task gets a 25-minute timer. Three.</p> <p><strong>Step 3 (2 min): Block your calendar.</strong><br> AI auto-blocks: 2 deep work sessions (90 min each), email batching windows, meeting-free focus zones.",
+        "summary": "You approve.</p> <p><strong>During the day, two rules:</strong></p> <ol> <li>Deep work sessions = phone on airplane mode, Slack paused, email closed.</li> <li>Every task gets a 25-minute timer. Three.</p> <p><strong>Step 3 (2 min): Block your calendar.</strong><br> AI auto-blocks: 2 deep work sessions (90 min each), email batching windows, meeting-free focus zones.",
+        "link": "https://dev.to/renc/i-automated-the-ai-productivity-stack-200-prompts-that-actually-save-you-time-and-got-3-hours-n7e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-21T07:11:31.000Z",
+        "keywords": [
+          "productivity",
+          "ai",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "ai",
+          "automation"
+        ],
+        "pros": [
+          "Great for productivity",
+          "ai-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "You approve.</p> <p><strong>During the day, two rules:</strong></p> <ol> <li>Deep work sessions = phone on airplane mode, Slack paused, email closed.</li> <li>Every task gets a 25-minute timer.",
+          "Three.</p> <p><strong>Step 3 (2 min): Block your calendar.</strong><br> AI auto-blocks: 2 deep work sessions (90 min each), email batching windows, meeting-free focus zones.",
+          "At 50 emails/day: $1.50/month.</p> <p><strong>Layer 2: Draft generation</strong><br> For every \"TODAY\" and \"URGENT\" email, AI drafts a reply based on the email content and your past responses."
+        ],
+        "pricing": "Paid plans starting at $0",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Fabi",
+        "slug": "fabi",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/fabi",
+        "source": "Product Hunt",
+        "isoDate": "2026-04-21T06:50:13.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Unlocking the Future",
+        "slug": "unlocking-the-future",
+        "description": "With tools now capable of assisting in coding, automating mundane tasks, and even suggesting improvements, developers are experiencing a shift in the way they acquire and apply their coding skills. With tools now capable of assisting in coding, automating mundane tasks, and even suggesting improvements, developers are experiencing a shift in the way they acquire and apply their coding skills.",
+        "summary": "With tools now capable of assisting in coding, automating mundane tasks, and even suggesting improvements, developers are experiencing a shift in the way they acquire and apply their coding skills. With tools now capable of assisting in coding, automating mundane tasks, and even suggesting improvements, developers are experiencing a shift in the way they acquire and apply their coding skills.",
+        "link": "https://dev.to/themez_world_dc53aea53896/unlocking-the-future-how-ai-is-transforming-software-development-skills-3bcb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-21T06:46:46.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "With tools now capable of assisting in coding, automating mundane tasks, and even suggesting improvements, developers are experiencing a shift in the way they acquire and apply their coding skills.",
+          "With tools now capable of assisting in coding, automating mundane tasks, and even suggesting improvements, developers are experiencing a shift in the way they acquire and apply their coding skills.",
+          "As developers and businesses strive to keep pace with the rapidly evolving technology landscape, understanding how AI shapes coding skills is crucial."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Using Changesets in",
+        "slug": "using-changesets-in",
+        "description": "Article URL: https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/ Comments URL: https://news.ycombinator.com/item?id=47845274 Points: 4 # Comments: 0",
+        "summary": "Article URL: https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/ Comments URL: https://news.ycombinator.com/item?id=47845274 Points: 4 # Comments: 0",
+        "link": "https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/",
+        "source": "Hacker News",
+        "isoDate": "2026-04-21T06:25:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-04-21T07:16:56.001Z",
+    "lastUpdated": "2026-04-21T07:16:56.001Z",
+    "visibleDate": "Apr 21, 2026",
+    "url": "pages/2026-04-21-071656001-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-04-21-071656001-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "We still need",
+      "I Automated The AI Productivity Stack",
+      "Fabi"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include We still need, I Automated The AI Productivity Stack, Fabi. Reliab",
+    "tools": [
+      {
+        "name": "We still need",
+        "slug": "we-still-need",
+        "description": "Ryan welcomes Mike Swift, co-founder and CEO of Major League Hacking, to the show to chat about the never-ending need for software developer communities and entry points into programming; MHL’s recent acquisition of DEV and how they’re creating a place for shared knowledge, building, and publishing; and why now is the best time to be both an artisan and a builder in a world with AI software development tools.",
+        "summary": "Ryan welcomes Mike Swift, co-founder and CEO of Major League Hacking, to the show to chat about the never-ending need for software developer communities and entry points into programming; MHL’s recent acquisition of DEV and how they’re creating a place for shared knowledge, building, and publishing; and why now is the best time to be both an artisan and a builder in a world with AI software development tools.",
+        "link": "https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-04-21T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "hackathon",
+          "dev-life",
+          "career-development"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Automated The AI Productivity Stack",
+        "slug": "i-automated-the-ai-productivity-stack",
+        "description": "You approve.</p> <p><strong>During the day, two rules:</strong></p> <ol> <li>Deep work sessions = phone on airplane mode, Slack paused, email closed.</li> <li>Every task gets a 25-minute timer. Three.</p> <p><strong>Step 3 (2 min): Block your calendar.</strong><br> AI auto-blocks: 2 deep work sessions (90 min each), email batching windows, meeting-free focus zones.",
+        "summary": "You approve.</p> <p><strong>During the day, two rules:</strong></p> <ol> <li>Deep work sessions = phone on airplane mode, Slack paused, email closed.</li> <li>Every task gets a 25-minute timer. Three.</p> <p><strong>Step 3 (2 min): Block your calendar.</strong><br> AI auto-blocks: 2 deep work sessions (90 min each), email batching windows, meeting-free focus zones.",
+        "link": "https://dev.to/renc/i-automated-the-ai-productivity-stack-200-prompts-that-actually-save-you-time-and-got-3-hours-n7e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-21T07:11:31.000Z",
+        "keywords": [
+          "productivity",
+          "ai",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "ai",
+          "automation"
+        ],
+        "pros": [
+          "Great for productivity",
+          "ai-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "You approve.</p> <p><strong>During the day, two rules:</strong></p> <ol> <li>Deep work sessions = phone on airplane mode, Slack paused, email closed.</li> <li>Every task gets a 25-minute timer.",
+          "Three.</p> <p><strong>Step 3 (2 min): Block your calendar.</strong><br> AI auto-blocks: 2 deep work sessions (90 min each), email batching windows, meeting-free focus zones.",
+          "At 50 emails/day: $1.50/month.</p> <p><strong>Layer 2: Draft generation</strong><br> For every \"TODAY\" and \"URGENT\" email, AI drafts a reply based on the email content and your past responses."
+        ],
+        "pricing": "Paid plans starting at $0",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Fabi",
+        "slug": "fabi",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/fabi",
+        "source": "Product Hunt",
+        "isoDate": "2026-04-21T06:50:13.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Unlocking the Future",
+        "slug": "unlocking-the-future",
+        "description": "With tools now capable of assisting in coding, automating mundane tasks, and even suggesting improvements, developers are experiencing a shift in the way they acquire and apply their coding skills. With tools now capable of assisting in coding, automating mundane tasks, and even suggesting improvements, developers are experiencing a shift in the way they acquire and apply their coding skills.",
+        "summary": "With tools now capable of assisting in coding, automating mundane tasks, and even suggesting improvements, developers are experiencing a shift in the way they acquire and apply their coding skills. With tools now capable of assisting in coding, automating mundane tasks, and even suggesting improvements, developers are experiencing a shift in the way they acquire and apply their coding skills.",
+        "link": "https://dev.to/themez_world_dc53aea53896/unlocking-the-future-how-ai-is-transforming-software-development-skills-3bcb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-21T06:46:46.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "With tools now capable of assisting in coding, automating mundane tasks, and even suggesting improvements, developers are experiencing a shift in the way they acquire and apply their coding skills.",
+          "With tools now capable of assisting in coding, automating mundane tasks, and even suggesting improvements, developers are experiencing a shift in the way they acquire and apply their coding skills.",
+          "As developers and businesses strive to keep pace with the rapidly evolving technology landscape, understanding how AI shapes coding skills is crucial."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-04-21T07:16:56.001Z",
+    "lastUpdated": "2026-04-21T07:16:56.001Z",
+    "visibleDate": "Apr 21, 2026",
+    "url": "pages/2026-04-21-071656001-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-04-21-071656001-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "We still need",
+      "I Automated The AI Productivity Stack"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include We still need, I Automated The AI Productivity St",
+    "tools": [
+      {
+        "name": "We still need",
+        "slug": "we-still-need",
+        "description": "Ryan welcomes Mike Swift, co-founder and CEO of Major League Hacking, to the show to chat about the never-ending need for software developer communities and entry points into programming; MHL’s recent acquisition of DEV and how they’re creating a place for shared knowledge, building, and publishing; and why now is the best time to be both an artisan and a builder in a world with AI software development tools.",
+        "summary": "Ryan welcomes Mike Swift, co-founder and CEO of Major League Hacking, to the show to chat about the never-ending need for software developer communities and entry points into programming; MHL’s recent acquisition of DEV and how they’re creating a place for shared knowledge, building, and publishing; and why now is the best time to be both an artisan and a builder in a world with AI software development tools.",
+        "link": "https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-04-21T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "hackathon",
+          "dev-life",
+          "career-development"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Automated The AI Productivity Stack",
+        "slug": "i-automated-the-ai-productivity-stack",
+        "description": "You approve.</p> <p><strong>During the day, two rules:</strong></p> <ol> <li>Deep work sessions = phone on airplane mode, Slack paused, email closed.</li> <li>Every task gets a 25-minute timer. Three.</p> <p><strong>Step 3 (2 min): Block your calendar.</strong><br> AI auto-blocks: 2 deep work sessions (90 min each), email batching windows, meeting-free focus zones.",
+        "summary": "You approve.</p> <p><strong>During the day, two rules:</strong></p> <ol> <li>Deep work sessions = phone on airplane mode, Slack paused, email closed.</li> <li>Every task gets a 25-minute timer. Three.</p> <p><strong>Step 3 (2 min): Block your calendar.</strong><br> AI auto-blocks: 2 deep work sessions (90 min each), email batching windows, meeting-free focus zones.",
+        "link": "https://dev.to/renc/i-automated-the-ai-productivity-stack-200-prompts-that-actually-save-you-time-and-got-3-hours-n7e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-21T07:11:31.000Z",
+        "keywords": [
+          "productivity",
+          "ai",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "ai",
+          "automation"
+        ],
+        "pros": [
+          "Great for productivity",
+          "ai-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "You approve.</p> <p><strong>During the day, two rules:</strong></p> <ol> <li>Deep work sessions = phone on airplane mode, Slack paused, email closed.</li> <li>Every task gets a 25-minute timer.",
+          "Three.</p> <p><strong>Step 3 (2 min): Block your calendar.</strong><br> AI auto-blocks: 2 deep work sessions (90 min each), email batching windows, meeting-free focus zones.",
+          "At 50 emails/day: $1.50/month.</p> <p><strong>Layer 2: Draft generation</strong><br> For every \"TODAY\" and \"URGENT\" email, AI drafts a reply based on the email content and your past responses."
+        ],
+        "pricing": "Paid plans starting at $0",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-04-21T07:16:56.001Z",
+    "lastUpdated": "2026-04-21T07:16:56.001Z",
+    "visibleDate": "Apr 21, 2026",
+    "url": "pages/2026-04-21-071656001-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-04-21-071656001-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "We still need",
+      "I Automated The AI Productivity Stack",
+      "Fabi"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include We still need, I Automated The AI Productivity Stack, Fabi. New launches",
+    "tools": [
+      {
+        "name": "We still need",
+        "slug": "we-still-need",
+        "description": "Ryan welcomes Mike Swift, co-founder and CEO of Major League Hacking, to the show to chat about the never-ending need for software developer communities and entry points into programming; MHL’s recent acquisition of DEV and how they’re creating a place for shared knowledge, building, and publishing; and why now is the best time to be both an artisan and a builder in a world with AI software development tools.",
+        "summary": "Ryan welcomes Mike Swift, co-founder and CEO of Major League Hacking, to the show to chat about the never-ending need for software developer communities and entry points into programming; MHL’s recent acquisition of DEV and how they’re creating a place for shared knowledge, building, and publishing; and why now is the best time to be both an artisan and a builder in a world with AI software development tools.",
+        "link": "https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-04-21T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "hackathon",
+          "dev-life",
+          "career-development"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Automated The AI Productivity Stack",
+        "slug": "i-automated-the-ai-productivity-stack",
+        "description": "You approve.</p> <p><strong>During the day, two rules:</strong></p> <ol> <li>Deep work sessions = phone on airplane mode, Slack paused, email closed.</li> <li>Every task gets a 25-minute timer. Three.</p> <p><strong>Step 3 (2 min): Block your calendar.</strong><br> AI auto-blocks: 2 deep work sessions (90 min each), email batching windows, meeting-free focus zones.",
+        "summary": "You approve.</p> <p><strong>During the day, two rules:</strong></p> <ol> <li>Deep work sessions = phone on airplane mode, Slack paused, email closed.</li> <li>Every task gets a 25-minute timer. Three.</p> <p><strong>Step 3 (2 min): Block your calendar.</strong><br> AI auto-blocks: 2 deep work sessions (90 min each), email batching windows, meeting-free focus zones.",
+        "link": "https://dev.to/renc/i-automated-the-ai-productivity-stack-200-prompts-that-actually-save-you-time-and-got-3-hours-n7e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-21T07:11:31.000Z",
+        "keywords": [
+          "productivity",
+          "ai",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "ai",
+          "automation"
+        ],
+        "pros": [
+          "Great for productivity",
+          "ai-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "You approve.</p> <p><strong>During the day, two rules:</strong></p> <ol> <li>Deep work sessions = phone on airplane mode, Slack paused, email closed.</li> <li>Every task gets a 25-minute timer.",
+          "Three.</p> <p><strong>Step 3 (2 min): Block your calendar.</strong><br> AI auto-blocks: 2 deep work sessions (90 min each), email batching windows, meeting-free focus zones.",
+          "At 50 emails/day: $1.50/month.</p> <p><strong>Layer 2: Draft generation</strong><br> For every \"TODAY\" and \"URGENT\" email, AI drafts a reply based on the email content and your past responses."
+        ],
+        "pricing": "Paid plans starting at $0",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Fabi",
+        "slug": "fabi",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/fabi",
+        "source": "Product Hunt",
+        "isoDate": "2026-04-21T06:50:13.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-04-20T07:44:49.839Z",
     "lastUpdated": "2026-04-20T07:44:49.839Z",
     "visibleDate": "Apr 20, 2026",

@@ -7,6 +7,696 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-04-28T07:57:45.909Z",
+    "lastUpdated": "2026-04-28T07:57:45.909Z",
+    "visibleDate": "Apr 28, 2026",
+    "url": "pages/2026-04-28-075745909-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-04-28-075745909-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "Testing Seedance AI",
+      "Seedance AI Video",
+      "Your LLM issues"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Testing Seedance AI, Seedance AI Video, Your LLM issues. Productivity stac",
+    "tools": [
+      {
+        "name": "Testing Seedance AI",
+        "slug": "testing-seedance-ai",
+        "description": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "summary": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "link": "https://dev.to/michaelanderson_9cef3a26/testing-seedance-ai-video-generator-for-short-video-concepts-28d4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-28T07:43:05.000Z",
+        "keywords": [
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "productivity",
+          "video"
+        ],
+        "useCases": [
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "pros": [
+          "Great for tools",
+          "dev-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for dev workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas.",
+          "<p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+          "It is useful for storyboard exploration, short social clips, product demo ideas, and marketing visuals before final editing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Seedance AI Video",
+        "slug": "seedance-ai-video",
+        "description": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "summary": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "link": "https://dev.to/michaelanderson_9cef3a26/seedance-ai-video-generator-for-fast-creative-drafts-5cc3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-28T07:42:04.000Z",
+        "keywords": [
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "productivity",
+          "video"
+        ],
+        "useCases": [
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "pros": [
+          "Great for tools",
+          "dev-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for dev workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas.",
+          "<p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+          "It is useful for storyboard exploration, short social clips, product demo ideas, and marketing visuals before final editing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Your LLM issues",
+        "slug": "your-llm-issues",
+        "description": "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data. Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data.",
+        "summary": "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data. Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data.",
+        "link": "https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-04-28T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "data",
+          "ai",
+          "llm"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [
+          "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data.",
+          "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Scraping 241 UK",
+        "slug": "scraping-241-uk",
+        "description": "I ended up writing several scrapers: a standard requests-based one, a Playwright-based one for councils that block anything that doesn't look like a real browser, and a curl_cffi one for TLS fingerprinting. In practice it's locked behind 400+ different council portals, some still running bespoke ASP.NET that looks like it dates from 2004, some behind AWS WAF, all with subtly different schemas.",
+        "summary": "I ended up writing several scrapers: a standard requests-based one, a Playwright-based one for councils that block anything that doesn't look like a real browser, and a curl_cffi one for TLS fingerprinting. In practice it's locked behind 400+ different council portals, some still running bespoke ASP.NET that looks like it dates from 2004, some behind AWS WAF, all with subtly different schemas.",
+        "link": "https://news.ycombinator.com/item?id=47931470",
+        "source": "Hacker News",
+        "isoDate": "2026-04-28T07:34:03.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "councils"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "In practice it's locked behind 400+ different council portals, some still running bespoke ASP.NET that looks like it dates from 2004, some behind AWS WAF, all with subtly different schemas.",
+          "In practice it's locked behind 400+ different council portals, some still running bespoke ASP.NET that looks like it dates from 2004, some behind AWS WAF, all with subtly different schemas.",
+          "I'm now at 241 councils and 2.6 million decisions across England, Scotland and Wales.<p>The scraping problem<p>Most UK councils run one of a handful of portal systems, Idox being the most common."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Tools that Actually Pay You Back",
+        "slug": "ai-tools-that-actually-pay-you-back",
+        "description": "However, what you may not know is that there are several AI tools that can actually pay you back, either by saving you time, reducing costs, or generating revenue. This has led to a surge in demand for AI-powered solutions, and as a result, there are now numerous tools and platforms that can help you build, deploy, and monetize your AI models.",
+        "summary": "However, what you may not know is that there are several AI tools that can actually pay you back, either by saving you time, reducing costs, or generating revenue. This has led to a surge in demand for AI-powered solutions, and as a result, there are now numerous tools and platforms that can help you build, deploy, and monetize your AI models.",
+        "link": "https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-machine-learning-3aom",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-28T07:22:33.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "money",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "However, what you may not know is that there are several AI tools that can actually pay you back, either by saving you time, reducing costs, or generating revenue.",
+          "This has led to a surge in demand for AI-powered solutions, and as a result, there are now numerous tools and platforms that can help you build, deploy, and monetize your AI models.",
+          "Google Cloud AutoML is a suite of machine learning tools that allows developers to build, deploy, and manage AI models without extensive machine learning expertise."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-04-28T07:57:45.909Z",
+    "lastUpdated": "2026-04-28T07:57:45.909Z",
+    "visibleDate": "Apr 28, 2026",
+    "url": "pages/2026-04-28-075745909-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-04-28-075745909-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "Testing Seedance AI",
+      "Seedance AI Video",
+      "Your LLM issues"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Testing Seedance AI, Seedance AI Video, Your LLM issues. Reliable ",
+    "tools": [
+      {
+        "name": "Testing Seedance AI",
+        "slug": "testing-seedance-ai",
+        "description": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "summary": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "link": "https://dev.to/michaelanderson_9cef3a26/testing-seedance-ai-video-generator-for-short-video-concepts-28d4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-28T07:43:05.000Z",
+        "keywords": [
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "productivity",
+          "video"
+        ],
+        "useCases": [
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "pros": [
+          "Great for tools",
+          "dev-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for dev workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas.",
+          "<p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+          "It is useful for storyboard exploration, short social clips, product demo ideas, and marketing visuals before final editing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Seedance AI Video",
+        "slug": "seedance-ai-video",
+        "description": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "summary": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "link": "https://dev.to/michaelanderson_9cef3a26/seedance-ai-video-generator-for-fast-creative-drafts-5cc3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-28T07:42:04.000Z",
+        "keywords": [
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "productivity",
+          "video"
+        ],
+        "useCases": [
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "pros": [
+          "Great for tools",
+          "dev-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for dev workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas.",
+          "<p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+          "It is useful for storyboard exploration, short social clips, product demo ideas, and marketing visuals before final editing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Your LLM issues",
+        "slug": "your-llm-issues",
+        "description": "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data. Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data.",
+        "summary": "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data. Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data.",
+        "link": "https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-04-28T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "data",
+          "ai",
+          "llm"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [
+          "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data.",
+          "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Scraping 241 UK",
+        "slug": "scraping-241-uk",
+        "description": "I ended up writing several scrapers: a standard requests-based one, a Playwright-based one for councils that block anything that doesn't look like a real browser, and a curl_cffi one for TLS fingerprinting. In practice it's locked behind 400+ different council portals, some still running bespoke ASP.NET that looks like it dates from 2004, some behind AWS WAF, all with subtly different schemas.",
+        "summary": "I ended up writing several scrapers: a standard requests-based one, a Playwright-based one for councils that block anything that doesn't look like a real browser, and a curl_cffi one for TLS fingerprinting. In practice it's locked behind 400+ different council portals, some still running bespoke ASP.NET that looks like it dates from 2004, some behind AWS WAF, all with subtly different schemas.",
+        "link": "https://news.ycombinator.com/item?id=47931470",
+        "source": "Hacker News",
+        "isoDate": "2026-04-28T07:34:03.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "councils"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "In practice it's locked behind 400+ different council portals, some still running bespoke ASP.NET that looks like it dates from 2004, some behind AWS WAF, all with subtly different schemas.",
+          "In practice it's locked behind 400+ different council portals, some still running bespoke ASP.NET that looks like it dates from 2004, some behind AWS WAF, all with subtly different schemas.",
+          "I'm now at 241 councils and 2.6 million decisions across England, Scotland and Wales.<p>The scraping problem<p>Most UK councils run one of a handful of portal systems, Idox being the most common."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-04-28T07:57:45.909Z",
+    "lastUpdated": "2026-04-28T07:57:45.909Z",
+    "visibleDate": "Apr 28, 2026",
+    "url": "pages/2026-04-28-075745909-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-04-28-075745909-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Testing Seedance AI",
+      "Seedance AI Video"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Testing Seedance AI, Seedance AI Video. Gitpod br",
+    "tools": [
+      {
+        "name": "Testing Seedance AI",
+        "slug": "testing-seedance-ai",
+        "description": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "summary": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "link": "https://dev.to/michaelanderson_9cef3a26/testing-seedance-ai-video-generator-for-short-video-concepts-28d4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-28T07:43:05.000Z",
+        "keywords": [
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "productivity",
+          "video"
+        ],
+        "useCases": [
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "pros": [
+          "Great for tools",
+          "dev-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for dev workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas.",
+          "<p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+          "It is useful for storyboard exploration, short social clips, product demo ideas, and marketing visuals before final editing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Seedance AI Video",
+        "slug": "seedance-ai-video",
+        "description": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "summary": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "link": "https://dev.to/michaelanderson_9cef3a26/seedance-ai-video-generator-for-fast-creative-drafts-5cc3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-28T07:42:04.000Z",
+        "keywords": [
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "productivity",
+          "video"
+        ],
+        "useCases": [
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "pros": [
+          "Great for tools",
+          "dev-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for dev workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas.",
+          "<p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+          "It is useful for storyboard exploration, short social clips, product demo ideas, and marketing visuals before final editing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-04-28T07:57:45.909Z",
+    "lastUpdated": "2026-04-28T07:57:45.909Z",
+    "visibleDate": "Apr 28, 2026",
+    "url": "pages/2026-04-28-075745909-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-04-28-075745909-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Testing Seedance AI",
+      "Seedance AI Video",
+      "Your LLM issues"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Testing Seedance AI, Seedance AI Video, Your LLM issues. New launches th",
+    "tools": [
+      {
+        "name": "Testing Seedance AI",
+        "slug": "testing-seedance-ai",
+        "description": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "summary": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "link": "https://dev.to/michaelanderson_9cef3a26/testing-seedance-ai-video-generator-for-short-video-concepts-28d4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-28T07:43:05.000Z",
+        "keywords": [
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "productivity",
+          "video"
+        ],
+        "useCases": [
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "pros": [
+          "Great for tools",
+          "dev-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for dev workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas.",
+          "<p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+          "It is useful for storyboard exploration, short social clips, product demo ideas, and marketing visuals before final editing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Seedance AI Video",
+        "slug": "seedance-ai-video",
+        "description": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "summary": "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas. <p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+        "link": "https://dev.to/michaelanderson_9cef3a26/seedance-ai-video-generator-for-fast-creative-drafts-5cc3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-04-28T07:42:04.000Z",
+        "keywords": [
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "productivity",
+          "video"
+        ],
+        "useCases": [
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "pros": [
+          "Great for tools",
+          "dev-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for dev workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The workflow is simple enough for fast concept testing while still giving creators a practical way to turn prompts and visual references into short video ideas.",
+          "<p>I have been testing <a href=\"https://www.xmk.com/seedance\" rel=\"noopener noreferrer\">seedance ai video generator</a> for quick text-to-video and image-to-video creative drafts.",
+          "It is useful for storyboard exploration, short social clips, product demo ideas, and marketing visuals before final editing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Your LLM issues",
+        "slug": "your-llm-issues",
+        "description": "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data. Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data.",
+        "summary": "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data. Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data.",
+        "link": "https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-04-28T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "data",
+          "ai",
+          "llm"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [
+          "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data.",
+          "Ryan welcomes Harsha Chintalapani, co-founder and CTO at Collate and co-creator of Open Metadata, to the show to discuss why AI and LLMs struggle with real-time, structured production data."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-04-27T07:58:41.440Z",
     "lastUpdated": "2026-04-27T07:58:41.440Z",
     "visibleDate": "Apr 27, 2026",

@@ -7,6 +7,649 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-05-05T07:48:55.948Z",
+    "lastUpdated": "2026-05-05T07:48:55.948Z",
+    "visibleDate": "May 5, 2026",
+    "url": "pages/2026-05-05-074855948-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-05-05-074855948-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "What (un)exactly do",
+      "Lessons for Agentic Coding",
+      "How to Craft"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include What (un)exactly do, Lessons for Agentic Coding, How to Craft. Productivit",
+    "tools": [
+      {
+        "name": "What (un)exactly do",
+        "slug": "what-un-exactly-do",
+        "description": "Ryan welcomes Bryan O’Grady, Head of Field Research and Solutions Architecture at Qdrant, to discuss the differences between traditional text search engines powered by Lucene and modern vector databases, when vector search’s exact-match needs work for things like logs and security analytics and when semantic search works for user-facing discovery and non-exact results, and how Qdrant is growing into video embeddings and local-agent contexts.",
+        "summary": "Ryan welcomes Bryan O’Grady, Head of Field Research and Solutions Architecture at Qdrant, to discuss the differences between traditional text search engines powered by Lucene and modern vector databases, when vector search’s exact-match needs work for things like logs and security analytics and when semantic search works for user-facing discovery and non-exact results, and how Qdrant is growing into video embeddings and local-agent contexts.",
+        "link": "https://stackoverflow.blog/2026/05/05/what-un-exactly-do-you-mean-by-semantic-search/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-05-05T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "semantic-search",
+          "vector-search",
+          "vector"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Lessons for Agentic Coding",
+        "slug": "lessons-for-agentic-coding",
+        "description": "Article URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html Comments URL: https://news.ycombinator.com/item?id=48019025 Points: 4 # Comments: 1",
+        "summary": "Article URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html Comments URL: https://news.ycombinator.com/item?id=48019025 Points: 4 # Comments: 1",
+        "link": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+        "source": "Hacker News",
+        "isoDate": "2026-05-05T07:05:25.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Craft",
+        "slug": "how-to-craft",
+        "description": "Check out our free AI tools to boost your productivity! <h2> The Rise of AI in Social Media Content Creation </h2> <p>As we navigate through 2026, social media has reached a new pinnacle of complexity and creativity. Explore visuals, videos, and infographics to keep your audience engaged.</li> <li> <strong>Stay Updated</strong>: Follow the latest trends in social media algorithms and adjust your strategies accordingly.",
+        "summary": "Check out our free AI tools to boost your productivity! <h2> The Rise of AI in Social Media Content Creation </h2> <p>As we navigate through 2026, social media has reached a new pinnacle of complexity and creativity. Explore visuals, videos, and infographics to keep your audience engaged.</li> <li> <strong>Stay Updated</strong>: Follow the latest trends in social media algorithms and adjust your strategies accordingly.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-to-craft-engaging-social-media-posts-using-ai-tools-in-2026-638",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-05T06:50:37.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Imagine having a tool at your disposal that generates a suite of posts aligned with trending topics in seconds! AI tools not only save you time but also enhance your content quality.",
+          "</p> <h3> Takeaway </h3> <p>Start integrating AI tools into your content creation process today to craft compelling and relevant social media posts that resonate with your audience.",
+          "According to recent insights, social media algorithms are more sophisticated than ever, focusing on user engagement, shareability, and the authenticity of posts."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Transgender Homicides in Britain, 2000-2025",
+        "slug": "transgender-homicides-in-britain-2000-2025",
+        "description": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6182901 Comments URL: https://news.ycombinator.com/item?id=48018863 Points: 3 # Comments: 0",
+        "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6182901 Comments URL: https://news.ycombinator.com/item?id=48018863 Points: 3 # Comments: 0",
+        "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6182901",
+        "source": "Hacker News",
+        "isoDate": "2026-05-05T06:38:05.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🌟 New on",
+        "slug": "new-on",
+        "description": "🌟 New on the directory #CodeTrendy → AI Raphael Generate and edit images for free with AI Raphael, powered by the advanced Nano Banana Pro model.",
+        "summary": "🌟 New on the directory #CodeTrendy → AI Raphael Generate and edit images for free with AI Raphael, powered by the advanced Nano Banana Pro model.",
+        "link": "https://dev.to/codetrendy/new-on-the-directory-codetrendy-ai-raphaelgenerate-and-edit-images-for-free-with-ai-raphael-on6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-05T06:17:34.000Z",
+        "keywords": [
+          "directory",
+          "web",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "directory",
+          "web",
+          "tools"
+        ],
+        "pros": [
+          "Great for directory",
+          "web-ready automation",
+          "Great for directory"
+        ],
+        "cons": [
+          "Overkill for directory experiments",
+          "Needs extra setup for web workflows",
+          "Overkill for directory experiments"
+        ],
+        "highlights": [
+          "🌟 New on the directory #CodeTrendy → AI Raphael Generate and edit images for free with AI Raphael, powered by the advanced Nano Banana Pro model."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-05-05T07:48:55.948Z",
+    "lastUpdated": "2026-05-05T07:48:55.948Z",
+    "visibleDate": "May 5, 2026",
+    "url": "pages/2026-05-05-074855948-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-05-05-074855948-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "What (un)exactly do",
+      "Lessons for Agentic Coding",
+      "How to Craft"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include What (un)exactly do, Lessons for Agentic Coding, How to Craft. Rel",
+    "tools": [
+      {
+        "name": "What (un)exactly do",
+        "slug": "what-un-exactly-do",
+        "description": "Ryan welcomes Bryan O’Grady, Head of Field Research and Solutions Architecture at Qdrant, to discuss the differences between traditional text search engines powered by Lucene and modern vector databases, when vector search’s exact-match needs work for things like logs and security analytics and when semantic search works for user-facing discovery and non-exact results, and how Qdrant is growing into video embeddings and local-agent contexts.",
+        "summary": "Ryan welcomes Bryan O’Grady, Head of Field Research and Solutions Architecture at Qdrant, to discuss the differences between traditional text search engines powered by Lucene and modern vector databases, when vector search’s exact-match needs work for things like logs and security analytics and when semantic search works for user-facing discovery and non-exact results, and how Qdrant is growing into video embeddings and local-agent contexts.",
+        "link": "https://stackoverflow.blog/2026/05/05/what-un-exactly-do-you-mean-by-semantic-search/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-05-05T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "semantic-search",
+          "vector-search",
+          "vector"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Lessons for Agentic Coding",
+        "slug": "lessons-for-agentic-coding",
+        "description": "Article URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html Comments URL: https://news.ycombinator.com/item?id=48019025 Points: 4 # Comments: 1",
+        "summary": "Article URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html Comments URL: https://news.ycombinator.com/item?id=48019025 Points: 4 # Comments: 1",
+        "link": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+        "source": "Hacker News",
+        "isoDate": "2026-05-05T07:05:25.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Craft",
+        "slug": "how-to-craft",
+        "description": "Check out our free AI tools to boost your productivity! <h2> The Rise of AI in Social Media Content Creation </h2> <p>As we navigate through 2026, social media has reached a new pinnacle of complexity and creativity. Explore visuals, videos, and infographics to keep your audience engaged.</li> <li> <strong>Stay Updated</strong>: Follow the latest trends in social media algorithms and adjust your strategies accordingly.",
+        "summary": "Check out our free AI tools to boost your productivity! <h2> The Rise of AI in Social Media Content Creation </h2> <p>As we navigate through 2026, social media has reached a new pinnacle of complexity and creativity. Explore visuals, videos, and infographics to keep your audience engaged.</li> <li> <strong>Stay Updated</strong>: Follow the latest trends in social media algorithms and adjust your strategies accordingly.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-to-craft-engaging-social-media-posts-using-ai-tools-in-2026-638",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-05T06:50:37.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Imagine having a tool at your disposal that generates a suite of posts aligned with trending topics in seconds! AI tools not only save you time but also enhance your content quality.",
+          "</p> <h3> Takeaway </h3> <p>Start integrating AI tools into your content creation process today to craft compelling and relevant social media posts that resonate with your audience.",
+          "According to recent insights, social media algorithms are more sophisticated than ever, focusing on user engagement, shareability, and the authenticity of posts."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Transgender Homicides in Britain, 2000-2025",
+        "slug": "transgender-homicides-in-britain-2000-2025",
+        "description": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6182901 Comments URL: https://news.ycombinator.com/item?id=48018863 Points: 3 # Comments: 0",
+        "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6182901 Comments URL: https://news.ycombinator.com/item?id=48018863 Points: 3 # Comments: 0",
+        "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6182901",
+        "source": "Hacker News",
+        "isoDate": "2026-05-05T06:38:05.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-05-05T07:48:55.948Z",
+    "lastUpdated": "2026-05-05T07:48:55.948Z",
+    "visibleDate": "May 5, 2026",
+    "url": "pages/2026-05-05-074855948-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-05-05-074855948-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "What (un)exactly do",
+      "Lessons for Agentic Coding"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include What (un)exactly do, Lessons for Agentic Coding. ",
+    "tools": [
+      {
+        "name": "What (un)exactly do",
+        "slug": "what-un-exactly-do",
+        "description": "Ryan welcomes Bryan O’Grady, Head of Field Research and Solutions Architecture at Qdrant, to discuss the differences between traditional text search engines powered by Lucene and modern vector databases, when vector search’s exact-match needs work for things like logs and security analytics and when semantic search works for user-facing discovery and non-exact results, and how Qdrant is growing into video embeddings and local-agent contexts.",
+        "summary": "Ryan welcomes Bryan O’Grady, Head of Field Research and Solutions Architecture at Qdrant, to discuss the differences between traditional text search engines powered by Lucene and modern vector databases, when vector search’s exact-match needs work for things like logs and security analytics and when semantic search works for user-facing discovery and non-exact results, and how Qdrant is growing into video embeddings and local-agent contexts.",
+        "link": "https://stackoverflow.blog/2026/05/05/what-un-exactly-do-you-mean-by-semantic-search/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-05-05T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "semantic-search",
+          "vector-search",
+          "vector"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Lessons for Agentic Coding",
+        "slug": "lessons-for-agentic-coding",
+        "description": "Article URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html Comments URL: https://news.ycombinator.com/item?id=48019025 Points: 4 # Comments: 1",
+        "summary": "Article URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html Comments URL: https://news.ycombinator.com/item?id=48019025 Points: 4 # Comments: 1",
+        "link": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+        "source": "Hacker News",
+        "isoDate": "2026-05-05T07:05:25.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-05-05T07:48:55.948Z",
+    "lastUpdated": "2026-05-05T07:48:55.948Z",
+    "visibleDate": "May 5, 2026",
+    "url": "pages/2026-05-05-074855948-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-05-05-074855948-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "What (un)exactly do",
+      "Lessons for Agentic Coding",
+      "How to Craft"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include What (un)exactly do, Lessons for Agentic Coding, How to Craft. New launc",
+    "tools": [
+      {
+        "name": "What (un)exactly do",
+        "slug": "what-un-exactly-do",
+        "description": "Ryan welcomes Bryan O’Grady, Head of Field Research and Solutions Architecture at Qdrant, to discuss the differences between traditional text search engines powered by Lucene and modern vector databases, when vector search’s exact-match needs work for things like logs and security analytics and when semantic search works for user-facing discovery and non-exact results, and how Qdrant is growing into video embeddings and local-agent contexts.",
+        "summary": "Ryan welcomes Bryan O’Grady, Head of Field Research and Solutions Architecture at Qdrant, to discuss the differences between traditional text search engines powered by Lucene and modern vector databases, when vector search’s exact-match needs work for things like logs and security analytics and when semantic search works for user-facing discovery and non-exact results, and how Qdrant is growing into video embeddings and local-agent contexts.",
+        "link": "https://stackoverflow.blog/2026/05/05/what-un-exactly-do-you-mean-by-semantic-search/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-05-05T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "semantic-search",
+          "vector-search",
+          "vector"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Lessons for Agentic Coding",
+        "slug": "lessons-for-agentic-coding",
+        "description": "Article URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html Comments URL: https://news.ycombinator.com/item?id=48019025 Points: 4 # Comments: 1",
+        "summary": "Article URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html Comments URL: https://news.ycombinator.com/item?id=48019025 Points: 4 # Comments: 1",
+        "link": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+        "source": "Hacker News",
+        "isoDate": "2026-05-05T07:05:25.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Craft",
+        "slug": "how-to-craft",
+        "description": "Check out our free AI tools to boost your productivity! <h2> The Rise of AI in Social Media Content Creation </h2> <p>As we navigate through 2026, social media has reached a new pinnacle of complexity and creativity. Explore visuals, videos, and infographics to keep your audience engaged.</li> <li> <strong>Stay Updated</strong>: Follow the latest trends in social media algorithms and adjust your strategies accordingly.",
+        "summary": "Check out our free AI tools to boost your productivity! <h2> The Rise of AI in Social Media Content Creation </h2> <p>As we navigate through 2026, social media has reached a new pinnacle of complexity and creativity. Explore visuals, videos, and infographics to keep your audience engaged.</li> <li> <strong>Stay Updated</strong>: Follow the latest trends in social media algorithms and adjust your strategies accordingly.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-to-craft-engaging-social-media-posts-using-ai-tools-in-2026-638",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-05T06:50:37.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Imagine having a tool at your disposal that generates a suite of posts aligned with trending topics in seconds! AI tools not only save you time but also enhance your content quality.",
+          "</p> <h3> Takeaway </h3> <p>Start integrating AI tools into your content creation process today to craft compelling and relevant social media posts that resonate with your audience.",
+          "According to recent insights, social media algorithms are more sophisticated than ever, focusing on user engagement, shareability, and the authenticity of posts."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-05-04T08:09:49.452Z",
     "lastUpdated": "2026-05-04T08:09:49.452Z",
     "visibleDate": "May 4, 2026",

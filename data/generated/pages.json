@@ -7,6 +7,703 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-05-07T08:07:27.464Z",
+    "lastUpdated": "2026-05-07T08:07:27.464Z",
+    "visibleDate": "May 7, 2026",
+    "url": "pages/2026-05-07-080727464-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-05-07-080727464-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "LSM Trees",
+      "Instagram Scraper Comparison",
+      "Your Bash CI Scripts Are a Ticking Time Bomb"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include LSM Trees, Instagram Scraper Comparison, Your Bash CI Scripts Are a Tickin",
+    "tools": [
+      {
+        "name": "LSM Trees",
+        "slug": "lsm-trees",
+        "description": "One practical thing worth knowing: bloom filters in both RocksDB and Cassandra are stored alongside the SSTable data, so they get evicted from the block cache or off-heap memory under pressure just like anything else. That's the core trade-off of LSM — write speed now, read efficiency later.</p> <p>One gotcha: <code>grocksdb</code> requires you to have the RocksDB shared library version match exactly what the bindings expect.",
+        "summary": "One practical thing worth knowing: bloom filters in both RocksDB and Cassandra are stored alongside the SSTable data, so they get evicted from the block cache or off-heap memory under pressure just like anything else. That's the core trade-off of LSM — write speed now, read efficiency later.</p> <p>One gotcha: <code>grocksdb</code> requires you to have the RocksDB shared library version match exactly what the bindings expect.",
+        "link": "https://dev.to/ericwoooo_kr/lsm-trees-why-your-database-writes-are-fast-and-your-reads-are-lying-to-you-3m3d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-07T08:02:24.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "NAND flash erases in blocks of 128KB–512KB minimum, so writing a single 4KB page forces the SSD controller to read the surrounding block, erase it, and rewrite the whole thing.",
+          "LSM trees make a deliberate trade: they absorb writes sequentially into an in-memory buffer (the MemTable), then flush to disk as immutable sorted files (SSTables) in one big sequential write.",
+          "Falls apart the instant you have out-of-order writes spanning multiple windows — I've seen TWCS leave 200+ tiny SSTables because late data kept opening old windows."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Instagram Scraper Comparison",
+        "slug": "instagram-scraper-comparison",
+        "description": "Instagram Scraper Face-Off: CoreClaw vs Apify Last updated: May 2026 Instagram remains crucial for brand monitoring and influencer marketing. We tested the top scraping solutions to see which delivers the best results.",
+        "summary": "Instagram Scraper Face-Off: CoreClaw vs Apify Last updated: May 2026 Instagram remains crucial for brand monitoring and influencer marketing. We tested the top scraping solutions to see which delivers the best results.",
+        "link": "https://dev.to/lynn7777/instagram-scraper-comparison-coreclaw-vs-apify-2h02",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-07T07:59:27.000Z",
+        "keywords": [
+          "instagram",
+          "socialmedia",
+          "webscraping",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "instagram",
+          "socialmedia",
+          "webscraping"
+        ],
+        "pros": [
+          "Great for instagram",
+          "socialmedia-ready automation",
+          "Great for instagram"
+        ],
+        "cons": [
+          "Overkill for instagram experiments",
+          "Needs extra setup for socialmedia workflows",
+          "Overkill for instagram experiments"
+        ],
+        "highlights": [
+          "Instagram Scraper Face-Off: CoreClaw vs Apify Last updated: May 2026 Instagram remains crucial for brand monitoring and influencer marketing.",
+          "We tested the top scraping solutions to see which delivers the best results."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Your Bash CI Scripts Are a Ticking Time Bomb",
+        "slug": "your-bash-ci-scripts-are-a-ticking-time-bomb",
+        "description": "You need build duration trends, cache hit rates, flaky test rates by test file, and queue wait time — all in your existing monitoring stack, not buried in a CI web interface that only three people have bookmarked. You need build duration trends, cache hit rates, flaky test rates by test file, and queue wait time — all in your existing monitoring stack, not buried in a CI web interface that only three people have bookmarked.",
+        "summary": "You need build duration trends, cache hit rates, flaky test rates by test file, and queue wait time — all in your existing monitoring stack, not buried in a CI web interface that only three people have bookmarked. You need build duration trends, cache hit rates, flaky test rates by test file, and queue wait time — all in your existing monitoring stack, not buried in a CI web interface that only three people have bookmarked.",
+        "link": "https://dev.to/ericwoooo_kr/your-bash-ci-scripts-are-a-ticking-time-bomb-heres-what-to-use-instead-3b7c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-07T07:52:47.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Then you hire more teams, add more services, copy-paste a job for \"just this one thing.\" I audited a <code>.github/workflows/</code> directory last year that had 31 files and roughly 3,200 lines.",
+          "Then you hire more teams, add more services, copy-paste a job for \"just this one thing.\" I audited a .github/workflows/ directory last year that had 31 files and roughly 3,200 lines.",
+          "In practice this means your build job pushes `myapp:sha-a3f92c1` to your registry, and every subsequent job — integration tests, smoke tests, canary deploy, full prod deploy — pulls that exact tag."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Lessons from Building My First Claude Skill",
+        "slug": "lessons-from-building-my-first-claude-skill",
+        "description": "<br> Waver on the other hand complete control on which models are being used, can run parallel and join tasks with its use of JGraphlet, can easily integarte into CI and batch modes for multiple projects etc. </span> <span class=\"c\">#However if you want to preview in html then use the following command.</span> /tutorial preview </code></pre> </div> <h3> Skill Modes </h3> <p>Currently the Skill is built into two modes.",
+        "summary": "<br> Waver on the other hand complete control on which models are being used, can run parallel and join tasks with its use of JGraphlet, can easily integarte into CI and batch modes for multiple projects etc. </span> <span class=\"c\">#However if you want to preview in html then use the following command.</span> /tutorial preview </code></pre> </div> <h3> Skill Modes </h3> <p>Currently the Skill is built into two modes.",
+        "link": "https://dev.to/sshaaf/lessons-from-building-my-first-claude-skill-a-code-tutorial-generator-3onm",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-07T07:49:57.000Z",
+        "keywords": [
+          "llm",
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "llm",
+          "tools",
+          "dev"
+        ],
+        "pros": [
+          "Great for llm",
+          "tools-ready automation",
+          "Great for llm"
+        ],
+        "cons": [
+          "Overkill for llm experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for llm experiments"
+        ],
+        "highlights": [
+          "Easy to follow tutorials in pure markdown + mermaid diagrams, so any person could be onboarded with ease, projects could add it to project pipelines etc.",
+          "Easy to follow tutorials in pure markdown + mermaid diagrams, so any person could be onboarded with ease, projects could add it to project pipelines etc.",
+          "Report: \"Found {N} files totaling {LOC} lines of code\" npx @sshaaf/tutorial-skill install # reload the coding agent."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built an",
+        "slug": "i-built-an",
+        "description": "The final product still needed manual decisions: keep the tool simple, avoid implying exact billing numbers for proprietary tokenizers, support multiple languages, and make the context window usage obvious at a glance. I keep running into the same small problem when working with LLMs: a prompt looks fine in a text editor, but I still need to know whether it is going to fit inside the model context window before I send it.",
+        "summary": "The final product still needed manual decisions: keep the tool simple, avoid implying exact billing numbers for proprietary tokenizers, support multiple languages, and make the context window usage obvious at a glance. I keep running into the same small problem when working with LLMs: a prompt looks fine in a text editor, but I still need to know whether it is going to fit inside the model context window before I send it.",
+        "link": "https://dev.to/zley_34b5414ca5e486c1c333/i-built-an-ai-token-calculator-because-long-prompts-need-a-sanity-check-57eg",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-07T07:48:31.000Z",
+        "keywords": [
+          "ai",
+          "webdev",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "webdev",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "webdev-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The first version focuses on the models I most often need to plan for: OpenAI / GPT models Claude Gemini Qwen GLM Kimi For OpenAI models, the tool uses compatible local BPE tokenizers.",
+          "You can paste a prompt, code snippet, document section, or chat draft, pick the provider/model you care about, and see the token count plus context usage immediately.",
+          "This has already been useful before sending long prompts to production models, trimming documents for chat, checking code snippets, and estimating whether a multi-message prompt should be split."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-05-07T08:07:27.464Z",
+    "lastUpdated": "2026-05-07T08:07:27.464Z",
+    "visibleDate": "May 7, 2026",
+    "url": "pages/2026-05-07-080727464-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-05-07-080727464-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "LSM Trees",
+      "Instagram Scraper Comparison",
+      "Your Bash CI Scripts Are a Ticking Time Bomb"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include LSM Trees, Instagram Scraper Comparison, Your Bash CI Scripts Are ",
+    "tools": [
+      {
+        "name": "LSM Trees",
+        "slug": "lsm-trees",
+        "description": "One practical thing worth knowing: bloom filters in both RocksDB and Cassandra are stored alongside the SSTable data, so they get evicted from the block cache or off-heap memory under pressure just like anything else. That's the core trade-off of LSM — write speed now, read efficiency later.</p> <p>One gotcha: <code>grocksdb</code> requires you to have the RocksDB shared library version match exactly what the bindings expect.",
+        "summary": "One practical thing worth knowing: bloom filters in both RocksDB and Cassandra are stored alongside the SSTable data, so they get evicted from the block cache or off-heap memory under pressure just like anything else. That's the core trade-off of LSM — write speed now, read efficiency later.</p> <p>One gotcha: <code>grocksdb</code> requires you to have the RocksDB shared library version match exactly what the bindings expect.",
+        "link": "https://dev.to/ericwoooo_kr/lsm-trees-why-your-database-writes-are-fast-and-your-reads-are-lying-to-you-3m3d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-07T08:02:24.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "NAND flash erases in blocks of 128KB–512KB minimum, so writing a single 4KB page forces the SSD controller to read the surrounding block, erase it, and rewrite the whole thing.",
+          "LSM trees make a deliberate trade: they absorb writes sequentially into an in-memory buffer (the MemTable), then flush to disk as immutable sorted files (SSTables) in one big sequential write.",
+          "Falls apart the instant you have out-of-order writes spanning multiple windows — I've seen TWCS leave 200+ tiny SSTables because late data kept opening old windows."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Instagram Scraper Comparison",
+        "slug": "instagram-scraper-comparison",
+        "description": "Instagram Scraper Face-Off: CoreClaw vs Apify Last updated: May 2026 Instagram remains crucial for brand monitoring and influencer marketing. We tested the top scraping solutions to see which delivers the best results.",
+        "summary": "Instagram Scraper Face-Off: CoreClaw vs Apify Last updated: May 2026 Instagram remains crucial for brand monitoring and influencer marketing. We tested the top scraping solutions to see which delivers the best results.",
+        "link": "https://dev.to/lynn7777/instagram-scraper-comparison-coreclaw-vs-apify-2h02",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-07T07:59:27.000Z",
+        "keywords": [
+          "instagram",
+          "socialmedia",
+          "webscraping",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "instagram",
+          "socialmedia",
+          "webscraping"
+        ],
+        "pros": [
+          "Great for instagram",
+          "socialmedia-ready automation",
+          "Great for instagram"
+        ],
+        "cons": [
+          "Overkill for instagram experiments",
+          "Needs extra setup for socialmedia workflows",
+          "Overkill for instagram experiments"
+        ],
+        "highlights": [
+          "Instagram Scraper Face-Off: CoreClaw vs Apify Last updated: May 2026 Instagram remains crucial for brand monitoring and influencer marketing.",
+          "We tested the top scraping solutions to see which delivers the best results."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Your Bash CI Scripts Are a Ticking Time Bomb",
+        "slug": "your-bash-ci-scripts-are-a-ticking-time-bomb",
+        "description": "You need build duration trends, cache hit rates, flaky test rates by test file, and queue wait time — all in your existing monitoring stack, not buried in a CI web interface that only three people have bookmarked. You need build duration trends, cache hit rates, flaky test rates by test file, and queue wait time — all in your existing monitoring stack, not buried in a CI web interface that only three people have bookmarked.",
+        "summary": "You need build duration trends, cache hit rates, flaky test rates by test file, and queue wait time — all in your existing monitoring stack, not buried in a CI web interface that only three people have bookmarked. You need build duration trends, cache hit rates, flaky test rates by test file, and queue wait time — all in your existing monitoring stack, not buried in a CI web interface that only three people have bookmarked.",
+        "link": "https://dev.to/ericwoooo_kr/your-bash-ci-scripts-are-a-ticking-time-bomb-heres-what-to-use-instead-3b7c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-07T07:52:47.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Then you hire more teams, add more services, copy-paste a job for \"just this one thing.\" I audited a <code>.github/workflows/</code> directory last year that had 31 files and roughly 3,200 lines.",
+          "Then you hire more teams, add more services, copy-paste a job for \"just this one thing.\" I audited a .github/workflows/ directory last year that had 31 files and roughly 3,200 lines.",
+          "In practice this means your build job pushes `myapp:sha-a3f92c1` to your registry, and every subsequent job — integration tests, smoke tests, canary deploy, full prod deploy — pulls that exact tag."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Lessons from Building My First Claude Skill",
+        "slug": "lessons-from-building-my-first-claude-skill",
+        "description": "<br> Waver on the other hand complete control on which models are being used, can run parallel and join tasks with its use of JGraphlet, can easily integarte into CI and batch modes for multiple projects etc. </span> <span class=\"c\">#However if you want to preview in html then use the following command.</span> /tutorial preview </code></pre> </div> <h3> Skill Modes </h3> <p>Currently the Skill is built into two modes.",
+        "summary": "<br> Waver on the other hand complete control on which models are being used, can run parallel and join tasks with its use of JGraphlet, can easily integarte into CI and batch modes for multiple projects etc. </span> <span class=\"c\">#However if you want to preview in html then use the following command.</span> /tutorial preview </code></pre> </div> <h3> Skill Modes </h3> <p>Currently the Skill is built into two modes.",
+        "link": "https://dev.to/sshaaf/lessons-from-building-my-first-claude-skill-a-code-tutorial-generator-3onm",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-07T07:49:57.000Z",
+        "keywords": [
+          "llm",
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "llm",
+          "tools",
+          "dev"
+        ],
+        "pros": [
+          "Great for llm",
+          "tools-ready automation",
+          "Great for llm"
+        ],
+        "cons": [
+          "Overkill for llm experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for llm experiments"
+        ],
+        "highlights": [
+          "Easy to follow tutorials in pure markdown + mermaid diagrams, so any person could be onboarded with ease, projects could add it to project pipelines etc.",
+          "Easy to follow tutorials in pure markdown + mermaid diagrams, so any person could be onboarded with ease, projects could add it to project pipelines etc.",
+          "Report: \"Found {N} files totaling {LOC} lines of code\" npx @sshaaf/tutorial-skill install # reload the coding agent."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-05-07T08:07:27.464Z",
+    "lastUpdated": "2026-05-07T08:07:27.464Z",
+    "visibleDate": "May 7, 2026",
+    "url": "pages/2026-05-07-080727464-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-05-07-080727464-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "LSM Trees",
+      "Instagram Scraper Comparison"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include LSM Trees, Instagram Scraper Comparison. Gitpod b",
+    "tools": [
+      {
+        "name": "LSM Trees",
+        "slug": "lsm-trees",
+        "description": "One practical thing worth knowing: bloom filters in both RocksDB and Cassandra are stored alongside the SSTable data, so they get evicted from the block cache or off-heap memory under pressure just like anything else. That's the core trade-off of LSM — write speed now, read efficiency later.</p> <p>One gotcha: <code>grocksdb</code> requires you to have the RocksDB shared library version match exactly what the bindings expect.",
+        "summary": "One practical thing worth knowing: bloom filters in both RocksDB and Cassandra are stored alongside the SSTable data, so they get evicted from the block cache or off-heap memory under pressure just like anything else. That's the core trade-off of LSM — write speed now, read efficiency later.</p> <p>One gotcha: <code>grocksdb</code> requires you to have the RocksDB shared library version match exactly what the bindings expect.",
+        "link": "https://dev.to/ericwoooo_kr/lsm-trees-why-your-database-writes-are-fast-and-your-reads-are-lying-to-you-3m3d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-07T08:02:24.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "NAND flash erases in blocks of 128KB–512KB minimum, so writing a single 4KB page forces the SSD controller to read the surrounding block, erase it, and rewrite the whole thing.",
+          "LSM trees make a deliberate trade: they absorb writes sequentially into an in-memory buffer (the MemTable), then flush to disk as immutable sorted files (SSTables) in one big sequential write.",
+          "Falls apart the instant you have out-of-order writes spanning multiple windows — I've seen TWCS leave 200+ tiny SSTables because late data kept opening old windows."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Instagram Scraper Comparison",
+        "slug": "instagram-scraper-comparison",
+        "description": "Instagram Scraper Face-Off: CoreClaw vs Apify Last updated: May 2026 Instagram remains crucial for brand monitoring and influencer marketing. We tested the top scraping solutions to see which delivers the best results.",
+        "summary": "Instagram Scraper Face-Off: CoreClaw vs Apify Last updated: May 2026 Instagram remains crucial for brand monitoring and influencer marketing. We tested the top scraping solutions to see which delivers the best results.",
+        "link": "https://dev.to/lynn7777/instagram-scraper-comparison-coreclaw-vs-apify-2h02",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-07T07:59:27.000Z",
+        "keywords": [
+          "instagram",
+          "socialmedia",
+          "webscraping",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "instagram",
+          "socialmedia",
+          "webscraping"
+        ],
+        "pros": [
+          "Great for instagram",
+          "socialmedia-ready automation",
+          "Great for instagram"
+        ],
+        "cons": [
+          "Overkill for instagram experiments",
+          "Needs extra setup for socialmedia workflows",
+          "Overkill for instagram experiments"
+        ],
+        "highlights": [
+          "Instagram Scraper Face-Off: CoreClaw vs Apify Last updated: May 2026 Instagram remains crucial for brand monitoring and influencer marketing.",
+          "We tested the top scraping solutions to see which delivers the best results."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-05-07T08:07:27.464Z",
+    "lastUpdated": "2026-05-07T08:07:27.464Z",
+    "visibleDate": "May 7, 2026",
+    "url": "pages/2026-05-07-080727464-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-05-07-080727464-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "LSM Trees",
+      "Instagram Scraper Comparison",
+      "Your Bash CI Scripts Are a Ticking Time Bomb"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include LSM Trees, Instagram Scraper Comparison, Your Bash CI Scripts Are a Tick",
+    "tools": [
+      {
+        "name": "LSM Trees",
+        "slug": "lsm-trees",
+        "description": "One practical thing worth knowing: bloom filters in both RocksDB and Cassandra are stored alongside the SSTable data, so they get evicted from the block cache or off-heap memory under pressure just like anything else. That's the core trade-off of LSM — write speed now, read efficiency later.</p> <p>One gotcha: <code>grocksdb</code> requires you to have the RocksDB shared library version match exactly what the bindings expect.",
+        "summary": "One practical thing worth knowing: bloom filters in both RocksDB and Cassandra are stored alongside the SSTable data, so they get evicted from the block cache or off-heap memory under pressure just like anything else. That's the core trade-off of LSM — write speed now, read efficiency later.</p> <p>One gotcha: <code>grocksdb</code> requires you to have the RocksDB shared library version match exactly what the bindings expect.",
+        "link": "https://dev.to/ericwoooo_kr/lsm-trees-why-your-database-writes-are-fast-and-your-reads-are-lying-to-you-3m3d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-07T08:02:24.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "NAND flash erases in blocks of 128KB–512KB minimum, so writing a single 4KB page forces the SSD controller to read the surrounding block, erase it, and rewrite the whole thing.",
+          "LSM trees make a deliberate trade: they absorb writes sequentially into an in-memory buffer (the MemTable), then flush to disk as immutable sorted files (SSTables) in one big sequential write.",
+          "Falls apart the instant you have out-of-order writes spanning multiple windows — I've seen TWCS leave 200+ tiny SSTables because late data kept opening old windows."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Instagram Scraper Comparison",
+        "slug": "instagram-scraper-comparison",
+        "description": "Instagram Scraper Face-Off: CoreClaw vs Apify Last updated: May 2026 Instagram remains crucial for brand monitoring and influencer marketing. We tested the top scraping solutions to see which delivers the best results.",
+        "summary": "Instagram Scraper Face-Off: CoreClaw vs Apify Last updated: May 2026 Instagram remains crucial for brand monitoring and influencer marketing. We tested the top scraping solutions to see which delivers the best results.",
+        "link": "https://dev.to/lynn7777/instagram-scraper-comparison-coreclaw-vs-apify-2h02",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-07T07:59:27.000Z",
+        "keywords": [
+          "instagram",
+          "socialmedia",
+          "webscraping",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "instagram",
+          "socialmedia",
+          "webscraping"
+        ],
+        "pros": [
+          "Great for instagram",
+          "socialmedia-ready automation",
+          "Great for instagram"
+        ],
+        "cons": [
+          "Overkill for instagram experiments",
+          "Needs extra setup for socialmedia workflows",
+          "Overkill for instagram experiments"
+        ],
+        "highlights": [
+          "Instagram Scraper Face-Off: CoreClaw vs Apify Last updated: May 2026 Instagram remains crucial for brand monitoring and influencer marketing.",
+          "We tested the top scraping solutions to see which delivers the best results."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Your Bash CI Scripts Are a Ticking Time Bomb",
+        "slug": "your-bash-ci-scripts-are-a-ticking-time-bomb",
+        "description": "You need build duration trends, cache hit rates, flaky test rates by test file, and queue wait time — all in your existing monitoring stack, not buried in a CI web interface that only three people have bookmarked. You need build duration trends, cache hit rates, flaky test rates by test file, and queue wait time — all in your existing monitoring stack, not buried in a CI web interface that only three people have bookmarked.",
+        "summary": "You need build duration trends, cache hit rates, flaky test rates by test file, and queue wait time — all in your existing monitoring stack, not buried in a CI web interface that only three people have bookmarked. You need build duration trends, cache hit rates, flaky test rates by test file, and queue wait time — all in your existing monitoring stack, not buried in a CI web interface that only three people have bookmarked.",
+        "link": "https://dev.to/ericwoooo_kr/your-bash-ci-scripts-are-a-ticking-time-bomb-heres-what-to-use-instead-3b7c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-07T07:52:47.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Then you hire more teams, add more services, copy-paste a job for \"just this one thing.\" I audited a <code>.github/workflows/</code> directory last year that had 31 files and roughly 3,200 lines.",
+          "Then you hire more teams, add more services, copy-paste a job for \"just this one thing.\" I audited a .github/workflows/ directory last year that had 31 files and roughly 3,200 lines.",
+          "In practice this means your build job pushes `myapp:sha-a3f92c1` to your registry, and every subsequent job — integration tests, smoke tests, canary deploy, full prod deploy — pulls that exact tag."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-05-06T07:59:26.809Z",
     "lastUpdated": "2026-05-06T07:59:26.809Z",
     "visibleDate": "May 6, 2026",

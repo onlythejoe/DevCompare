@@ -7,6 +7,691 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-05-09T07:27:25.572Z",
+    "lastUpdated": "2026-05-09T07:27:25.572Z",
+    "visibleDate": "May 9, 2026",
+    "url": "pages/2026-05-09-072725572-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-05-09-072725572-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "SaveTube Review",
+      "How to Rotate and Crop Images Online Free",
+      "Reverse EMI Calculator"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include SaveTube Review, How to Rotate and Crop Images Online Free, Reverse EMI Ca",
+    "tools": [
+      {
+        "name": "SaveTube Review",
+        "slug": "savetube-review",
+        "description": "After trying a half-dozen browser extensions and desktop apps that either broke after every YouTube update or wanted me to install something sketchy, I landed on SaveTube and have been using it for a few months now. Why I keep coming back to SaveTube I work with a lot of educational and conference talks on YouTube, and I prefer keeping a local copy for archive viewing on flights or in airports with sketchy wifi.",
+        "summary": "After trying a half-dozen browser extensions and desktop apps that either broke after every YouTube update or wanted me to install something sketchy, I landed on SaveTube and have been using it for a few months now. Why I keep coming back to SaveTube I work with a lot of educational and conference talks on YouTube, and I prefer keeping a local copy for archive viewing on flights or in airports with sketchy wifi.",
+        "link": "https://dev.to/savetubedev2026/savetube-review-free-youtube-video-downloader-i-use-for-offline-archive-1lmj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-09T07:20:37.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "productivity",
+          "video",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Why I keep coming back to SaveTube I work with a lot of educational and conference talks on YouTube, and I prefer keeping a local copy for archive viewing on flights or in airports with sketchy wifi.",
+          "yt-dlp is more powerful but the CLI is overkill if you just want one episode for the train ride home.",
+          "For occasional offline saves, SaveTube — the youtube video downloader is the simplest tool I've found."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Rotate and Crop Images Online Free",
+        "slug": "how-to-rotate-and-crop-images-online-free",
+        "description": "The Rotate Image tool reads the EXIF orientation and compensates automatically — so a phone photo that \"looks correct\" in your photos app will look correct in the rotated output too. Input: JPG, PNG, WebP, GIF, BMP Output: PNG (lossless) PNG output means no additional quality loss from compression — even if your original was a heavily compressed JPEG.",
+        "summary": "The Rotate Image tool reads the EXIF orientation and compensates automatically — so a phone photo that \"looks correct\" in your photos app will look correct in the rotated output too. Input: JPG, PNG, WebP, GIF, BMP Output: PNG (lossless) PNG output means no additional quality loss from compression — even if your original was a heavily compressed JPEG.",
+        "link": "https://dev.to/shaishav_patel_271fdcd61a/how-to-rotate-and-crop-images-online-free-no-app-no-account-works-in-any-browser-88e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-09T06:54:58.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "images",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "images"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The Rotate Image tool reads the EXIF orientation and compensates automatically — so a phone photo that \"looks correct\" in your photos app will look correct in the rotated output too.",
+          "Input: JPG, PNG, WebP, GIF, BMP Output: PNG (lossless) PNG output means no additional quality loss from compression — even if your original was a heavily compressed JPEG.",
+          "Two of the most common image edits — rotating a sideways photo and cutting out the part that matters — don't require Photoshop or a phone app."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Reverse EMI Calculator",
+        "slug": "reverse-emi-calculator",
+        "description": "Negotiating with a lender — If a bank quotes you 10% interest but a competitor offers 8.5%, use the reverse calculation to see exactly how much more loan the lower rate unlocks for the same monthly payment. The EMI Calculator at Ultimate Tools has a built-in reverse EMI calculator: enter your monthly budget, interest rate, and tenure — get the maximum loan amount you qualify for.",
+        "summary": "Negotiating with a lender — If a bank quotes you 10% interest but a competitor offers 8.5%, use the reverse calculation to see exactly how much more loan the lower rate unlocks for the same monthly payment. The EMI Calculator at Ultimate Tools has a built-in reverse EMI calculator: enter your monthly budget, interest rate, and tenure — get the maximum loan amount you qualify for.",
+        "link": "https://dev.to/shaishav_patel_271fdcd61a/reverse-emi-calculator-find-the-loan-amount-you-can-afford-from-a-monthly-budget-3mh7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-09T06:51:18.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "tutorial",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "tutorial"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The EMI Calculator at Ultimate Tools has a built-in reverse EMI calculator: enter your monthly budget, interest rate, and tenure — get the maximum loan amount you qualify for.",
+          "Example: Monthly budget: ₹20,000 Interest rate: 9% per year Tenure: 60 months (5 years) Result: Maximum loan ≈ ₹9,58,000 At ₹20,000/month for 5 years at 9%, you'd repay ₹12,00,000 total.",
+          "Calculate your loan amount from your monthly budget: Reverse EMI Calculator — free, no account <p>Standard EMI calculators start with a loan amount and tell you the monthly payment."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Leverage",
+        "slug": "how-to-leverage",
+        "description": "Focus on High-Value Work: As AI automates low-level tasks, seek opportunities that leverage your unique skill set and creativity, allowing you to command higher rates and engage more meaningfully with your audience. Utilize a Data-Driven Approach: Whether setting prices with the Freelancer Rate Calculator or targeting marketing efforts using the Reddit Launch Strategist, make decisions based on data to maximize effectiveness.",
+        "summary": "Focus on High-Value Work: As AI automates low-level tasks, seek opportunities that leverage your unique skill set and creativity, allowing you to command higher rates and engage more meaningfully with your audience. Utilize a Data-Driven Approach: Whether setting prices with the Freelancer Rate Calculator or targeting marketing efforts using the Reddit Launch Strategist, make decisions based on data to maximize effectiveness.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-to-leverage-ai-for-successful-freelancing-and-marketing-strategies-1idn",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-09T06:50:37.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Louis and the World Economic Forum highlight the dual-edged sword of AI's rising influence—amplifying productivity while also posing challenges to job security.",
+          "This is where the <strong><a href=\"https://blixaitoolkit.com/tools/finance/freelancer-rate\" rel=\"noopener noreferrer\">Freelancer Rate Calculator</a></strong> from BlixAI Toolkit comes in handy.",
+          "With platforms like Upwork and Fiverr booming, freelancers often face the challenge of setting competitive rates in an increasingly saturated market."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Compress a PDF Online Free",
+        "slug": "how-to-compress-a-pdf-online-free",
+        "description": "Image-heavy PDFs see the biggest reductions.</p> <h2> Common Scenarios </h2> <p><strong>Resume / CV</strong> — Recruiters often receive PDFs via email or through applicant tracking systems with file size limits. A single full-page image at 300 DPI can be 5–10 MB before the PDF even has text.</p> <p><strong>Embedded fonts</strong> — PDFs embed font files to ensure text looks correct on any device.",
+        "summary": "Image-heavy PDFs see the biggest reductions.</p> <h2> Common Scenarios </h2> <p><strong>Resume / CV</strong> — Recruiters often receive PDFs via email or through applicant tracking systems with file size limits. A single full-page image at 300 DPI can be 5–10 MB before the PDF even has text.</p> <p><strong>Embedded fonts</strong> — PDFs embed font files to ensure text looks correct on any device.",
+        "link": "https://dev.to/shaishav_patel_271fdcd61a/how-to-compress-a-pdf-online-free-reduce-file-size-without-losing-quality-h1c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-09T06:49:09.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "tutorial",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "tutorial"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "A single full-page image at 300 DPI can be 5–10 MB before the PDF even has text.</p> <p><strong>Embedded fonts</strong> — PDFs embed font files to ensure text looks correct on any device.",
+          "Go to the free PDF compressor Upload your PDF Select a compression level (screen quality, web quality, or print quality) Click Compress → download the result The compressed PDF downloads immediately.",
+          "A document using 5 different fonts can add 2–4 MB from fonts alone.</p> <p><strong>Scanned pages</strong> — Scanner software often saves each page as an uncompressed or minimally compressed image."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-05-09T07:27:25.572Z",
+    "lastUpdated": "2026-05-09T07:27:25.572Z",
+    "visibleDate": "May 9, 2026",
+    "url": "pages/2026-05-09-072725572-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-05-09-072725572-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "SaveTube Review",
+      "How to Rotate and Crop Images Online Free",
+      "Reverse EMI Calculator"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include SaveTube Review, How to Rotate and Crop Images Online Free, Revers",
+    "tools": [
+      {
+        "name": "SaveTube Review",
+        "slug": "savetube-review",
+        "description": "After trying a half-dozen browser extensions and desktop apps that either broke after every YouTube update or wanted me to install something sketchy, I landed on SaveTube and have been using it for a few months now. Why I keep coming back to SaveTube I work with a lot of educational and conference talks on YouTube, and I prefer keeping a local copy for archive viewing on flights or in airports with sketchy wifi.",
+        "summary": "After trying a half-dozen browser extensions and desktop apps that either broke after every YouTube update or wanted me to install something sketchy, I landed on SaveTube and have been using it for a few months now. Why I keep coming back to SaveTube I work with a lot of educational and conference talks on YouTube, and I prefer keeping a local copy for archive viewing on flights or in airports with sketchy wifi.",
+        "link": "https://dev.to/savetubedev2026/savetube-review-free-youtube-video-downloader-i-use-for-offline-archive-1lmj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-09T07:20:37.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "productivity",
+          "video",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Why I keep coming back to SaveTube I work with a lot of educational and conference talks on YouTube, and I prefer keeping a local copy for archive viewing on flights or in airports with sketchy wifi.",
+          "yt-dlp is more powerful but the CLI is overkill if you just want one episode for the train ride home.",
+          "For occasional offline saves, SaveTube — the youtube video downloader is the simplest tool I've found."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Rotate and Crop Images Online Free",
+        "slug": "how-to-rotate-and-crop-images-online-free",
+        "description": "The Rotate Image tool reads the EXIF orientation and compensates automatically — so a phone photo that \"looks correct\" in your photos app will look correct in the rotated output too. Input: JPG, PNG, WebP, GIF, BMP Output: PNG (lossless) PNG output means no additional quality loss from compression — even if your original was a heavily compressed JPEG.",
+        "summary": "The Rotate Image tool reads the EXIF orientation and compensates automatically — so a phone photo that \"looks correct\" in your photos app will look correct in the rotated output too. Input: JPG, PNG, WebP, GIF, BMP Output: PNG (lossless) PNG output means no additional quality loss from compression — even if your original was a heavily compressed JPEG.",
+        "link": "https://dev.to/shaishav_patel_271fdcd61a/how-to-rotate-and-crop-images-online-free-no-app-no-account-works-in-any-browser-88e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-09T06:54:58.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "images",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "images"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The Rotate Image tool reads the EXIF orientation and compensates automatically — so a phone photo that \"looks correct\" in your photos app will look correct in the rotated output too.",
+          "Input: JPG, PNG, WebP, GIF, BMP Output: PNG (lossless) PNG output means no additional quality loss from compression — even if your original was a heavily compressed JPEG.",
+          "Two of the most common image edits — rotating a sideways photo and cutting out the part that matters — don't require Photoshop or a phone app."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Reverse EMI Calculator",
+        "slug": "reverse-emi-calculator",
+        "description": "Negotiating with a lender — If a bank quotes you 10% interest but a competitor offers 8.5%, use the reverse calculation to see exactly how much more loan the lower rate unlocks for the same monthly payment. The EMI Calculator at Ultimate Tools has a built-in reverse EMI calculator: enter your monthly budget, interest rate, and tenure — get the maximum loan amount you qualify for.",
+        "summary": "Negotiating with a lender — If a bank quotes you 10% interest but a competitor offers 8.5%, use the reverse calculation to see exactly how much more loan the lower rate unlocks for the same monthly payment. The EMI Calculator at Ultimate Tools has a built-in reverse EMI calculator: enter your monthly budget, interest rate, and tenure — get the maximum loan amount you qualify for.",
+        "link": "https://dev.to/shaishav_patel_271fdcd61a/reverse-emi-calculator-find-the-loan-amount-you-can-afford-from-a-monthly-budget-3mh7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-09T06:51:18.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "tutorial",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "tutorial"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The EMI Calculator at Ultimate Tools has a built-in reverse EMI calculator: enter your monthly budget, interest rate, and tenure — get the maximum loan amount you qualify for.",
+          "Example: Monthly budget: ₹20,000 Interest rate: 9% per year Tenure: 60 months (5 years) Result: Maximum loan ≈ ₹9,58,000 At ₹20,000/month for 5 years at 9%, you'd repay ₹12,00,000 total.",
+          "Calculate your loan amount from your monthly budget: Reverse EMI Calculator — free, no account <p>Standard EMI calculators start with a loan amount and tell you the monthly payment."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Leverage",
+        "slug": "how-to-leverage",
+        "description": "Focus on High-Value Work: As AI automates low-level tasks, seek opportunities that leverage your unique skill set and creativity, allowing you to command higher rates and engage more meaningfully with your audience. Utilize a Data-Driven Approach: Whether setting prices with the Freelancer Rate Calculator or targeting marketing efforts using the Reddit Launch Strategist, make decisions based on data to maximize effectiveness.",
+        "summary": "Focus on High-Value Work: As AI automates low-level tasks, seek opportunities that leverage your unique skill set and creativity, allowing you to command higher rates and engage more meaningfully with your audience. Utilize a Data-Driven Approach: Whether setting prices with the Freelancer Rate Calculator or targeting marketing efforts using the Reddit Launch Strategist, make decisions based on data to maximize effectiveness.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-to-leverage-ai-for-successful-freelancing-and-marketing-strategies-1idn",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-09T06:50:37.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Louis and the World Economic Forum highlight the dual-edged sword of AI's rising influence—amplifying productivity while also posing challenges to job security.",
+          "This is where the <strong><a href=\"https://blixaitoolkit.com/tools/finance/freelancer-rate\" rel=\"noopener noreferrer\">Freelancer Rate Calculator</a></strong> from BlixAI Toolkit comes in handy.",
+          "With platforms like Upwork and Fiverr booming, freelancers often face the challenge of setting competitive rates in an increasingly saturated market."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-05-09T07:27:25.572Z",
+    "lastUpdated": "2026-05-09T07:27:25.572Z",
+    "visibleDate": "May 9, 2026",
+    "url": "pages/2026-05-09-072725572-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-05-09-072725572-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "SaveTube Review",
+      "How to Rotate and Crop Images Online Free"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include SaveTube Review, How to Rotate and Crop Images On",
+    "tools": [
+      {
+        "name": "SaveTube Review",
+        "slug": "savetube-review",
+        "description": "After trying a half-dozen browser extensions and desktop apps that either broke after every YouTube update or wanted me to install something sketchy, I landed on SaveTube and have been using it for a few months now. Why I keep coming back to SaveTube I work with a lot of educational and conference talks on YouTube, and I prefer keeping a local copy for archive viewing on flights or in airports with sketchy wifi.",
+        "summary": "After trying a half-dozen browser extensions and desktop apps that either broke after every YouTube update or wanted me to install something sketchy, I landed on SaveTube and have been using it for a few months now. Why I keep coming back to SaveTube I work with a lot of educational and conference talks on YouTube, and I prefer keeping a local copy for archive viewing on flights or in airports with sketchy wifi.",
+        "link": "https://dev.to/savetubedev2026/savetube-review-free-youtube-video-downloader-i-use-for-offline-archive-1lmj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-09T07:20:37.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "productivity",
+          "video",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Why I keep coming back to SaveTube I work with a lot of educational and conference talks on YouTube, and I prefer keeping a local copy for archive viewing on flights or in airports with sketchy wifi.",
+          "yt-dlp is more powerful but the CLI is overkill if you just want one episode for the train ride home.",
+          "For occasional offline saves, SaveTube — the youtube video downloader is the simplest tool I've found."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Rotate and Crop Images Online Free",
+        "slug": "how-to-rotate-and-crop-images-online-free",
+        "description": "The Rotate Image tool reads the EXIF orientation and compensates automatically — so a phone photo that \"looks correct\" in your photos app will look correct in the rotated output too. Input: JPG, PNG, WebP, GIF, BMP Output: PNG (lossless) PNG output means no additional quality loss from compression — even if your original was a heavily compressed JPEG.",
+        "summary": "The Rotate Image tool reads the EXIF orientation and compensates automatically — so a phone photo that \"looks correct\" in your photos app will look correct in the rotated output too. Input: JPG, PNG, WebP, GIF, BMP Output: PNG (lossless) PNG output means no additional quality loss from compression — even if your original was a heavily compressed JPEG.",
+        "link": "https://dev.to/shaishav_patel_271fdcd61a/how-to-rotate-and-crop-images-online-free-no-app-no-account-works-in-any-browser-88e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-09T06:54:58.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "images",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "images"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The Rotate Image tool reads the EXIF orientation and compensates automatically — so a phone photo that \"looks correct\" in your photos app will look correct in the rotated output too.",
+          "Input: JPG, PNG, WebP, GIF, BMP Output: PNG (lossless) PNG output means no additional quality loss from compression — even if your original was a heavily compressed JPEG.",
+          "Two of the most common image edits — rotating a sideways photo and cutting out the part that matters — don't require Photoshop or a phone app."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-05-09T07:27:25.572Z",
+    "lastUpdated": "2026-05-09T07:27:25.572Z",
+    "visibleDate": "May 9, 2026",
+    "url": "pages/2026-05-09-072725572-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-05-09-072725572-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "SaveTube Review",
+      "How to Rotate and Crop Images Online Free",
+      "Reverse EMI Calculator"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include SaveTube Review, How to Rotate and Crop Images Online Free, Reverse EMI ",
+    "tools": [
+      {
+        "name": "SaveTube Review",
+        "slug": "savetube-review",
+        "description": "After trying a half-dozen browser extensions and desktop apps that either broke after every YouTube update or wanted me to install something sketchy, I landed on SaveTube and have been using it for a few months now. Why I keep coming back to SaveTube I work with a lot of educational and conference talks on YouTube, and I prefer keeping a local copy for archive viewing on flights or in airports with sketchy wifi.",
+        "summary": "After trying a half-dozen browser extensions and desktop apps that either broke after every YouTube update or wanted me to install something sketchy, I landed on SaveTube and have been using it for a few months now. Why I keep coming back to SaveTube I work with a lot of educational and conference talks on YouTube, and I prefer keeping a local copy for archive viewing on flights or in airports with sketchy wifi.",
+        "link": "https://dev.to/savetubedev2026/savetube-review-free-youtube-video-downloader-i-use-for-offline-archive-1lmj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-09T07:20:37.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "productivity",
+          "video",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Why I keep coming back to SaveTube I work with a lot of educational and conference talks on YouTube, and I prefer keeping a local copy for archive viewing on flights or in airports with sketchy wifi.",
+          "yt-dlp is more powerful but the CLI is overkill if you just want one episode for the train ride home.",
+          "For occasional offline saves, SaveTube — the youtube video downloader is the simplest tool I've found."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Rotate and Crop Images Online Free",
+        "slug": "how-to-rotate-and-crop-images-online-free",
+        "description": "The Rotate Image tool reads the EXIF orientation and compensates automatically — so a phone photo that \"looks correct\" in your photos app will look correct in the rotated output too. Input: JPG, PNG, WebP, GIF, BMP Output: PNG (lossless) PNG output means no additional quality loss from compression — even if your original was a heavily compressed JPEG.",
+        "summary": "The Rotate Image tool reads the EXIF orientation and compensates automatically — so a phone photo that \"looks correct\" in your photos app will look correct in the rotated output too. Input: JPG, PNG, WebP, GIF, BMP Output: PNG (lossless) PNG output means no additional quality loss from compression — even if your original was a heavily compressed JPEG.",
+        "link": "https://dev.to/shaishav_patel_271fdcd61a/how-to-rotate-and-crop-images-online-free-no-app-no-account-works-in-any-browser-88e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-09T06:54:58.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "images",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "images"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The Rotate Image tool reads the EXIF orientation and compensates automatically — so a phone photo that \"looks correct\" in your photos app will look correct in the rotated output too.",
+          "Input: JPG, PNG, WebP, GIF, BMP Output: PNG (lossless) PNG output means no additional quality loss from compression — even if your original was a heavily compressed JPEG.",
+          "Two of the most common image edits — rotating a sideways photo and cutting out the part that matters — don't require Photoshop or a phone app."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Reverse EMI Calculator",
+        "slug": "reverse-emi-calculator",
+        "description": "Negotiating with a lender — If a bank quotes you 10% interest but a competitor offers 8.5%, use the reverse calculation to see exactly how much more loan the lower rate unlocks for the same monthly payment. The EMI Calculator at Ultimate Tools has a built-in reverse EMI calculator: enter your monthly budget, interest rate, and tenure — get the maximum loan amount you qualify for.",
+        "summary": "Negotiating with a lender — If a bank quotes you 10% interest but a competitor offers 8.5%, use the reverse calculation to see exactly how much more loan the lower rate unlocks for the same monthly payment. The EMI Calculator at Ultimate Tools has a built-in reverse EMI calculator: enter your monthly budget, interest rate, and tenure — get the maximum loan amount you qualify for.",
+        "link": "https://dev.to/shaishav_patel_271fdcd61a/reverse-emi-calculator-find-the-loan-amount-you-can-afford-from-a-monthly-budget-3mh7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-09T06:51:18.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "tutorial",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "tutorial"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The EMI Calculator at Ultimate Tools has a built-in reverse EMI calculator: enter your monthly budget, interest rate, and tenure — get the maximum loan amount you qualify for.",
+          "Example: Monthly budget: ₹20,000 Interest rate: 9% per year Tenure: 60 months (5 years) Result: Maximum loan ≈ ₹9,58,000 At ₹20,000/month for 5 years at 9%, you'd repay ₹12,00,000 total.",
+          "Calculate your loan amount from your monthly budget: Reverse EMI Calculator — free, no account <p>Standard EMI calculators start with a loan amount and tell you the monthly payment."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-05-08T07:10:55.757Z",
     "lastUpdated": "2026-05-08T07:10:55.757Z",
     "visibleDate": "May 8, 2026",

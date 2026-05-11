@@ -7,6 +7,683 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-05-11T08:49:46.461Z",
+    "lastUpdated": "2026-05-11T08:49:46.461Z",
+    "visibleDate": "May 11, 2026",
+    "url": "pages/2026-05-11-084946461-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-05-11-084946461-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Shai-Hulud Malware in PyTorch Lightning",
+      "How I Got",
+      "I Shot a 3D Tour on My iPhone and Had It Live in 45 Minutes"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Shai-Hulud Malware in PyTorch Lightning, How I Got, I Shot a 3D Tour on My",
+    "tools": [
+      {
+        "name": "Shai-Hulud Malware in PyTorch Lightning",
+        "slug": "shai-hulud-malware-in-pytorch-lightning",
+        "description": "The Shai-Hulud malware specifically targeted HF_TOKEN and WANDB_API_KEY environment variables, which tells you exactly what the attacker wanted: Hugging Face Hub access and experiment tracking credentials. That's where Shai-Hulud-style malware hides — not in the top-level package but three layers deep where nobody's looking.</p> <p>The fastest win is dropping <code>pip-audit</code> into your CI pipeline right now.",
+        "summary": "The Shai-Hulud malware specifically targeted HF_TOKEN and WANDB_API_KEY environment variables, which tells you exactly what the attacker wanted: Hugging Face Hub access and experiment tracking credentials. That's where Shai-Hulud-style malware hides — not in the top-level package but three layers deep where nobody's looking.</p> <p>The fastest win is dropping <code>pip-audit</code> into your CI pipeline right now.",
+        "link": "https://dev.to/ericwoooo_kr/shai-hulud-malware-in-pytorch-lightning-what-actually-happened-and-how-to-check-your-environment-425c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-11T08:10:12.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The researcher workflow here was essentially: run a Socket scan against a fresh environment, see the install-time network call, pull the source, and find the payload manually.",
+          "Researchers identified file names like hulud.py and internal variable identifiers such as shai_payload and worm_exec inside base64-encoded blobs unpacked at runtime.",
+          "Docker images with unpinned dependencies — images built with RUN pip install pytorch-lightning and no version lock will silently pick up whatever's current on the next docker build."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Got",
+        "slug": "how-i-got",
+        "description": "Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier). Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier).",
+        "summary": "Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier). Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier).",
+        "link": "https://dev.to/ericwoooo_kr/how-i-got-my-first-100-users-for-a-micro-saas-without-paid-ads-1h6l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-11T08:02:44.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The reason is mechanical: Reddit's ranking algorithm weighs early velocity heavily, so you need East Coast users awake and active to give the post its first wave of engagement before it gets buried.",
+          "The reason is mechanical: Reddit's ranking algorithm weighs early velocity heavily, so you need East Coast users awake and active to give the post its first wave of engagement before it gets buried.",
+          "Once those users start arriving, you'll need infrastructure that doesn't fall apart under even modest load — things like email delivery, billing edge cases, and support workflows."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Shot a 3D Tour on My iPhone and Had It Live in 45 Minutes",
+        "slug": "i-shot-a-3d-tour-on-my-iphone-and-had-it-live-in-45-minutes",
+        "description": "You can link scenes and add info points, but compared to Kuula's hotspot editor — which supports custom icons, external URLs, embedded media, and conditional behavior — Roundme feels like version 0.8 of the same idea. You can link scenes and add info points, but compared to Kuula's hotspot editor — which supports custom icons, external URLs, embedded media, and conditional behavior — Roundme feels like version 0.8 of the same idea.",
+        "summary": "You can link scenes and add info points, but compared to Kuula's hotspot editor — which supports custom icons, external URLs, embedded media, and conditional behavior — Roundme feels like version 0.8 of the same idea. You can link scenes and add info points, but compared to Kuula's hotspot editor — which supports custom icons, external URLs, embedded media, and conditional behavior — Roundme feels like version 0.8 of the same idea.",
+        "link": "https://dev.to/ericwoooo_kr/i-shot-a-3d-tour-on-my-iphone-and-had-it-live-in-45-minutes-heres-the-exact-workflow-49ho",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-11T07:54:35.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "career",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "career"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Paid plans start around $65/month and unlock multiple active spaces plus analytics and MLS embedding — worth it if you're doing real estate work at volume, overkill for a one-off project.",
+          "I had equirectangular JPEGs already exported from my iPhone's 360° mode via the Google Street View app, and Roundme just accepted them — no proprietary format, no special rig, no preprocessing step.",
+          "The point cloud is too dense relative to the volume, reflective surfaces (mirrors, glass, tile) blow out the depth data, and you end up with a mesh that looks worse than a bad photo."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Writers are fleeing",
+        "slug": "writers-are-fleeing",
+        "description": "Article URL: https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv Comments URL: https://news.ycombinator.com/item?id=48092181 Points: 5 # Comments: 1",
+        "summary": "Article URL: https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv Comments URL: https://news.ycombinator.com/item?id=48092181 Points: 5 # Comments: 1",
+        "link": "https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv",
+        "source": "Hacker News",
+        "isoDate": "2026-05-11T07:48:47.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Ubuntu vs Fedora for Home Server",
+        "slug": "ubuntu-vs-fedora-for-home-server",
+        "description": "Profiles are path-based, written in a syntax that's almost readable English, and the default profiles for common services like Samba, nginx, and MySQL are loose enough that they rarely block normal usage out of the box. You still have to pick a weekend, make sure nothing critical is running, verify your services came back clean, and check that your containers or VMs didn't get surprised by a library version change underneath them.",
+        "summary": "Profiles are path-based, written in a syntax that's almost readable English, and the default profiles for common services like Samba, nginx, and MySQL are loose enough that they rarely block normal usage out of the box. You still have to pick a weekend, make sure nothing critical is running, verify your services came back clean, and check that your containers or VMs didn't get surprised by a library version change underneath them.",
+        "link": "https://dev.to/ericwoooo_kr/ubuntu-vs-fedora-for-home-server-i-ran-both-for-6-months-and-heres-what-actually-matters-1o59",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-11T07:45:11.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "TL;DR: The machine I was setting up wasn't impressive — a decommissioned Dell OptiPlex 7050 with 16GB RAM, a 500GB NVMe I had lying around, and an old spinning disk I repurposed for media.",
+          "Snaps get a lot of hate for overhead and confinement weirdness, but for consumer-grade self-hosted apps on a home server where you just want the thing running, the snap path is legitimately easier.",
+          "Snaps get a lot of hate for overhead and confinement weirdness, but for consumer-grade self-hosted apps on a home server where you just want the thing running, the snap path is legitimately easier."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-05-11T08:49:46.461Z",
+    "lastUpdated": "2026-05-11T08:49:46.461Z",
+    "visibleDate": "May 11, 2026",
+    "url": "pages/2026-05-11-084946461-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-05-11-084946461-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Shai-Hulud Malware in PyTorch Lightning",
+      "How I Got",
+      "I Shot a 3D Tour on My iPhone and Had It Live in 45 Minutes"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Shai-Hulud Malware in PyTorch Lightning, How I Got, I Shot a 3D To",
+    "tools": [
+      {
+        "name": "Shai-Hulud Malware in PyTorch Lightning",
+        "slug": "shai-hulud-malware-in-pytorch-lightning",
+        "description": "The Shai-Hulud malware specifically targeted HF_TOKEN and WANDB_API_KEY environment variables, which tells you exactly what the attacker wanted: Hugging Face Hub access and experiment tracking credentials. That's where Shai-Hulud-style malware hides — not in the top-level package but three layers deep where nobody's looking.</p> <p>The fastest win is dropping <code>pip-audit</code> into your CI pipeline right now.",
+        "summary": "The Shai-Hulud malware specifically targeted HF_TOKEN and WANDB_API_KEY environment variables, which tells you exactly what the attacker wanted: Hugging Face Hub access and experiment tracking credentials. That's where Shai-Hulud-style malware hides — not in the top-level package but three layers deep where nobody's looking.</p> <p>The fastest win is dropping <code>pip-audit</code> into your CI pipeline right now.",
+        "link": "https://dev.to/ericwoooo_kr/shai-hulud-malware-in-pytorch-lightning-what-actually-happened-and-how-to-check-your-environment-425c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-11T08:10:12.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The researcher workflow here was essentially: run a Socket scan against a fresh environment, see the install-time network call, pull the source, and find the payload manually.",
+          "Researchers identified file names like hulud.py and internal variable identifiers such as shai_payload and worm_exec inside base64-encoded blobs unpacked at runtime.",
+          "Docker images with unpinned dependencies — images built with RUN pip install pytorch-lightning and no version lock will silently pick up whatever's current on the next docker build."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Got",
+        "slug": "how-i-got",
+        "description": "Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier). Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier).",
+        "summary": "Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier). Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier).",
+        "link": "https://dev.to/ericwoooo_kr/how-i-got-my-first-100-users-for-a-micro-saas-without-paid-ads-1h6l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-11T08:02:44.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The reason is mechanical: Reddit's ranking algorithm weighs early velocity heavily, so you need East Coast users awake and active to give the post its first wave of engagement before it gets buried.",
+          "The reason is mechanical: Reddit's ranking algorithm weighs early velocity heavily, so you need East Coast users awake and active to give the post its first wave of engagement before it gets buried.",
+          "Once those users start arriving, you'll need infrastructure that doesn't fall apart under even modest load — things like email delivery, billing edge cases, and support workflows."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Shot a 3D Tour on My iPhone and Had It Live in 45 Minutes",
+        "slug": "i-shot-a-3d-tour-on-my-iphone-and-had-it-live-in-45-minutes",
+        "description": "You can link scenes and add info points, but compared to Kuula's hotspot editor — which supports custom icons, external URLs, embedded media, and conditional behavior — Roundme feels like version 0.8 of the same idea. You can link scenes and add info points, but compared to Kuula's hotspot editor — which supports custom icons, external URLs, embedded media, and conditional behavior — Roundme feels like version 0.8 of the same idea.",
+        "summary": "You can link scenes and add info points, but compared to Kuula's hotspot editor — which supports custom icons, external URLs, embedded media, and conditional behavior — Roundme feels like version 0.8 of the same idea. You can link scenes and add info points, but compared to Kuula's hotspot editor — which supports custom icons, external URLs, embedded media, and conditional behavior — Roundme feels like version 0.8 of the same idea.",
+        "link": "https://dev.to/ericwoooo_kr/i-shot-a-3d-tour-on-my-iphone-and-had-it-live-in-45-minutes-heres-the-exact-workflow-49ho",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-11T07:54:35.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "career",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "career"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Paid plans start around $65/month and unlock multiple active spaces plus analytics and MLS embedding — worth it if you're doing real estate work at volume, overkill for a one-off project.",
+          "I had equirectangular JPEGs already exported from my iPhone's 360° mode via the Google Street View app, and Roundme just accepted them — no proprietary format, no special rig, no preprocessing step.",
+          "The point cloud is too dense relative to the volume, reflective surfaces (mirrors, glass, tile) blow out the depth data, and you end up with a mesh that looks worse than a bad photo."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Writers are fleeing",
+        "slug": "writers-are-fleeing",
+        "description": "Article URL: https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv Comments URL: https://news.ycombinator.com/item?id=48092181 Points: 5 # Comments: 1",
+        "summary": "Article URL: https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv Comments URL: https://news.ycombinator.com/item?id=48092181 Points: 5 # Comments: 1",
+        "link": "https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv",
+        "source": "Hacker News",
+        "isoDate": "2026-05-11T07:48:47.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-05-11T08:49:46.461Z",
+    "lastUpdated": "2026-05-11T08:49:46.461Z",
+    "visibleDate": "May 11, 2026",
+    "url": "pages/2026-05-11-084946461-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-05-11-084946461-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Shai-Hulud Malware in PyTorch Lightning",
+      "How I Got"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Shai-Hulud Malware in PyTorch Lightning, How I Go",
+    "tools": [
+      {
+        "name": "Shai-Hulud Malware in PyTorch Lightning",
+        "slug": "shai-hulud-malware-in-pytorch-lightning",
+        "description": "The Shai-Hulud malware specifically targeted HF_TOKEN and WANDB_API_KEY environment variables, which tells you exactly what the attacker wanted: Hugging Face Hub access and experiment tracking credentials. That's where Shai-Hulud-style malware hides — not in the top-level package but three layers deep where nobody's looking.</p> <p>The fastest win is dropping <code>pip-audit</code> into your CI pipeline right now.",
+        "summary": "The Shai-Hulud malware specifically targeted HF_TOKEN and WANDB_API_KEY environment variables, which tells you exactly what the attacker wanted: Hugging Face Hub access and experiment tracking credentials. That's where Shai-Hulud-style malware hides — not in the top-level package but three layers deep where nobody's looking.</p> <p>The fastest win is dropping <code>pip-audit</code> into your CI pipeline right now.",
+        "link": "https://dev.to/ericwoooo_kr/shai-hulud-malware-in-pytorch-lightning-what-actually-happened-and-how-to-check-your-environment-425c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-11T08:10:12.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The researcher workflow here was essentially: run a Socket scan against a fresh environment, see the install-time network call, pull the source, and find the payload manually.",
+          "Researchers identified file names like hulud.py and internal variable identifiers such as shai_payload and worm_exec inside base64-encoded blobs unpacked at runtime.",
+          "Docker images with unpinned dependencies — images built with RUN pip install pytorch-lightning and no version lock will silently pick up whatever's current on the next docker build."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Got",
+        "slug": "how-i-got",
+        "description": "Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier). Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier).",
+        "summary": "Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier). Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier).",
+        "link": "https://dev.to/ericwoooo_kr/how-i-got-my-first-100-users-for-a-micro-saas-without-paid-ads-1h6l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-11T08:02:44.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The reason is mechanical: Reddit's ranking algorithm weighs early velocity heavily, so you need East Coast users awake and active to give the post its first wave of engagement before it gets buried.",
+          "The reason is mechanical: Reddit's ranking algorithm weighs early velocity heavily, so you need East Coast users awake and active to give the post its first wave of engagement before it gets buried.",
+          "Once those users start arriving, you'll need infrastructure that doesn't fall apart under even modest load — things like email delivery, billing edge cases, and support workflows."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-05-11T08:49:46.461Z",
+    "lastUpdated": "2026-05-11T08:49:46.461Z",
+    "visibleDate": "May 11, 2026",
+    "url": "pages/2026-05-11-084946461-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-05-11-084946461-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Shai-Hulud Malware in PyTorch Lightning",
+      "How I Got",
+      "I Shot a 3D Tour on My iPhone and Had It Live in 45 Minutes"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Shai-Hulud Malware in PyTorch Lightning, How I Got, I Shot a 3D Tour on ",
+    "tools": [
+      {
+        "name": "Shai-Hulud Malware in PyTorch Lightning",
+        "slug": "shai-hulud-malware-in-pytorch-lightning",
+        "description": "The Shai-Hulud malware specifically targeted HF_TOKEN and WANDB_API_KEY environment variables, which tells you exactly what the attacker wanted: Hugging Face Hub access and experiment tracking credentials. That's where Shai-Hulud-style malware hides — not in the top-level package but three layers deep where nobody's looking.</p> <p>The fastest win is dropping <code>pip-audit</code> into your CI pipeline right now.",
+        "summary": "The Shai-Hulud malware specifically targeted HF_TOKEN and WANDB_API_KEY environment variables, which tells you exactly what the attacker wanted: Hugging Face Hub access and experiment tracking credentials. That's where Shai-Hulud-style malware hides — not in the top-level package but three layers deep where nobody's looking.</p> <p>The fastest win is dropping <code>pip-audit</code> into your CI pipeline right now.",
+        "link": "https://dev.to/ericwoooo_kr/shai-hulud-malware-in-pytorch-lightning-what-actually-happened-and-how-to-check-your-environment-425c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-11T08:10:12.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The researcher workflow here was essentially: run a Socket scan against a fresh environment, see the install-time network call, pull the source, and find the payload manually.",
+          "Researchers identified file names like hulud.py and internal variable identifiers such as shai_payload and worm_exec inside base64-encoded blobs unpacked at runtime.",
+          "Docker images with unpinned dependencies — images built with RUN pip install pytorch-lightning and no version lock will silently pick up whatever's current on the next docker build."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Got",
+        "slug": "how-i-got",
+        "description": "Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier). Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier).",
+        "summary": "Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier). Usually this means either the blank state is doing nothing (add a \"try this first\" default), the first required setup is too heavy (defer it), or the value isn't visible until too late in the flow (surface it earlier).",
+        "link": "https://dev.to/ericwoooo_kr/how-i-got-my-first-100-users-for-a-micro-saas-without-paid-ads-1h6l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-11T08:02:44.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The reason is mechanical: Reddit's ranking algorithm weighs early velocity heavily, so you need East Coast users awake and active to give the post its first wave of engagement before it gets buried.",
+          "The reason is mechanical: Reddit's ranking algorithm weighs early velocity heavily, so you need East Coast users awake and active to give the post its first wave of engagement before it gets buried.",
+          "Once those users start arriving, you'll need infrastructure that doesn't fall apart under even modest load — things like email delivery, billing edge cases, and support workflows."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Shot a 3D Tour on My iPhone and Had It Live in 45 Minutes",
+        "slug": "i-shot-a-3d-tour-on-my-iphone-and-had-it-live-in-45-minutes",
+        "description": "You can link scenes and add info points, but compared to Kuula's hotspot editor — which supports custom icons, external URLs, embedded media, and conditional behavior — Roundme feels like version 0.8 of the same idea. You can link scenes and add info points, but compared to Kuula's hotspot editor — which supports custom icons, external URLs, embedded media, and conditional behavior — Roundme feels like version 0.8 of the same idea.",
+        "summary": "You can link scenes and add info points, but compared to Kuula's hotspot editor — which supports custom icons, external URLs, embedded media, and conditional behavior — Roundme feels like version 0.8 of the same idea. You can link scenes and add info points, but compared to Kuula's hotspot editor — which supports custom icons, external URLs, embedded media, and conditional behavior — Roundme feels like version 0.8 of the same idea.",
+        "link": "https://dev.to/ericwoooo_kr/i-shot-a-3d-tour-on-my-iphone-and-had-it-live-in-45-minutes-heres-the-exact-workflow-49ho",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-11T07:54:35.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "career",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "career"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Paid plans start around $65/month and unlock multiple active spaces plus analytics and MLS embedding — worth it if you're doing real estate work at volume, overkill for a one-off project.",
+          "I had equirectangular JPEGs already exported from my iPhone's 360° mode via the Google Street View app, and Roundme just accepted them — no proprietary format, no special rig, no preprocessing step.",
+          "The point cloud is too dense relative to the volume, reflective surfaces (mirrors, glass, tile) blow out the depth data, and you end up with a mesh that looks worse than a bad photo."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-05-10T07:49:52.348Z",
     "lastUpdated": "2026-05-10T07:49:52.348Z",
     "visibleDate": "May 10, 2026",

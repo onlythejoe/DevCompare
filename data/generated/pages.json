@@ -7,6 +7,679 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-05-14T08:20:21.989Z",
+    "lastUpdated": "2026-05-14T08:20:21.989Z",
+    "visibleDate": "May 14, 2026",
+    "url": "pages/2026-05-14-082021989-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-05-14-082021989-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How I Stopped Being the Bottleneck in My Own SaaS",
+      "Tailscale vs Headscale: I Ran Both for My Private Journaling Setup",
+      "AI Tools That Actually Pay You Back"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include How I Stopped Being the Bottleneck in My Own SaaS, Tailscale vs Headscale:",
+    "tools": [
+      {
+        "name": "How I Stopped Being the Bottleneck in My Own SaaS",
+        "slug": "how-i-stopped-being-the-bottleneck-in-my-own-saas",
+        "description": "It's genuinely better for three specific things: Content pipelines: Blog posts, landing page copy, email sequences — these need inline comments, embedded Loom links, and revision history in a document format. The thing that finally pushed me off Notion for engineering work wasn't a philosophical disagreement — it was watching the kanban board freeze for three seconds every time I dragged a card after we crossed 200 items.",
+        "summary": "It's genuinely better for three specific things: Content pipelines: Blog posts, landing page copy, email sequences — these need inline comments, embedded Loom links, and revision history in a document format. The thing that finally pushed me off Notion for engineering work wasn't a philosophical disagreement — it was watching the kanban board freeze for three seconds every time I dragged a card after we crossed 200 items.",
+        "link": "https://dev.to/ericwoooo_kr/how-i-stopped-being-the-bottleneck-in-my-own-saas-a-founders-delegation-stack-f3a",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-14T07:56:43.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Best for — founders and small teams who need automation working today without a learning curve.</li> <li> <strong>Make:</strong> Free tier — 1,000 ops/month, multi-step flows included.",
+          "A support ticket about a billing edge case would age like milk because I was the only one who understood the payment logic and hadn't written it down anywhere.",
+          "Judgment-heavy tasks — prioritizing a backlog, deciding tone on a sensitive refund, making a call on whether a bug is worth hotfixing — these need a person who understands context, not a checklist."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Tailscale vs Headscale: I Ran Both for My Private Journaling Setup",
+        "slug": "tailscale-vs-headscale-i-ran-both-for-my-private-journaling-setup",
+        "description": "If you see relay instead of a dash, Tailscale is routing through a DERP server because NAT traversal failed — common behind strict corporate firewalls and something to flag if you care about latency for journal sync. If you're building out a fuller self-hosted stack beyond just journals, the Ultimate Productivity Guide: Automate Your Workflow in 2026 covers the broader tooling picture that this kind of private network enables.",
+        "summary": "If you see relay instead of a dash, Tailscale is routing through a DERP server because NAT traversal failed — common behind strict corporate firewalls and something to flag if you care about latency for journal sync. If you're building out a fuller self-hosted stack beyond just journals, the Ultimate Productivity Guide: Automate Your Workflow in 2026 covers the broader tooling picture that this kind of private network enables.",
+        "link": "https://dev.to/ericwoooo_kr/tailscale-vs-headscale-i-ran-both-for-my-private-journaling-setup-heres-the-honest-breakdown-41gp",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-14T07:45:53.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The specific pain: every time I provisioned a new peer, I had to SSH into each existing node, edit /etc/wireguard/wg0.conf, add the new peer block, and run wg syncconf or restart the interface.",
+          "The journaling app — whether that's Obsidian with its sync-via-folder setup, plain Syncthing, jrnl on the CLI, or even a self-hosted Joplin server — sits on top of whatever mesh network you build.",
+          "TL;DR: The thing that broke my patience with raw WireGuard wasn't the first node or even the third — it was adding a VPS to a mesh that already had my home server and laptop talking to each other."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Tools That Actually Pay You Back",
+        "slug": "ai-tools-that-actually-pay-you-back",
+        "description": "AI Tools That Actually Pay You Back: A Developer's Guide to Monetizing AI As a developer, you're likely no stranger to the concept of Artificial Intelligence (AI) and its potential to revolutionize the way we work. In this article, we'll explore AI tools that can actually pay you back, providing a clear monetization angle and practical steps to get started.",
+        "summary": "AI Tools That Actually Pay You Back: A Developer's Guide to Monetizing AI As a developer, you're likely no stranger to the concept of Artificial Intelligence (AI) and its potential to revolutionize the way we work. In this article, we'll explore AI tools that can actually pay you back, providing a clear monetization angle and practical steps to get started.",
+        "link": "https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai-16m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-14T07:27:35.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "money",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "In this article, we'll explore AI tools that can actually pay you back, providing a clear monetization angle and practical steps to get started.",
+          "Google Cloud AI Platform </h3> <p>The Google Cloud AI Platform is a suite of AI and machine learning tools that can help you build, deploy, and manage AI-powered applications.",
+          "Microsoft Azure Machine Learning </h3> <p>Microsoft Azure Machine Learning is a cloud-based platform that allows you to build, deploy, and manage machine learning models."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "What the Hell",
+        "slug": "what-the-hell",
+        "description": "Article URL: https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/ Comments URL: https://news.ycombinator.com/item?id=48132159 Points: 3 # Comments: 0",
+        "summary": "Article URL: https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/ Comments URL: https://news.ycombinator.com/item?id=48132159 Points: 3 # Comments: 0",
+        "link": "https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/",
+        "source": "Hacker News",
+        "isoDate": "2026-05-14T07:25:59.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Storecraft",
+        "slug": "storecraft",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/storecraft",
+        "source": "Product Hunt",
+        "isoDate": "2026-05-14T06:54:40.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-05-14T08:20:21.989Z",
+    "lastUpdated": "2026-05-14T08:20:21.989Z",
+    "visibleDate": "May 14, 2026",
+    "url": "pages/2026-05-14-082021989-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-05-14-082021989-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How I Stopped Being the Bottleneck in My Own SaaS",
+      "Tailscale vs Headscale: I Ran Both for My Private Journaling Setup",
+      "AI Tools That Actually Pay You Back"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include How I Stopped Being the Bottleneck in My Own SaaS, Tailscale vs He",
+    "tools": [
+      {
+        "name": "How I Stopped Being the Bottleneck in My Own SaaS",
+        "slug": "how-i-stopped-being-the-bottleneck-in-my-own-saas",
+        "description": "It's genuinely better for three specific things: Content pipelines: Blog posts, landing page copy, email sequences — these need inline comments, embedded Loom links, and revision history in a document format. The thing that finally pushed me off Notion for engineering work wasn't a philosophical disagreement — it was watching the kanban board freeze for three seconds every time I dragged a card after we crossed 200 items.",
+        "summary": "It's genuinely better for three specific things: Content pipelines: Blog posts, landing page copy, email sequences — these need inline comments, embedded Loom links, and revision history in a document format. The thing that finally pushed me off Notion for engineering work wasn't a philosophical disagreement — it was watching the kanban board freeze for three seconds every time I dragged a card after we crossed 200 items.",
+        "link": "https://dev.to/ericwoooo_kr/how-i-stopped-being-the-bottleneck-in-my-own-saas-a-founders-delegation-stack-f3a",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-14T07:56:43.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Best for — founders and small teams who need automation working today without a learning curve.</li> <li> <strong>Make:</strong> Free tier — 1,000 ops/month, multi-step flows included.",
+          "A support ticket about a billing edge case would age like milk because I was the only one who understood the payment logic and hadn't written it down anywhere.",
+          "Judgment-heavy tasks — prioritizing a backlog, deciding tone on a sensitive refund, making a call on whether a bug is worth hotfixing — these need a person who understands context, not a checklist."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Tailscale vs Headscale: I Ran Both for My Private Journaling Setup",
+        "slug": "tailscale-vs-headscale-i-ran-both-for-my-private-journaling-setup",
+        "description": "If you see relay instead of a dash, Tailscale is routing through a DERP server because NAT traversal failed — common behind strict corporate firewalls and something to flag if you care about latency for journal sync. If you're building out a fuller self-hosted stack beyond just journals, the Ultimate Productivity Guide: Automate Your Workflow in 2026 covers the broader tooling picture that this kind of private network enables.",
+        "summary": "If you see relay instead of a dash, Tailscale is routing through a DERP server because NAT traversal failed — common behind strict corporate firewalls and something to flag if you care about latency for journal sync. If you're building out a fuller self-hosted stack beyond just journals, the Ultimate Productivity Guide: Automate Your Workflow in 2026 covers the broader tooling picture that this kind of private network enables.",
+        "link": "https://dev.to/ericwoooo_kr/tailscale-vs-headscale-i-ran-both-for-my-private-journaling-setup-heres-the-honest-breakdown-41gp",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-14T07:45:53.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The specific pain: every time I provisioned a new peer, I had to SSH into each existing node, edit /etc/wireguard/wg0.conf, add the new peer block, and run wg syncconf or restart the interface.",
+          "The journaling app — whether that's Obsidian with its sync-via-folder setup, plain Syncthing, jrnl on the CLI, or even a self-hosted Joplin server — sits on top of whatever mesh network you build.",
+          "TL;DR: The thing that broke my patience with raw WireGuard wasn't the first node or even the third — it was adding a VPS to a mesh that already had my home server and laptop talking to each other."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Tools That Actually Pay You Back",
+        "slug": "ai-tools-that-actually-pay-you-back",
+        "description": "AI Tools That Actually Pay You Back: A Developer's Guide to Monetizing AI As a developer, you're likely no stranger to the concept of Artificial Intelligence (AI) and its potential to revolutionize the way we work. In this article, we'll explore AI tools that can actually pay you back, providing a clear monetization angle and practical steps to get started.",
+        "summary": "AI Tools That Actually Pay You Back: A Developer's Guide to Monetizing AI As a developer, you're likely no stranger to the concept of Artificial Intelligence (AI) and its potential to revolutionize the way we work. In this article, we'll explore AI tools that can actually pay you back, providing a clear monetization angle and practical steps to get started.",
+        "link": "https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai-16m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-14T07:27:35.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "money",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "In this article, we'll explore AI tools that can actually pay you back, providing a clear monetization angle and practical steps to get started.",
+          "Google Cloud AI Platform </h3> <p>The Google Cloud AI Platform is a suite of AI and machine learning tools that can help you build, deploy, and manage AI-powered applications.",
+          "Microsoft Azure Machine Learning </h3> <p>Microsoft Azure Machine Learning is a cloud-based platform that allows you to build, deploy, and manage machine learning models."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "What the Hell",
+        "slug": "what-the-hell",
+        "description": "Article URL: https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/ Comments URL: https://news.ycombinator.com/item?id=48132159 Points: 3 # Comments: 0",
+        "summary": "Article URL: https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/ Comments URL: https://news.ycombinator.com/item?id=48132159 Points: 3 # Comments: 0",
+        "link": "https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/",
+        "source": "Hacker News",
+        "isoDate": "2026-05-14T07:25:59.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-05-14T08:20:21.989Z",
+    "lastUpdated": "2026-05-14T08:20:21.989Z",
+    "visibleDate": "May 14, 2026",
+    "url": "pages/2026-05-14-082021989-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-05-14-082021989-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How I Stopped Being the Bottleneck in My Own SaaS",
+      "Tailscale vs Headscale: I Ran Both for My Private Journaling Setup"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include How I Stopped Being the Bottleneck in My Own SaaS",
+    "tools": [
+      {
+        "name": "How I Stopped Being the Bottleneck in My Own SaaS",
+        "slug": "how-i-stopped-being-the-bottleneck-in-my-own-saas",
+        "description": "It's genuinely better for three specific things: Content pipelines: Blog posts, landing page copy, email sequences — these need inline comments, embedded Loom links, and revision history in a document format. The thing that finally pushed me off Notion for engineering work wasn't a philosophical disagreement — it was watching the kanban board freeze for three seconds every time I dragged a card after we crossed 200 items.",
+        "summary": "It's genuinely better for three specific things: Content pipelines: Blog posts, landing page copy, email sequences — these need inline comments, embedded Loom links, and revision history in a document format. The thing that finally pushed me off Notion for engineering work wasn't a philosophical disagreement — it was watching the kanban board freeze for three seconds every time I dragged a card after we crossed 200 items.",
+        "link": "https://dev.to/ericwoooo_kr/how-i-stopped-being-the-bottleneck-in-my-own-saas-a-founders-delegation-stack-f3a",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-14T07:56:43.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Best for — founders and small teams who need automation working today without a learning curve.</li> <li> <strong>Make:</strong> Free tier — 1,000 ops/month, multi-step flows included.",
+          "A support ticket about a billing edge case would age like milk because I was the only one who understood the payment logic and hadn't written it down anywhere.",
+          "Judgment-heavy tasks — prioritizing a backlog, deciding tone on a sensitive refund, making a call on whether a bug is worth hotfixing — these need a person who understands context, not a checklist."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Tailscale vs Headscale: I Ran Both for My Private Journaling Setup",
+        "slug": "tailscale-vs-headscale-i-ran-both-for-my-private-journaling-setup",
+        "description": "If you see relay instead of a dash, Tailscale is routing through a DERP server because NAT traversal failed — common behind strict corporate firewalls and something to flag if you care about latency for journal sync. If you're building out a fuller self-hosted stack beyond just journals, the Ultimate Productivity Guide: Automate Your Workflow in 2026 covers the broader tooling picture that this kind of private network enables.",
+        "summary": "If you see relay instead of a dash, Tailscale is routing through a DERP server because NAT traversal failed — common behind strict corporate firewalls and something to flag if you care about latency for journal sync. If you're building out a fuller self-hosted stack beyond just journals, the Ultimate Productivity Guide: Automate Your Workflow in 2026 covers the broader tooling picture that this kind of private network enables.",
+        "link": "https://dev.to/ericwoooo_kr/tailscale-vs-headscale-i-ran-both-for-my-private-journaling-setup-heres-the-honest-breakdown-41gp",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-14T07:45:53.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The specific pain: every time I provisioned a new peer, I had to SSH into each existing node, edit /etc/wireguard/wg0.conf, add the new peer block, and run wg syncconf or restart the interface.",
+          "The journaling app — whether that's Obsidian with its sync-via-folder setup, plain Syncthing, jrnl on the CLI, or even a self-hosted Joplin server — sits on top of whatever mesh network you build.",
+          "TL;DR: The thing that broke my patience with raw WireGuard wasn't the first node or even the third — it was adding a VPS to a mesh that already had my home server and laptop talking to each other."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-05-14T08:20:21.989Z",
+    "lastUpdated": "2026-05-14T08:20:21.989Z",
+    "visibleDate": "May 14, 2026",
+    "url": "pages/2026-05-14-082021989-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-05-14-082021989-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How I Stopped Being the Bottleneck in My Own SaaS",
+      "Tailscale vs Headscale: I Ran Both for My Private Journaling Setup",
+      "AI Tools That Actually Pay You Back"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include How I Stopped Being the Bottleneck in My Own SaaS, Tailscale vs Headscal",
+    "tools": [
+      {
+        "name": "How I Stopped Being the Bottleneck in My Own SaaS",
+        "slug": "how-i-stopped-being-the-bottleneck-in-my-own-saas",
+        "description": "It's genuinely better for three specific things: Content pipelines: Blog posts, landing page copy, email sequences — these need inline comments, embedded Loom links, and revision history in a document format. The thing that finally pushed me off Notion for engineering work wasn't a philosophical disagreement — it was watching the kanban board freeze for three seconds every time I dragged a card after we crossed 200 items.",
+        "summary": "It's genuinely better for three specific things: Content pipelines: Blog posts, landing page copy, email sequences — these need inline comments, embedded Loom links, and revision history in a document format. The thing that finally pushed me off Notion for engineering work wasn't a philosophical disagreement — it was watching the kanban board freeze for three seconds every time I dragged a card after we crossed 200 items.",
+        "link": "https://dev.to/ericwoooo_kr/how-i-stopped-being-the-bottleneck-in-my-own-saas-a-founders-delegation-stack-f3a",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-14T07:56:43.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Best for — founders and small teams who need automation working today without a learning curve.</li> <li> <strong>Make:</strong> Free tier — 1,000 ops/month, multi-step flows included.",
+          "A support ticket about a billing edge case would age like milk because I was the only one who understood the payment logic and hadn't written it down anywhere.",
+          "Judgment-heavy tasks — prioritizing a backlog, deciding tone on a sensitive refund, making a call on whether a bug is worth hotfixing — these need a person who understands context, not a checklist."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Tailscale vs Headscale: I Ran Both for My Private Journaling Setup",
+        "slug": "tailscale-vs-headscale-i-ran-both-for-my-private-journaling-setup",
+        "description": "If you see relay instead of a dash, Tailscale is routing through a DERP server because NAT traversal failed — common behind strict corporate firewalls and something to flag if you care about latency for journal sync. If you're building out a fuller self-hosted stack beyond just journals, the Ultimate Productivity Guide: Automate Your Workflow in 2026 covers the broader tooling picture that this kind of private network enables.",
+        "summary": "If you see relay instead of a dash, Tailscale is routing through a DERP server because NAT traversal failed — common behind strict corporate firewalls and something to flag if you care about latency for journal sync. If you're building out a fuller self-hosted stack beyond just journals, the Ultimate Productivity Guide: Automate Your Workflow in 2026 covers the broader tooling picture that this kind of private network enables.",
+        "link": "https://dev.to/ericwoooo_kr/tailscale-vs-headscale-i-ran-both-for-my-private-journaling-setup-heres-the-honest-breakdown-41gp",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-14T07:45:53.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The specific pain: every time I provisioned a new peer, I had to SSH into each existing node, edit /etc/wireguard/wg0.conf, add the new peer block, and run wg syncconf or restart the interface.",
+          "The journaling app — whether that's Obsidian with its sync-via-folder setup, plain Syncthing, jrnl on the CLI, or even a self-hosted Joplin server — sits on top of whatever mesh network you build.",
+          "TL;DR: The thing that broke my patience with raw WireGuard wasn't the first node or even the third — it was adding a VPS to a mesh that already had my home server and laptop talking to each other."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Tools That Actually Pay You Back",
+        "slug": "ai-tools-that-actually-pay-you-back",
+        "description": "AI Tools That Actually Pay You Back: A Developer's Guide to Monetizing AI As a developer, you're likely no stranger to the concept of Artificial Intelligence (AI) and its potential to revolutionize the way we work. In this article, we'll explore AI tools that can actually pay you back, providing a clear monetization angle and practical steps to get started.",
+        "summary": "AI Tools That Actually Pay You Back: A Developer's Guide to Monetizing AI As a developer, you're likely no stranger to the concept of Artificial Intelligence (AI) and its potential to revolutionize the way we work. In this article, we'll explore AI tools that can actually pay you back, providing a clear monetization angle and practical steps to get started.",
+        "link": "https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai-16m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-14T07:27:35.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "money",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "In this article, we'll explore AI tools that can actually pay you back, providing a clear monetization angle and practical steps to get started.",
+          "Google Cloud AI Platform </h3> <p>The Google Cloud AI Platform is a suite of AI and machine learning tools that can help you build, deploy, and manage AI-powered applications.",
+          "Microsoft Azure Machine Learning </h3> <p>Microsoft Azure Machine Learning is a cloud-based platform that allows you to build, deploy, and manage machine learning models."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-05-13T08:26:18.650Z",
     "lastUpdated": "2026-05-13T08:26:18.650Z",
     "visibleDate": "May 13, 2026",

@@ -7,6 +7,681 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-05-15T08:32:27.816Z",
+    "lastUpdated": "2026-05-15T08:32:27.816Z",
+    "visibleDate": "May 15, 2026",
+    "url": "pages/2026-05-15-083227816-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-05-15-083227816-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Three no-signup dev",
+      "Best Free Clicking Software PC 2026",
+      "Top 5 Tools"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Three no-signup dev, Best Free Clicking Software PC 2026, Top 5 Tools. Pro",
+    "tools": [
+      {
+        "name": "Three no-signup dev",
+        "slug": "three-no-signup-dev",
+        "description": "Live: https://jsontosdk.vercel.app Source: https://github.com/SolvoHQ/jsontosdk Paste 1–3 JSON responses and get cleanly-named interfaces, Zod schemas, and a typed fetch helper — no signup. Live: https://dotenv2types.vercel.app Source: https://github.com/SolvoHQ/dotenv2types Paste a .env and get a typed env.ts with a Zod schema plus a commented .env.example — no signup.",
+        "summary": "Live: https://jsontosdk.vercel.app Source: https://github.com/SolvoHQ/jsontosdk Paste 1–3 JSON responses and get cleanly-named interfaces, Zod schemas, and a typed fetch helper — no signup. Live: https://dotenv2types.vercel.app Source: https://github.com/SolvoHQ/dotenv2types Paste a .env and get a typed env.ts with a Zod schema plus a commented .env.example — no signup.",
+        "link": "https://dev.to/solvohq/three-no-signup-dev-tools-we-shipped-this-week-1c82",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-15T08:23:12.000Z",
+        "keywords": [
+          "typescript",
+          "webdev",
+          "tools",
+          "opensource",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "typescript",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for typescript",
+          "webdev-ready automation",
+          "Great for typescript"
+        ],
+        "cons": [
+          "Overkill for typescript experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for typescript experiments"
+        ],
+        "highlights": [
+          "Live: https://jsontosdk.vercel.app Source: https://github.com/SolvoHQ/jsontosdk Paste 1–3 JSON responses and get cleanly-named interfaces, Zod schemas, and a typed fetch helper — no signup.",
+          "Live: https://dotenv2types.vercel.app Source: https://github.com/SolvoHQ/dotenv2types Paste a .env and get a typed env.ts with a Zod schema plus a commented .env.example — no signup.",
+          "Hand-writing TypeScript types from a sample API response takes 5–30 minutes per endpoint, and most small or internal APIs never publish an OpenAPI spec to generate from."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best Free Clicking Software PC 2026",
+        "slug": "best-free-clicking-software-pc-2026",
+        "description": "This tool is worth every click! <h1> Best Free Clicking Software PC 2026 </h1> <p>As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft. Best Free Clicking Software PC 2026 As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft.",
+        "summary": "This tool is worth every click! <h1> Best Free Clicking Software PC 2026 </h1> <p>As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft. Best Free Clicking Software PC 2026 As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft.",
+        "link": "https://dev.to/__8f1bd255698/best-free-clicking-software-pc-2026-ultimate-autoclicker-engine-review-4237",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-15T08:16:20.000Z",
+        "keywords": [
+          "gaming",
+          "roblox",
+          "windows",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "gaming",
+          "roblox",
+          "windows"
+        ],
+        "pros": [
+          "Great for gaming",
+          "roblox-ready automation",
+          "Great for gaming"
+        ],
+        "cons": [
+          "Overkill for gaming experiments",
+          "Needs extra setup for roblox workflows",
+          "Overkill for gaming experiments"
+        ],
+        "highlights": [
+          "Best Free Clicking Software PC 2026 As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft.",
+          "While the tool features anti-detection randomization to help users avoid getting flagged, there is always some level of risk when using auto-clicking software.",
+          "While the tool features anti-detection randomization to help users avoid getting flagged, there is always some level of risk when using auto-clicking software."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Top 5 Tools",
+        "slug": "top-5-tools",
+        "description": "It was quick and intuitive, letting me jump into action or pause whenever needed.</li> <li> <strong>Multi-Platform Compatibility</strong>: It’s worth mentioning that this tool works seamlessly on both Windows and macOS. That’s when I stumbled upon a game-changer: the Roblox AutoClicker Open Edition.</p> <h2> Roblox Auto Clicker 100 CPS </h2> <p>Picture this: you’re deep into your favorite Roblox game, and the grind feels unending.",
+        "summary": "It was quick and intuitive, letting me jump into action or pause whenever needed.</li> <li> <strong>Multi-Platform Compatibility</strong>: It’s worth mentioning that this tool works seamlessly on both Windows and macOS. That’s when I stumbled upon a game-changer: the Roblox AutoClicker Open Edition.</p> <h2> Roblox Auto Clicker 100 CPS </h2> <p>Picture this: you’re deep into your favorite Roblox game, and the grind feels unending.",
+        "link": "https://dev.to/samsung_j6plus_938a74fac2/top-5-tools-for-roblox-auto-clicker-100-cps-in-2026-2klf",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-15T08:06:15.000Z",
+        "keywords": [
+          "gaming",
+          "roblox",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "gaming",
+          "roblox",
+          "tools"
+        ],
+        "pros": [
+          "Great for gaming",
+          "roblox-ready automation",
+          "Great for gaming"
+        ],
+        "cons": [
+          "Overkill for gaming experiments",
+          "Needs extra setup for roblox workflows",
+          "Overkill for gaming experiments"
+        ],
+        "highlights": [
+          "The lightweight design means it didn’t bog down my system either.</li> <li> <strong>CPS Range</strong>: Once I started, I was amazed at the flexibility of the 1-100 CPS speed.",
+          "After testing countless tools, I finally found one that not only meets my needs but exceeded my expectations—the Roblox AutoClicker Open Edition.",
+          "After thoroughly testing the Roblox AutoClicker Open Edition, it’s clear that this tool is a top contender for anyone seeking an efficient auto-clicking solution."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Linux Kernel CVEs Don't Care About Your Distro's Release Schedule",
+        "slug": "linux-kernel-cves-don-t-care-about-your-distro-s-release-schedule",
+        "description": "Tools like Trivy, Grype, or older versions of OpenSCAP that key off the kernel version string will flag RHEL 9 machines as vulnerable to issues that Red Hat patched six months ago via backport. Tools like Trivy, Grype, or older versions of OpenSCAP that key off the kernel version string will flag RHEL 9 machines as vulnerable to issues that Red Hat patched six months ago via backport.",
+        "summary": "Tools like Trivy, Grype, or older versions of OpenSCAP that key off the kernel version string will flag RHEL 9 machines as vulnerable to issues that Red Hat patched six months ago via backport. Tools like Trivy, Grype, or older versions of OpenSCAP that key off the kernel version string will flag RHEL 9 machines as vulnerable to issues that Red Hat patched six months ago via backport.",
+        "link": "https://dev.to/ericwoooo_kr/linux-kernel-cves-dont-care-about-your-distros-release-schedule-heres-what-actually-happens-1kf8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-15T07:58:18.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Tools like Trivy, Grype, or older versions of OpenSCAP that key off the kernel version string will flag RHEL 9 machines as vulnerable to issues that Red Hat patched six months ago via backport.",
+          "Tools like Trivy, Grype, or older versions of OpenSCAP that key off the kernel version string will flag RHEL 9 machines as vulnerable to issues that Red Hat patched six months ago via backport.",
+          "You don't need a full SBOM pipeline — you need to know when a CVSS 9+ kernel CVE drops so you can decide whether to push a manual patch cycle instead of waiting for the weekly automation window."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Web Test Recorders",
+        "slug": "web-test-recorders",
+        "description": "A recorder watching you click a button will grab whatever identifier is convenient — often something like div:nth-child(3) > button.sc-bdfxgS, a hashed CSS class from a CSS-in-JS library that changes every build. A generated file for a login test might have driver.findElement(By.xpath(\"//input[@id='username']\")) repeated four different ways across the same file because the recorder captured slight variations each time.",
+        "summary": "A recorder watching you click a button will grab whatever identifier is convenient — often something like div:nth-child(3) > button.sc-bdfxgS, a hashed CSS class from a CSS-in-JS library that changes every build. A generated file for a login test might have driver.findElement(By.xpath(\"//input[@id='username']\")) repeated four different ways across the same file because the recorder captured slight variations each time.",
+        "link": "https://dev.to/ericwoooo_kr/web-test-recorders-that-actually-replay-correctly-ive-broken-enough-ci-pipelines-to-know-1o1j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-15T07:46:44.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The teams I've seen succeed with recorded tests treat them like generated API client code from OpenAPI: useful starting point, always requires a human pass before it ships.",
+          "This sounds like a minor implementation detail until you've spent an afternoon debugging a test suite that was failing because Chrome auto-updated to 115 and your ChromeDriver was still on 114.",
+          "Tool Selector Quality CI Integration Pain Auth State Handling Free Tier Biggest Dealbreaker Playwright Codegen Role-based, text-based — best in class Zero pain."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-05-15T08:32:27.816Z",
+    "lastUpdated": "2026-05-15T08:32:27.816Z",
+    "visibleDate": "May 15, 2026",
+    "url": "pages/2026-05-15-083227816-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-05-15-083227816-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Three no-signup dev",
+      "Best Free Clicking Software PC 2026",
+      "Top 5 Tools"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Three no-signup dev, Best Free Clicking Software PC 2026, Top 5 To",
+    "tools": [
+      {
+        "name": "Three no-signup dev",
+        "slug": "three-no-signup-dev",
+        "description": "Live: https://jsontosdk.vercel.app Source: https://github.com/SolvoHQ/jsontosdk Paste 1–3 JSON responses and get cleanly-named interfaces, Zod schemas, and a typed fetch helper — no signup. Live: https://dotenv2types.vercel.app Source: https://github.com/SolvoHQ/dotenv2types Paste a .env and get a typed env.ts with a Zod schema plus a commented .env.example — no signup.",
+        "summary": "Live: https://jsontosdk.vercel.app Source: https://github.com/SolvoHQ/jsontosdk Paste 1–3 JSON responses and get cleanly-named interfaces, Zod schemas, and a typed fetch helper — no signup. Live: https://dotenv2types.vercel.app Source: https://github.com/SolvoHQ/dotenv2types Paste a .env and get a typed env.ts with a Zod schema plus a commented .env.example — no signup.",
+        "link": "https://dev.to/solvohq/three-no-signup-dev-tools-we-shipped-this-week-1c82",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-15T08:23:12.000Z",
+        "keywords": [
+          "typescript",
+          "webdev",
+          "tools",
+          "opensource",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "typescript",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for typescript",
+          "webdev-ready automation",
+          "Great for typescript"
+        ],
+        "cons": [
+          "Overkill for typescript experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for typescript experiments"
+        ],
+        "highlights": [
+          "Live: https://jsontosdk.vercel.app Source: https://github.com/SolvoHQ/jsontosdk Paste 1–3 JSON responses and get cleanly-named interfaces, Zod schemas, and a typed fetch helper — no signup.",
+          "Live: https://dotenv2types.vercel.app Source: https://github.com/SolvoHQ/dotenv2types Paste a .env and get a typed env.ts with a Zod schema plus a commented .env.example — no signup.",
+          "Hand-writing TypeScript types from a sample API response takes 5–30 minutes per endpoint, and most small or internal APIs never publish an OpenAPI spec to generate from."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best Free Clicking Software PC 2026",
+        "slug": "best-free-clicking-software-pc-2026",
+        "description": "This tool is worth every click! <h1> Best Free Clicking Software PC 2026 </h1> <p>As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft. Best Free Clicking Software PC 2026 As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft.",
+        "summary": "This tool is worth every click! <h1> Best Free Clicking Software PC 2026 </h1> <p>As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft. Best Free Clicking Software PC 2026 As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft.",
+        "link": "https://dev.to/__8f1bd255698/best-free-clicking-software-pc-2026-ultimate-autoclicker-engine-review-4237",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-15T08:16:20.000Z",
+        "keywords": [
+          "gaming",
+          "roblox",
+          "windows",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "gaming",
+          "roblox",
+          "windows"
+        ],
+        "pros": [
+          "Great for gaming",
+          "roblox-ready automation",
+          "Great for gaming"
+        ],
+        "cons": [
+          "Overkill for gaming experiments",
+          "Needs extra setup for roblox workflows",
+          "Overkill for gaming experiments"
+        ],
+        "highlights": [
+          "Best Free Clicking Software PC 2026 As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft.",
+          "While the tool features anti-detection randomization to help users avoid getting flagged, there is always some level of risk when using auto-clicking software.",
+          "While the tool features anti-detection randomization to help users avoid getting flagged, there is always some level of risk when using auto-clicking software."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Top 5 Tools",
+        "slug": "top-5-tools",
+        "description": "It was quick and intuitive, letting me jump into action or pause whenever needed.</li> <li> <strong>Multi-Platform Compatibility</strong>: It’s worth mentioning that this tool works seamlessly on both Windows and macOS. That’s when I stumbled upon a game-changer: the Roblox AutoClicker Open Edition.</p> <h2> Roblox Auto Clicker 100 CPS </h2> <p>Picture this: you’re deep into your favorite Roblox game, and the grind feels unending.",
+        "summary": "It was quick and intuitive, letting me jump into action or pause whenever needed.</li> <li> <strong>Multi-Platform Compatibility</strong>: It’s worth mentioning that this tool works seamlessly on both Windows and macOS. That’s when I stumbled upon a game-changer: the Roblox AutoClicker Open Edition.</p> <h2> Roblox Auto Clicker 100 CPS </h2> <p>Picture this: you’re deep into your favorite Roblox game, and the grind feels unending.",
+        "link": "https://dev.to/samsung_j6plus_938a74fac2/top-5-tools-for-roblox-auto-clicker-100-cps-in-2026-2klf",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-15T08:06:15.000Z",
+        "keywords": [
+          "gaming",
+          "roblox",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "gaming",
+          "roblox",
+          "tools"
+        ],
+        "pros": [
+          "Great for gaming",
+          "roblox-ready automation",
+          "Great for gaming"
+        ],
+        "cons": [
+          "Overkill for gaming experiments",
+          "Needs extra setup for roblox workflows",
+          "Overkill for gaming experiments"
+        ],
+        "highlights": [
+          "The lightweight design means it didn’t bog down my system either.</li> <li> <strong>CPS Range</strong>: Once I started, I was amazed at the flexibility of the 1-100 CPS speed.",
+          "After testing countless tools, I finally found one that not only meets my needs but exceeded my expectations—the Roblox AutoClicker Open Edition.",
+          "After thoroughly testing the Roblox AutoClicker Open Edition, it’s clear that this tool is a top contender for anyone seeking an efficient auto-clicking solution."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Linux Kernel CVEs Don't Care About Your Distro's Release Schedule",
+        "slug": "linux-kernel-cves-don-t-care-about-your-distro-s-release-schedule",
+        "description": "Tools like Trivy, Grype, or older versions of OpenSCAP that key off the kernel version string will flag RHEL 9 machines as vulnerable to issues that Red Hat patched six months ago via backport. Tools like Trivy, Grype, or older versions of OpenSCAP that key off the kernel version string will flag RHEL 9 machines as vulnerable to issues that Red Hat patched six months ago via backport.",
+        "summary": "Tools like Trivy, Grype, or older versions of OpenSCAP that key off the kernel version string will flag RHEL 9 machines as vulnerable to issues that Red Hat patched six months ago via backport. Tools like Trivy, Grype, or older versions of OpenSCAP that key off the kernel version string will flag RHEL 9 machines as vulnerable to issues that Red Hat patched six months ago via backport.",
+        "link": "https://dev.to/ericwoooo_kr/linux-kernel-cves-dont-care-about-your-distros-release-schedule-heres-what-actually-happens-1kf8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-15T07:58:18.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Tools like Trivy, Grype, or older versions of OpenSCAP that key off the kernel version string will flag RHEL 9 machines as vulnerable to issues that Red Hat patched six months ago via backport.",
+          "Tools like Trivy, Grype, or older versions of OpenSCAP that key off the kernel version string will flag RHEL 9 machines as vulnerable to issues that Red Hat patched six months ago via backport.",
+          "You don't need a full SBOM pipeline — you need to know when a CVSS 9+ kernel CVE drops so you can decide whether to push a manual patch cycle instead of waiting for the weekly automation window."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-05-15T08:32:27.816Z",
+    "lastUpdated": "2026-05-15T08:32:27.816Z",
+    "visibleDate": "May 15, 2026",
+    "url": "pages/2026-05-15-083227816-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-05-15-083227816-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "Three no-signup dev",
+      "Best Free Clicking Software PC 2026"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Three no-signup dev, Best Free Clicking Software ",
+    "tools": [
+      {
+        "name": "Three no-signup dev",
+        "slug": "three-no-signup-dev",
+        "description": "Live: https://jsontosdk.vercel.app Source: https://github.com/SolvoHQ/jsontosdk Paste 1–3 JSON responses and get cleanly-named interfaces, Zod schemas, and a typed fetch helper — no signup. Live: https://dotenv2types.vercel.app Source: https://github.com/SolvoHQ/dotenv2types Paste a .env and get a typed env.ts with a Zod schema plus a commented .env.example — no signup.",
+        "summary": "Live: https://jsontosdk.vercel.app Source: https://github.com/SolvoHQ/jsontosdk Paste 1–3 JSON responses and get cleanly-named interfaces, Zod schemas, and a typed fetch helper — no signup. Live: https://dotenv2types.vercel.app Source: https://github.com/SolvoHQ/dotenv2types Paste a .env and get a typed env.ts with a Zod schema plus a commented .env.example — no signup.",
+        "link": "https://dev.to/solvohq/three-no-signup-dev-tools-we-shipped-this-week-1c82",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-15T08:23:12.000Z",
+        "keywords": [
+          "typescript",
+          "webdev",
+          "tools",
+          "opensource",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "typescript",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for typescript",
+          "webdev-ready automation",
+          "Great for typescript"
+        ],
+        "cons": [
+          "Overkill for typescript experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for typescript experiments"
+        ],
+        "highlights": [
+          "Live: https://jsontosdk.vercel.app Source: https://github.com/SolvoHQ/jsontosdk Paste 1–3 JSON responses and get cleanly-named interfaces, Zod schemas, and a typed fetch helper — no signup.",
+          "Live: https://dotenv2types.vercel.app Source: https://github.com/SolvoHQ/dotenv2types Paste a .env and get a typed env.ts with a Zod schema plus a commented .env.example — no signup.",
+          "Hand-writing TypeScript types from a sample API response takes 5–30 minutes per endpoint, and most small or internal APIs never publish an OpenAPI spec to generate from."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best Free Clicking Software PC 2026",
+        "slug": "best-free-clicking-software-pc-2026",
+        "description": "This tool is worth every click! <h1> Best Free Clicking Software PC 2026 </h1> <p>As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft. Best Free Clicking Software PC 2026 As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft.",
+        "summary": "This tool is worth every click! <h1> Best Free Clicking Software PC 2026 </h1> <p>As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft. Best Free Clicking Software PC 2026 As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft.",
+        "link": "https://dev.to/__8f1bd255698/best-free-clicking-software-pc-2026-ultimate-autoclicker-engine-review-4237",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-15T08:16:20.000Z",
+        "keywords": [
+          "gaming",
+          "roblox",
+          "windows",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "gaming",
+          "roblox",
+          "windows"
+        ],
+        "pros": [
+          "Great for gaming",
+          "roblox-ready automation",
+          "Great for gaming"
+        ],
+        "cons": [
+          "Overkill for gaming experiments",
+          "Needs extra setup for roblox workflows",
+          "Overkill for gaming experiments"
+        ],
+        "highlights": [
+          "Best Free Clicking Software PC 2026 As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft.",
+          "While the tool features anti-detection randomization to help users avoid getting flagged, there is always some level of risk when using auto-clicking software.",
+          "While the tool features anti-detection randomization to help users avoid getting flagged, there is always some level of risk when using auto-clicking software."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-05-15T08:32:27.816Z",
+    "lastUpdated": "2026-05-15T08:32:27.816Z",
+    "visibleDate": "May 15, 2026",
+    "url": "pages/2026-05-15-083227816-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-05-15-083227816-new-collections-this-week.md",
+    "categories": [],
+    "toolHighlights": [
+      "Three no-signup dev",
+      "Best Free Clicking Software PC 2026",
+      "Top 5 Tools"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Three no-signup dev, Best Free Clicking Software PC 2026, Top 5 Tools. N",
+    "tools": [
+      {
+        "name": "Three no-signup dev",
+        "slug": "three-no-signup-dev",
+        "description": "Live: https://jsontosdk.vercel.app Source: https://github.com/SolvoHQ/jsontosdk Paste 1–3 JSON responses and get cleanly-named interfaces, Zod schemas, and a typed fetch helper — no signup. Live: https://dotenv2types.vercel.app Source: https://github.com/SolvoHQ/dotenv2types Paste a .env and get a typed env.ts with a Zod schema plus a commented .env.example — no signup.",
+        "summary": "Live: https://jsontosdk.vercel.app Source: https://github.com/SolvoHQ/jsontosdk Paste 1–3 JSON responses and get cleanly-named interfaces, Zod schemas, and a typed fetch helper — no signup. Live: https://dotenv2types.vercel.app Source: https://github.com/SolvoHQ/dotenv2types Paste a .env and get a typed env.ts with a Zod schema plus a commented .env.example — no signup.",
+        "link": "https://dev.to/solvohq/three-no-signup-dev-tools-we-shipped-this-week-1c82",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-15T08:23:12.000Z",
+        "keywords": [
+          "typescript",
+          "webdev",
+          "tools",
+          "opensource",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "typescript",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for typescript",
+          "webdev-ready automation",
+          "Great for typescript"
+        ],
+        "cons": [
+          "Overkill for typescript experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for typescript experiments"
+        ],
+        "highlights": [
+          "Live: https://jsontosdk.vercel.app Source: https://github.com/SolvoHQ/jsontosdk Paste 1–3 JSON responses and get cleanly-named interfaces, Zod schemas, and a typed fetch helper — no signup.",
+          "Live: https://dotenv2types.vercel.app Source: https://github.com/SolvoHQ/dotenv2types Paste a .env and get a typed env.ts with a Zod schema plus a commented .env.example — no signup.",
+          "Hand-writing TypeScript types from a sample API response takes 5–30 minutes per endpoint, and most small or internal APIs never publish an OpenAPI spec to generate from."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best Free Clicking Software PC 2026",
+        "slug": "best-free-clicking-software-pc-2026",
+        "description": "This tool is worth every click! <h1> Best Free Clicking Software PC 2026 </h1> <p>As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft. Best Free Clicking Software PC 2026 As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft.",
+        "summary": "This tool is worth every click! <h1> Best Free Clicking Software PC 2026 </h1> <p>As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft. Best Free Clicking Software PC 2026 As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft.",
+        "link": "https://dev.to/__8f1bd255698/best-free-clicking-software-pc-2026-ultimate-autoclicker-engine-review-4237",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-15T08:16:20.000Z",
+        "keywords": [
+          "gaming",
+          "roblox",
+          "windows",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "gaming",
+          "roblox",
+          "windows"
+        ],
+        "pros": [
+          "Great for gaming",
+          "roblox-ready automation",
+          "Great for gaming"
+        ],
+        "cons": [
+          "Overkill for gaming experiments",
+          "Needs extra setup for roblox workflows",
+          "Overkill for gaming experiments"
+        ],
+        "highlights": [
+          "Best Free Clicking Software PC 2026 As a gamer, I've always sought that extra edge, whether it’s in PvP battles or grinding in games like Roblox and Minecraft.",
+          "While the tool features anti-detection randomization to help users avoid getting flagged, there is always some level of risk when using auto-clicking software.",
+          "While the tool features anti-detection randomization to help users avoid getting flagged, there is always some level of risk when using auto-clicking software."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Top 5 Tools",
+        "slug": "top-5-tools",
+        "description": "It was quick and intuitive, letting me jump into action or pause whenever needed.</li> <li> <strong>Multi-Platform Compatibility</strong>: It’s worth mentioning that this tool works seamlessly on both Windows and macOS. That’s when I stumbled upon a game-changer: the Roblox AutoClicker Open Edition.</p> <h2> Roblox Auto Clicker 100 CPS </h2> <p>Picture this: you’re deep into your favorite Roblox game, and the grind feels unending.",
+        "summary": "It was quick and intuitive, letting me jump into action or pause whenever needed.</li> <li> <strong>Multi-Platform Compatibility</strong>: It’s worth mentioning that this tool works seamlessly on both Windows and macOS. That’s when I stumbled upon a game-changer: the Roblox AutoClicker Open Edition.</p> <h2> Roblox Auto Clicker 100 CPS </h2> <p>Picture this: you’re deep into your favorite Roblox game, and the grind feels unending.",
+        "link": "https://dev.to/samsung_j6plus_938a74fac2/top-5-tools-for-roblox-auto-clicker-100-cps-in-2026-2klf",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-15T08:06:15.000Z",
+        "keywords": [
+          "gaming",
+          "roblox",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "gaming",
+          "roblox",
+          "tools"
+        ],
+        "pros": [
+          "Great for gaming",
+          "roblox-ready automation",
+          "Great for gaming"
+        ],
+        "cons": [
+          "Overkill for gaming experiments",
+          "Needs extra setup for roblox workflows",
+          "Overkill for gaming experiments"
+        ],
+        "highlights": [
+          "The lightweight design means it didn’t bog down my system either.</li> <li> <strong>CPS Range</strong>: Once I started, I was amazed at the flexibility of the 1-100 CPS speed.",
+          "After testing countless tools, I finally found one that not only meets my needs but exceeded my expectations—the Roblox AutoClicker Open Edition.",
+          "After thoroughly testing the Roblox AutoClicker Open Edition, it’s clear that this tool is a top contender for anyone seeking an efficient auto-clicking solution."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-05-14T08:20:21.989Z",
     "lastUpdated": "2026-05-14T08:20:21.989Z",
     "visibleDate": "May 14, 2026",

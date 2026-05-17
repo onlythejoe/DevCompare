@@ -7,6 +7,691 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-05-17T08:02:51.760Z",
+    "lastUpdated": "2026-05-17T08:02:51.760Z",
+    "visibleDate": "May 17, 2026",
+    "url": "pages/2026-05-17-080251760-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-05-17-080251760-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Tiny UDP Cannon",
+      "The Three Durable Function Forms in F#",
+      "Choosing an AI Transcription Tool in 2026"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include The Tiny UDP Cannon, The Three Durable Function Forms in F#, Choosing an A",
+    "tools": [
+      {
+        "name": "The Tiny UDP Cannon",
+        "slug": "the-tiny-udp-cannon",
+        "description": "The Android kernel's routing for established UDP sockets doesn't get re-evaluated the way TCP connections do when the VPN interface comes up.</p> <p>This isn't an obscure edge case that only hits adversarial configs. Corporate MDM setups — per-app VPN tunnels on Android are especially exposed because the tunnel comes up and down with app lifecycle, creating exactly the socket reuse window where QUIC slips through.",
+        "summary": "The Android kernel's routing for established UDP sockets doesn't get re-evaluated the way TCP connections do when the VPN interface comes up.</p> <p>This isn't an obscure edge case that only hits adversarial configs. Corporate MDM setups — per-app VPN tunnels on Android are especially exposed because the tunnel comes up and down with app lifecycle, creating exactly the socket reuse window where QUIC slips through.",
+        "link": "https://dev.to/ericwoooo_kr/the-tiny-udp-cannon-how-quic-optimization-bypasses-android-vpn-tunnels-and-what-to-do-about-it-hh2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-17T07:56:17.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The QUIC path wins most of the time on modern Android (12+) because Chromium's network stack manages its own UDP socket pool — separate from the Java networking layer that most VPN apps hook into.",
+          "The QUIC path wins most of the time on modern Android (12+) because Chromium's network stack manages its own UDP socket pool — separate from the Java networking layer that most VPN apps hook into.",
+          "What you'd actually need is a kernel-level hook that delays UDP socket binding in userspace processes until the routing table is stable — and that doesn't exist in the Android VPN API today."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Three Durable Function Forms in F#",
+        "slug": "the-three-durable-function-forms-in-f",
+        "description": "My actual decision rule, which I've used on every Durable Functions design in the past three years: coordinating logic → orchestrator, doing real work → activity, remembering something across time → entity. I found this out the hard way when query latency on the orchestrator status endpoint climbed from milliseconds to seconds — the history table had grown to 4+ million rows with zero cleanup configured.",
+        "summary": "My actual decision rule, which I've used on every Durable Functions design in the past three years: coordinating logic → orchestrator, doing real work → activity, remembering something across time → entity. I found this out the hard way when query latency on the orchestrator status endpoint climbed from milliseconds to seconds — the history table had grown to 4+ million rows with zero cleanup configured.",
+        "link": "https://dev.to/ericwoooo_kr/the-three-durable-function-forms-in-f-what-each-one-actually-does-and-when-to-reach-for-it-593e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-17T07:45:45.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Isolated means a separate .NET worker process communicates with the host over gRPC — slightly more startup overhead, but you get full .NET 8 features, proper dependency injection, and the new SDK.",
+          "For straightforward scheduled work — process a batch at midnight, send a weekly digest, clean up stale records — plain timer-triggered Azure Functions are genuinely simpler and cheaper.",
+          "Isolated means a separate .NET worker process communicates with the host over gRPC — slightly more startup overhead, but you get full .NET 8 features, proper dependency injection, and the new SDK."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Choosing an AI Transcription Tool in 2026",
+        "slug": "choosing-an-ai-transcription-tool-in-2026",
+        "description": "Model your real volume, not the vendor's example.</p> <h2> A practical starting point </h2> <p>For one-off interviews, a hosted tool with a good editor saves more time than it costs. Here is how I think about choosing one.</p> <h2> The accuracy question </h2> <p>Word error rate (WER) is the number that matters, but vendors quote it for clean studio English.",
+        "summary": "Model your real volume, not the vendor's example.</p> <h2> A practical starting point </h2> <p>For one-off interviews, a hosted tool with a good editor saves more time than it costs. Here is how I think about choosing one.</p> <h2> The accuracy question </h2> <p>Word error rate (WER) is the number that matters, but vendors quote it for clean studio English.",
+        "link": "https://dev.to/aukedh/choosing-an-ai-transcription-tool-in-2026-accuracy-privacy-and-cost-49ec",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-17T07:36:40.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "privacy",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "privacy"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Model your real volume, not the vendor's example.</p> <h2> A practical starting point </h2> <p>For one-off interviews, a hosted tool with a good editor saves more time than it costs.",
+          "For meetings specifically, a dedicated meeting-notes tool that joins the call beats generic transcription, because it also produces summaries and action items.",
+          "Here is how I think about choosing one.</p> <h2> The accuracy question </h2> <p>Word error rate (WER) is the number that matters, but vendors quote it for clean studio English."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Multi-Location Blueprint",
+        "slug": "the-multi-location-blueprint",
+        "description": "Resolving the Technical Nuances of Local Modifiers A common question I receive from digital marketers is whether automated local variations can accurately target consumers who don't explicitly type out a city name. Transitioning away from old spreadsheet habits and moving toward intelligent automation allows you to accelerate your client onboarding processes, audit new accounts in minutes, and shift your focus to execution.",
+        "summary": "Resolving the Technical Nuances of Local Modifiers A common question I receive from digital marketers is whether automated local variations can accurately target consumers who don't explicitly type out a city name. Transitioning away from old spreadsheet habits and moving toward intelligent automation allows you to accelerate your client onboarding processes, audit new accounts in minutes, and shift your focus to execution.",
+        "link": "https://dev.to/ssjtools/the-multi-location-blueprint-engineering-scalable-local-seo-architecture-without-spreadsheet-n2o",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-17T06:59:16.000Z",
+        "keywords": [
+          "ssjtool",
+          "tools",
+          "ai",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "ssjtool",
+          "tools",
+          "ai"
+        ],
+        "pros": [
+          "Great for ssjtool",
+          "tools-ready automation",
+          "Great for ssjtool"
+        ],
+        "cons": [
+          "Overkill for ssjtool experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ssjtool experiments"
+        ],
+        "highlights": [
+          "Finally, establish strict quality control protocols: always verify that your automated data sets align naturally with authentic human speech patterns and your distinct brand voice.",
+          "Furthermore, because you can easily export these clean text sets via a lightweight, ad- Claim Your Geographic Market Real Estate Dominating your local market shouldn't feel like a manual grind.",
+          "However, what I’ve observed from years of advising brick-and-mortar brands is that chasing national-level search metrics is largely a vanity exercise for hyper-localized businesses."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI Tools",
+        "slug": "how-ai-tools",
+        "description": "This innovative tool allows you to modify written content to suit various reading levels, ensuring that your message is clear and accessible to everyone, whether you are crafting an email, a report, or a presentation. This innovative tool allows you to modify written content to suit various reading levels, ensuring that your message is clear and accessible to everyone, whether you are crafting an email, a report, or a presentation.",
+        "summary": "This innovative tool allows you to modify written content to suit various reading levels, ensuring that your message is clear and accessible to everyone, whether you are crafting an email, a report, or a presentation. This innovative tool allows you to modify written content to suit various reading levels, ensuring that your message is clear and accessible to everyone, whether you are crafting an email, a report, or a presentation.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-tools-can-enhance-your-communication-and-finance-skills-for-the-future-of-work-144g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-17T06:43:37.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "This tool allows users to calculate the Goods and Services Tax (GST) quickly and efficiently, helping entrepreneurs and employees alike ensure compliance and proper budgeting.",
+          "With AI tools increasingly becoming our 'work colleagues,' as highlighted by the World Economic Forum, individuals need to adapt their communication styles to ensure they resonate with others.",
+          "By leveraging the AI Reading Level Adaptor and the GST Calculator, you not only improve your own skill set but also enhance team productivity and collaboration."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-05-17T08:02:51.760Z",
+    "lastUpdated": "2026-05-17T08:02:51.760Z",
+    "visibleDate": "May 17, 2026",
+    "url": "pages/2026-05-17-080251760-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-05-17-080251760-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Tiny UDP Cannon",
+      "The Three Durable Function Forms in F#",
+      "Choosing an AI Transcription Tool in 2026"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include The Tiny UDP Cannon, The Three Durable Function Forms in F#, Choos",
+    "tools": [
+      {
+        "name": "The Tiny UDP Cannon",
+        "slug": "the-tiny-udp-cannon",
+        "description": "The Android kernel's routing for established UDP sockets doesn't get re-evaluated the way TCP connections do when the VPN interface comes up.</p> <p>This isn't an obscure edge case that only hits adversarial configs. Corporate MDM setups — per-app VPN tunnels on Android are especially exposed because the tunnel comes up and down with app lifecycle, creating exactly the socket reuse window where QUIC slips through.",
+        "summary": "The Android kernel's routing for established UDP sockets doesn't get re-evaluated the way TCP connections do when the VPN interface comes up.</p> <p>This isn't an obscure edge case that only hits adversarial configs. Corporate MDM setups — per-app VPN tunnels on Android are especially exposed because the tunnel comes up and down with app lifecycle, creating exactly the socket reuse window where QUIC slips through.",
+        "link": "https://dev.to/ericwoooo_kr/the-tiny-udp-cannon-how-quic-optimization-bypasses-android-vpn-tunnels-and-what-to-do-about-it-hh2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-17T07:56:17.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The QUIC path wins most of the time on modern Android (12+) because Chromium's network stack manages its own UDP socket pool — separate from the Java networking layer that most VPN apps hook into.",
+          "The QUIC path wins most of the time on modern Android (12+) because Chromium's network stack manages its own UDP socket pool — separate from the Java networking layer that most VPN apps hook into.",
+          "What you'd actually need is a kernel-level hook that delays UDP socket binding in userspace processes until the routing table is stable — and that doesn't exist in the Android VPN API today."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Three Durable Function Forms in F#",
+        "slug": "the-three-durable-function-forms-in-f",
+        "description": "My actual decision rule, which I've used on every Durable Functions design in the past three years: coordinating logic → orchestrator, doing real work → activity, remembering something across time → entity. I found this out the hard way when query latency on the orchestrator status endpoint climbed from milliseconds to seconds — the history table had grown to 4+ million rows with zero cleanup configured.",
+        "summary": "My actual decision rule, which I've used on every Durable Functions design in the past three years: coordinating logic → orchestrator, doing real work → activity, remembering something across time → entity. I found this out the hard way when query latency on the orchestrator status endpoint climbed from milliseconds to seconds — the history table had grown to 4+ million rows with zero cleanup configured.",
+        "link": "https://dev.to/ericwoooo_kr/the-three-durable-function-forms-in-f-what-each-one-actually-does-and-when-to-reach-for-it-593e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-17T07:45:45.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Isolated means a separate .NET worker process communicates with the host over gRPC — slightly more startup overhead, but you get full .NET 8 features, proper dependency injection, and the new SDK.",
+          "For straightforward scheduled work — process a batch at midnight, send a weekly digest, clean up stale records — plain timer-triggered Azure Functions are genuinely simpler and cheaper.",
+          "Isolated means a separate .NET worker process communicates with the host over gRPC — slightly more startup overhead, but you get full .NET 8 features, proper dependency injection, and the new SDK."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Choosing an AI Transcription Tool in 2026",
+        "slug": "choosing-an-ai-transcription-tool-in-2026",
+        "description": "Model your real volume, not the vendor's example.</p> <h2> A practical starting point </h2> <p>For one-off interviews, a hosted tool with a good editor saves more time than it costs. Here is how I think about choosing one.</p> <h2> The accuracy question </h2> <p>Word error rate (WER) is the number that matters, but vendors quote it for clean studio English.",
+        "summary": "Model your real volume, not the vendor's example.</p> <h2> A practical starting point </h2> <p>For one-off interviews, a hosted tool with a good editor saves more time than it costs. Here is how I think about choosing one.</p> <h2> The accuracy question </h2> <p>Word error rate (WER) is the number that matters, but vendors quote it for clean studio English.",
+        "link": "https://dev.to/aukedh/choosing-an-ai-transcription-tool-in-2026-accuracy-privacy-and-cost-49ec",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-17T07:36:40.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "privacy",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "privacy"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Model your real volume, not the vendor's example.</p> <h2> A practical starting point </h2> <p>For one-off interviews, a hosted tool with a good editor saves more time than it costs.",
+          "For meetings specifically, a dedicated meeting-notes tool that joins the call beats generic transcription, because it also produces summaries and action items.",
+          "Here is how I think about choosing one.</p> <h2> The accuracy question </h2> <p>Word error rate (WER) is the number that matters, but vendors quote it for clean studio English."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Multi-Location Blueprint",
+        "slug": "the-multi-location-blueprint",
+        "description": "Resolving the Technical Nuances of Local Modifiers A common question I receive from digital marketers is whether automated local variations can accurately target consumers who don't explicitly type out a city name. Transitioning away from old spreadsheet habits and moving toward intelligent automation allows you to accelerate your client onboarding processes, audit new accounts in minutes, and shift your focus to execution.",
+        "summary": "Resolving the Technical Nuances of Local Modifiers A common question I receive from digital marketers is whether automated local variations can accurately target consumers who don't explicitly type out a city name. Transitioning away from old spreadsheet habits and moving toward intelligent automation allows you to accelerate your client onboarding processes, audit new accounts in minutes, and shift your focus to execution.",
+        "link": "https://dev.to/ssjtools/the-multi-location-blueprint-engineering-scalable-local-seo-architecture-without-spreadsheet-n2o",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-17T06:59:16.000Z",
+        "keywords": [
+          "ssjtool",
+          "tools",
+          "ai",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "ssjtool",
+          "tools",
+          "ai"
+        ],
+        "pros": [
+          "Great for ssjtool",
+          "tools-ready automation",
+          "Great for ssjtool"
+        ],
+        "cons": [
+          "Overkill for ssjtool experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ssjtool experiments"
+        ],
+        "highlights": [
+          "Finally, establish strict quality control protocols: always verify that your automated data sets align naturally with authentic human speech patterns and your distinct brand voice.",
+          "Furthermore, because you can easily export these clean text sets via a lightweight, ad- Claim Your Geographic Market Real Estate Dominating your local market shouldn't feel like a manual grind.",
+          "However, what I’ve observed from years of advising brick-and-mortar brands is that chasing national-level search metrics is largely a vanity exercise for hyper-localized businesses."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-05-17T08:02:51.760Z",
+    "lastUpdated": "2026-05-17T08:02:51.760Z",
+    "visibleDate": "May 17, 2026",
+    "url": "pages/2026-05-17-080251760-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-05-17-080251760-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Tiny UDP Cannon",
+      "The Three Durable Function Forms in F#"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include The Tiny UDP Cannon, The Three Durable Function F",
+    "tools": [
+      {
+        "name": "The Tiny UDP Cannon",
+        "slug": "the-tiny-udp-cannon",
+        "description": "The Android kernel's routing for established UDP sockets doesn't get re-evaluated the way TCP connections do when the VPN interface comes up.</p> <p>This isn't an obscure edge case that only hits adversarial configs. Corporate MDM setups — per-app VPN tunnels on Android are especially exposed because the tunnel comes up and down with app lifecycle, creating exactly the socket reuse window where QUIC slips through.",
+        "summary": "The Android kernel's routing for established UDP sockets doesn't get re-evaluated the way TCP connections do when the VPN interface comes up.</p> <p>This isn't an obscure edge case that only hits adversarial configs. Corporate MDM setups — per-app VPN tunnels on Android are especially exposed because the tunnel comes up and down with app lifecycle, creating exactly the socket reuse window where QUIC slips through.",
+        "link": "https://dev.to/ericwoooo_kr/the-tiny-udp-cannon-how-quic-optimization-bypasses-android-vpn-tunnels-and-what-to-do-about-it-hh2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-17T07:56:17.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The QUIC path wins most of the time on modern Android (12+) because Chromium's network stack manages its own UDP socket pool — separate from the Java networking layer that most VPN apps hook into.",
+          "The QUIC path wins most of the time on modern Android (12+) because Chromium's network stack manages its own UDP socket pool — separate from the Java networking layer that most VPN apps hook into.",
+          "What you'd actually need is a kernel-level hook that delays UDP socket binding in userspace processes until the routing table is stable — and that doesn't exist in the Android VPN API today."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Three Durable Function Forms in F#",
+        "slug": "the-three-durable-function-forms-in-f",
+        "description": "My actual decision rule, which I've used on every Durable Functions design in the past three years: coordinating logic → orchestrator, doing real work → activity, remembering something across time → entity. I found this out the hard way when query latency on the orchestrator status endpoint climbed from milliseconds to seconds — the history table had grown to 4+ million rows with zero cleanup configured.",
+        "summary": "My actual decision rule, which I've used on every Durable Functions design in the past three years: coordinating logic → orchestrator, doing real work → activity, remembering something across time → entity. I found this out the hard way when query latency on the orchestrator status endpoint climbed from milliseconds to seconds — the history table had grown to 4+ million rows with zero cleanup configured.",
+        "link": "https://dev.to/ericwoooo_kr/the-three-durable-function-forms-in-f-what-each-one-actually-does-and-when-to-reach-for-it-593e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-17T07:45:45.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Isolated means a separate .NET worker process communicates with the host over gRPC — slightly more startup overhead, but you get full .NET 8 features, proper dependency injection, and the new SDK.",
+          "For straightforward scheduled work — process a batch at midnight, send a weekly digest, clean up stale records — plain timer-triggered Azure Functions are genuinely simpler and cheaper.",
+          "Isolated means a separate .NET worker process communicates with the host over gRPC — slightly more startup overhead, but you get full .NET 8 features, proper dependency injection, and the new SDK."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-05-17T08:02:51.760Z",
+    "lastUpdated": "2026-05-17T08:02:51.760Z",
+    "visibleDate": "May 17, 2026",
+    "url": "pages/2026-05-17-080251760-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-05-17-080251760-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Tiny UDP Cannon",
+      "The Three Durable Function Forms in F#",
+      "Choosing an AI Transcription Tool in 2026"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include The Tiny UDP Cannon, The Three Durable Function Forms in F#, Choosing an",
+    "tools": [
+      {
+        "name": "The Tiny UDP Cannon",
+        "slug": "the-tiny-udp-cannon",
+        "description": "The Android kernel's routing for established UDP sockets doesn't get re-evaluated the way TCP connections do when the VPN interface comes up.</p> <p>This isn't an obscure edge case that only hits adversarial configs. Corporate MDM setups — per-app VPN tunnels on Android are especially exposed because the tunnel comes up and down with app lifecycle, creating exactly the socket reuse window where QUIC slips through.",
+        "summary": "The Android kernel's routing for established UDP sockets doesn't get re-evaluated the way TCP connections do when the VPN interface comes up.</p> <p>This isn't an obscure edge case that only hits adversarial configs. Corporate MDM setups — per-app VPN tunnels on Android are especially exposed because the tunnel comes up and down with app lifecycle, creating exactly the socket reuse window where QUIC slips through.",
+        "link": "https://dev.to/ericwoooo_kr/the-tiny-udp-cannon-how-quic-optimization-bypasses-android-vpn-tunnels-and-what-to-do-about-it-hh2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-17T07:56:17.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The QUIC path wins most of the time on modern Android (12+) because Chromium's network stack manages its own UDP socket pool — separate from the Java networking layer that most VPN apps hook into.",
+          "The QUIC path wins most of the time on modern Android (12+) because Chromium's network stack manages its own UDP socket pool — separate from the Java networking layer that most VPN apps hook into.",
+          "What you'd actually need is a kernel-level hook that delays UDP socket binding in userspace processes until the routing table is stable — and that doesn't exist in the Android VPN API today."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Three Durable Function Forms in F#",
+        "slug": "the-three-durable-function-forms-in-f",
+        "description": "My actual decision rule, which I've used on every Durable Functions design in the past three years: coordinating logic → orchestrator, doing real work → activity, remembering something across time → entity. I found this out the hard way when query latency on the orchestrator status endpoint climbed from milliseconds to seconds — the history table had grown to 4+ million rows with zero cleanup configured.",
+        "summary": "My actual decision rule, which I've used on every Durable Functions design in the past three years: coordinating logic → orchestrator, doing real work → activity, remembering something across time → entity. I found this out the hard way when query latency on the orchestrator status endpoint climbed from milliseconds to seconds — the history table had grown to 4+ million rows with zero cleanup configured.",
+        "link": "https://dev.to/ericwoooo_kr/the-three-durable-function-forms-in-f-what-each-one-actually-does-and-when-to-reach-for-it-593e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-17T07:45:45.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Isolated means a separate .NET worker process communicates with the host over gRPC — slightly more startup overhead, but you get full .NET 8 features, proper dependency injection, and the new SDK.",
+          "For straightforward scheduled work — process a batch at midnight, send a weekly digest, clean up stale records — plain timer-triggered Azure Functions are genuinely simpler and cheaper.",
+          "Isolated means a separate .NET worker process communicates with the host over gRPC — slightly more startup overhead, but you get full .NET 8 features, proper dependency injection, and the new SDK."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Choosing an AI Transcription Tool in 2026",
+        "slug": "choosing-an-ai-transcription-tool-in-2026",
+        "description": "Model your real volume, not the vendor's example.</p> <h2> A practical starting point </h2> <p>For one-off interviews, a hosted tool with a good editor saves more time than it costs. Here is how I think about choosing one.</p> <h2> The accuracy question </h2> <p>Word error rate (WER) is the number that matters, but vendors quote it for clean studio English.",
+        "summary": "Model your real volume, not the vendor's example.</p> <h2> A practical starting point </h2> <p>For one-off interviews, a hosted tool with a good editor saves more time than it costs. Here is how I think about choosing one.</p> <h2> The accuracy question </h2> <p>Word error rate (WER) is the number that matters, but vendors quote it for clean studio English.",
+        "link": "https://dev.to/aukedh/choosing-an-ai-transcription-tool-in-2026-accuracy-privacy-and-cost-49ec",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-17T07:36:40.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "privacy",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "privacy"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Model your real volume, not the vendor's example.</p> <h2> A practical starting point </h2> <p>For one-off interviews, a hosted tool with a good editor saves more time than it costs.",
+          "For meetings specifically, a dedicated meeting-notes tool that joins the call beats generic transcription, because it also produces summaries and action items.",
+          "Here is how I think about choosing one.</p> <h2> The accuracy question </h2> <p>Word error rate (WER) is the number that matters, but vendors quote it for clean studio English."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-05-16T07:42:35.067Z",
     "lastUpdated": "2026-05-16T07:42:35.067Z",
     "visibleDate": "May 16, 2026",

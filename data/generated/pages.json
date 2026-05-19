@@ -7,6 +7,695 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-05-19T08:51:43.719Z",
+    "lastUpdated": "2026-05-19T08:51:43.719Z",
+    "visibleDate": "May 19, 2026",
+    "url": "pages/2026-05-19-085143719-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-05-19-085143719-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      },
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Quackr Alternatives",
+      "How I Track",
+      "I Built a"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Best Quackr Alternatives, How I Track, I Built a. Productivity stacks that",
+    "tools": [
+      {
+        "name": "Best Quackr Alternatives",
+        "slug": "best-quackr-alternatives",
+        "description": "The problem: platforms like Google and WhatsApp run database lookups to check if a number is SIM-registered with a real mobile carrier, or whether it's an internet-based VoIP line.</p> <p>VoIP numbers fail this check. NumberOTP covers the gaps: private numbers, real non-VoIP SIM-backed lines from 150+ countries, a full REST API, auto-refund on failure, and $0.10 free to start.",
+        "summary": "The problem: platforms like Google and WhatsApp run database lookups to check if a number is SIM-registered with a real mobile carrier, or whether it's an internet-based VoIP line.</p> <p>VoIP numbers fail this check. NumberOTP covers the gaps: private numbers, real non-VoIP SIM-backed lines from 150+ countries, a full REST API, auto-refund on failure, and $0.10 free to start.",
+        "link": "https://dev.to/numberotp/best-quackr-alternatives-for-sms-verification-in-2026-1cbb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-19T08:49:05.000Z",
+        "keywords": [
+          "privacy",
+          "webdev",
+          "tools",
+          "sms",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "privacy",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for privacy",
+          "webdev-ready automation",
+          "Great for privacy"
+        ],
+        "cons": [
+          "Overkill for privacy experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for privacy experiments"
+        ],
+        "highlights": [
+          "NumberOTP covers the gaps: private numbers, real non-VoIP SIM-backed lines from 150+ countries, a full REST API, auto-refund on failure, and $0.10 free to start.",
+          "The problem: platforms like Google and WhatsApp run database lookups to check if a number is SIM-registered with a real mobile carrier, or whether it's an internet-based VoIP line.",
+          "Countries: 180+ API: Yes Non-VoIP: Varies Best for: Volume verifications, emerging markets If Quackr's free shared tier is what you used, these are direct equivalents."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 10,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Track",
+        "slug": "how-i-track",
+        "description": "weekly_review.csv) week,revenue,hours_billed,hours_worked,leads_contacted,proposals_sent,notes 2026-W04,500,8,12,5,2,Finished Acme project 2026-W05,150,4,5,3,1,XYZ milestone Five minutes every Friday. The <code>hours_billed</code> vs <code>hours_worked</code> ratio tells you if you're undercharging.</p> <h2> How I use these in Notion </h2> <p>Notions CSV import creates a database.",
+        "summary": "weekly_review.csv) week,revenue,hours_billed,hours_worked,leads_contacted,proposals_sent,notes 2026-W04,500,8,12,5,2,Finished Acme project 2026-W05,150,4,5,3,1,XYZ milestone Five minutes every Friday. The <code>hours_billed</code> vs <code>hours_worked</code> ratio tells you if you're undercharging.</p> <h2> How I use these in Notion </h2> <p>Notions CSV import creates a database.",
+        "link": "https://dev.to/brad_20095bd4959b60ad2335/how-i-track-all-my-freelance-income-and-clients-with-just-4-csv-files-1a4p",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-19T08:18:51.000Z",
+        "keywords": [
+          "freelancing",
+          "productivity",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "freelancing",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for freelancing",
+          "productivity-ready automation",
+          "Great for freelancing"
+        ],
+        "cons": [
+          "Overkill for freelancing experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for freelancing experiments"
+        ],
+        "highlights": [
+          "The <code>hours_billed</code> vs <code>hours_worked</code> ratio tells you if you're undercharging.</p> <h2> How I use these in Notion </h2> <p>Notions CSV import creates a database.",
+          "I landed on a middle ground: 4 CSV files that sync to Notion and cover 95% of what a freelance business actually needs.",
+          "Curious whether most people are still using spreadsheets or have moved to something else."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built a",
+        "slug": "i-built-a",
+        "description": "If you'd rather have someone else do the research: I offer a $75 custom lead report — 20 companies matching your specific skills, with contact info, tech stack details, and 3-line summaries. Searches all HN hiring threads (2024–2026, 24+ months) Filters by tech stack: Python, Rust, React, etc.",
+        "summary": "If you'd rather have someone else do the research: I offer a $75 custom lead report — 20 companies matching your specific skills, with contact info, tech stack details, and 3-line summaries. Searches all HN hiring threads (2024–2026, 24+ months) Filters by tech stack: Python, Rust, React, etc.",
+        "link": "https://dev.to/brad_20095bd4959b60ad2335/i-built-a-free-tool-to-search-all-hn-who-is-hiring-posts-at-once-10h2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-19T08:18:28.000Z",
+        "keywords": [
+          "showdev",
+          "python",
+          "tools",
+          "jobsearch",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "showdev",
+          "python",
+          "tools"
+        ],
+        "pros": [
+          "Great for showdev",
+          "python-ready automation",
+          "Great for showdev"
+        ],
+        "cons": [
+          "Overkill for showdev experiments",
+          "Needs extra setup for python workflows",
+          "Overkill for showdev experiments"
+        ],
+        "highlights": [
+          "If you'd rather have someone else do the research: I offer a $75 custom lead report — 20 companies matching your specific skills, with contact info, tech stack details, and 3-line summaries.",
+          "Searches all HN hiring threads (2024–2026, 24+ months) Filters by tech stack: Python, Rust, React, etc.",
+          "Useful if you're doing a targeted job search and want a pre-filtered, personalized starting list."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Your fridge could",
+        "slug": "your-fridge-could",
+        "description": "On the floor of HumanX, Ryan is joined by Adam Meyers, Senior VP of Counter Adversary Operations at Crowdstrike, for a deep dive on their latest Global Threat Report that tracks over 281 adversaries across nation states, e-crime, and hacktivist organizations.",
+        "summary": "On the floor of HumanX, Ryan is joined by Adam Meyers, Senior VP of Counter Adversary Operations at Crowdstrike, for a deep dive on their latest Global Threat Report that tracks over 281 adversaries across nation states, e-crime, and hacktivist organizations.",
+        "link": "https://stackoverflow.blog/2026/05/19/your-fridge-could-be-a-threat-to-national-security/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-05-19T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "security",
+          "privacy",
+          "ai"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "My domain got",
+        "slug": "my-domain-got",
+        "description": "Article URL: https://meertens.dev/blog/github-enables-domain-abuse/ Comments URL: https://news.ycombinator.com/item?id=48190348 Points: 16 # Comments: 2",
+        "summary": "Article URL: https://meertens.dev/blog/github-enables-domain-abuse/ Comments URL: https://news.ycombinator.com/item?id=48190348 Points: 16 # Comments: 2",
+        "link": "https://meertens.dev/blog/github-enables-domain-abuse/",
+        "source": "Hacker News",
+        "isoDate": "2026-05-19T07:28:59.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-05-19T08:51:43.719Z",
+    "lastUpdated": "2026-05-19T08:51:43.719Z",
+    "visibleDate": "May 19, 2026",
+    "url": "pages/2026-05-19-085143719-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-05-19-085143719-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      },
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Quackr Alternatives",
+      "How I Track",
+      "I Built a"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Best Quackr Alternatives, How I Track, I Built a. Reliable remote ",
+    "tools": [
+      {
+        "name": "Best Quackr Alternatives",
+        "slug": "best-quackr-alternatives",
+        "description": "The problem: platforms like Google and WhatsApp run database lookups to check if a number is SIM-registered with a real mobile carrier, or whether it's an internet-based VoIP line.</p> <p>VoIP numbers fail this check. NumberOTP covers the gaps: private numbers, real non-VoIP SIM-backed lines from 150+ countries, a full REST API, auto-refund on failure, and $0.10 free to start.",
+        "summary": "The problem: platforms like Google and WhatsApp run database lookups to check if a number is SIM-registered with a real mobile carrier, or whether it's an internet-based VoIP line.</p> <p>VoIP numbers fail this check. NumberOTP covers the gaps: private numbers, real non-VoIP SIM-backed lines from 150+ countries, a full REST API, auto-refund on failure, and $0.10 free to start.",
+        "link": "https://dev.to/numberotp/best-quackr-alternatives-for-sms-verification-in-2026-1cbb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-19T08:49:05.000Z",
+        "keywords": [
+          "privacy",
+          "webdev",
+          "tools",
+          "sms",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "privacy",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for privacy",
+          "webdev-ready automation",
+          "Great for privacy"
+        ],
+        "cons": [
+          "Overkill for privacy experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for privacy experiments"
+        ],
+        "highlights": [
+          "NumberOTP covers the gaps: private numbers, real non-VoIP SIM-backed lines from 150+ countries, a full REST API, auto-refund on failure, and $0.10 free to start.",
+          "The problem: platforms like Google and WhatsApp run database lookups to check if a number is SIM-registered with a real mobile carrier, or whether it's an internet-based VoIP line.",
+          "Countries: 180+ API: Yes Non-VoIP: Varies Best for: Volume verifications, emerging markets If Quackr's free shared tier is what you used, these are direct equivalents."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 10,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Track",
+        "slug": "how-i-track",
+        "description": "weekly_review.csv) week,revenue,hours_billed,hours_worked,leads_contacted,proposals_sent,notes 2026-W04,500,8,12,5,2,Finished Acme project 2026-W05,150,4,5,3,1,XYZ milestone Five minutes every Friday. The <code>hours_billed</code> vs <code>hours_worked</code> ratio tells you if you're undercharging.</p> <h2> How I use these in Notion </h2> <p>Notions CSV import creates a database.",
+        "summary": "weekly_review.csv) week,revenue,hours_billed,hours_worked,leads_contacted,proposals_sent,notes 2026-W04,500,8,12,5,2,Finished Acme project 2026-W05,150,4,5,3,1,XYZ milestone Five minutes every Friday. The <code>hours_billed</code> vs <code>hours_worked</code> ratio tells you if you're undercharging.</p> <h2> How I use these in Notion </h2> <p>Notions CSV import creates a database.",
+        "link": "https://dev.to/brad_20095bd4959b60ad2335/how-i-track-all-my-freelance-income-and-clients-with-just-4-csv-files-1a4p",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-19T08:18:51.000Z",
+        "keywords": [
+          "freelancing",
+          "productivity",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "freelancing",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for freelancing",
+          "productivity-ready automation",
+          "Great for freelancing"
+        ],
+        "cons": [
+          "Overkill for freelancing experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for freelancing experiments"
+        ],
+        "highlights": [
+          "The <code>hours_billed</code> vs <code>hours_worked</code> ratio tells you if you're undercharging.</p> <h2> How I use these in Notion </h2> <p>Notions CSV import creates a database.",
+          "I landed on a middle ground: 4 CSV files that sync to Notion and cover 95% of what a freelance business actually needs.",
+          "Curious whether most people are still using spreadsheets or have moved to something else."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built a",
+        "slug": "i-built-a",
+        "description": "If you'd rather have someone else do the research: I offer a $75 custom lead report — 20 companies matching your specific skills, with contact info, tech stack details, and 3-line summaries. Searches all HN hiring threads (2024–2026, 24+ months) Filters by tech stack: Python, Rust, React, etc.",
+        "summary": "If you'd rather have someone else do the research: I offer a $75 custom lead report — 20 companies matching your specific skills, with contact info, tech stack details, and 3-line summaries. Searches all HN hiring threads (2024–2026, 24+ months) Filters by tech stack: Python, Rust, React, etc.",
+        "link": "https://dev.to/brad_20095bd4959b60ad2335/i-built-a-free-tool-to-search-all-hn-who-is-hiring-posts-at-once-10h2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-19T08:18:28.000Z",
+        "keywords": [
+          "showdev",
+          "python",
+          "tools",
+          "jobsearch",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "showdev",
+          "python",
+          "tools"
+        ],
+        "pros": [
+          "Great for showdev",
+          "python-ready automation",
+          "Great for showdev"
+        ],
+        "cons": [
+          "Overkill for showdev experiments",
+          "Needs extra setup for python workflows",
+          "Overkill for showdev experiments"
+        ],
+        "highlights": [
+          "If you'd rather have someone else do the research: I offer a $75 custom lead report — 20 companies matching your specific skills, with contact info, tech stack details, and 3-line summaries.",
+          "Searches all HN hiring threads (2024–2026, 24+ months) Filters by tech stack: Python, Rust, React, etc.",
+          "Useful if you're doing a targeted job search and want a pre-filtered, personalized starting list."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Your fridge could",
+        "slug": "your-fridge-could",
+        "description": "On the floor of HumanX, Ryan is joined by Adam Meyers, Senior VP of Counter Adversary Operations at Crowdstrike, for a deep dive on their latest Global Threat Report that tracks over 281 adversaries across nation states, e-crime, and hacktivist organizations.",
+        "summary": "On the floor of HumanX, Ryan is joined by Adam Meyers, Senior VP of Counter Adversary Operations at Crowdstrike, for a deep dive on their latest Global Threat Report that tracks over 281 adversaries across nation states, e-crime, and hacktivist organizations.",
+        "link": "https://stackoverflow.blog/2026/05/19/your-fridge-could-be-a-threat-to-national-security/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-05-19T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "security",
+          "privacy",
+          "ai"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-05-19T08:51:43.719Z",
+    "lastUpdated": "2026-05-19T08:51:43.719Z",
+    "visibleDate": "May 19, 2026",
+    "url": "pages/2026-05-19-085143719-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-05-19-085143719-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      },
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Quackr Alternatives",
+      "How I Track"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Best Quackr Alternatives, How I Track. Gitpod bri",
+    "tools": [
+      {
+        "name": "Best Quackr Alternatives",
+        "slug": "best-quackr-alternatives",
+        "description": "The problem: platforms like Google and WhatsApp run database lookups to check if a number is SIM-registered with a real mobile carrier, or whether it's an internet-based VoIP line.</p> <p>VoIP numbers fail this check. NumberOTP covers the gaps: private numbers, real non-VoIP SIM-backed lines from 150+ countries, a full REST API, auto-refund on failure, and $0.10 free to start.",
+        "summary": "The problem: platforms like Google and WhatsApp run database lookups to check if a number is SIM-registered with a real mobile carrier, or whether it's an internet-based VoIP line.</p> <p>VoIP numbers fail this check. NumberOTP covers the gaps: private numbers, real non-VoIP SIM-backed lines from 150+ countries, a full REST API, auto-refund on failure, and $0.10 free to start.",
+        "link": "https://dev.to/numberotp/best-quackr-alternatives-for-sms-verification-in-2026-1cbb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-19T08:49:05.000Z",
+        "keywords": [
+          "privacy",
+          "webdev",
+          "tools",
+          "sms",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "privacy",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for privacy",
+          "webdev-ready automation",
+          "Great for privacy"
+        ],
+        "cons": [
+          "Overkill for privacy experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for privacy experiments"
+        ],
+        "highlights": [
+          "NumberOTP covers the gaps: private numbers, real non-VoIP SIM-backed lines from 150+ countries, a full REST API, auto-refund on failure, and $0.10 free to start.",
+          "The problem: platforms like Google and WhatsApp run database lookups to check if a number is SIM-registered with a real mobile carrier, or whether it's an internet-based VoIP line.",
+          "Countries: 180+ API: Yes Non-VoIP: Varies Best for: Volume verifications, emerging markets If Quackr's free shared tier is what you used, these are direct equivalents."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 10,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Track",
+        "slug": "how-i-track",
+        "description": "weekly_review.csv) week,revenue,hours_billed,hours_worked,leads_contacted,proposals_sent,notes 2026-W04,500,8,12,5,2,Finished Acme project 2026-W05,150,4,5,3,1,XYZ milestone Five minutes every Friday. The <code>hours_billed</code> vs <code>hours_worked</code> ratio tells you if you're undercharging.</p> <h2> How I use these in Notion </h2> <p>Notions CSV import creates a database.",
+        "summary": "weekly_review.csv) week,revenue,hours_billed,hours_worked,leads_contacted,proposals_sent,notes 2026-W04,500,8,12,5,2,Finished Acme project 2026-W05,150,4,5,3,1,XYZ milestone Five minutes every Friday. The <code>hours_billed</code> vs <code>hours_worked</code> ratio tells you if you're undercharging.</p> <h2> How I use these in Notion </h2> <p>Notions CSV import creates a database.",
+        "link": "https://dev.to/brad_20095bd4959b60ad2335/how-i-track-all-my-freelance-income-and-clients-with-just-4-csv-files-1a4p",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-19T08:18:51.000Z",
+        "keywords": [
+          "freelancing",
+          "productivity",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "freelancing",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for freelancing",
+          "productivity-ready automation",
+          "Great for freelancing"
+        ],
+        "cons": [
+          "Overkill for freelancing experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for freelancing experiments"
+        ],
+        "highlights": [
+          "The <code>hours_billed</code> vs <code>hours_worked</code> ratio tells you if you're undercharging.</p> <h2> How I use these in Notion </h2> <p>Notions CSV import creates a database.",
+          "I landed on a middle ground: 4 CSV files that sync to Notion and cover 95% of what a freelance business actually needs.",
+          "Curious whether most people are still using spreadsheets or have moved to something else."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-05-19T08:51:43.719Z",
+    "lastUpdated": "2026-05-19T08:51:43.719Z",
+    "visibleDate": "May 19, 2026",
+    "url": "pages/2026-05-19-085143719-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-05-19-085143719-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      },
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Quackr Alternatives",
+      "How I Track",
+      "I Built a"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Best Quackr Alternatives, How I Track, I Built a. New launches that are ",
+    "tools": [
+      {
+        "name": "Best Quackr Alternatives",
+        "slug": "best-quackr-alternatives",
+        "description": "The problem: platforms like Google and WhatsApp run database lookups to check if a number is SIM-registered with a real mobile carrier, or whether it's an internet-based VoIP line.</p> <p>VoIP numbers fail this check. NumberOTP covers the gaps: private numbers, real non-VoIP SIM-backed lines from 150+ countries, a full REST API, auto-refund on failure, and $0.10 free to start.",
+        "summary": "The problem: platforms like Google and WhatsApp run database lookups to check if a number is SIM-registered with a real mobile carrier, or whether it's an internet-based VoIP line.</p> <p>VoIP numbers fail this check. NumberOTP covers the gaps: private numbers, real non-VoIP SIM-backed lines from 150+ countries, a full REST API, auto-refund on failure, and $0.10 free to start.",
+        "link": "https://dev.to/numberotp/best-quackr-alternatives-for-sms-verification-in-2026-1cbb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-19T08:49:05.000Z",
+        "keywords": [
+          "privacy",
+          "webdev",
+          "tools",
+          "sms",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "privacy",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for privacy",
+          "webdev-ready automation",
+          "Great for privacy"
+        ],
+        "cons": [
+          "Overkill for privacy experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for privacy experiments"
+        ],
+        "highlights": [
+          "NumberOTP covers the gaps: private numbers, real non-VoIP SIM-backed lines from 150+ countries, a full REST API, auto-refund on failure, and $0.10 free to start.",
+          "The problem: platforms like Google and WhatsApp run database lookups to check if a number is SIM-registered with a real mobile carrier, or whether it's an internet-based VoIP line.",
+          "Countries: 180+ API: Yes Non-VoIP: Varies Best for: Volume verifications, emerging markets If Quackr's free shared tier is what you used, these are direct equivalents."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 10,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Track",
+        "slug": "how-i-track",
+        "description": "weekly_review.csv) week,revenue,hours_billed,hours_worked,leads_contacted,proposals_sent,notes 2026-W04,500,8,12,5,2,Finished Acme project 2026-W05,150,4,5,3,1,XYZ milestone Five minutes every Friday. The <code>hours_billed</code> vs <code>hours_worked</code> ratio tells you if you're undercharging.</p> <h2> How I use these in Notion </h2> <p>Notions CSV import creates a database.",
+        "summary": "weekly_review.csv) week,revenue,hours_billed,hours_worked,leads_contacted,proposals_sent,notes 2026-W04,500,8,12,5,2,Finished Acme project 2026-W05,150,4,5,3,1,XYZ milestone Five minutes every Friday. The <code>hours_billed</code> vs <code>hours_worked</code> ratio tells you if you're undercharging.</p> <h2> How I use these in Notion </h2> <p>Notions CSV import creates a database.",
+        "link": "https://dev.to/brad_20095bd4959b60ad2335/how-i-track-all-my-freelance-income-and-clients-with-just-4-csv-files-1a4p",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-19T08:18:51.000Z",
+        "keywords": [
+          "freelancing",
+          "productivity",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "freelancing",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for freelancing",
+          "productivity-ready automation",
+          "Great for freelancing"
+        ],
+        "cons": [
+          "Overkill for freelancing experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for freelancing experiments"
+        ],
+        "highlights": [
+          "The <code>hours_billed</code> vs <code>hours_worked</code> ratio tells you if you're undercharging.</p> <h2> How I use these in Notion </h2> <p>Notions CSV import creates a database.",
+          "I landed on a middle ground: 4 CSV files that sync to Notion and cover 95% of what a freelance business actually needs.",
+          "Curious whether most people are still using spreadsheets or have moved to something else."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built a",
+        "slug": "i-built-a",
+        "description": "If you'd rather have someone else do the research: I offer a $75 custom lead report — 20 companies matching your specific skills, with contact info, tech stack details, and 3-line summaries. Searches all HN hiring threads (2024–2026, 24+ months) Filters by tech stack: Python, Rust, React, etc.",
+        "summary": "If you'd rather have someone else do the research: I offer a $75 custom lead report — 20 companies matching your specific skills, with contact info, tech stack details, and 3-line summaries. Searches all HN hiring threads (2024–2026, 24+ months) Filters by tech stack: Python, Rust, React, etc.",
+        "link": "https://dev.to/brad_20095bd4959b60ad2335/i-built-a-free-tool-to-search-all-hn-who-is-hiring-posts-at-once-10h2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-19T08:18:28.000Z",
+        "keywords": [
+          "showdev",
+          "python",
+          "tools",
+          "jobsearch",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "showdev",
+          "python",
+          "tools"
+        ],
+        "pros": [
+          "Great for showdev",
+          "python-ready automation",
+          "Great for showdev"
+        ],
+        "cons": [
+          "Overkill for showdev experiments",
+          "Needs extra setup for python workflows",
+          "Overkill for showdev experiments"
+        ],
+        "highlights": [
+          "If you'd rather have someone else do the research: I offer a $75 custom lead report — 20 companies matching your specific skills, with contact info, tech stack details, and 3-line summaries.",
+          "Searches all HN hiring threads (2024–2026, 24+ months) Filters by tech stack: Python, Rust, React, etc.",
+          "Useful if you're doing a targeted job search and want a pre-filtered, personalized starting list."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-05-18T09:30:56.603Z",
     "lastUpdated": "2026-05-18T09:30:56.603Z",
     "visibleDate": "May 18, 2026",

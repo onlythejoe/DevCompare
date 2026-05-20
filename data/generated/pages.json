@@ -7,6 +7,691 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-05-20T08:46:59.987Z",
+    "lastUpdated": "2026-05-20T08:46:59.987Z",
+    "visibleDate": "May 20, 2026",
+    "url": "pages/2026-05-20-084659987-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-05-20-084659987-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I Used 5",
+      "Vibe Coding Actually Changed How I Write Features",
+      "I Spent $50"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include I Used 5, Vibe Coding Actually Changed How I Write Features, I Spent $50. ",
+    "tools": [
+      {
+        "name": "I Used 5",
+        "slug": "i-used-5",
+        "description": "Here's what happened.</em></p> <h2> The Test </h2> <p>I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.</p> <p>Same brief. I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.",
+        "summary": "Here's what happened.</em></p> <h2> The Test </h2> <p>I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.</p> <p>Same brief. I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.",
+        "link": "https://dev.to/zny10289/i-used-5-ai-writing-tools-for-a-week-only-one-was-worth-paying-for-14g4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-20T08:00:10.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "writing",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.",
+          "ChatGPT (Free tier) — GPT-4o Claude (Free tier) — Claude 3.5 Sonnet Gemini Advanced — $20/month Jasper — $49/month Writesonic — $19/month Speed: Fast The free tier covers most use cases.",
+          "For those creating content around developer tools, Frase.io offers content research that complements AI writing — understanding what questions your audience is asking before you write a word."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Vibe Coding Actually Changed How I Write Features",
+        "slug": "vibe-coding-actually-changed-how-i-write-features",
+        "description": "Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone. Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone.",
+        "summary": "Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone. Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone.",
+        "link": "https://dev.to/ericwoooo_kr/vibe-coding-actually-changed-how-i-write-features-heres-what-that-looks-like-day-to-day-4gcf",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-20T07:56:13.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "But the moment you ask it to refactor a 300-line server action, extract a custom hook from tangled component state, or rewrite your API layer to use a new pattern — switch to claude-3-5-sonnet.",
+          "# Fast scaffold: new route + basic tests in one shot # Works well because the expected structure is narrow and reviewable prompt: \"Generate an Express router for GET /users/:id and POST /users.",
+          "Security blind spots are the scariest part: I've seen AI-generated API routes that skip auth checks because the prompt didn't explicitly mention them, and the code passes a casual review."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Spent $50",
+        "slug": "i-spent-50",
+        "description": "For categorization and extraction, I switched to: Ollama + Llama 3.2 for self-hosted inference Groq API (free tier) for production Both handle simple structured extraction tasks at near-zero cost. The features I was using weren't complex: User name extraction Email subject generation Simple categorization I was calling GPT-4o mini for everything because it was \"cheap enough.\" But it added up.",
+        "summary": "For categorization and extraction, I switched to: Ollama + Llama 3.2 for self-hosted inference Groq API (free tier) for production Both handle simple structured extraction tasks at near-zero cost. The features I was using weren't complex: User name extraction Email subject generation Simple categorization I was calling GPT-4o mini for everything because it was \"cheap enough.\" But it added up.",
+        "link": "https://dev.to/zny10289/i-spent-50-on-llm-api-calls-then-optimized-to-0-487c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-20T07:50:04.000Z",
+        "keywords": [
+          "programming",
+          "ai",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "ai",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "ai-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "For categorization and extraction, I switched to: Ollama + Llama 3.2 for self-hosted inference Groq API (free tier) for production Both handle simple structured extraction tasks at near-zero cost.",
+          "The features I was using weren't complex: User name extraction Email subject generation Simple categorization I was calling GPT-4o mini for everything because it was \"cheap enough.\" But it added up.",
+          "</h1> <p><em>The real cost of AI features isn't the subscription — it's the prompts you haven't optimized yet.</em></p> <h2> The $50 Month </h2> <p>Two months ago, my OpenAI API bill hit $50."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Stop Drowning in Console Noise",
+        "slug": "stop-drowning-in-console-noise",
+        "description": "A real Next.js app with Segment analytics, Intercom's chat widget, and a lazy-loaded Google Maps SDK will dump somewhere between 150 and 300 console lines on a cold page load before your user has clicked a single thing. A real Next.js app with Segment analytics, Intercom's chat widget, and a lazy-loaded Google Maps SDK will dump somewhere between 150 and 300 console lines on a cold page load before your user has clicked a single thing.",
+        "summary": "A real Next.js app with Segment analytics, Intercom's chat widget, and a lazy-loaded Google Maps SDK will dump somewhere between 150 and 300 console lines on a cold page load before your user has clicked a single thing. A real Next.js app with Segment analytics, Intercom's chat widget, and a lazy-loaded Google Maps SDK will dump somewhere between 150 and 300 console lines on a cold page load before your user has clicked a single thing.",
+        "link": "https://dev.to/ericwoooo_kr/stop-drowning-in-console-noise-using-negative-regex-filters-in-chrome-devtools-5m4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-20T07:45:38.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The thing that caught me off guard the first time was that Chrome applies the filter against the full text content of the log entry, including the filename and line number shown on the right side.",
+          "This is genuinely useful: I'll often flip to Errors-only during a debugging session and still have my noise filter active so that a third-party script's thrown-but-caught errors don't crowd out mine.",
+          "The thing that caught me off guard the first time was that Chrome applies the filter against the full text content of the log entry, including the filename and line number shown on the right side."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Tried to",
+        "slug": "i-tried-to",
+        "description": "Setting up LSP, DAP, plugins, and a sane UI took a full weekend.</p> <p><strong>Verdict:</strong> Powerful but requires commitment.</p> <h2> Week 2: Zed </h2> <p>Zed is fast. Modal editing (Normal/Insert/Visual modes) feels stupid for the first three days.</p> <p>By day five, I understood why people swear by it.",
+        "summary": "Setting up LSP, DAP, plugins, and a sane UI took a full weekend.</p> <p><strong>Verdict:</strong> Powerful but requires commitment.</p> <h2> Week 2: Zed </h2> <p>Zed is fast. Modal editing (Normal/Insert/Visual modes) feels stupid for the first three days.</p> <p>By day five, I understood why people swear by it.",
+        "link": "https://dev.to/zny10289/i-tried-to-quit-vs-code-for-30-days-heres-what-actually-happened-19h2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-20T07:40:14.000Z",
+        "keywords": [
+          "programming",
+          "tools",
+          "vscode",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "tools",
+          "vscode"
+        ],
+        "pros": [
+          "Great for programming",
+          "tools-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Modal editing (Normal/Insert/Visual modes) feels stupid for the first three days.</p> <p>By day five, I understood why people swear by it.",
+          "Setting up LSP, DAP, plugins, and a sane UI took a full weekend.</p> <p><strong>Verdict:</strong> Powerful but requires commitment.</p> <h2> Week 2: Zed </h2> <p>Zed is fast.",
+          "You're more likely to hit dead ends.</p> <p><strong>Verdict:</strong> Best editing experience, worst ecosystem.</p> <h2> Week 4: Back to VS Code </h2> <p>I went back."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-05-20T08:46:59.987Z",
+    "lastUpdated": "2026-05-20T08:46:59.987Z",
+    "visibleDate": "May 20, 2026",
+    "url": "pages/2026-05-20-084659987-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-05-20-084659987-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I Used 5",
+      "Vibe Coding Actually Changed How I Write Features",
+      "I Spent $50"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include I Used 5, Vibe Coding Actually Changed How I Write Features, I Spe",
+    "tools": [
+      {
+        "name": "I Used 5",
+        "slug": "i-used-5",
+        "description": "Here's what happened.</em></p> <h2> The Test </h2> <p>I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.</p> <p>Same brief. I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.",
+        "summary": "Here's what happened.</em></p> <h2> The Test </h2> <p>I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.</p> <p>Same brief. I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.",
+        "link": "https://dev.to/zny10289/i-used-5-ai-writing-tools-for-a-week-only-one-was-worth-paying-for-14g4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-20T08:00:10.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "writing",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.",
+          "ChatGPT (Free tier) — GPT-4o Claude (Free tier) — Claude 3.5 Sonnet Gemini Advanced — $20/month Jasper — $49/month Writesonic — $19/month Speed: Fast The free tier covers most use cases.",
+          "For those creating content around developer tools, Frase.io offers content research that complements AI writing — understanding what questions your audience is asking before you write a word."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Vibe Coding Actually Changed How I Write Features",
+        "slug": "vibe-coding-actually-changed-how-i-write-features",
+        "description": "Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone. Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone.",
+        "summary": "Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone. Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone.",
+        "link": "https://dev.to/ericwoooo_kr/vibe-coding-actually-changed-how-i-write-features-heres-what-that-looks-like-day-to-day-4gcf",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-20T07:56:13.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "But the moment you ask it to refactor a 300-line server action, extract a custom hook from tangled component state, or rewrite your API layer to use a new pattern — switch to claude-3-5-sonnet.",
+          "# Fast scaffold: new route + basic tests in one shot # Works well because the expected structure is narrow and reviewable prompt: \"Generate an Express router for GET /users/:id and POST /users.",
+          "Security blind spots are the scariest part: I've seen AI-generated API routes that skip auth checks because the prompt didn't explicitly mention them, and the code passes a casual review."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Spent $50",
+        "slug": "i-spent-50",
+        "description": "For categorization and extraction, I switched to: Ollama + Llama 3.2 for self-hosted inference Groq API (free tier) for production Both handle simple structured extraction tasks at near-zero cost. The features I was using weren't complex: User name extraction Email subject generation Simple categorization I was calling GPT-4o mini for everything because it was \"cheap enough.\" But it added up.",
+        "summary": "For categorization and extraction, I switched to: Ollama + Llama 3.2 for self-hosted inference Groq API (free tier) for production Both handle simple structured extraction tasks at near-zero cost. The features I was using weren't complex: User name extraction Email subject generation Simple categorization I was calling GPT-4o mini for everything because it was \"cheap enough.\" But it added up.",
+        "link": "https://dev.to/zny10289/i-spent-50-on-llm-api-calls-then-optimized-to-0-487c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-20T07:50:04.000Z",
+        "keywords": [
+          "programming",
+          "ai",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "ai",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "ai-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "For categorization and extraction, I switched to: Ollama + Llama 3.2 for self-hosted inference Groq API (free tier) for production Both handle simple structured extraction tasks at near-zero cost.",
+          "The features I was using weren't complex: User name extraction Email subject generation Simple categorization I was calling GPT-4o mini for everything because it was \"cheap enough.\" But it added up.",
+          "</h1> <p><em>The real cost of AI features isn't the subscription — it's the prompts you haven't optimized yet.</em></p> <h2> The $50 Month </h2> <p>Two months ago, my OpenAI API bill hit $50."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Stop Drowning in Console Noise",
+        "slug": "stop-drowning-in-console-noise",
+        "description": "A real Next.js app with Segment analytics, Intercom's chat widget, and a lazy-loaded Google Maps SDK will dump somewhere between 150 and 300 console lines on a cold page load before your user has clicked a single thing. A real Next.js app with Segment analytics, Intercom's chat widget, and a lazy-loaded Google Maps SDK will dump somewhere between 150 and 300 console lines on a cold page load before your user has clicked a single thing.",
+        "summary": "A real Next.js app with Segment analytics, Intercom's chat widget, and a lazy-loaded Google Maps SDK will dump somewhere between 150 and 300 console lines on a cold page load before your user has clicked a single thing. A real Next.js app with Segment analytics, Intercom's chat widget, and a lazy-loaded Google Maps SDK will dump somewhere between 150 and 300 console lines on a cold page load before your user has clicked a single thing.",
+        "link": "https://dev.to/ericwoooo_kr/stop-drowning-in-console-noise-using-negative-regex-filters-in-chrome-devtools-5m4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-20T07:45:38.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The thing that caught me off guard the first time was that Chrome applies the filter against the full text content of the log entry, including the filename and line number shown on the right side.",
+          "This is genuinely useful: I'll often flip to Errors-only during a debugging session and still have my noise filter active so that a third-party script's thrown-but-caught errors don't crowd out mine.",
+          "The thing that caught me off guard the first time was that Chrome applies the filter against the full text content of the log entry, including the filename and line number shown on the right side."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-05-20T08:46:59.987Z",
+    "lastUpdated": "2026-05-20T08:46:59.987Z",
+    "visibleDate": "May 20, 2026",
+    "url": "pages/2026-05-20-084659987-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-05-20-084659987-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I Used 5",
+      "Vibe Coding Actually Changed How I Write Features"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include I Used 5, Vibe Coding Actually Changed How I Writ",
+    "tools": [
+      {
+        "name": "I Used 5",
+        "slug": "i-used-5",
+        "description": "Here's what happened.</em></p> <h2> The Test </h2> <p>I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.</p> <p>Same brief. I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.",
+        "summary": "Here's what happened.</em></p> <h2> The Test </h2> <p>I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.</p> <p>Same brief. I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.",
+        "link": "https://dev.to/zny10289/i-used-5-ai-writing-tools-for-a-week-only-one-was-worth-paying-for-14g4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-20T08:00:10.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "writing",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.",
+          "ChatGPT (Free tier) — GPT-4o Claude (Free tier) — Claude 3.5 Sonnet Gemini Advanced — $20/month Jasper — $49/month Writesonic — $19/month Speed: Fast The free tier covers most use cases.",
+          "For those creating content around developer tools, Frase.io offers content research that complements AI writing — understanding what questions your audience is asking before you write a word."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Vibe Coding Actually Changed How I Write Features",
+        "slug": "vibe-coding-actually-changed-how-i-write-features",
+        "description": "Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone. Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone.",
+        "summary": "Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone. Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone.",
+        "link": "https://dev.to/ericwoooo_kr/vibe-coding-actually-changed-how-i-write-features-heres-what-that-looks-like-day-to-day-4gcf",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-20T07:56:13.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "But the moment you ask it to refactor a 300-line server action, extract a custom hook from tangled component state, or rewrite your API layer to use a new pattern — switch to claude-3-5-sonnet.",
+          "# Fast scaffold: new route + basic tests in one shot # Works well because the expected structure is narrow and reviewable prompt: \"Generate an Express router for GET /users/:id and POST /users.",
+          "Security blind spots are the scariest part: I've seen AI-generated API routes that skip auth checks because the prompt didn't explicitly mention them, and the code passes a casual review."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-05-20T08:46:59.987Z",
+    "lastUpdated": "2026-05-20T08:46:59.987Z",
+    "visibleDate": "May 20, 2026",
+    "url": "pages/2026-05-20-084659987-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-05-20-084659987-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I Used 5",
+      "Vibe Coding Actually Changed How I Write Features",
+      "I Spent $50"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include I Used 5, Vibe Coding Actually Changed How I Write Features, I Spent $50",
+    "tools": [
+      {
+        "name": "I Used 5",
+        "slug": "i-used-5",
+        "description": "Here's what happened.</em></p> <h2> The Test </h2> <p>I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.</p> <p>Same brief. I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.",
+        "summary": "Here's what happened.</em></p> <h2> The Test </h2> <p>I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.</p> <p>Same brief. I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.",
+        "link": "https://dev.to/zny10289/i-used-5-ai-writing-tools-for-a-week-only-one-was-worth-paying-for-14g4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-20T08:00:10.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "productivity",
+          "writing",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "I gave each tool the same task: write a 1,000-word technical blog post about web performance optimization, targeting mid-level developers.",
+          "ChatGPT (Free tier) — GPT-4o Claude (Free tier) — Claude 3.5 Sonnet Gemini Advanced — $20/month Jasper — $49/month Writesonic — $19/month Speed: Fast The free tier covers most use cases.",
+          "For those creating content around developer tools, Frase.io offers content research that complements AI writing — understanding what questions your audience is asking before you write a word."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Vibe Coding Actually Changed How I Write Features",
+        "slug": "vibe-coding-actually-changed-how-i-write-features",
+        "description": "Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone. Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone.",
+        "summary": "Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone. Anything touching payment processing: Stripe's API is well-documented enough that the generated code often works — right up until it doesn't handle a webhook idempotency edge case and you double-charge someone.",
+        "link": "https://dev.to/ericwoooo_kr/vibe-coding-actually-changed-how-i-write-features-heres-what-that-looks-like-day-to-day-4gcf",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-20T07:56:13.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "But the moment you ask it to refactor a 300-line server action, extract a custom hook from tangled component state, or rewrite your API layer to use a new pattern — switch to claude-3-5-sonnet.",
+          "# Fast scaffold: new route + basic tests in one shot # Works well because the expected structure is narrow and reviewable prompt: \"Generate an Express router for GET /users/:id and POST /users.",
+          "Security blind spots are the scariest part: I've seen AI-generated API routes that skip auth checks because the prompt didn't explicitly mention them, and the code passes a casual review."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Spent $50",
+        "slug": "i-spent-50",
+        "description": "For categorization and extraction, I switched to: Ollama + Llama 3.2 for self-hosted inference Groq API (free tier) for production Both handle simple structured extraction tasks at near-zero cost. The features I was using weren't complex: User name extraction Email subject generation Simple categorization I was calling GPT-4o mini for everything because it was \"cheap enough.\" But it added up.",
+        "summary": "For categorization and extraction, I switched to: Ollama + Llama 3.2 for self-hosted inference Groq API (free tier) for production Both handle simple structured extraction tasks at near-zero cost. The features I was using weren't complex: User name extraction Email subject generation Simple categorization I was calling GPT-4o mini for everything because it was \"cheap enough.\" But it added up.",
+        "link": "https://dev.to/zny10289/i-spent-50-on-llm-api-calls-then-optimized-to-0-487c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-20T07:50:04.000Z",
+        "keywords": [
+          "programming",
+          "ai",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "ai",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "ai-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "For categorization and extraction, I switched to: Ollama + Llama 3.2 for self-hosted inference Groq API (free tier) for production Both handle simple structured extraction tasks at near-zero cost.",
+          "The features I was using weren't complex: User name extraction Email subject generation Simple categorization I was calling GPT-4o mini for everything because it was \"cheap enough.\" But it added up.",
+          "</h1> <p><em>The real cost of AI features isn't the subscription — it's the prompts you haven't optimized yet.</em></p> <h2> The $50 Month </h2> <p>Two months ago, my OpenAI API bill hit $50."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-05-19T08:51:43.719Z",
     "lastUpdated": "2026-05-19T08:51:43.719Z",
     "visibleDate": "May 19, 2026",

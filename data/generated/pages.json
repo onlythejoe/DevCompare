@@ -7,6 +7,683 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-05-21T08:49:17.710Z",
+    "lastUpdated": "2026-05-21T08:49:17.710Z",
+    "visibleDate": "May 21, 2026",
+    "url": "pages/2026-05-21-084917710-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-05-21-084917710-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "AI Tools in Manufacturing",
+      "Best Free Browser-Based",
+      "Evaluating Generative AI"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include AI Tools in Manufacturing, Best Free Browser-Based, Evaluating Generative ",
+    "tools": [
+      {
+        "name": "AI Tools in Manufacturing",
+        "slug": "ai-tools-in-manufacturing",
+        "description": "Let's break down some of the leading AI tools available: Pros: Extensive IoT integration, strong analytics capabilities, and robust security protocols. Comparing AI Tools for Manufacturing: An In-depth Analysis Artificial Intelligence is reshaping the manufacturing landscape, but choosing the right tools is essential for maximizing benefits.",
+        "summary": "Let's break down some of the leading AI tools available: Pros: Extensive IoT integration, strong analytics capabilities, and robust security protocols. Comparing AI Tools for Manufacturing: An In-depth Analysis Artificial Intelligence is reshaping the manufacturing landscape, but choosing the right tools is essential for maximizing benefits.",
+        "link": "https://dev.to/dorjamie/ai-tools-in-manufacturing-compare-and-contrast-approaches-338f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-21T08:18:10.000Z",
+        "keywords": [
+          "manufacturing",
+          "ai",
+          "tools",
+          "comparison",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "manufacturing",
+          "ai",
+          "tools"
+        ],
+        "pros": [
+          "Great for manufacturing",
+          "ai-ready automation",
+          "Great for manufacturing"
+        ],
+        "cons": [
+          "Overkill for manufacturing experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for manufacturing experiments"
+        ],
+        "highlights": [
+          "Let's break down some of the leading AI tools available: Pros: Extensive IoT integration, strong analytics capabilities, and robust security protocols.",
+          "Comparing AI Tools for Manufacturing: An In-depth Analysis Artificial Intelligence is reshaping the manufacturing landscape, but choosing the right tools is essential for maximizing benefits.",
+          "Businesses that invest in GenAI Financial Operations will ensure robust financial management and operational sustainability in today's competitive landscape."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best Free Browser-Based",
+        "slug": "best-free-browser-based",
+        "description": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "summary": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "link": "https://dev.to/liaopengdong/best-free-browser-based-pdf-tools-for-quick-checks-403l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-21T08:10:05.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "webdev",
+          "opensource",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+          "PDF Tools is a free collection for merge, split, convert, compress, rotate, watermark, and edit PDF files.",
+          "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Evaluating Generative AI",
+        "slug": "evaluating-generative-ai",
+        "description": "Generative AI Deployment Strategy: Approaches and Tools for Manufacturers In the evolving landscape of modern intelligent manufacturing, companies are exploring various approaches to implement generative AI. Choosing the right Generative AI Deployment Strategy can be a daunting task as different strategies yield distinct advantages and disadvantages.",
+        "summary": "Generative AI Deployment Strategy: Approaches and Tools for Manufacturers In the evolving landscape of modern intelligent manufacturing, companies are exploring various approaches to implement generative AI. Choosing the right Generative AI Deployment Strategy can be a daunting task as different strategies yield distinct advantages and disadvantages.",
+        "link": "https://dev.to/dorjamie/evaluating-generative-ai-deployment-strategy-approaches-for-manufacturers-27lb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-21T08:02:53.000Z",
+        "keywords": [
+          "comparison",
+          "ai",
+          "manufacturing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "comparison",
+          "ai",
+          "manufacturing"
+        ],
+        "pros": [
+          "Great for comparison",
+          "ai-ready automation",
+          "Great for comparison"
+        ],
+        "cons": [
+          "Overkill for comparison experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for comparison experiments"
+        ],
+        "highlights": [
+          "Choosing the right Generative AI Deployment Strategy can be a daunting task as different strategies yield distinct advantages and disadvantages.",
+          "Let’s compare two prevalent approaches: custom AI development versus leveraging pre-built AI solutions.",
+          "Consider collaboration with AI solution development experts who can help tailor the solution or identify the right pre-built tools."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Typewise (YC S22)",
+        "slug": "typewise-yc-s22",
+        "description": "Article URL: https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer Comments URL: https://news.ycombinator.com/item?id=48219340 Points: 0 # Comments: 0",
+        "summary": "Article URL: https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer Comments URL: https://news.ycombinator.com/item?id=48219340 Points: 0 # Comments: 0",
+        "link": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
+        "source": "Hacker News",
+        "isoDate": "2026-05-21T08:01:53.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Stackless Coroutines in ~200 Lines of C++",
+        "slug": "stackless-coroutines-in-200-lines-of-c",
+        "description": "One non-obvious thing: coroutines spawned during scheduler.update() — say, an NPC death spawns a loot-drop coroutine — won't execute until the next tick. One non-obvious thing: coroutines spawned during scheduler.update() — say, an NPC death spawns a loot-drop coroutine — won't execute until the next tick.",
+        "summary": "One non-obvious thing: coroutines spawned during scheduler.update() — say, an NPC death spawns a loot-drop coroutine — won't execute until the next tick. One non-obvious thing: coroutines spawned during scheduler.update() — say, an NPC death spawns a loot-drop coroutine — won't execute until the next tick.",
+        "link": "https://dev.to/ericwoooo_kr/stackless-coroutines-in-200-lines-of-c-how-i-manage-game-state-without-the-headaches-3hfh",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-21T07:57:17.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "One non-obvious thing: coroutines spawned during scheduler.update() — say, an NPC death spawns a loot-drop coroutine — won't execute until the next tick.",
+          "One non-obvious thing: coroutines spawned during scheduler.update() — say, an NPC death spawns a loot-drop coroutine — won't execute until the next tick.",
+          "The cognitive overhead of explaining to a mid-level dev why their coroutine needs a promise type with specific return behavior before they can just write co_await Wait(2.0f) is genuinely high."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-05-21T08:49:17.710Z",
+    "lastUpdated": "2026-05-21T08:49:17.710Z",
+    "visibleDate": "May 21, 2026",
+    "url": "pages/2026-05-21-084917710-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-05-21-084917710-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "AI Tools in Manufacturing",
+      "Best Free Browser-Based",
+      "Evaluating Generative AI"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include AI Tools in Manufacturing, Best Free Browser-Based, Evaluating Gen",
+    "tools": [
+      {
+        "name": "AI Tools in Manufacturing",
+        "slug": "ai-tools-in-manufacturing",
+        "description": "Let's break down some of the leading AI tools available: Pros: Extensive IoT integration, strong analytics capabilities, and robust security protocols. Comparing AI Tools for Manufacturing: An In-depth Analysis Artificial Intelligence is reshaping the manufacturing landscape, but choosing the right tools is essential for maximizing benefits.",
+        "summary": "Let's break down some of the leading AI tools available: Pros: Extensive IoT integration, strong analytics capabilities, and robust security protocols. Comparing AI Tools for Manufacturing: An In-depth Analysis Artificial Intelligence is reshaping the manufacturing landscape, but choosing the right tools is essential for maximizing benefits.",
+        "link": "https://dev.to/dorjamie/ai-tools-in-manufacturing-compare-and-contrast-approaches-338f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-21T08:18:10.000Z",
+        "keywords": [
+          "manufacturing",
+          "ai",
+          "tools",
+          "comparison",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "manufacturing",
+          "ai",
+          "tools"
+        ],
+        "pros": [
+          "Great for manufacturing",
+          "ai-ready automation",
+          "Great for manufacturing"
+        ],
+        "cons": [
+          "Overkill for manufacturing experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for manufacturing experiments"
+        ],
+        "highlights": [
+          "Let's break down some of the leading AI tools available: Pros: Extensive IoT integration, strong analytics capabilities, and robust security protocols.",
+          "Comparing AI Tools for Manufacturing: An In-depth Analysis Artificial Intelligence is reshaping the manufacturing landscape, but choosing the right tools is essential for maximizing benefits.",
+          "Businesses that invest in GenAI Financial Operations will ensure robust financial management and operational sustainability in today's competitive landscape."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best Free Browser-Based",
+        "slug": "best-free-browser-based",
+        "description": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "summary": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "link": "https://dev.to/liaopengdong/best-free-browser-based-pdf-tools-for-quick-checks-403l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-21T08:10:05.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "webdev",
+          "opensource",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+          "PDF Tools is a free collection for merge, split, convert, compress, rotate, watermark, and edit PDF files.",
+          "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Evaluating Generative AI",
+        "slug": "evaluating-generative-ai",
+        "description": "Generative AI Deployment Strategy: Approaches and Tools for Manufacturers In the evolving landscape of modern intelligent manufacturing, companies are exploring various approaches to implement generative AI. Choosing the right Generative AI Deployment Strategy can be a daunting task as different strategies yield distinct advantages and disadvantages.",
+        "summary": "Generative AI Deployment Strategy: Approaches and Tools for Manufacturers In the evolving landscape of modern intelligent manufacturing, companies are exploring various approaches to implement generative AI. Choosing the right Generative AI Deployment Strategy can be a daunting task as different strategies yield distinct advantages and disadvantages.",
+        "link": "https://dev.to/dorjamie/evaluating-generative-ai-deployment-strategy-approaches-for-manufacturers-27lb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-21T08:02:53.000Z",
+        "keywords": [
+          "comparison",
+          "ai",
+          "manufacturing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "comparison",
+          "ai",
+          "manufacturing"
+        ],
+        "pros": [
+          "Great for comparison",
+          "ai-ready automation",
+          "Great for comparison"
+        ],
+        "cons": [
+          "Overkill for comparison experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for comparison experiments"
+        ],
+        "highlights": [
+          "Choosing the right Generative AI Deployment Strategy can be a daunting task as different strategies yield distinct advantages and disadvantages.",
+          "Let’s compare two prevalent approaches: custom AI development versus leveraging pre-built AI solutions.",
+          "Consider collaboration with AI solution development experts who can help tailor the solution or identify the right pre-built tools."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Typewise (YC S22)",
+        "slug": "typewise-yc-s22",
+        "description": "Article URL: https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer Comments URL: https://news.ycombinator.com/item?id=48219340 Points: 0 # Comments: 0",
+        "summary": "Article URL: https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer Comments URL: https://news.ycombinator.com/item?id=48219340 Points: 0 # Comments: 0",
+        "link": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
+        "source": "Hacker News",
+        "isoDate": "2026-05-21T08:01:53.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-05-21T08:49:17.710Z",
+    "lastUpdated": "2026-05-21T08:49:17.710Z",
+    "visibleDate": "May 21, 2026",
+    "url": "pages/2026-05-21-084917710-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-05-21-084917710-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "AI Tools in Manufacturing",
+      "Best Free Browser-Based"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include AI Tools in Manufacturing, Best Free Browser-Base",
+    "tools": [
+      {
+        "name": "AI Tools in Manufacturing",
+        "slug": "ai-tools-in-manufacturing",
+        "description": "Let's break down some of the leading AI tools available: Pros: Extensive IoT integration, strong analytics capabilities, and robust security protocols. Comparing AI Tools for Manufacturing: An In-depth Analysis Artificial Intelligence is reshaping the manufacturing landscape, but choosing the right tools is essential for maximizing benefits.",
+        "summary": "Let's break down some of the leading AI tools available: Pros: Extensive IoT integration, strong analytics capabilities, and robust security protocols. Comparing AI Tools for Manufacturing: An In-depth Analysis Artificial Intelligence is reshaping the manufacturing landscape, but choosing the right tools is essential for maximizing benefits.",
+        "link": "https://dev.to/dorjamie/ai-tools-in-manufacturing-compare-and-contrast-approaches-338f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-21T08:18:10.000Z",
+        "keywords": [
+          "manufacturing",
+          "ai",
+          "tools",
+          "comparison",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "manufacturing",
+          "ai",
+          "tools"
+        ],
+        "pros": [
+          "Great for manufacturing",
+          "ai-ready automation",
+          "Great for manufacturing"
+        ],
+        "cons": [
+          "Overkill for manufacturing experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for manufacturing experiments"
+        ],
+        "highlights": [
+          "Let's break down some of the leading AI tools available: Pros: Extensive IoT integration, strong analytics capabilities, and robust security protocols.",
+          "Comparing AI Tools for Manufacturing: An In-depth Analysis Artificial Intelligence is reshaping the manufacturing landscape, but choosing the right tools is essential for maximizing benefits.",
+          "Businesses that invest in GenAI Financial Operations will ensure robust financial management and operational sustainability in today's competitive landscape."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best Free Browser-Based",
+        "slug": "best-free-browser-based",
+        "description": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "summary": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "link": "https://dev.to/liaopengdong/best-free-browser-based-pdf-tools-for-quick-checks-403l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-21T08:10:05.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "webdev",
+          "opensource",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+          "PDF Tools is a free collection for merge, split, convert, compress, rotate, watermark, and edit PDF files.",
+          "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-05-21T08:49:17.710Z",
+    "lastUpdated": "2026-05-21T08:49:17.710Z",
+    "visibleDate": "May 21, 2026",
+    "url": "pages/2026-05-21-084917710-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-05-21-084917710-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "AI Tools in Manufacturing",
+      "Best Free Browser-Based",
+      "Evaluating Generative AI"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include AI Tools in Manufacturing, Best Free Browser-Based, Evaluating Generativ",
+    "tools": [
+      {
+        "name": "AI Tools in Manufacturing",
+        "slug": "ai-tools-in-manufacturing",
+        "description": "Let's break down some of the leading AI tools available: Pros: Extensive IoT integration, strong analytics capabilities, and robust security protocols. Comparing AI Tools for Manufacturing: An In-depth Analysis Artificial Intelligence is reshaping the manufacturing landscape, but choosing the right tools is essential for maximizing benefits.",
+        "summary": "Let's break down some of the leading AI tools available: Pros: Extensive IoT integration, strong analytics capabilities, and robust security protocols. Comparing AI Tools for Manufacturing: An In-depth Analysis Artificial Intelligence is reshaping the manufacturing landscape, but choosing the right tools is essential for maximizing benefits.",
+        "link": "https://dev.to/dorjamie/ai-tools-in-manufacturing-compare-and-contrast-approaches-338f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-21T08:18:10.000Z",
+        "keywords": [
+          "manufacturing",
+          "ai",
+          "tools",
+          "comparison",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "manufacturing",
+          "ai",
+          "tools"
+        ],
+        "pros": [
+          "Great for manufacturing",
+          "ai-ready automation",
+          "Great for manufacturing"
+        ],
+        "cons": [
+          "Overkill for manufacturing experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for manufacturing experiments"
+        ],
+        "highlights": [
+          "Let's break down some of the leading AI tools available: Pros: Extensive IoT integration, strong analytics capabilities, and robust security protocols.",
+          "Comparing AI Tools for Manufacturing: An In-depth Analysis Artificial Intelligence is reshaping the manufacturing landscape, but choosing the right tools is essential for maximizing benefits.",
+          "Businesses that invest in GenAI Financial Operations will ensure robust financial management and operational sustainability in today's competitive landscape."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best Free Browser-Based",
+        "slug": "best-free-browser-based",
+        "description": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "summary": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "link": "https://dev.to/liaopengdong/best-free-browser-based-pdf-tools-for-quick-checks-403l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-21T08:10:05.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "webdev",
+          "opensource",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+          "PDF Tools is a free collection for merge, split, convert, compress, rotate, watermark, and edit PDF files.",
+          "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Evaluating Generative AI",
+        "slug": "evaluating-generative-ai",
+        "description": "Generative AI Deployment Strategy: Approaches and Tools for Manufacturers In the evolving landscape of modern intelligent manufacturing, companies are exploring various approaches to implement generative AI. Choosing the right Generative AI Deployment Strategy can be a daunting task as different strategies yield distinct advantages and disadvantages.",
+        "summary": "Generative AI Deployment Strategy: Approaches and Tools for Manufacturers In the evolving landscape of modern intelligent manufacturing, companies are exploring various approaches to implement generative AI. Choosing the right Generative AI Deployment Strategy can be a daunting task as different strategies yield distinct advantages and disadvantages.",
+        "link": "https://dev.to/dorjamie/evaluating-generative-ai-deployment-strategy-approaches-for-manufacturers-27lb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-21T08:02:53.000Z",
+        "keywords": [
+          "comparison",
+          "ai",
+          "manufacturing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "comparison",
+          "ai",
+          "manufacturing"
+        ],
+        "pros": [
+          "Great for comparison",
+          "ai-ready automation",
+          "Great for comparison"
+        ],
+        "cons": [
+          "Overkill for comparison experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for comparison experiments"
+        ],
+        "highlights": [
+          "Choosing the right Generative AI Deployment Strategy can be a daunting task as different strategies yield distinct advantages and disadvantages.",
+          "Let’s compare two prevalent approaches: custom AI development versus leveraging pre-built AI solutions.",
+          "Consider collaboration with AI solution development experts who can help tailor the solution or identify the right pre-built tools."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-05-20T08:46:59.987Z",
     "lastUpdated": "2026-05-20T08:46:59.987Z",
     "visibleDate": "May 20, 2026",

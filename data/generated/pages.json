@@ -7,6 +7,687 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-05-23T07:59:24.728Z",
+    "lastUpdated": "2026-05-23T07:59:24.728Z",
+    "visibleDate": "May 23, 2026",
+    "url": "pages/2026-05-23-075924728-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-05-23-075924728-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "I Built a Browser-Based 3D Modeling Tool in 3 Months",
+      "AI Coding Tools Are Making Us Dependent",
+      "The free AI"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include I Built a Browser-Based 3D Modeling Tool in 3 Months, AI Coding Tools Are ",
+    "tools": [
+      {
+        "name": "I Built a Browser-Based 3D Modeling Tool in 3 Months",
+        "slug": "i-built-a-browser-based-3d-modeling-tool-in-3-months",
+        "description": "Three months into a previous project I had a <code>scene.add()</code> call buried three callback layers deep, nobody could tell who was responsible for disposing the geometry, and memory was leaking on every model swap. I used <code>three-csg-ts</code> initially because it came up in every tutorial, ran a subtract operation on a mesh with around 3,500 faces, and got back a geometry that <em>looked</em> fine until I tried to export it.",
+        "summary": "Three months into a previous project I had a <code>scene.add()</code> call buried three callback layers deep, nobody could tell who was responsible for disposing the geometry, and memory was leaking on every model swap. I used <code>three-csg-ts</code> initially because it came up in every tutorial, ran a subtract operation on a mesh with around 3,500 faces, and got back a geometry that <em>looked</em> fine until I tried to export it.",
+        "link": "https://dev.to/ericwoooo_kr/i-built-a-browser-based-3d-modeling-tool-in-3-months-heres-every-decision-id-make-differently-611",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-23T07:56:11.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "I used three-csg-ts initially because it came up in every tutorial, ran a subtract operation on a mesh with around 3,500 faces, and got back a geometry that looked fine until I tried to export it.",
+          "When you try to bridge these naively — storing mesh objects in state, or worse, calling setState on every frame — you'll either get stale refs or tank your FPS in ways that are painful to debug.",
+          "That was embarrassing in retrospect.</p> <p>Start with a real target: 60fps on a mid-range machine from ~2020, something like an Intel Iris Xe or AMD Vega 8 integrated GPU with 8GB of shared memory."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Coding Tools Are Making Us Dependent",
+        "slug": "ai-coding-tools-are-making-us-dependent",
+        "description": "What I don't know off the top of my head every time is whether <code>COPY --chown</code> takes uid:gid or a username, or what the exact syntax for <code>HEALTHCHECK</code> interval flags looks like. What aviation built to counter this maps almost surgically onto software development contexts: Mandatory manual hours — Pilots log a specific number of approaches and landings without automation per review period.",
+        "summary": "What I don't know off the top of my head every time is whether <code>COPY --chown</code> takes uid:gid or a username, or what the exact syntax for <code>HEALTHCHECK</code> interval flags looks like. What aviation built to counter this maps almost surgically onto software development contexts: Mandatory manual hours — Pilots log a specific number of approaches and landings without automation per review period.",
+        "link": "https://dev.to/ericwoooo_kr/ai-coding-tools-are-making-us-dependent-aviation-figured-this-out-40-years-ago-51c5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-23T07:44:31.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "What I don't know off the top of my head every time is whether <code>COPY --chown</code> takes uid:gid or a username, or what the exact syntax for <code>HEALTHCHECK</code> interval flags looks like.",
+          "TL;DR: Six months into daily Copilot use, I hit a 2-hour train journey (no signal, not a flight, but the metaphor holds) and needed to write a regex to parse some log timestamps.",
+          "What I don't know off the top of my head every time is whether COPY --chown takes uid:gid or a username, or what the exact syntax for HEALTHCHECK interval flags looks like."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The free AI",
+        "slug": "the-free-ai",
+        "description": "The only price you pay is patience: render queues run two to ten minutes when it is busy.</p> <p><strong>Kling</strong> gives you a daily allotment of free credits that refresh every morning. I make short clips for side projects and I do not want a subscription for something I use twice a week.</p> <p>So I spent a weekend testing every free AI video generator I could find.",
+        "summary": "The only price you pay is patience: render queues run two to ten minutes when it is busy.</p> <p><strong>Kling</strong> gives you a daily allotment of free credits that refresh every morning. I make short clips for side projects and I do not want a subscription for something I use twice a week.</p> <p>So I spent a weekend testing every free AI video generator I could find.",
+        "link": "https://dev.to/aukedh/the-free-ai-video-tools-i-actually-use-in-2026-after-sora-went-paid-dc2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-23T07:38:42.000Z",
+        "keywords": [
+          "ai",
+          "video",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "video",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "video-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for video workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The only price you pay is patience: render queues run two to ten minutes when it is busy.</p> <p><strong>Kling</strong> gives you a daily allotment of free credits that refresh every morning.",
+          "I make short clips for side projects and I do not want a subscription for something I use twice a week.</p> <p>So I spent a weekend testing every free AI video generator I could find.",
+          "If you want the full nine tool breakdown with the German interface notes and the watermark details for each, I put it together here: KI Video erstellen kostenlos: 9 Tools im Test (2026)."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Experience",
+        "slug": "experience",
+        "description": "Article URL: https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son Comments URL: https://news.ycombinator.com/item?id=48245571 Points: 7 # Comments: 0",
+        "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son Comments URL: https://news.ycombinator.com/item?id=48245571 Points: 7 # Comments: 0",
+        "link": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
+        "source": "Hacker News",
+        "isoDate": "2026-05-23T07:34:33.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Free Hand-Drawn QR Code Generator",
+        "slug": "free-hand-drawn-qr-code-generator",
+        "description": "That approach always fails — the cell boundaries stay too sharp and the result reads as \"computer with a filter applied\" rather than human-drawn.</p> <p>The pencil sketch in this tool works differently. A viral Reddit post recently hit 4,000 upvotes for a single image: someone had drawn a working QR code by hand, cell by cell, on graph paper with a pencil.",
+        "summary": "That approach always fails — the cell boundaries stay too sharp and the result reads as \"computer with a filter applied\" rather than human-drawn.</p> <p>The pencil sketch in this tool works differently. A viral Reddit post recently hit 4,000 upvotes for a single image: someone had drawn a working QR code by hand, cell by cell, on graph paper with a pencil.",
+        "link": "https://dev.to/shaishav_patel_271fdcd61a/free-hand-drawn-qr-code-generator-pencil-sketch-style-16lo",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-23T07:27:22.000Z",
+        "keywords": [
+          "tools",
+          "webdev",
+          "productivity",
+          "design",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "webdev",
+          "productivity"
+        ],
+        "pros": [
+          "Great for tools",
+          "webdev-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "A viral Reddit post recently hit 4,000 upvotes for a single image: someone had drawn a working QR code by hand, cell by cell, on graph paper with a pencil.",
+          "This mimics how a human hand actually sweeps through adjacent cells without lifting the pencil, while keeping enough ink density that scanners read each cell reliably.",
+          "The same physical stroke automatically becomes one continuous line through four adjacent dark cells, or a broken series of segments through a checkerboard pattern."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-05-23T07:59:24.728Z",
+    "lastUpdated": "2026-05-23T07:59:24.728Z",
+    "visibleDate": "May 23, 2026",
+    "url": "pages/2026-05-23-075924728-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-05-23-075924728-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I Built a Browser-Based 3D Modeling Tool in 3 Months",
+      "AI Coding Tools Are Making Us Dependent",
+      "The free AI"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include I Built a Browser-Based 3D Modeling Tool in 3 Months, AI Coding To",
+    "tools": [
+      {
+        "name": "I Built a Browser-Based 3D Modeling Tool in 3 Months",
+        "slug": "i-built-a-browser-based-3d-modeling-tool-in-3-months",
+        "description": "Three months into a previous project I had a <code>scene.add()</code> call buried three callback layers deep, nobody could tell who was responsible for disposing the geometry, and memory was leaking on every model swap. I used <code>three-csg-ts</code> initially because it came up in every tutorial, ran a subtract operation on a mesh with around 3,500 faces, and got back a geometry that <em>looked</em> fine until I tried to export it.",
+        "summary": "Three months into a previous project I had a <code>scene.add()</code> call buried three callback layers deep, nobody could tell who was responsible for disposing the geometry, and memory was leaking on every model swap. I used <code>three-csg-ts</code> initially because it came up in every tutorial, ran a subtract operation on a mesh with around 3,500 faces, and got back a geometry that <em>looked</em> fine until I tried to export it.",
+        "link": "https://dev.to/ericwoooo_kr/i-built-a-browser-based-3d-modeling-tool-in-3-months-heres-every-decision-id-make-differently-611",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-23T07:56:11.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "I used three-csg-ts initially because it came up in every tutorial, ran a subtract operation on a mesh with around 3,500 faces, and got back a geometry that looked fine until I tried to export it.",
+          "When you try to bridge these naively — storing mesh objects in state, or worse, calling setState on every frame — you'll either get stale refs or tank your FPS in ways that are painful to debug.",
+          "That was embarrassing in retrospect.</p> <p>Start with a real target: 60fps on a mid-range machine from ~2020, something like an Intel Iris Xe or AMD Vega 8 integrated GPU with 8GB of shared memory."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Coding Tools Are Making Us Dependent",
+        "slug": "ai-coding-tools-are-making-us-dependent",
+        "description": "What I don't know off the top of my head every time is whether <code>COPY --chown</code> takes uid:gid or a username, or what the exact syntax for <code>HEALTHCHECK</code> interval flags looks like. What aviation built to counter this maps almost surgically onto software development contexts: Mandatory manual hours — Pilots log a specific number of approaches and landings without automation per review period.",
+        "summary": "What I don't know off the top of my head every time is whether <code>COPY --chown</code> takes uid:gid or a username, or what the exact syntax for <code>HEALTHCHECK</code> interval flags looks like. What aviation built to counter this maps almost surgically onto software development contexts: Mandatory manual hours — Pilots log a specific number of approaches and landings without automation per review period.",
+        "link": "https://dev.to/ericwoooo_kr/ai-coding-tools-are-making-us-dependent-aviation-figured-this-out-40-years-ago-51c5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-23T07:44:31.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "What I don't know off the top of my head every time is whether <code>COPY --chown</code> takes uid:gid or a username, or what the exact syntax for <code>HEALTHCHECK</code> interval flags looks like.",
+          "TL;DR: Six months into daily Copilot use, I hit a 2-hour train journey (no signal, not a flight, but the metaphor holds) and needed to write a regex to parse some log timestamps.",
+          "What I don't know off the top of my head every time is whether COPY --chown takes uid:gid or a username, or what the exact syntax for HEALTHCHECK interval flags looks like."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The free AI",
+        "slug": "the-free-ai",
+        "description": "The only price you pay is patience: render queues run two to ten minutes when it is busy.</p> <p><strong>Kling</strong> gives you a daily allotment of free credits that refresh every morning. I make short clips for side projects and I do not want a subscription for something I use twice a week.</p> <p>So I spent a weekend testing every free AI video generator I could find.",
+        "summary": "The only price you pay is patience: render queues run two to ten minutes when it is busy.</p> <p><strong>Kling</strong> gives you a daily allotment of free credits that refresh every morning. I make short clips for side projects and I do not want a subscription for something I use twice a week.</p> <p>So I spent a weekend testing every free AI video generator I could find.",
+        "link": "https://dev.to/aukedh/the-free-ai-video-tools-i-actually-use-in-2026-after-sora-went-paid-dc2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-23T07:38:42.000Z",
+        "keywords": [
+          "ai",
+          "video",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "video",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "video-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for video workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The only price you pay is patience: render queues run two to ten minutes when it is busy.</p> <p><strong>Kling</strong> gives you a daily allotment of free credits that refresh every morning.",
+          "I make short clips for side projects and I do not want a subscription for something I use twice a week.</p> <p>So I spent a weekend testing every free AI video generator I could find.",
+          "If you want the full nine tool breakdown with the German interface notes and the watermark details for each, I put it together here: KI Video erstellen kostenlos: 9 Tools im Test (2026)."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Experience",
+        "slug": "experience",
+        "description": "Article URL: https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son Comments URL: https://news.ycombinator.com/item?id=48245571 Points: 7 # Comments: 0",
+        "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son Comments URL: https://news.ycombinator.com/item?id=48245571 Points: 7 # Comments: 0",
+        "link": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
+        "source": "Hacker News",
+        "isoDate": "2026-05-23T07:34:33.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-05-23T07:59:24.728Z",
+    "lastUpdated": "2026-05-23T07:59:24.728Z",
+    "visibleDate": "May 23, 2026",
+    "url": "pages/2026-05-23-075924728-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-05-23-075924728-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I Built a Browser-Based 3D Modeling Tool in 3 Months",
+      "AI Coding Tools Are Making Us Dependent"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include I Built a Browser-Based 3D Modeling Tool in 3 Mon",
+    "tools": [
+      {
+        "name": "I Built a Browser-Based 3D Modeling Tool in 3 Months",
+        "slug": "i-built-a-browser-based-3d-modeling-tool-in-3-months",
+        "description": "Three months into a previous project I had a <code>scene.add()</code> call buried three callback layers deep, nobody could tell who was responsible for disposing the geometry, and memory was leaking on every model swap. I used <code>three-csg-ts</code> initially because it came up in every tutorial, ran a subtract operation on a mesh with around 3,500 faces, and got back a geometry that <em>looked</em> fine until I tried to export it.",
+        "summary": "Three months into a previous project I had a <code>scene.add()</code> call buried three callback layers deep, nobody could tell who was responsible for disposing the geometry, and memory was leaking on every model swap. I used <code>three-csg-ts</code> initially because it came up in every tutorial, ran a subtract operation on a mesh with around 3,500 faces, and got back a geometry that <em>looked</em> fine until I tried to export it.",
+        "link": "https://dev.to/ericwoooo_kr/i-built-a-browser-based-3d-modeling-tool-in-3-months-heres-every-decision-id-make-differently-611",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-23T07:56:11.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "I used three-csg-ts initially because it came up in every tutorial, ran a subtract operation on a mesh with around 3,500 faces, and got back a geometry that looked fine until I tried to export it.",
+          "When you try to bridge these naively — storing mesh objects in state, or worse, calling setState on every frame — you'll either get stale refs or tank your FPS in ways that are painful to debug.",
+          "That was embarrassing in retrospect.</p> <p>Start with a real target: 60fps on a mid-range machine from ~2020, something like an Intel Iris Xe or AMD Vega 8 integrated GPU with 8GB of shared memory."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Coding Tools Are Making Us Dependent",
+        "slug": "ai-coding-tools-are-making-us-dependent",
+        "description": "What I don't know off the top of my head every time is whether <code>COPY --chown</code> takes uid:gid or a username, or what the exact syntax for <code>HEALTHCHECK</code> interval flags looks like. What aviation built to counter this maps almost surgically onto software development contexts: Mandatory manual hours — Pilots log a specific number of approaches and landings without automation per review period.",
+        "summary": "What I don't know off the top of my head every time is whether <code>COPY --chown</code> takes uid:gid or a username, or what the exact syntax for <code>HEALTHCHECK</code> interval flags looks like. What aviation built to counter this maps almost surgically onto software development contexts: Mandatory manual hours — Pilots log a specific number of approaches and landings without automation per review period.",
+        "link": "https://dev.to/ericwoooo_kr/ai-coding-tools-are-making-us-dependent-aviation-figured-this-out-40-years-ago-51c5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-23T07:44:31.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "What I don't know off the top of my head every time is whether <code>COPY --chown</code> takes uid:gid or a username, or what the exact syntax for <code>HEALTHCHECK</code> interval flags looks like.",
+          "TL;DR: Six months into daily Copilot use, I hit a 2-hour train journey (no signal, not a flight, but the metaphor holds) and needed to write a regex to parse some log timestamps.",
+          "What I don't know off the top of my head every time is whether COPY --chown takes uid:gid or a username, or what the exact syntax for HEALTHCHECK interval flags looks like."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-05-23T07:59:24.728Z",
+    "lastUpdated": "2026-05-23T07:59:24.728Z",
+    "visibleDate": "May 23, 2026",
+    "url": "pages/2026-05-23-075924728-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-05-23-075924728-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "I Built a Browser-Based 3D Modeling Tool in 3 Months",
+      "AI Coding Tools Are Making Us Dependent",
+      "The free AI"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include I Built a Browser-Based 3D Modeling Tool in 3 Months, AI Coding Tools Ar",
+    "tools": [
+      {
+        "name": "I Built a Browser-Based 3D Modeling Tool in 3 Months",
+        "slug": "i-built-a-browser-based-3d-modeling-tool-in-3-months",
+        "description": "Three months into a previous project I had a <code>scene.add()</code> call buried three callback layers deep, nobody could tell who was responsible for disposing the geometry, and memory was leaking on every model swap. I used <code>three-csg-ts</code> initially because it came up in every tutorial, ran a subtract operation on a mesh with around 3,500 faces, and got back a geometry that <em>looked</em> fine until I tried to export it.",
+        "summary": "Three months into a previous project I had a <code>scene.add()</code> call buried three callback layers deep, nobody could tell who was responsible for disposing the geometry, and memory was leaking on every model swap. I used <code>three-csg-ts</code> initially because it came up in every tutorial, ran a subtract operation on a mesh with around 3,500 faces, and got back a geometry that <em>looked</em> fine until I tried to export it.",
+        "link": "https://dev.to/ericwoooo_kr/i-built-a-browser-based-3d-modeling-tool-in-3-months-heres-every-decision-id-make-differently-611",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-23T07:56:11.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "I used three-csg-ts initially because it came up in every tutorial, ran a subtract operation on a mesh with around 3,500 faces, and got back a geometry that looked fine until I tried to export it.",
+          "When you try to bridge these naively — storing mesh objects in state, or worse, calling setState on every frame — you'll either get stale refs or tank your FPS in ways that are painful to debug.",
+          "That was embarrassing in retrospect.</p> <p>Start with a real target: 60fps on a mid-range machine from ~2020, something like an Intel Iris Xe or AMD Vega 8 integrated GPU with 8GB of shared memory."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Coding Tools Are Making Us Dependent",
+        "slug": "ai-coding-tools-are-making-us-dependent",
+        "description": "What I don't know off the top of my head every time is whether <code>COPY --chown</code> takes uid:gid or a username, or what the exact syntax for <code>HEALTHCHECK</code> interval flags looks like. What aviation built to counter this maps almost surgically onto software development contexts: Mandatory manual hours — Pilots log a specific number of approaches and landings without automation per review period.",
+        "summary": "What I don't know off the top of my head every time is whether <code>COPY --chown</code> takes uid:gid or a username, or what the exact syntax for <code>HEALTHCHECK</code> interval flags looks like. What aviation built to counter this maps almost surgically onto software development contexts: Mandatory manual hours — Pilots log a specific number of approaches and landings without automation per review period.",
+        "link": "https://dev.to/ericwoooo_kr/ai-coding-tools-are-making-us-dependent-aviation-figured-this-out-40-years-ago-51c5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-23T07:44:31.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "What I don't know off the top of my head every time is whether <code>COPY --chown</code> takes uid:gid or a username, or what the exact syntax for <code>HEALTHCHECK</code> interval flags looks like.",
+          "TL;DR: Six months into daily Copilot use, I hit a 2-hour train journey (no signal, not a flight, but the metaphor holds) and needed to write a regex to parse some log timestamps.",
+          "What I don't know off the top of my head every time is whether COPY --chown takes uid:gid or a username, or what the exact syntax for HEALTHCHECK interval flags looks like."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The free AI",
+        "slug": "the-free-ai",
+        "description": "The only price you pay is patience: render queues run two to ten minutes when it is busy.</p> <p><strong>Kling</strong> gives you a daily allotment of free credits that refresh every morning. I make short clips for side projects and I do not want a subscription for something I use twice a week.</p> <p>So I spent a weekend testing every free AI video generator I could find.",
+        "summary": "The only price you pay is patience: render queues run two to ten minutes when it is busy.</p> <p><strong>Kling</strong> gives you a daily allotment of free credits that refresh every morning. I make short clips for side projects and I do not want a subscription for something I use twice a week.</p> <p>So I spent a weekend testing every free AI video generator I could find.",
+        "link": "https://dev.to/aukedh/the-free-ai-video-tools-i-actually-use-in-2026-after-sora-went-paid-dc2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-23T07:38:42.000Z",
+        "keywords": [
+          "ai",
+          "video",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "video",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "video-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for video workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The only price you pay is patience: render queues run two to ten minutes when it is busy.</p> <p><strong>Kling</strong> gives you a daily allotment of free credits that refresh every morning.",
+          "I make short clips for side projects and I do not want a subscription for something I use twice a week.</p> <p>So I spent a weekend testing every free AI video generator I could find.",
+          "If you want the full nine tool breakdown with the German interface notes and the watermark details for each, I put it together here: KI Video erstellen kostenlos: 9 Tools im Test (2026)."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-05-22T08:43:00.975Z",
     "lastUpdated": "2026-05-22T08:43:00.975Z",
     "visibleDate": "May 22, 2026",

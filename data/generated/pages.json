@@ -7,6 +7,691 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-05-29T08:58:23.669Z",
+    "lastUpdated": "2026-05-29T08:58:23.669Z",
+    "visibleDate": "May 29, 2026",
+    "url": "pages/2026-05-29-085823669-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-05-29-085823669-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Free SEO Tools",
+      "I Built Quick",
+      "San Francisco Robotics"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Free SEO Tools, I Built Quick, San Francisco Robotics. Productivity stacks",
+    "tools": [
+      {
+        "name": "Free SEO Tools",
+        "slug": "free-seo-tools",
+        "description": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "summary": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "link": "https://dev.to/liaopengdong/free-seo-tools-you-can-use-in-your-browser-4b21",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-29T08:10:04.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "webdev",
+          "opensource",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+          "SEO Tools is a free collection for title, meta description, SERP preview, robots, sitemap, schema, and canonical helpers.",
+          "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built Quick",
+        "slug": "i-built-quick",
+        "description": "The goal is simple: when I have too many tabs open, I want to quickly see whether I opened the same URL multiple times, preview what will stay open, and close duplicates only when I choose to do it. Chrome Web Store: [QTC_STORE_URL] Product hub: https://ressurd.github.io/tools-and-products/ When I work with many browser tabs, duplicate tabs happen naturally.",
+        "summary": "The goal is simple: when I have too many tabs open, I want to quickly see whether I opened the same URL multiple times, preview what will stay open, and close duplicates only when I choose to do it. Chrome Web Store: [QTC_STORE_URL] Product hub: https://ressurd.github.io/tools-and-products/ When I work with many browser tabs, duplicate tabs happen naturally.",
+        "link": "https://dev.to/ressurd/i-built-quick-tab-cleaner-a-small-chrome-extension-for-cleaning-duplicate-tabs-4edn",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-29T08:01:27.000Z",
+        "keywords": [
+          "chromeextension",
+          "productivity",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "chromeextension",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for chromeextension",
+          "productivity-ready automation",
+          "Great for chromeextension"
+        ],
+        "cons": [
+          "Overkill for chromeextension experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for chromeextension experiments"
+        ],
+        "highlights": [
+          "The goal is simple: when I have too many tabs open, I want to quickly see whether I opened the same URL multiple times, preview what will stay open, and close duplicates only when I choose to do it.",
+          "Chrome Web Store: [QTC_STORE_URL] Product hub: https://ressurd.github.io/tools-and-products/ When I work with many browser tabs, duplicate tabs happen naturally.",
+          "I might open the same documentation page several times, click the same search result again, or keep multiple copies of a tool, issue, article, or reference page without noticing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "San Francisco Robotics",
+        "slug": "san-francisco-robotics",
+        "description": "The robotics sector has watched similar controversies unfold in autonomous vehicle development, where undisclosed testing in residential areas sparked public backlash and government intervention. Insurance companies may also adjust their coverage models for robotics firms engaged in physical-world testing, potentially increasing operational costs for the industry broadly.",
+        "summary": "The robotics sector has watched similar controversies unfold in autonomous vehicle development, where undisclosed testing in residential areas sparked public backlash and government intervention. Insurance companies may also adjust their coverage models for robotics firms engaged in physical-world testing, potentially increasing operational costs for the industry broadly.",
+        "link": "https://dev.to/eli_9c82b7dfe52c1bc371ffe/san-francisco-robotics-startup-faces-lawsuit-over-airbnb-testing-2d9i",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-29T08:00:56.000Z",
+        "keywords": [
+          "tools",
+          "machinelearning",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "tools",
+          "machinelearning",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "machinelearning-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The robotics sector has watched similar controversies unfold in autonomous vehicle development, where undisclosed testing in residential areas sparked public backlash and government intervention.",
+          "Insurance companies may also adjust their coverage models for robotics firms engaged in physical-world testing, potentially increasing operational costs for the industry broadly.",
+          "Unlike traditional software development, physical autonomous systems interact directly with physical spaces and property, creating immediate liability questions when things go wrong."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Cheapest Azure",
+        "slug": "the-cheapest-azure",
+        "description": "For a team running shared agents, that math works out immediately — you pull the same base image once per day across multiple pipelines instead of re-downloading it from Docker Hub on every cold agent start. For a team running shared agents, that math works out immediately — you pull the same base image once per day across multiple pipelines instead of re-downloading it from Docker Hub on every cold agent start.",
+        "summary": "For a team running shared agents, that math works out immediately — you pull the same base image once per day across multiple pipelines instead of re-downloading it from Docker Hub on every cold agent start. For a team running shared agents, that math works out immediately — you pull the same base image once per day across multiple pipelines instead of re-downloading it from Docker Hub on every cold agent start.",
+        "link": "https://dev.to/ericwoooo_kr/the-cheapest-azure-vm-that-actually-works-for-devops-workloads-without-making-you-want-to-quit-1ea8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-29T07:59:01.000Z",
+        "keywords": [
+          "devops",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devops",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for devops",
+          "productivity-ready automation",
+          "Great for devops"
+        ],
+        "cons": [
+          "Overkill for devops experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for devops experiments"
+        ],
+        "highlights": [
+          "Standard_B1ms (1 vCPU, 2GB RAM) gives you enough room to run a small Go or Python service with some actual heap, or host a lightweight CI webhook listener that does real parsing.",
+          "The trade-off is real though: you get no caching between runs (unless you wire up pipeline cache tasks), cold starts every time, and zero ability to pre-install tooling.",
+          "The trade-off is real though: you get no caching between runs (unless you wire up pipeline cache tasks), cold starts every time, and zero ability to pre-install tooling."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Per-Query Safeguards for Agent-Driven Database Access",
+        "slug": "per-query-safeguards-for-agent-driven-database-access",
+        "description": "I blocked UPDATE accounts SET balance directly, felt good about it, then watched an agent figure out — through trial and error across tool calls — that CALL transfer_funds(src, dst, amount) was still available. OPA lets you express policies like \"agents may never query the phi_records table directly, only through the phi_summary view\" as actual versioned code, which gives you something to point at during an audit.",
+        "summary": "I blocked UPDATE accounts SET balance directly, felt good about it, then watched an agent figure out — through trial and error across tool calls — that CALL transfer_funds(src, dst, amount) was still available. OPA lets you express policies like \"agents may never query the phi_records table directly, only through the phi_summary view\" as actual versioned code, which gives you something to point at during an audit.",
+        "link": "https://dev.to/ericwoooo_kr/per-query-safeguards-for-agent-driven-database-access-what-actually-works-in-production-4pp4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-29T07:46:19.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The idea is to intercept every SQL statement the agent produces — before it hits the database wire — and run it through three gates: Inspection: Parse the AST and check structural properties.",
+          "The integration isn't magic — you POST a JSON payload to its REST API, get back an allow/deny decision, then either pass the query to SQLAlchemy or raise before it ever touches the database.",
+          "The trap I see teams fall into is applying enterprise-grade safeguards to an internal admin tool, then shipping a customer-facing agent with nothing but a read-only Postgres role and a prayer."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-05-29T08:58:23.669Z",
+    "lastUpdated": "2026-05-29T08:58:23.669Z",
+    "visibleDate": "May 29, 2026",
+    "url": "pages/2026-05-29-085823669-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-05-29-085823669-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Free SEO Tools",
+      "I Built Quick",
+      "San Francisco Robotics"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Free SEO Tools, I Built Quick, San Francisco Robotics. Reliable re",
+    "tools": [
+      {
+        "name": "Free SEO Tools",
+        "slug": "free-seo-tools",
+        "description": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "summary": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "link": "https://dev.to/liaopengdong/free-seo-tools-you-can-use-in-your-browser-4b21",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-29T08:10:04.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "webdev",
+          "opensource",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+          "SEO Tools is a free collection for title, meta description, SERP preview, robots, sitemap, schema, and canonical helpers.",
+          "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built Quick",
+        "slug": "i-built-quick",
+        "description": "The goal is simple: when I have too many tabs open, I want to quickly see whether I opened the same URL multiple times, preview what will stay open, and close duplicates only when I choose to do it. Chrome Web Store: [QTC_STORE_URL] Product hub: https://ressurd.github.io/tools-and-products/ When I work with many browser tabs, duplicate tabs happen naturally.",
+        "summary": "The goal is simple: when I have too many tabs open, I want to quickly see whether I opened the same URL multiple times, preview what will stay open, and close duplicates only when I choose to do it. Chrome Web Store: [QTC_STORE_URL] Product hub: https://ressurd.github.io/tools-and-products/ When I work with many browser tabs, duplicate tabs happen naturally.",
+        "link": "https://dev.to/ressurd/i-built-quick-tab-cleaner-a-small-chrome-extension-for-cleaning-duplicate-tabs-4edn",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-29T08:01:27.000Z",
+        "keywords": [
+          "chromeextension",
+          "productivity",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "chromeextension",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for chromeextension",
+          "productivity-ready automation",
+          "Great for chromeextension"
+        ],
+        "cons": [
+          "Overkill for chromeextension experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for chromeextension experiments"
+        ],
+        "highlights": [
+          "The goal is simple: when I have too many tabs open, I want to quickly see whether I opened the same URL multiple times, preview what will stay open, and close duplicates only when I choose to do it.",
+          "Chrome Web Store: [QTC_STORE_URL] Product hub: https://ressurd.github.io/tools-and-products/ When I work with many browser tabs, duplicate tabs happen naturally.",
+          "I might open the same documentation page several times, click the same search result again, or keep multiple copies of a tool, issue, article, or reference page without noticing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "San Francisco Robotics",
+        "slug": "san-francisco-robotics",
+        "description": "The robotics sector has watched similar controversies unfold in autonomous vehicle development, where undisclosed testing in residential areas sparked public backlash and government intervention. Insurance companies may also adjust their coverage models for robotics firms engaged in physical-world testing, potentially increasing operational costs for the industry broadly.",
+        "summary": "The robotics sector has watched similar controversies unfold in autonomous vehicle development, where undisclosed testing in residential areas sparked public backlash and government intervention. Insurance companies may also adjust their coverage models for robotics firms engaged in physical-world testing, potentially increasing operational costs for the industry broadly.",
+        "link": "https://dev.to/eli_9c82b7dfe52c1bc371ffe/san-francisco-robotics-startup-faces-lawsuit-over-airbnb-testing-2d9i",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-29T08:00:56.000Z",
+        "keywords": [
+          "tools",
+          "machinelearning",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "tools",
+          "machinelearning",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "machinelearning-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The robotics sector has watched similar controversies unfold in autonomous vehicle development, where undisclosed testing in residential areas sparked public backlash and government intervention.",
+          "Insurance companies may also adjust their coverage models for robotics firms engaged in physical-world testing, potentially increasing operational costs for the industry broadly.",
+          "Unlike traditional software development, physical autonomous systems interact directly with physical spaces and property, creating immediate liability questions when things go wrong."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The Cheapest Azure",
+        "slug": "the-cheapest-azure",
+        "description": "For a team running shared agents, that math works out immediately — you pull the same base image once per day across multiple pipelines instead of re-downloading it from Docker Hub on every cold agent start. For a team running shared agents, that math works out immediately — you pull the same base image once per day across multiple pipelines instead of re-downloading it from Docker Hub on every cold agent start.",
+        "summary": "For a team running shared agents, that math works out immediately — you pull the same base image once per day across multiple pipelines instead of re-downloading it from Docker Hub on every cold agent start. For a team running shared agents, that math works out immediately — you pull the same base image once per day across multiple pipelines instead of re-downloading it from Docker Hub on every cold agent start.",
+        "link": "https://dev.to/ericwoooo_kr/the-cheapest-azure-vm-that-actually-works-for-devops-workloads-without-making-you-want-to-quit-1ea8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-29T07:59:01.000Z",
+        "keywords": [
+          "devops",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devops",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for devops",
+          "productivity-ready automation",
+          "Great for devops"
+        ],
+        "cons": [
+          "Overkill for devops experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for devops experiments"
+        ],
+        "highlights": [
+          "Standard_B1ms (1 vCPU, 2GB RAM) gives you enough room to run a small Go or Python service with some actual heap, or host a lightweight CI webhook listener that does real parsing.",
+          "The trade-off is real though: you get no caching between runs (unless you wire up pipeline cache tasks), cold starts every time, and zero ability to pre-install tooling.",
+          "The trade-off is real though: you get no caching between runs (unless you wire up pipeline cache tasks), cold starts every time, and zero ability to pre-install tooling."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-05-29T08:58:23.669Z",
+    "lastUpdated": "2026-05-29T08:58:23.669Z",
+    "visibleDate": "May 29, 2026",
+    "url": "pages/2026-05-29-085823669-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-05-29-085823669-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Free SEO Tools",
+      "I Built Quick"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Free SEO Tools, I Built Quick. Gitpod brings zero",
+    "tools": [
+      {
+        "name": "Free SEO Tools",
+        "slug": "free-seo-tools",
+        "description": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "summary": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "link": "https://dev.to/liaopengdong/free-seo-tools-you-can-use-in-your-browser-4b21",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-29T08:10:04.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "webdev",
+          "opensource",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+          "SEO Tools is a free collection for title, meta description, SERP preview, robots, sitemap, schema, and canonical helpers.",
+          "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built Quick",
+        "slug": "i-built-quick",
+        "description": "The goal is simple: when I have too many tabs open, I want to quickly see whether I opened the same URL multiple times, preview what will stay open, and close duplicates only when I choose to do it. Chrome Web Store: [QTC_STORE_URL] Product hub: https://ressurd.github.io/tools-and-products/ When I work with many browser tabs, duplicate tabs happen naturally.",
+        "summary": "The goal is simple: when I have too many tabs open, I want to quickly see whether I opened the same URL multiple times, preview what will stay open, and close duplicates only when I choose to do it. Chrome Web Store: [QTC_STORE_URL] Product hub: https://ressurd.github.io/tools-and-products/ When I work with many browser tabs, duplicate tabs happen naturally.",
+        "link": "https://dev.to/ressurd/i-built-quick-tab-cleaner-a-small-chrome-extension-for-cleaning-duplicate-tabs-4edn",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-29T08:01:27.000Z",
+        "keywords": [
+          "chromeextension",
+          "productivity",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "chromeextension",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for chromeextension",
+          "productivity-ready automation",
+          "Great for chromeextension"
+        ],
+        "cons": [
+          "Overkill for chromeextension experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for chromeextension experiments"
+        ],
+        "highlights": [
+          "The goal is simple: when I have too many tabs open, I want to quickly see whether I opened the same URL multiple times, preview what will stay open, and close duplicates only when I choose to do it.",
+          "Chrome Web Store: [QTC_STORE_URL] Product hub: https://ressurd.github.io/tools-and-products/ When I work with many browser tabs, duplicate tabs happen naturally.",
+          "I might open the same documentation page several times, click the same search result again, or keep multiple copies of a tool, issue, article, or reference page without noticing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-05-29T08:58:23.669Z",
+    "lastUpdated": "2026-05-29T08:58:23.669Z",
+    "visibleDate": "May 29, 2026",
+    "url": "pages/2026-05-29-085823669-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-05-29-085823669-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Free SEO Tools",
+      "I Built Quick",
+      "San Francisco Robotics"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Free SEO Tools, I Built Quick, San Francisco Robotics. New launches that",
+    "tools": [
+      {
+        "name": "Free SEO Tools",
+        "slug": "free-seo-tools",
+        "description": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "summary": "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result.</p> <h2> What you can do with it </h2> <p>The collection focuses on practical tasks rather than complex software. If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+        "link": "https://dev.to/liaopengdong/free-seo-tools-you-can-use-in-your-browser-4b21",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-29T08:10:04.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "webdev",
+          "opensource",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "If you often need quick calculations, format checks, or planning helpers, a lightweight browser-based tool can be faster than opening a spreadsheet or installing an app.",
+          "SEO Tools is a free collection for title, meta description, SERP preview, robots, sitemap, schema, and canonical helpers.",
+          "It is designed for simple workflows: open a tool, enter values, review the output, and copy the result."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built Quick",
+        "slug": "i-built-quick",
+        "description": "The goal is simple: when I have too many tabs open, I want to quickly see whether I opened the same URL multiple times, preview what will stay open, and close duplicates only when I choose to do it. Chrome Web Store: [QTC_STORE_URL] Product hub: https://ressurd.github.io/tools-and-products/ When I work with many browser tabs, duplicate tabs happen naturally.",
+        "summary": "The goal is simple: when I have too many tabs open, I want to quickly see whether I opened the same URL multiple times, preview what will stay open, and close duplicates only when I choose to do it. Chrome Web Store: [QTC_STORE_URL] Product hub: https://ressurd.github.io/tools-and-products/ When I work with many browser tabs, duplicate tabs happen naturally.",
+        "link": "https://dev.to/ressurd/i-built-quick-tab-cleaner-a-small-chrome-extension-for-cleaning-duplicate-tabs-4edn",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-29T08:01:27.000Z",
+        "keywords": [
+          "chromeextension",
+          "productivity",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "chromeextension",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for chromeextension",
+          "productivity-ready automation",
+          "Great for chromeextension"
+        ],
+        "cons": [
+          "Overkill for chromeextension experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for chromeextension experiments"
+        ],
+        "highlights": [
+          "The goal is simple: when I have too many tabs open, I want to quickly see whether I opened the same URL multiple times, preview what will stay open, and close duplicates only when I choose to do it.",
+          "Chrome Web Store: [QTC_STORE_URL] Product hub: https://ressurd.github.io/tools-and-products/ When I work with many browser tabs, duplicate tabs happen naturally.",
+          "I might open the same documentation page several times, click the same search result again, or keep multiple copies of a tool, issue, article, or reference page without noticing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "San Francisco Robotics",
+        "slug": "san-francisco-robotics",
+        "description": "The robotics sector has watched similar controversies unfold in autonomous vehicle development, where undisclosed testing in residential areas sparked public backlash and government intervention. Insurance companies may also adjust their coverage models for robotics firms engaged in physical-world testing, potentially increasing operational costs for the industry broadly.",
+        "summary": "The robotics sector has watched similar controversies unfold in autonomous vehicle development, where undisclosed testing in residential areas sparked public backlash and government intervention. Insurance companies may also adjust their coverage models for robotics firms engaged in physical-world testing, potentially increasing operational costs for the industry broadly.",
+        "link": "https://dev.to/eli_9c82b7dfe52c1bc371ffe/san-francisco-robotics-startup-faces-lawsuit-over-airbnb-testing-2d9i",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-05-29T08:00:56.000Z",
+        "keywords": [
+          "tools",
+          "machinelearning",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "tools",
+          "machinelearning",
+          "dev"
+        ],
+        "pros": [
+          "Great for tools",
+          "machinelearning-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The robotics sector has watched similar controversies unfold in autonomous vehicle development, where undisclosed testing in residential areas sparked public backlash and government intervention.",
+          "Insurance companies may also adjust their coverage models for robotics firms engaged in physical-world testing, potentially increasing operational costs for the industry broadly.",
+          "Unlike traditional software development, physical autonomous systems interact directly with physical spaces and property, creating immediate liability questions when things go wrong."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-05-28T09:36:47.632Z",
     "lastUpdated": "2026-05-28T09:36:47.632Z",
     "visibleDate": "May 28, 2026",

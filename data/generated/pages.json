@@ -7,6 +7,683 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-07-03T08:40:40.302Z",
+    "lastUpdated": "2026-07-03T08:40:40.302Z",
+    "visibleDate": "Jul 3, 2026",
+    "url": "pages/2026-07-03-084040302-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-07-03-084040302-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Speakr v0.8.19",
+      "Implementing JobPosting Schema for a Job Board",
+      "16 Free Forex"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Speakr v0.8.19, Implementing JobPosting Schema for a Job Board, 16 Free Fo",
+    "tools": [
+      {
+        "name": "Speakr v0.8.19",
+        "slug": "speakr-v0-8-19",
+        "description": "What it actually gives you is a REST API in front of Whisper or faster-whisper, a persistent job queue so uploads don't block, speaker diarization hooks via pyannote.audio, and a minimal web UI for one-off uploads. The part that bites most people first isn't the GPU config — it's that Speakr v0.8.19 will happily pull a 3GB model file at container startup if it doesn't find the expected cache layout inside /models.",
+        "summary": "What it actually gives you is a REST API in front of Whisper or faster-whisper, a persistent job queue so uploads don't block, speaker diarization hooks via pyannote.audio, and a minimal web UI for one-off uploads. The part that bites most people first isn't the GPU config — it's that Speakr v0.8.19 will happily pull a 3GB model file at container startup if it doesn't find the expected cache layout inside /models.",
+        "link": "https://dev.to/ericwoooo_kr/speakr-v0819-what-actually-changed-and-whether-its-worth-upgrading-your-self-hosted-5aic",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-03T08:10:10.000Z",
+        "keywords": [
+          "docker",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "docker",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for docker",
+          "productivity-ready automation",
+          "Great for docker"
+        ],
+        "cons": [
+          "Overkill for docker experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for docker experiments"
+        ],
+        "highlights": [
+          "AssemblyAI and Deepgram both bill per audio-minute, which sounds reasonable until your podcast archive hits four figures in hours, or you're running a legal firm that transcribes depositions daily.",
+          "One more failure mode that shows up specifically on long audio files: Speakr's upload endpoint accepts the file fine, but the transcription takes longer than your reverse proxy's read timeout.",
+          "Alternatives Cloud transcription pricing has a nasty compounding effect: you don't notice it until you're processing a backlog of three-hour interview recordings and the monthly invoice arrives."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Implementing JobPosting Schema for a Job Board",
+        "slug": "implementing-jobposting-schema-for-a-job-board",
+        "description": "A smaller set of properties you can actually keep accurate will outperform a \"complete\" schema block full of soft-filled or stale data over time, both for trust with Google and for your own sanity maintaining it. Here's what I learned implementing it across listing pages on a live job board, and why I ended up going with a minimal JobPosting + ItemList combination instead of the full schema Google's examples suggest.",
+        "summary": "A smaller set of properties you can actually keep accurate will outperform a \"complete\" schema block full of soft-filled or stale data over time, both for trust with Google and for your own sanity maintaining it. Here's what I learned implementing it across listing pages on a live job board, and why I ended up going with a minimal JobPosting + ItemList combination instead of the full schema Google's examples suggest.",
+        "link": "https://dev.to/sandystone/implementing-jobposting-schema-for-a-job-board-what-i-learned-1bcc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-03T08:09:12.000Z",
+        "keywords": [
+          "jobposting",
+          "schema",
+          "jobportal",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "jobposting",
+          "schema",
+          "jobportal"
+        ],
+        "pros": [
+          "Great for jobposting",
+          "schema-ready automation",
+          "Great for jobposting"
+        ],
+        "cons": [
+          "Overkill for jobposting experiments",
+          "Needs extra setup for schema workflows",
+          "Overkill for jobposting experiments"
+        ],
+        "highlights": [
+          "It's one of the more verbose schema types out there, with a long list of \"recommended\" properties that all seem mandatory until you actually read the fine print.",
+          "Google Search Console's \"Enhancement\" reports lag behind actual crawling by days, sometimes longer.",
+          "I implemented this on JobGrin, an Indian job portal, happy to answer questions if you're working through the same thing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-2mah",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-03T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The good, the",
+        "slug": "the-good-the",
+        "description": "Ryan welcomes Benny Chen, co-founder of Fireworks AI, to the show to explore what actually makes an AI application good or not, how to balance qualitative signals with quantitative metrics when evaluating AI, and how open-source eval protocols and community efforts are setting the standard for AI evaluation.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‌​‌‍‌​​ ​​​ ​‌​ ‌ ​ ‌‌‌‍‌‍​ ‌​​‍ ‌​ ‌​​ ​​‌‍​‌​ ‍​​‍ ‌​ ‌​​ ‌ ‌‍‌‌‌‍​‍​‍ ‌​ ‍‌‌‍​‍‌‍​‍​ ​ ​‍ ‌‌‍​‌​ ‌​​ ‌‌​ ​ ‌‍​‍​ ​ ​ ​‍​ ‌‍‌‍​‌‌‍​‌​ ‌ ‌‍‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‌​‌‍‌​​ ​​​ ​‌​ ‌ ​ ‌‌‌‍‌‍​ ‌​​‍ ‌​ ‌​​ ​​‌‍​‌​ ‍​​‍ ‌​ ‌​​ ‌ ‌‍‌‌‌‍​‍​‍ ‌​ ‍‌‌‍​‍‌‍​‍​ ​ ​‍ ‌‌‍​‌​ ‌​​ ‌‌​ ​ ‌‍​‍​ ​ ​ ​‍​ ‌‍‌‍​‌‌‍​‌​ ‌ ‌‍‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "Ryan welcomes Benny Chen, co-founder of Fireworks AI, to the show to explore what actually makes an AI application good or not, how to balance qualitative signals with quantitative metrics when evaluating AI, and how open-source eval protocols and community efforts are setting the standard for AI evaluation.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‌​‌‍‌​​ ​​​ ​‌​ ‌ ​ ‌‌‌‍‌‍​ ‌​​‍ ‌​ ‌​​ ​​‌‍​‌​ ‍​​‍ ‌​ ‌​​ ‌ ‌‍‌‌‌‍​‍​‍ ‌​ ‍‌‌‍​‍‌‍​‍​ ​ ​‍ ‌‌‍​‌​ ‌​​ ‌‌​ ​ ‌‍​‍​ ​ ​ ​‍​ ‌‍‌‍​‌‌‍​‌​ ‌ ‌‍‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‌​‌‍‌​​ ​​​ ​‌​ ‌ ​ ‌‌‌‍‌‍​ ‌​​‍ ‌​ ‌​​ ​​‌‍​‌​ ‍​​‍ ‌​ ‌​​ ‌ ‌‍‌‌‌‍​‍​‍ ‌​ ‍‌‌‍​‍‌‍​‍​ ​ ​‍ ‌‌‍​‌​ ‌​​ ‌‌​ ​ ‌‍​‍​ ​ ​ ​‍​ ‌‍‌‍​‌‌‍​‌​ ‌ ‌‍‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/07/03/the-good-the-bad-and-the-ai-apps/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-07-03T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "open-source",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built 30 AI Prompts for Marketers & Copywriters",
+        "slug": "i-built-30-ai-prompts-for-marketers-copywriters",
+        "description": "Every prompt is copy-paste ready for ChatGPT, Claude, or any AI.</p> <h2> Why This Pack Exists </h2> <p>I've run marketing for 3 years across SaaS, e-commerce, and info products. I Built 30 AI Prompts for Marketers & Copywriters — Every Prompt Tested in Real Campaigns Marketers and copywriters: stop staring at blank screens.",
+        "summary": "Every prompt is copy-paste ready for ChatGPT, Claude, or any AI.</p> <h2> Why This Pack Exists </h2> <p>I've run marketing for 3 years across SaaS, e-commerce, and info products. I Built 30 AI Prompts for Marketers & Copywriters — Every Prompt Tested in Real Campaigns Marketers and copywriters: stop staring at blank screens.",
+        "link": "https://dev.to/the_aiproducer_5ec354687/i-built-30-ai-prompts-for-marketers-copywriters-every-prompt-tested-in-real-campaigns-4jm7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-03T07:36:32.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "opensource",
+          "ai",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "opensource"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Every prompt is copy-paste ready for ChatGPT, Claude, or any AI.</p> <h2> Why This Pack Exists </h2> <p>I've run marketing for 3 years across SaaS, e-commerce, and info products.",
+          "I Built 30 AI Prompts for Marketers & Copywriters — Every Prompt Tested in Real Campaigns Marketers and copywriters: stop staring at blank screens.",
+          "I've battle-tested 30 AI prompts across real campaigns — from hook-heavy headlines to objection-crushing ad copy."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-07-03T08:40:40.302Z",
+    "lastUpdated": "2026-07-03T08:40:40.302Z",
+    "visibleDate": "Jul 3, 2026",
+    "url": "pages/2026-07-03-084040302-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-07-03-084040302-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Speakr v0.8.19",
+      "Implementing JobPosting Schema for a Job Board",
+      "16 Free Forex"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Speakr v0.8.19, Implementing JobPosting Schema for a Job Board, 16",
+    "tools": [
+      {
+        "name": "Speakr v0.8.19",
+        "slug": "speakr-v0-8-19",
+        "description": "What it actually gives you is a REST API in front of Whisper or faster-whisper, a persistent job queue so uploads don't block, speaker diarization hooks via pyannote.audio, and a minimal web UI for one-off uploads. The part that bites most people first isn't the GPU config — it's that Speakr v0.8.19 will happily pull a 3GB model file at container startup if it doesn't find the expected cache layout inside /models.",
+        "summary": "What it actually gives you is a REST API in front of Whisper or faster-whisper, a persistent job queue so uploads don't block, speaker diarization hooks via pyannote.audio, and a minimal web UI for one-off uploads. The part that bites most people first isn't the GPU config — it's that Speakr v0.8.19 will happily pull a 3GB model file at container startup if it doesn't find the expected cache layout inside /models.",
+        "link": "https://dev.to/ericwoooo_kr/speakr-v0819-what-actually-changed-and-whether-its-worth-upgrading-your-self-hosted-5aic",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-03T08:10:10.000Z",
+        "keywords": [
+          "docker",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "docker",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for docker",
+          "productivity-ready automation",
+          "Great for docker"
+        ],
+        "cons": [
+          "Overkill for docker experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for docker experiments"
+        ],
+        "highlights": [
+          "AssemblyAI and Deepgram both bill per audio-minute, which sounds reasonable until your podcast archive hits four figures in hours, or you're running a legal firm that transcribes depositions daily.",
+          "One more failure mode that shows up specifically on long audio files: Speakr's upload endpoint accepts the file fine, but the transcription takes longer than your reverse proxy's read timeout.",
+          "Alternatives Cloud transcription pricing has a nasty compounding effect: you don't notice it until you're processing a backlog of three-hour interview recordings and the monthly invoice arrives."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Implementing JobPosting Schema for a Job Board",
+        "slug": "implementing-jobposting-schema-for-a-job-board",
+        "description": "A smaller set of properties you can actually keep accurate will outperform a \"complete\" schema block full of soft-filled or stale data over time, both for trust with Google and for your own sanity maintaining it. Here's what I learned implementing it across listing pages on a live job board, and why I ended up going with a minimal JobPosting + ItemList combination instead of the full schema Google's examples suggest.",
+        "summary": "A smaller set of properties you can actually keep accurate will outperform a \"complete\" schema block full of soft-filled or stale data over time, both for trust with Google and for your own sanity maintaining it. Here's what I learned implementing it across listing pages on a live job board, and why I ended up going with a minimal JobPosting + ItemList combination instead of the full schema Google's examples suggest.",
+        "link": "https://dev.to/sandystone/implementing-jobposting-schema-for-a-job-board-what-i-learned-1bcc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-03T08:09:12.000Z",
+        "keywords": [
+          "jobposting",
+          "schema",
+          "jobportal",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "jobposting",
+          "schema",
+          "jobportal"
+        ],
+        "pros": [
+          "Great for jobposting",
+          "schema-ready automation",
+          "Great for jobposting"
+        ],
+        "cons": [
+          "Overkill for jobposting experiments",
+          "Needs extra setup for schema workflows",
+          "Overkill for jobposting experiments"
+        ],
+        "highlights": [
+          "It's one of the more verbose schema types out there, with a long list of \"recommended\" properties that all seem mandatory until you actually read the fine print.",
+          "Google Search Console's \"Enhancement\" reports lag behind actual crawling by days, sometimes longer.",
+          "I implemented this on JobGrin, an Indian job portal, happy to answer questions if you're working through the same thing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-2mah",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-03T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The good, the",
+        "slug": "the-good-the",
+        "description": "Ryan welcomes Benny Chen, co-founder of Fireworks AI, to the show to explore what actually makes an AI application good or not, how to balance qualitative signals with quantitative metrics when evaluating AI, and how open-source eval protocols and community efforts are setting the standard for AI evaluation.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‌​‌‍‌​​ ​​​ ​‌​ ‌ ​ ‌‌‌‍‌‍​ ‌​​‍ ‌​ ‌​​ ​​‌‍​‌​ ‍​​‍ ‌​ ‌​​ ‌ ‌‍‌‌‌‍​‍​‍ ‌​ ‍‌‌‍​‍‌‍​‍​ ​ ​‍ ‌‌‍​‌​ ‌​​ ‌‌​ ​ ‌‍​‍​ ​ ​ ​‍​ ‌‍‌‍​‌‌‍​‌​ ‌ ‌‍‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‌​‌‍‌​​ ​​​ ​‌​ ‌ ​ ‌‌‌‍‌‍​ ‌​​‍ ‌​ ‌​​ ​​‌‍​‌​ ‍​​‍ ‌​ ‌​​ ‌ ‌‍‌‌‌‍​‍​‍ ‌​ ‍‌‌‍​‍‌‍​‍​ ​ ​‍ ‌‌‍​‌​ ‌​​ ‌‌​ ​ ‌‍​‍​ ​ ​ ​‍​ ‌‍‌‍​‌‌‍​‌​ ‌ ‌‍‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "Ryan welcomes Benny Chen, co-founder of Fireworks AI, to the show to explore what actually makes an AI application good or not, how to balance qualitative signals with quantitative metrics when evaluating AI, and how open-source eval protocols and community efforts are setting the standard for AI evaluation.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‌​‌‍‌​​ ​​​ ​‌​ ‌ ​ ‌‌‌‍‌‍​ ‌​​‍ ‌​ ‌​​ ​​‌‍​‌​ ‍​​‍ ‌​ ‌​​ ‌ ‌‍‌‌‌‍​‍​‍ ‌​ ‍‌‌‍​‍‌‍​‍​ ​ ​‍ ‌‌‍​‌​ ‌​​ ‌‌​ ​ ‌‍​‍​ ​ ​ ​‍​ ‌‍‌‍​‌‌‍​‌​ ‌ ‌‍‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‌​‌‍‌​​ ​​​ ​‌​ ‌ ​ ‌‌‌‍‌‍​ ‌​​‍ ‌​ ‌​​ ​​‌‍​‌​ ‍​​‍ ‌​ ‌​​ ‌ ‌‍‌‌‌‍​‍​‍ ‌​ ‍‌‌‍​‍‌‍​‍​ ​ ​‍ ‌‌‍​‌​ ‌​​ ‌‌​ ​ ‌‍​‍​ ​ ​ ​‍​ ‌‍‌‍​‌‌‍​‌​ ‌ ‌‍‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/07/03/the-good-the-bad-and-the-ai-apps/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-07-03T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "open-source",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-07-03T08:40:40.302Z",
+    "lastUpdated": "2026-07-03T08:40:40.302Z",
+    "visibleDate": "Jul 3, 2026",
+    "url": "pages/2026-07-03-084040302-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-07-03-084040302-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Speakr v0.8.19",
+      "Implementing JobPosting Schema for a Job Board"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Speakr v0.8.19, Implementing JobPosting Schema fo",
+    "tools": [
+      {
+        "name": "Speakr v0.8.19",
+        "slug": "speakr-v0-8-19",
+        "description": "What it actually gives you is a REST API in front of Whisper or faster-whisper, a persistent job queue so uploads don't block, speaker diarization hooks via pyannote.audio, and a minimal web UI for one-off uploads. The part that bites most people first isn't the GPU config — it's that Speakr v0.8.19 will happily pull a 3GB model file at container startup if it doesn't find the expected cache layout inside /models.",
+        "summary": "What it actually gives you is a REST API in front of Whisper or faster-whisper, a persistent job queue so uploads don't block, speaker diarization hooks via pyannote.audio, and a minimal web UI for one-off uploads. The part that bites most people first isn't the GPU config — it's that Speakr v0.8.19 will happily pull a 3GB model file at container startup if it doesn't find the expected cache layout inside /models.",
+        "link": "https://dev.to/ericwoooo_kr/speakr-v0819-what-actually-changed-and-whether-its-worth-upgrading-your-self-hosted-5aic",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-03T08:10:10.000Z",
+        "keywords": [
+          "docker",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "docker",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for docker",
+          "productivity-ready automation",
+          "Great for docker"
+        ],
+        "cons": [
+          "Overkill for docker experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for docker experiments"
+        ],
+        "highlights": [
+          "AssemblyAI and Deepgram both bill per audio-minute, which sounds reasonable until your podcast archive hits four figures in hours, or you're running a legal firm that transcribes depositions daily.",
+          "One more failure mode that shows up specifically on long audio files: Speakr's upload endpoint accepts the file fine, but the transcription takes longer than your reverse proxy's read timeout.",
+          "Alternatives Cloud transcription pricing has a nasty compounding effect: you don't notice it until you're processing a backlog of three-hour interview recordings and the monthly invoice arrives."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Implementing JobPosting Schema for a Job Board",
+        "slug": "implementing-jobposting-schema-for-a-job-board",
+        "description": "A smaller set of properties you can actually keep accurate will outperform a \"complete\" schema block full of soft-filled or stale data over time, both for trust with Google and for your own sanity maintaining it. Here's what I learned implementing it across listing pages on a live job board, and why I ended up going with a minimal JobPosting + ItemList combination instead of the full schema Google's examples suggest.",
+        "summary": "A smaller set of properties you can actually keep accurate will outperform a \"complete\" schema block full of soft-filled or stale data over time, both for trust with Google and for your own sanity maintaining it. Here's what I learned implementing it across listing pages on a live job board, and why I ended up going with a minimal JobPosting + ItemList combination instead of the full schema Google's examples suggest.",
+        "link": "https://dev.to/sandystone/implementing-jobposting-schema-for-a-job-board-what-i-learned-1bcc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-03T08:09:12.000Z",
+        "keywords": [
+          "jobposting",
+          "schema",
+          "jobportal",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "jobposting",
+          "schema",
+          "jobportal"
+        ],
+        "pros": [
+          "Great for jobposting",
+          "schema-ready automation",
+          "Great for jobposting"
+        ],
+        "cons": [
+          "Overkill for jobposting experiments",
+          "Needs extra setup for schema workflows",
+          "Overkill for jobposting experiments"
+        ],
+        "highlights": [
+          "It's one of the more verbose schema types out there, with a long list of \"recommended\" properties that all seem mandatory until you actually read the fine print.",
+          "Google Search Console's \"Enhancement\" reports lag behind actual crawling by days, sometimes longer.",
+          "I implemented this on JobGrin, an Indian job portal, happy to answer questions if you're working through the same thing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-07-03T08:40:40.302Z",
+    "lastUpdated": "2026-07-03T08:40:40.302Z",
+    "visibleDate": "Jul 3, 2026",
+    "url": "pages/2026-07-03-084040302-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-07-03-084040302-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Speakr v0.8.19",
+      "Implementing JobPosting Schema for a Job Board",
+      "16 Free Forex"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Speakr v0.8.19, Implementing JobPosting Schema for a Job Board, 16 Free ",
+    "tools": [
+      {
+        "name": "Speakr v0.8.19",
+        "slug": "speakr-v0-8-19",
+        "description": "What it actually gives you is a REST API in front of Whisper or faster-whisper, a persistent job queue so uploads don't block, speaker diarization hooks via pyannote.audio, and a minimal web UI for one-off uploads. The part that bites most people first isn't the GPU config — it's that Speakr v0.8.19 will happily pull a 3GB model file at container startup if it doesn't find the expected cache layout inside /models.",
+        "summary": "What it actually gives you is a REST API in front of Whisper or faster-whisper, a persistent job queue so uploads don't block, speaker diarization hooks via pyannote.audio, and a minimal web UI for one-off uploads. The part that bites most people first isn't the GPU config — it's that Speakr v0.8.19 will happily pull a 3GB model file at container startup if it doesn't find the expected cache layout inside /models.",
+        "link": "https://dev.to/ericwoooo_kr/speakr-v0819-what-actually-changed-and-whether-its-worth-upgrading-your-self-hosted-5aic",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-03T08:10:10.000Z",
+        "keywords": [
+          "docker",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "docker",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for docker",
+          "productivity-ready automation",
+          "Great for docker"
+        ],
+        "cons": [
+          "Overkill for docker experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for docker experiments"
+        ],
+        "highlights": [
+          "AssemblyAI and Deepgram both bill per audio-minute, which sounds reasonable until your podcast archive hits four figures in hours, or you're running a legal firm that transcribes depositions daily.",
+          "One more failure mode that shows up specifically on long audio files: Speakr's upload endpoint accepts the file fine, but the transcription takes longer than your reverse proxy's read timeout.",
+          "Alternatives Cloud transcription pricing has a nasty compounding effect: you don't notice it until you're processing a backlog of three-hour interview recordings and the monthly invoice arrives."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Implementing JobPosting Schema for a Job Board",
+        "slug": "implementing-jobposting-schema-for-a-job-board",
+        "description": "A smaller set of properties you can actually keep accurate will outperform a \"complete\" schema block full of soft-filled or stale data over time, both for trust with Google and for your own sanity maintaining it. Here's what I learned implementing it across listing pages on a live job board, and why I ended up going with a minimal JobPosting + ItemList combination instead of the full schema Google's examples suggest.",
+        "summary": "A smaller set of properties you can actually keep accurate will outperform a \"complete\" schema block full of soft-filled or stale data over time, both for trust with Google and for your own sanity maintaining it. Here's what I learned implementing it across listing pages on a live job board, and why I ended up going with a minimal JobPosting + ItemList combination instead of the full schema Google's examples suggest.",
+        "link": "https://dev.to/sandystone/implementing-jobposting-schema-for-a-job-board-what-i-learned-1bcc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-03T08:09:12.000Z",
+        "keywords": [
+          "jobposting",
+          "schema",
+          "jobportal",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "jobposting",
+          "schema",
+          "jobportal"
+        ],
+        "pros": [
+          "Great for jobposting",
+          "schema-ready automation",
+          "Great for jobposting"
+        ],
+        "cons": [
+          "Overkill for jobposting experiments",
+          "Needs extra setup for schema workflows",
+          "Overkill for jobposting experiments"
+        ],
+        "highlights": [
+          "It's one of the more verbose schema types out there, with a long list of \"recommended\" properties that all seem mandatory until you actually read the fine print.",
+          "Google Search Console's \"Enhancement\" reports lag behind actual crawling by days, sometimes longer.",
+          "I implemented this on JobGrin, an Indian job portal, happy to answer questions if you're working through the same thing."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-2mah",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-03T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-07-02T08:35:53.561Z",
     "lastUpdated": "2026-07-02T08:35:53.561Z",
     "visibleDate": "Jul 2, 2026",

@@ -7,6 +7,691 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-07-05T08:33:34.530Z",
+    "lastUpdated": "2026-07-05T08:33:34.530Z",
+    "visibleDate": "Jul 5, 2026",
+    "url": "pages/2026-07-05-083334530-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-07-05-083334530-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The easiest way",
+      "16 Free Forex",
+      "How to Auto-Sum"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include The easiest way, 16 Free Forex, How to Auto-Sum. Productivity stacks that ",
+    "tools": [
+      {
+        "name": "The easiest way",
+        "slug": "the-easiest-way",
+        "description": "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3. You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+        "summary": "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3. You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+        "link": "https://dev.to/tiksssnettiktok/the-easiest-way-to-download-tiktoks-without-the-watermark-2if4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-05T08:32:56.000Z",
+        "keywords": [
+          "productivity",
+          "devops",
+          "ama",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "devops",
+          "ama"
+        ],
+        "pros": [
+          "Great for productivity",
+          "devops-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for devops workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+          "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+          "Drop a comment if you use something better, but for me, this has been an absolute lifesaver for saving my favorite clips!</p>"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-4h9b",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-05T08:00:33.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Auto-Sum",
+        "slug": "how-to-auto-sum",
+        "description": "Tablesmit calculates<br> the sum of all values in the column and places it in a styled total<br> row at the bottom of the table.</p> <p>The total carries through to every export format. In the LaTeX export it<br> appears as a final row before the closing \\hline.</p> <p>When any value in the column changes, the total updates automatically.<br> You do not manage it.",
+        "summary": "Tablesmit calculates<br> the sum of all values in the column and places it in a styled total<br> row at the bottom of the table.</p> <p>The total carries through to every export format. In the LaTeX export it<br> appears as a final row before the closing \\hline.</p> <p>When any value in the column changes, the total updates automatically.<br> You do not manage it.",
+        "link": "https://dev.to/olayiwola_akinnagbe/how-to-auto-sum-a-column-in-an-online-table-builder-dim",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-05T08:00:00.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "webdev",
+          "typescript",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "Tablesmit calculates<br> the sum of all values in the column and places it in a styled total<br> row at the bottom of the table.</p> <p>The total carries through to every export format.",
+          "It is<br> also easy to get wrong when numbers involve decimal precision.</p> <p>In Tablesmit, auto-sum works through column types.",
+          "In the LaTeX export it<br> appears as a final row before the closing \\hline.</p> <p>When any value in the column changes, the total updates automatically.<br> You do not manage it."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How Browser Based",
+        "slug": "how-browser-based",
+        "description": "Whether you're a student preparing assignments, a freelancer working with clients, or a business managing hundreds of PDF files every week, choosing the right online PDF platform can significantly improve your workflow. Common challenges include: Software installation and updates As more people move toward cloud based workflows, browser based tools have become a practical alternative for everyday PDF tasks.",
+        "summary": "Whether you're a student preparing assignments, a freelancer working with clients, or a business managing hundreds of PDF files every week, choosing the right online PDF platform can significantly improve your workflow. Common challenges include: Software installation and updates As more people move toward cloud based workflows, browser based tools have become a practical alternative for everyday PDF tasks.",
+        "link": "https://dev.to/pdfmentor/how-browser-based-pdf-tools-are-transforming-modern-document-workflows-18o2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-05T07:56:37.000Z",
+        "keywords": [
+          "productivity",
+          "software",
+          "freepdftool",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "software",
+          "freepdftool"
+        ],
+        "pros": [
+          "Great for productivity",
+          "software-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for software workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Common challenges include: Software installation and updates As more people move toward cloud based workflows, browser based tools have become a practical alternative for everyday PDF tasks.",
+          "Browser based PDF tools help individuals and organizations work more efficiently by removing unnecessary software installations while providing quick access to essential document features.",
+          "One example is PDFMentor, which provides browser based tools for editing, merging, splitting, compressing, converting, signing, protecting, and organizing PDF documents in one place."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Agent Skills",
+        "slug": "agent-skills",
+        "description": "ดู hooks ที่เพิ่มมา</span> <span class=\"nb\">cat</span> .claude/settings.json | <span class=\"nb\">grep</span> <span class=\"nt\">-A</span> 20 hooks </code></pre> </div> <h3> ติดตั้งแล้วอยู่ตรงไหน? Create timestamped SQL file in db/migrations/</span> <span class=\"s\">3.",
+        "summary": "ดู hooks ที่เพิ่มมา</span> <span class=\"nb\">cat</span> .claude/settings.json | <span class=\"nb\">grep</span> <span class=\"nt\">-A</span> 20 hooks </code></pre> </div> <h3> ติดตั้งแล้วอยู่ตรงไหน? Create timestamped SQL file in db/migrations/</span> <span class=\"s\">3.",
+        "link": "https://dev.to/gophernment/agent-skills-taxonomy-chbabsmbuurnkhng-claude-code-5g2k",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-05T07:48:22.000Z",
+        "keywords": [
+          "ai",
+          "claude",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "claude",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "claude-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for claude workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "ดู hooks ที่เพิ่มมา</span> <span class=\"nb\">cat</span> .claude/settings.json | <span class=\"nb\">grep</span> <span class=\"nt\">-A</span> 20 hooks </code></pre> </div> <h3> ติดตั้งแล้วอยู่ตรงไหน?",
+          "Create timestamped SQL file in db/migrations/</span> <span class=\"s\">3.",
+          "Ask for table name and fields</span> <span class=\"s\">2."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-07-05T08:33:34.530Z",
+    "lastUpdated": "2026-07-05T08:33:34.530Z",
+    "visibleDate": "Jul 5, 2026",
+    "url": "pages/2026-07-05-083334530-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-07-05-083334530-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The easiest way",
+      "16 Free Forex",
+      "How to Auto-Sum"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include The easiest way, 16 Free Forex, How to Auto-Sum. Reliable remote d",
+    "tools": [
+      {
+        "name": "The easiest way",
+        "slug": "the-easiest-way",
+        "description": "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3. You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+        "summary": "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3. You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+        "link": "https://dev.to/tiksssnettiktok/the-easiest-way-to-download-tiktoks-without-the-watermark-2if4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-05T08:32:56.000Z",
+        "keywords": [
+          "productivity",
+          "devops",
+          "ama",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "devops",
+          "ama"
+        ],
+        "pros": [
+          "Great for productivity",
+          "devops-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for devops workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+          "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+          "Drop a comment if you use something better, but for me, this has been an absolute lifesaver for saving my favorite clips!</p>"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-4h9b",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-05T08:00:33.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Auto-Sum",
+        "slug": "how-to-auto-sum",
+        "description": "Tablesmit calculates<br> the sum of all values in the column and places it in a styled total<br> row at the bottom of the table.</p> <p>The total carries through to every export format. In the LaTeX export it<br> appears as a final row before the closing \\hline.</p> <p>When any value in the column changes, the total updates automatically.<br> You do not manage it.",
+        "summary": "Tablesmit calculates<br> the sum of all values in the column and places it in a styled total<br> row at the bottom of the table.</p> <p>The total carries through to every export format. In the LaTeX export it<br> appears as a final row before the closing \\hline.</p> <p>When any value in the column changes, the total updates automatically.<br> You do not manage it.",
+        "link": "https://dev.to/olayiwola_akinnagbe/how-to-auto-sum-a-column-in-an-online-table-builder-dim",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-05T08:00:00.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "webdev",
+          "typescript",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "Tablesmit calculates<br> the sum of all values in the column and places it in a styled total<br> row at the bottom of the table.</p> <p>The total carries through to every export format.",
+          "It is<br> also easy to get wrong when numbers involve decimal precision.</p> <p>In Tablesmit, auto-sum works through column types.",
+          "In the LaTeX export it<br> appears as a final row before the closing \\hline.</p> <p>When any value in the column changes, the total updates automatically.<br> You do not manage it."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How Browser Based",
+        "slug": "how-browser-based",
+        "description": "Whether you're a student preparing assignments, a freelancer working with clients, or a business managing hundreds of PDF files every week, choosing the right online PDF platform can significantly improve your workflow. Common challenges include: Software installation and updates As more people move toward cloud based workflows, browser based tools have become a practical alternative for everyday PDF tasks.",
+        "summary": "Whether you're a student preparing assignments, a freelancer working with clients, or a business managing hundreds of PDF files every week, choosing the right online PDF platform can significantly improve your workflow. Common challenges include: Software installation and updates As more people move toward cloud based workflows, browser based tools have become a practical alternative for everyday PDF tasks.",
+        "link": "https://dev.to/pdfmentor/how-browser-based-pdf-tools-are-transforming-modern-document-workflows-18o2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-05T07:56:37.000Z",
+        "keywords": [
+          "productivity",
+          "software",
+          "freepdftool",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "software",
+          "freepdftool"
+        ],
+        "pros": [
+          "Great for productivity",
+          "software-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for software workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Common challenges include: Software installation and updates As more people move toward cloud based workflows, browser based tools have become a practical alternative for everyday PDF tasks.",
+          "Browser based PDF tools help individuals and organizations work more efficiently by removing unnecessary software installations while providing quick access to essential document features.",
+          "One example is PDFMentor, which provides browser based tools for editing, merging, splitting, compressing, converting, signing, protecting, and organizing PDF documents in one place."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-07-05T08:33:34.530Z",
+    "lastUpdated": "2026-07-05T08:33:34.530Z",
+    "visibleDate": "Jul 5, 2026",
+    "url": "pages/2026-07-05-083334530-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-07-05-083334530-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The easiest way",
+      "16 Free Forex"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include The easiest way, 16 Free Forex. Gitpod brings zer",
+    "tools": [
+      {
+        "name": "The easiest way",
+        "slug": "the-easiest-way",
+        "description": "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3. You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+        "summary": "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3. You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+        "link": "https://dev.to/tiksssnettiktok/the-easiest-way-to-download-tiktoks-without-the-watermark-2if4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-05T08:32:56.000Z",
+        "keywords": [
+          "productivity",
+          "devops",
+          "ama",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "devops",
+          "ama"
+        ],
+        "pros": [
+          "Great for productivity",
+          "devops-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for devops workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+          "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+          "Drop a comment if you use something better, but for me, this has been an absolute lifesaver for saving my favorite clips!</p>"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-4h9b",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-05T08:00:33.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-07-05T08:33:34.530Z",
+    "lastUpdated": "2026-07-05T08:33:34.530Z",
+    "visibleDate": "Jul 5, 2026",
+    "url": "pages/2026-07-05-083334530-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-07-05-083334530-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The easiest way",
+      "16 Free Forex",
+      "How to Auto-Sum"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include The easiest way, 16 Free Forex, How to Auto-Sum. New launches that are s",
+    "tools": [
+      {
+        "name": "The easiest way",
+        "slug": "the-easiest-way",
+        "description": "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3. You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+        "summary": "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3. You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+        "link": "https://dev.to/tiksssnettiktok/the-easiest-way-to-download-tiktoks-without-the-watermark-2if4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-05T08:32:56.000Z",
+        "keywords": [
+          "productivity",
+          "devops",
+          "ama",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "devops",
+          "ama"
+        ],
+        "pros": [
+          "Great for productivity",
+          "devops-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for devops workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+          "You literally just paste the link and hit download—no sign-up, no hidden fees, and you can even grab the audio as a standalone MP3.",
+          "Drop a comment if you use something better, but for me, this has been an absolute lifesaver for saving my favorite clips!</p>"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-4h9b",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-05T08:00:33.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Auto-Sum",
+        "slug": "how-to-auto-sum",
+        "description": "Tablesmit calculates<br> the sum of all values in the column and places it in a styled total<br> row at the bottom of the table.</p> <p>The total carries through to every export format. In the LaTeX export it<br> appears as a final row before the closing \\hline.</p> <p>When any value in the column changes, the total updates automatically.<br> You do not manage it.",
+        "summary": "Tablesmit calculates<br> the sum of all values in the column and places it in a styled total<br> row at the bottom of the table.</p> <p>The total carries through to every export format. In the LaTeX export it<br> appears as a final row before the closing \\hline.</p> <p>When any value in the column changes, the total updates automatically.<br> You do not manage it.",
+        "link": "https://dev.to/olayiwola_akinnagbe/how-to-auto-sum-a-column-in-an-online-table-builder-dim",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-05T08:00:00.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "webdev",
+          "typescript",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "Tablesmit calculates<br> the sum of all values in the column and places it in a styled total<br> row at the bottom of the table.</p> <p>The total carries through to every export format.",
+          "It is<br> also easy to get wrong when numbers involve decimal precision.</p> <p>In Tablesmit, auto-sum works through column types.",
+          "In the LaTeX export it<br> appears as a final row before the closing \\hline.</p> <p>When any value in the column changes, the total updates automatically.<br> You do not manage it."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-07-04T08:14:46.049Z",
     "lastUpdated": "2026-07-04T08:14:46.049Z",
     "visibleDate": "Jul 4, 2026",

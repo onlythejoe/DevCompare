@@ -7,6 +7,691 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-07-06T09:45:55.832Z",
+    "lastUpdated": "2026-07-06T09:45:55.832Z",
+    "visibleDate": "Jul 6, 2026",
+    "url": "pages/2026-07-06-094555832-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-07-06-094555832-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Free PDF Compressor & PDF Merger in 2026 (No Limits)",
+      "Why Your HTTP",
+      "How to Test"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Best Free PDF Compressor & PDF Merger in 2026 (No Limits), Why Your HTTP, ",
+    "tools": [
+      {
+        "name": "Best Free PDF Compressor & PDF Merger in 2026 (No Limits)",
+        "slug": "best-free-pdf-compressor-pdf-merger-in-2026-no-limits",
+        "description": "Here are the 7 essential tools in their PDF suite: PDF Merger & PDF Splitter Advanced Feature: Visual drag-and-drop interface allowing you to reorder pages before merging, or select specific page ranges to extract. Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+        "summary": "Here are the 7 essential tools in their PDF suite: PDF Merger & PDF Splitter Advanced Feature: Visual drag-and-drop interface allowing you to reorder pages before merging, or select specific page ranges to extract. Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+        "link": "https://dev.to/ajay_kumar_a1b062d94e22dc/best-free-pdf-compressor-pdf-merger-in-2026-no-limits-freeclienttoolbox-ni1",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-06T09:41:35.000Z",
+        "keywords": [
+          "productivity",
+          "privacy",
+          "tools",
+          "lifehacks",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "privacy",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "privacy-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+          "</p> <p>Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+          "PDF Compressor Advanced Feature: Adjusts DPI and image quality within the PDF to shrink file sizes massively, ensuring it passes strict email attachment limits."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why Your HTTP",
+        "slug": "why-your-http",
+        "description": "If you set a long max-age and then later need to run a subdomain over plain HTTP for some reason, users who already cached the HSTS policy simply can't reach it until the policy expires, no matter what your server does. A payment widget or an identity verification vendor often needs camera or publickey-credentials-get passed through explicitly, because permissions don't propagate to iframes by default under a restrictive policy.",
+        "summary": "If you set a long max-age and then later need to run a subdomain over plain HTTP for some reason, users who already cached the HSTS policy simply can't reach it until the policy expires, no matter what your server does. A payment widget or an identity verification vendor often needs camera or publickey-credentials-get passed through explicitly, because permissions don't propagate to iframes by default under a restrictive policy.",
+        "link": "https://dev.to/evvytools/why-your-http-security-headers-affect-more-than-your-security-score-226",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-06T09:14:29.000Z",
+        "keywords": [
+          "webdev",
+          "security",
+          "seo",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "security",
+          "seo"
+        ],
+        "pros": [
+          "Great for webdev",
+          "security-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Set it too permissively and you might be leaking full query-string URLs, including anything sensitive that ended up in a URL parameter, to third-party sites your users click through to.",
+          "Set it too permissively and you might be leaking full query-string URLs, including anything sensitive that ended up in a URL parameter, to third-party sites your users click through to.",
+          "Debugging that is annoying precisely because the page looks fine, nothing throws a console error a casual glance would catch, and the feature just doesn't work."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Test",
+        "slug": "how-to-test",
+        "description": "If you don't have production data handy, the next best option is user-submitted content that's already messy by nature: free-text form fields, uploaded filenames, or copy-pasted URLs with tracking parameters attached. This test costs a few minutes and catches a class of bug that's genuinely dangerous if the pattern ever runs against anything a user controls, like a search box, a filter, or a custom validation rule.",
+        "summary": "If you don't have production data handy, the next best option is user-submitted content that's already messy by nature: free-text form fields, uploaded filenames, or copy-pasted URLs with tracking parameters attached. This test costs a few minutes and catches a class of bug that's genuinely dangerous if the pattern ever runs against anything a user controls, like a search box, a filter, or a custom validation rule.",
+        "link": "https://dev.to/evvytools/how-to-test-a-wildcard-pattern-before-you-ship-it-not-after-dl0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-06T09:14:28.000Z",
+        "keywords": [
+          "regex",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "regex",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for regex",
+          "webdev-ready automation",
+          "Great for regex"
+        ],
+        "cons": [
+          "Overkill for regex experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for regex experiments"
+        ],
+        "highlights": [
+          "A plain text file with one example per line, prefixed with MATCH or NO-MATCH, takes two minutes to create and becomes the seed for the automated test suite described further down.",
+          "Patterns that guard anything security-relevant, like input sanitization or auth token formats, benefit from this most, since a silent regression there is the kind of bug that doesn't announce itself.",
+          "A plain text file with one example per line, prefixed with MATCH or NO-MATCH, takes two minutes to create and becomes the seed for the automated test suite described further down."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "10 Documentation Mistakes",
+        "slug": "10-documentation-mistakes",
+        "description": "Good documentation is what helps everyone else understand and maintain that code.</p> <p>Unfortunately, documentation is often treated as an afterthought. Missing Architecture Diagrams </h3> <p>Simple visuals often communicate system design better than long paragraphs.</p> <h3> 7.",
+        "summary": "Good documentation is what helps everyone else understand and maintain that code.</p> <p>Unfortunately, documentation is often treated as an afterthought. Missing Architecture Diagrams </h3> <p>Simple visuals often communicate system design better than long paragraphs.</p> <h3> 7.",
+        "link": "https://dev.to/priyanshi_m_d195792bc9ee1/10-documentation-mistakes-that-slow-down-development-teams-1mnc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-06T09:11:04.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "discuss",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "discuss"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Good documentation is what helps everyone else understand and maintain that code.</p> <p>Unfortunately, documentation is often treated as an afterthought.",
+          "Missing Architecture Diagrams </h3> <p>Simple visuals often communicate system design better than long paragraphs.</p> <h3> 7.",
+          "Choosing Tools Nobody Wants to Use </h3> <p>The best documentation platform is the one your team updates consistently."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Outil de Cybersécurité du Jour",
+        "slug": "outil-de-cybers-curit-du-jour",
+        "description": "Wireshark est un outil puissant et polyvalent pour l'analyse du trafic réseau, offrant aux professionnels de la cybersécurité une visibilité essentielle pour détecter et prévenir les menaces en ligne. Pour maîtriser pleinement Wireshark et d'autres outils de cybersécurité, je vous recommande de consulter les manuels gratuits de CyberMaîtrise sur notre site web.",
+        "summary": "Wireshark est un outil puissant et polyvalent pour l'analyse du trafic réseau, offrant aux professionnels de la cybersécurité une visibilité essentielle pour détecter et prévenir les menaces en ligne. Pour maîtriser pleinement Wireshark et d'autres outils de cybersécurité, je vous recommande de consulter les manuels gratuits de CyberMaîtrise sur notre site web.",
+        "link": "https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-jul-6-2026-f38",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-06T09:01:14.000Z",
+        "keywords": [
+          "cybersecurity",
+          "security",
+          "tools",
+          "technology",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "cybersecurity",
+          "security",
+          "tools"
+        ],
+        "pros": [
+          "Great for cybersecurity",
+          "security-ready automation",
+          "Great for cybersecurity"
+        ],
+        "cons": [
+          "Overkill for cybersecurity experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for cybersecurity experiments"
+        ],
+        "highlights": [
+          "Pour maîtriser pleinement Wireshark et d'autres outils de cybersécurité, je vous recommande de consulter les manuels gratuits de CyberMaîtrise sur notre site web.",
+          "Filtrage puissant : Il propose des filtres personnalisés pour cibler spécifiquement les paquets qui nous intéressent, ce qui facilite l'analyse des données.",
+          "Avec ses fonctionnalités avancées, Wireshark est un outil indispensable pour détecter les anomalies, les intrusions et les attaques potentielles sur un réseau."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-07-06T09:45:55.832Z",
+    "lastUpdated": "2026-07-06T09:45:55.832Z",
+    "visibleDate": "Jul 6, 2026",
+    "url": "pages/2026-07-06-094555832-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-07-06-094555832-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Free PDF Compressor & PDF Merger in 2026 (No Limits)",
+      "Why Your HTTP",
+      "How to Test"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Best Free PDF Compressor & PDF Merger in 2026 (No Limits), Why You",
+    "tools": [
+      {
+        "name": "Best Free PDF Compressor & PDF Merger in 2026 (No Limits)",
+        "slug": "best-free-pdf-compressor-pdf-merger-in-2026-no-limits",
+        "description": "Here are the 7 essential tools in their PDF suite: PDF Merger & PDF Splitter Advanced Feature: Visual drag-and-drop interface allowing you to reorder pages before merging, or select specific page ranges to extract. Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+        "summary": "Here are the 7 essential tools in their PDF suite: PDF Merger & PDF Splitter Advanced Feature: Visual drag-and-drop interface allowing you to reorder pages before merging, or select specific page ranges to extract. Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+        "link": "https://dev.to/ajay_kumar_a1b062d94e22dc/best-free-pdf-compressor-pdf-merger-in-2026-no-limits-freeclienttoolbox-ni1",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-06T09:41:35.000Z",
+        "keywords": [
+          "productivity",
+          "privacy",
+          "tools",
+          "lifehacks",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "privacy",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "privacy-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+          "</p> <p>Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+          "PDF Compressor Advanced Feature: Adjusts DPI and image quality within the PDF to shrink file sizes massively, ensuring it passes strict email attachment limits."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why Your HTTP",
+        "slug": "why-your-http",
+        "description": "If you set a long max-age and then later need to run a subdomain over plain HTTP for some reason, users who already cached the HSTS policy simply can't reach it until the policy expires, no matter what your server does. A payment widget or an identity verification vendor often needs camera or publickey-credentials-get passed through explicitly, because permissions don't propagate to iframes by default under a restrictive policy.",
+        "summary": "If you set a long max-age and then later need to run a subdomain over plain HTTP for some reason, users who already cached the HSTS policy simply can't reach it until the policy expires, no matter what your server does. A payment widget or an identity verification vendor often needs camera or publickey-credentials-get passed through explicitly, because permissions don't propagate to iframes by default under a restrictive policy.",
+        "link": "https://dev.to/evvytools/why-your-http-security-headers-affect-more-than-your-security-score-226",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-06T09:14:29.000Z",
+        "keywords": [
+          "webdev",
+          "security",
+          "seo",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "security",
+          "seo"
+        ],
+        "pros": [
+          "Great for webdev",
+          "security-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Set it too permissively and you might be leaking full query-string URLs, including anything sensitive that ended up in a URL parameter, to third-party sites your users click through to.",
+          "Set it too permissively and you might be leaking full query-string URLs, including anything sensitive that ended up in a URL parameter, to third-party sites your users click through to.",
+          "Debugging that is annoying precisely because the page looks fine, nothing throws a console error a casual glance would catch, and the feature just doesn't work."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Test",
+        "slug": "how-to-test",
+        "description": "If you don't have production data handy, the next best option is user-submitted content that's already messy by nature: free-text form fields, uploaded filenames, or copy-pasted URLs with tracking parameters attached. This test costs a few minutes and catches a class of bug that's genuinely dangerous if the pattern ever runs against anything a user controls, like a search box, a filter, or a custom validation rule.",
+        "summary": "If you don't have production data handy, the next best option is user-submitted content that's already messy by nature: free-text form fields, uploaded filenames, or copy-pasted URLs with tracking parameters attached. This test costs a few minutes and catches a class of bug that's genuinely dangerous if the pattern ever runs against anything a user controls, like a search box, a filter, or a custom validation rule.",
+        "link": "https://dev.to/evvytools/how-to-test-a-wildcard-pattern-before-you-ship-it-not-after-dl0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-06T09:14:28.000Z",
+        "keywords": [
+          "regex",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "regex",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for regex",
+          "webdev-ready automation",
+          "Great for regex"
+        ],
+        "cons": [
+          "Overkill for regex experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for regex experiments"
+        ],
+        "highlights": [
+          "A plain text file with one example per line, prefixed with MATCH or NO-MATCH, takes two minutes to create and becomes the seed for the automated test suite described further down.",
+          "Patterns that guard anything security-relevant, like input sanitization or auth token formats, benefit from this most, since a silent regression there is the kind of bug that doesn't announce itself.",
+          "A plain text file with one example per line, prefixed with MATCH or NO-MATCH, takes two minutes to create and becomes the seed for the automated test suite described further down."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "10 Documentation Mistakes",
+        "slug": "10-documentation-mistakes",
+        "description": "Good documentation is what helps everyone else understand and maintain that code.</p> <p>Unfortunately, documentation is often treated as an afterthought. Missing Architecture Diagrams </h3> <p>Simple visuals often communicate system design better than long paragraphs.</p> <h3> 7.",
+        "summary": "Good documentation is what helps everyone else understand and maintain that code.</p> <p>Unfortunately, documentation is often treated as an afterthought. Missing Architecture Diagrams </h3> <p>Simple visuals often communicate system design better than long paragraphs.</p> <h3> 7.",
+        "link": "https://dev.to/priyanshi_m_d195792bc9ee1/10-documentation-mistakes-that-slow-down-development-teams-1mnc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-06T09:11:04.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "discuss",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "discuss"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Good documentation is what helps everyone else understand and maintain that code.</p> <p>Unfortunately, documentation is often treated as an afterthought.",
+          "Missing Architecture Diagrams </h3> <p>Simple visuals often communicate system design better than long paragraphs.</p> <h3> 7.",
+          "Choosing Tools Nobody Wants to Use </h3> <p>The best documentation platform is the one your team updates consistently."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-07-06T09:45:55.832Z",
+    "lastUpdated": "2026-07-06T09:45:55.832Z",
+    "visibleDate": "Jul 6, 2026",
+    "url": "pages/2026-07-06-094555832-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-07-06-094555832-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Free PDF Compressor & PDF Merger in 2026 (No Limits)",
+      "Why Your HTTP"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Best Free PDF Compressor & PDF Merger in 2026 (No",
+    "tools": [
+      {
+        "name": "Best Free PDF Compressor & PDF Merger in 2026 (No Limits)",
+        "slug": "best-free-pdf-compressor-pdf-merger-in-2026-no-limits",
+        "description": "Here are the 7 essential tools in their PDF suite: PDF Merger & PDF Splitter Advanced Feature: Visual drag-and-drop interface allowing you to reorder pages before merging, or select specific page ranges to extract. Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+        "summary": "Here are the 7 essential tools in their PDF suite: PDF Merger & PDF Splitter Advanced Feature: Visual drag-and-drop interface allowing you to reorder pages before merging, or select specific page ranges to extract. Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+        "link": "https://dev.to/ajay_kumar_a1b062d94e22dc/best-free-pdf-compressor-pdf-merger-in-2026-no-limits-freeclienttoolbox-ni1",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-06T09:41:35.000Z",
+        "keywords": [
+          "productivity",
+          "privacy",
+          "tools",
+          "lifehacks",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "privacy",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "privacy-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+          "</p> <p>Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+          "PDF Compressor Advanced Feature: Adjusts DPI and image quality within the PDF to shrink file sizes massively, ensuring it passes strict email attachment limits."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why Your HTTP",
+        "slug": "why-your-http",
+        "description": "If you set a long max-age and then later need to run a subdomain over plain HTTP for some reason, users who already cached the HSTS policy simply can't reach it until the policy expires, no matter what your server does. A payment widget or an identity verification vendor often needs camera or publickey-credentials-get passed through explicitly, because permissions don't propagate to iframes by default under a restrictive policy.",
+        "summary": "If you set a long max-age and then later need to run a subdomain over plain HTTP for some reason, users who already cached the HSTS policy simply can't reach it until the policy expires, no matter what your server does. A payment widget or an identity verification vendor often needs camera or publickey-credentials-get passed through explicitly, because permissions don't propagate to iframes by default under a restrictive policy.",
+        "link": "https://dev.to/evvytools/why-your-http-security-headers-affect-more-than-your-security-score-226",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-06T09:14:29.000Z",
+        "keywords": [
+          "webdev",
+          "security",
+          "seo",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "security",
+          "seo"
+        ],
+        "pros": [
+          "Great for webdev",
+          "security-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Set it too permissively and you might be leaking full query-string URLs, including anything sensitive that ended up in a URL parameter, to third-party sites your users click through to.",
+          "Set it too permissively and you might be leaking full query-string URLs, including anything sensitive that ended up in a URL parameter, to third-party sites your users click through to.",
+          "Debugging that is annoying precisely because the page looks fine, nothing throws a console error a casual glance would catch, and the feature just doesn't work."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-07-06T09:45:55.832Z",
+    "lastUpdated": "2026-07-06T09:45:55.832Z",
+    "visibleDate": "Jul 6, 2026",
+    "url": "pages/2026-07-06-094555832-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-07-06-094555832-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Free PDF Compressor & PDF Merger in 2026 (No Limits)",
+      "Why Your HTTP",
+      "How to Test"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Best Free PDF Compressor & PDF Merger in 2026 (No Limits), Why Your HTTP",
+    "tools": [
+      {
+        "name": "Best Free PDF Compressor & PDF Merger in 2026 (No Limits)",
+        "slug": "best-free-pdf-compressor-pdf-merger-in-2026-no-limits",
+        "description": "Here are the 7 essential tools in their PDF suite: PDF Merger & PDF Splitter Advanced Feature: Visual drag-and-drop interface allowing you to reorder pages before merging, or select specific page ranges to extract. Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+        "summary": "Here are the 7 essential tools in their PDF suite: PDF Merger & PDF Splitter Advanced Feature: Visual drag-and-drop interface allowing you to reorder pages before merging, or select specific page ranges to extract. Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+        "link": "https://dev.to/ajay_kumar_a1b062d94e22dc/best-free-pdf-compressor-pdf-merger-in-2026-no-limits-freeclienttoolbox-ni1",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-06T09:41:35.000Z",
+        "keywords": [
+          "productivity",
+          "privacy",
+          "tools",
+          "lifehacks",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "privacy",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "privacy-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+          "</p> <p>Every day, millions of people Google \"Merge PDF\" or \"Compress PDF\" and upload their bank statements, medical records, and signed NDAs to random servers hosted overseas.",
+          "PDF Compressor Advanced Feature: Adjusts DPI and image quality within the PDF to shrink file sizes massively, ensuring it passes strict email attachment limits."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why Your HTTP",
+        "slug": "why-your-http",
+        "description": "If you set a long max-age and then later need to run a subdomain over plain HTTP for some reason, users who already cached the HSTS policy simply can't reach it until the policy expires, no matter what your server does. A payment widget or an identity verification vendor often needs camera or publickey-credentials-get passed through explicitly, because permissions don't propagate to iframes by default under a restrictive policy.",
+        "summary": "If you set a long max-age and then later need to run a subdomain over plain HTTP for some reason, users who already cached the HSTS policy simply can't reach it until the policy expires, no matter what your server does. A payment widget or an identity verification vendor often needs camera or publickey-credentials-get passed through explicitly, because permissions don't propagate to iframes by default under a restrictive policy.",
+        "link": "https://dev.to/evvytools/why-your-http-security-headers-affect-more-than-your-security-score-226",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-06T09:14:29.000Z",
+        "keywords": [
+          "webdev",
+          "security",
+          "seo",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "security",
+          "seo"
+        ],
+        "pros": [
+          "Great for webdev",
+          "security-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Set it too permissively and you might be leaking full query-string URLs, including anything sensitive that ended up in a URL parameter, to third-party sites your users click through to.",
+          "Set it too permissively and you might be leaking full query-string URLs, including anything sensitive that ended up in a URL parameter, to third-party sites your users click through to.",
+          "Debugging that is annoying precisely because the page looks fine, nothing throws a console error a casual glance would catch, and the feature just doesn't work."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Test",
+        "slug": "how-to-test",
+        "description": "If you don't have production data handy, the next best option is user-submitted content that's already messy by nature: free-text form fields, uploaded filenames, or copy-pasted URLs with tracking parameters attached. This test costs a few minutes and catches a class of bug that's genuinely dangerous if the pattern ever runs against anything a user controls, like a search box, a filter, or a custom validation rule.",
+        "summary": "If you don't have production data handy, the next best option is user-submitted content that's already messy by nature: free-text form fields, uploaded filenames, or copy-pasted URLs with tracking parameters attached. This test costs a few minutes and catches a class of bug that's genuinely dangerous if the pattern ever runs against anything a user controls, like a search box, a filter, or a custom validation rule.",
+        "link": "https://dev.to/evvytools/how-to-test-a-wildcard-pattern-before-you-ship-it-not-after-dl0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-06T09:14:28.000Z",
+        "keywords": [
+          "regex",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "regex",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for regex",
+          "webdev-ready automation",
+          "Great for regex"
+        ],
+        "cons": [
+          "Overkill for regex experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for regex experiments"
+        ],
+        "highlights": [
+          "A plain text file with one example per line, prefixed with MATCH or NO-MATCH, takes two minutes to create and becomes the seed for the automated test suite described further down.",
+          "Patterns that guard anything security-relevant, like input sanitization or auth token formats, benefit from this most, since a silent regression there is the kind of bug that doesn't announce itself.",
+          "A plain text file with one example per line, prefixed with MATCH or NO-MATCH, takes two minutes to create and becomes the seed for the automated test suite described further down."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-07-05T08:33:34.530Z",
     "lastUpdated": "2026-07-05T08:33:34.530Z",
     "visibleDate": "Jul 5, 2026",

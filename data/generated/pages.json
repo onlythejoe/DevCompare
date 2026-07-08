@@ -7,6 +7,671 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-07-08T08:00:55.450Z",
+    "lastUpdated": "2026-07-08T08:00:55.450Z",
+    "visibleDate": "Jul 8, 2026",
+    "url": "pages/2026-07-08-080055450-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-07-08-080055450-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "16 Free Forex",
+      "Orbit for Mac",
+      "How AI Tools"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include 16 Free Forex, Orbit for Mac, How AI Tools. Productivity stacks that keep ",
+    "tools": [
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-27f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-08T08:00:33.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Orbit for Mac",
+        "slug": "orbit-for-mac",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/orbit-for-mac",
+        "source": "Product Hunt",
+        "isoDate": "2026-07-08T06:52:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI Tools",
+        "slug": "how-ai-tools",
+        "description": "As highlighted in the article \"AI in Social Media: 10 Powerful Ways to Grow Faster in 2026\" from Metricool, marketers need to focus on creating tailored content that resonates with their target audience. Instead of spending hours crafting the perfect cover letter, you can input your details into the AI Cover Letter Generator, tweak a few lines to add a personal touch, and submit a polished letter within minutes.",
+        "summary": "As highlighted in the article \"AI in Social Media: 10 Powerful Ways to Grow Faster in 2026\" from Metricool, marketers need to focus on creating tailored content that resonates with their target audience. Instead of spending hours crafting the perfect cover letter, you can input your details into the AI Cover Letter Generator, tweak a few lines to add a personal touch, and submit a polished letter within minutes.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-tools-can-elevate-your-content-creation-strategy-in-2026-3b2g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-08T06:51:53.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "This tool helps you generate tailored cover letters that reflect your skills, experiences, and personality, significantly reducing the time it takes to apply for jobs or projects.",
+          "For instance, if you're a marketer discussing complex strategies or products, you might want to ensure that your content is easily digestible to both novices and experts alike.",
+          "The ability to adapt your writing to different reading levels and streamline your job applications is crucial in a fast-paced environment where time and clarity are of the essence."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "出海企业跨国考勤实操：东南亚工时、排班与休息日合规要点",
+        "slug": "",
+        "description": "打卡方式多元，适配海外场景 TimeClock 365 支持网页、移动端、Microsoft Teams、Slack 及门禁终端多端打卡，员工通过 RFID 卡或手机 NFC/Apple Wallet 刷卡开门的同时自动完成考勤记录，无需额外部署打卡机。对于外勤和远程团队，GPS 地理围栏功能可有效防范异地代打卡问题，考勤准确率达到 99%。 5. 多时区、多假日历支持</strong><br> 马来西亚各州的公共假日并不统一（如吉兰丹、登嘉楼有额外伊斯兰节日），系统需支持州级假日历覆盖，避免加班费率误算。</p> <p><strong>2.",
+        "summary": "打卡方式多元，适配海外场景 TimeClock 365 支持网页、移动端、Microsoft Teams、Slack 及门禁终端多端打卡，员工通过 RFID 卡或手机 NFC/Apple Wallet 刷卡开门的同时自动完成考勤记录，无需额外部署打卡机。对于外勤和远程团队，GPS 地理围栏功能可有效防范异地代打卡问题，考勤准确率达到 99%。 5. 多时区、多假日历支持</strong><br> 马来西亚各州的公共假日并不统一（如吉兰丹、登嘉楼有额外伊斯兰节日），系统需支持州级假日历覆盖，避免加班费率误算。</p> <p><strong>2.",
+        "link": "https://dev.to/vikabeck_463aaafb99/chu-hai-qi-ye-kua-guo-kao-qin-shi-cao-dong-nan-ya-gong-shi-pai-ban-yu-xiu-xi-ri-he-gui-yao-dian-1ed5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-08T06:17:30.000Z",
+        "keywords": [
+          "productivity",
+          "management",
+          "business",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "management",
+          "business"
+        ],
+        "pros": [
+          "Great for productivity",
+          "management-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for management workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "打卡方式多元，适配海外场景 TimeClock 365 支持网页、移动端、Microsoft Teams、Slack 及门禁终端多端打卡，员工通过 RFID 卡或手机 NFC/Apple Wallet 刷卡开门的同时自动完成考勤记录，无需额外部署打卡机。对于外勤和远程团队，GPS 地理围栏功能可有效防范异地代打卡问题，考勤准确率达到 99%。 5.",
+          "多时区、多假日历支持</strong><br> 马来西亚各州的公共假日并不统一（如吉兰丹、登嘉楼有额外伊斯兰节日），系统需支持州级假日历覆盖，避免加班费率误算。</p> <p><strong>2.",
+          "灵活排班与轮班管理</strong><br> 支持固定班、弹性班、轮班（含夜班差异补贴）三种模式，排班调整能实时推送给员工并留存确认记录。</p> <p><strong>3."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🎨 Fresh find",
+        "slug": "fresh-find",
+        "description": "🎨 Fresh find #CodeTrendy → AnswerMage The AI Chatbot that does its homework! https://codetrendy.com/listing/answermage",
+        "summary": "🎨 Fresh find #CodeTrendy → AnswerMage The AI Chatbot that does its homework! https://codetrendy.com/listing/answermage",
+        "link": "https://dev.to/codetrendy/fresh-find-codetrendy-answermagethe-ai-chatbot-that-does-its-homeworkaiml-chatbot-emai-26m4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-08T06:17:16.000Z",
+        "keywords": [
+          "directory",
+          "web",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "directory",
+          "web",
+          "tools"
+        ],
+        "pros": [
+          "Great for directory",
+          "web-ready automation",
+          "Great for directory"
+        ],
+        "cons": [
+          "Overkill for directory experiments",
+          "Needs extra setup for web workflows",
+          "Overkill for directory experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-07-08T08:00:55.450Z",
+    "lastUpdated": "2026-07-08T08:00:55.450Z",
+    "visibleDate": "Jul 8, 2026",
+    "url": "pages/2026-07-08-080055450-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-07-08-080055450-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "16 Free Forex",
+      "Orbit for Mac",
+      "How AI Tools"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include 16 Free Forex, Orbit for Mac, How AI Tools. Reliable remote debugg",
+    "tools": [
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-27f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-08T08:00:33.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Orbit for Mac",
+        "slug": "orbit-for-mac",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/orbit-for-mac",
+        "source": "Product Hunt",
+        "isoDate": "2026-07-08T06:52:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI Tools",
+        "slug": "how-ai-tools",
+        "description": "As highlighted in the article \"AI in Social Media: 10 Powerful Ways to Grow Faster in 2026\" from Metricool, marketers need to focus on creating tailored content that resonates with their target audience. Instead of spending hours crafting the perfect cover letter, you can input your details into the AI Cover Letter Generator, tweak a few lines to add a personal touch, and submit a polished letter within minutes.",
+        "summary": "As highlighted in the article \"AI in Social Media: 10 Powerful Ways to Grow Faster in 2026\" from Metricool, marketers need to focus on creating tailored content that resonates with their target audience. Instead of spending hours crafting the perfect cover letter, you can input your details into the AI Cover Letter Generator, tweak a few lines to add a personal touch, and submit a polished letter within minutes.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-tools-can-elevate-your-content-creation-strategy-in-2026-3b2g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-08T06:51:53.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "This tool helps you generate tailored cover letters that reflect your skills, experiences, and personality, significantly reducing the time it takes to apply for jobs or projects.",
+          "For instance, if you're a marketer discussing complex strategies or products, you might want to ensure that your content is easily digestible to both novices and experts alike.",
+          "The ability to adapt your writing to different reading levels and streamline your job applications is crucial in a fast-paced environment where time and clarity are of the essence."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "出海企业跨国考勤实操：东南亚工时、排班与休息日合规要点",
+        "slug": "",
+        "description": "打卡方式多元，适配海外场景 TimeClock 365 支持网页、移动端、Microsoft Teams、Slack 及门禁终端多端打卡，员工通过 RFID 卡或手机 NFC/Apple Wallet 刷卡开门的同时自动完成考勤记录，无需额外部署打卡机。对于外勤和远程团队，GPS 地理围栏功能可有效防范异地代打卡问题，考勤准确率达到 99%。 5. 多时区、多假日历支持</strong><br> 马来西亚各州的公共假日并不统一（如吉兰丹、登嘉楼有额外伊斯兰节日），系统需支持州级假日历覆盖，避免加班费率误算。</p> <p><strong>2.",
+        "summary": "打卡方式多元，适配海外场景 TimeClock 365 支持网页、移动端、Microsoft Teams、Slack 及门禁终端多端打卡，员工通过 RFID 卡或手机 NFC/Apple Wallet 刷卡开门的同时自动完成考勤记录，无需额外部署打卡机。对于外勤和远程团队，GPS 地理围栏功能可有效防范异地代打卡问题，考勤准确率达到 99%。 5. 多时区、多假日历支持</strong><br> 马来西亚各州的公共假日并不统一（如吉兰丹、登嘉楼有额外伊斯兰节日），系统需支持州级假日历覆盖，避免加班费率误算。</p> <p><strong>2.",
+        "link": "https://dev.to/vikabeck_463aaafb99/chu-hai-qi-ye-kua-guo-kao-qin-shi-cao-dong-nan-ya-gong-shi-pai-ban-yu-xiu-xi-ri-he-gui-yao-dian-1ed5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-08T06:17:30.000Z",
+        "keywords": [
+          "productivity",
+          "management",
+          "business",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "management",
+          "business"
+        ],
+        "pros": [
+          "Great for productivity",
+          "management-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for management workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "打卡方式多元，适配海外场景 TimeClock 365 支持网页、移动端、Microsoft Teams、Slack 及门禁终端多端打卡，员工通过 RFID 卡或手机 NFC/Apple Wallet 刷卡开门的同时自动完成考勤记录，无需额外部署打卡机。对于外勤和远程团队，GPS 地理围栏功能可有效防范异地代打卡问题，考勤准确率达到 99%。 5.",
+          "多时区、多假日历支持</strong><br> 马来西亚各州的公共假日并不统一（如吉兰丹、登嘉楼有额外伊斯兰节日），系统需支持州级假日历覆盖，避免加班费率误算。</p> <p><strong>2.",
+          "灵活排班与轮班管理</strong><br> 支持固定班、弹性班、轮班（含夜班差异补贴）三种模式，排班调整能实时推送给员工并留存确认记录。</p> <p><strong>3."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-07-08T08:00:55.450Z",
+    "lastUpdated": "2026-07-08T08:00:55.450Z",
+    "visibleDate": "Jul 8, 2026",
+    "url": "pages/2026-07-08-080055450-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-07-08-080055450-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "16 Free Forex",
+      "Orbit for Mac"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include 16 Free Forex, Orbit for Mac. Gitpod brings zero-",
+    "tools": [
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-27f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-08T08:00:33.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Orbit for Mac",
+        "slug": "orbit-for-mac",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/orbit-for-mac",
+        "source": "Product Hunt",
+        "isoDate": "2026-07-08T06:52:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-07-08T08:00:55.450Z",
+    "lastUpdated": "2026-07-08T08:00:55.450Z",
+    "visibleDate": "Jul 8, 2026",
+    "url": "pages/2026-07-08-080055450-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-07-08-080055450-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "16 Free Forex",
+      "Orbit for Mac",
+      "How AI Tools"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include 16 Free Forex, Orbit for Mac, How AI Tools. New launches that are shippi",
+    "tools": [
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-27f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-08T08:00:33.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Orbit for Mac",
+        "slug": "orbit-for-mac",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/orbit-for-mac",
+        "source": "Product Hunt",
+        "isoDate": "2026-07-08T06:52:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI Tools",
+        "slug": "how-ai-tools",
+        "description": "As highlighted in the article \"AI in Social Media: 10 Powerful Ways to Grow Faster in 2026\" from Metricool, marketers need to focus on creating tailored content that resonates with their target audience. Instead of spending hours crafting the perfect cover letter, you can input your details into the AI Cover Letter Generator, tweak a few lines to add a personal touch, and submit a polished letter within minutes.",
+        "summary": "As highlighted in the article \"AI in Social Media: 10 Powerful Ways to Grow Faster in 2026\" from Metricool, marketers need to focus on creating tailored content that resonates with their target audience. Instead of spending hours crafting the perfect cover letter, you can input your details into the AI Cover Letter Generator, tweak a few lines to add a personal touch, and submit a polished letter within minutes.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-tools-can-elevate-your-content-creation-strategy-in-2026-3b2g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-08T06:51:53.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "This tool helps you generate tailored cover letters that reflect your skills, experiences, and personality, significantly reducing the time it takes to apply for jobs or projects.",
+          "For instance, if you're a marketer discussing complex strategies or products, you might want to ensure that your content is easily digestible to both novices and experts alike.",
+          "The ability to adapt your writing to different reading levels and streamline your job applications is crucial in a fast-paced environment where time and clarity are of the essence."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-07-07T08:57:52.760Z",
     "lastUpdated": "2026-07-07T08:57:52.760Z",
     "visibleDate": "Jul 7, 2026",

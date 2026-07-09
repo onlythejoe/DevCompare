@@ -7,6 +7,679 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-07-09T08:56:44.629Z",
+    "lastUpdated": "2026-07-09T08:56:44.629Z",
+    "visibleDate": "Jul 9, 2026",
+    "url": "pages/2026-07-09-085644629-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-07-09-085644629-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "7 Free SEO",
+      "AI Writing Is",
+      "Why developers are"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include 7 Free SEO, AI Writing Is, Why developers are. Productivity stacks that ke",
+    "tools": [
+      {
+        "name": "7 Free SEO",
+        "slug": "7-free-seo",
+        "description": "Try the free SEO checker or free AI blog writer - 3 articles, no credit card. The last 2 are tools I built to fill the gap between research and publishing.",
+        "summary": "Try the free SEO checker or free AI blog writer - 3 articles, no credit card. The last 2 are tools I built to fill the gap between research and publishing.",
+        "link": "https://dev.to/hai_li_94fb2ac0212e529c4b/7-free-seo-tools-for-small-business-that-actually-work-in-2026-14gb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-09T08:32:25.000Z",
+        "keywords": [
+          "seo",
+          "tools",
+          "smallbusiness",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "seo",
+          "tools",
+          "smallbusiness"
+        ],
+        "pros": [
+          "Great for seo",
+          "tools-ready automation",
+          "Great for seo"
+        ],
+        "cons": [
+          "Overkill for seo experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for seo experiments"
+        ],
+        "highlights": [
+          "Try the free SEO checker or free AI blog writer - 3 articles, no credit card.",
+          "The last 2 are tools I built to fill the gap between research and publishing.",
+          "You do not need a $100/month SEO software stack."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Writing Is",
+        "slug": "ai-writing-is",
+        "description": "And the only way out is an editing pass that has taste in it — taste calibrated to a specific writer, not an average of what lots of raters found pleasant.</p> <p>You cannot fix the training. You know it when you see it.</p> <p>The popular explanation this week was speculative decoding — inference-time optimization that pairs a small fast model with a big one.",
+        "summary": "And the only way out is an editing pass that has taste in it — taste calibrated to a specific writer, not an average of what lots of raters found pleasant.</p> <p>You cannot fix the training. You know it when you see it.</p> <p>The popular explanation this week was speculative decoding — inference-time optimization that pairs a small fast model with a big one.",
+        "link": "https://dev.to/amrree/ai-writing-is-broken-half-the-fix-is-yours-56a9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-09T08:23:06.000Z",
+        "keywords": [
+          "ai",
+          "writing",
+          "editing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "writing",
+          "editing"
+        ],
+        "pros": [
+          "Great for ai",
+          "writing-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for writing workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "And the only way out is an editing pass that has taste in it — taste calibrated to a specific writer, not an average of what lots of raters found pleasant.</p> <p>You cannot fix the training.",
+          "Danny Waneri built a 36-pattern checklist calibrated against his own published work — not generic \"AI writing\" examples, but his specific corpus.",
+          "You know it when you see it.</p> <p>The popular explanation this week was speculative decoding — inference-time optimization that pairs a small fast model with a big one."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why developers are",
+        "slug": "why-developers-are",
+        "description": "Article URL: https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/ Comments URL: https://news.ycombinator.com/item?id=48842611 Points: 17 # Comments: 0",
+        "summary": "Article URL: https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/ Comments URL: https://news.ycombinator.com/item?id=48842611 Points: 17 # Comments: 0",
+        "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+        "source": "Hacker News",
+        "isoDate": "2026-07-09T08:22:52.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Grow Your Marketing Agency",
+        "slug": "how-to-grow-your-marketing-agency",
+        "description": "Modern agencies increasingly rely on AI-powered SEO automation platforms to streamline repetitive work, allowing teams to focus on strategy, client relationships, and business growth instead of routine tasks. Document processes for: Sales Onboarding Content production SEO audits Reporting Client communication Standardized systems improve quality while making it easier to hire and train new team members.",
+        "summary": "Modern agencies increasingly rely on AI-powered SEO automation platforms to streamline repetitive work, allowing teams to focus on strategy, client relationships, and business growth instead of routine tasks. Document processes for: Sales Onboarding Content production SEO audits Reporting Client communication Standardized systems improve quality while making it easier to hire and train new team members.",
+        "link": "https://dev.to/shreekantv/how-to-grow-your-marketing-agency-complete-guide-to-scaling-faster-2jk0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-09T07:33:39.000Z",
+        "keywords": [
+          "ai",
+          "software",
+          "tools",
+          "dev",
+          "saas",
+          "productivity"
+        ],
+        "useCases": [
+          "ai",
+          "software",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "software-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for software workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Document processes for: Sales Onboarding Content production SEO audits Reporting Client communication Standardized systems improve quality while making it easier to hire and train new team members.",
+          "Examples include: SEO blog posts Industry guides Tutorials Case studies Comparison articles Video content Publishing consistently builds trust and positions your agency as an expert.",
+          "Publish case studies that highlight: Organic traffic growth Keyword improvements Lead generation Revenue impact Local SEO success Include data wherever possible."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI Tools",
+        "slug": "how-ai-tools",
+        "description": "In addition to mastering new information, responding to feedback is a critical skill in today’s digital age, especially for students involved in group projects or online discussions. Teachers can encourage students to create flashcards on topics discussed in class and teach them how to respond to peer reviews effectively, enhancing their critical thinking skills.",
+        "summary": "In addition to mastering new information, responding to feedback is a critical skill in today’s digital age, especially for students involved in group projects or online discussions. Teachers can encourage students to create flashcards on topics discussed in class and teach them how to respond to peer reviews effectively, enhancing their critical thinking skills.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-tools-can-revolutionize-study-habits-for-students-in-2026-452d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-09T07:25:38.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "In addition to mastering new information, responding to feedback is a critical skill in today’s digital age, especially for students involved in group projects or online discussions.",
+          "Creating flashcards manually can be time-consuming and tedious; however, this tool automates the process, allowing students to focus on what really matters: learning.",
+          "Teachers can encourage students to create flashcards on topics discussed in class and teach them how to respond to peer reviews effectively, enhancing their critical thinking skills."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-07-09T08:56:44.629Z",
+    "lastUpdated": "2026-07-09T08:56:44.629Z",
+    "visibleDate": "Jul 9, 2026",
+    "url": "pages/2026-07-09-085644629-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-07-09-085644629-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "7 Free SEO",
+      "AI Writing Is",
+      "Why developers are"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include 7 Free SEO, AI Writing Is, Why developers are. Reliable remote deb",
+    "tools": [
+      {
+        "name": "7 Free SEO",
+        "slug": "7-free-seo",
+        "description": "Try the free SEO checker or free AI blog writer - 3 articles, no credit card. The last 2 are tools I built to fill the gap between research and publishing.",
+        "summary": "Try the free SEO checker or free AI blog writer - 3 articles, no credit card. The last 2 are tools I built to fill the gap between research and publishing.",
+        "link": "https://dev.to/hai_li_94fb2ac0212e529c4b/7-free-seo-tools-for-small-business-that-actually-work-in-2026-14gb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-09T08:32:25.000Z",
+        "keywords": [
+          "seo",
+          "tools",
+          "smallbusiness",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "seo",
+          "tools",
+          "smallbusiness"
+        ],
+        "pros": [
+          "Great for seo",
+          "tools-ready automation",
+          "Great for seo"
+        ],
+        "cons": [
+          "Overkill for seo experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for seo experiments"
+        ],
+        "highlights": [
+          "Try the free SEO checker or free AI blog writer - 3 articles, no credit card.",
+          "The last 2 are tools I built to fill the gap between research and publishing.",
+          "You do not need a $100/month SEO software stack."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Writing Is",
+        "slug": "ai-writing-is",
+        "description": "And the only way out is an editing pass that has taste in it — taste calibrated to a specific writer, not an average of what lots of raters found pleasant.</p> <p>You cannot fix the training. You know it when you see it.</p> <p>The popular explanation this week was speculative decoding — inference-time optimization that pairs a small fast model with a big one.",
+        "summary": "And the only way out is an editing pass that has taste in it — taste calibrated to a specific writer, not an average of what lots of raters found pleasant.</p> <p>You cannot fix the training. You know it when you see it.</p> <p>The popular explanation this week was speculative decoding — inference-time optimization that pairs a small fast model with a big one.",
+        "link": "https://dev.to/amrree/ai-writing-is-broken-half-the-fix-is-yours-56a9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-09T08:23:06.000Z",
+        "keywords": [
+          "ai",
+          "writing",
+          "editing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "writing",
+          "editing"
+        ],
+        "pros": [
+          "Great for ai",
+          "writing-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for writing workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "And the only way out is an editing pass that has taste in it — taste calibrated to a specific writer, not an average of what lots of raters found pleasant.</p> <p>You cannot fix the training.",
+          "Danny Waneri built a 36-pattern checklist calibrated against his own published work — not generic \"AI writing\" examples, but his specific corpus.",
+          "You know it when you see it.</p> <p>The popular explanation this week was speculative decoding — inference-time optimization that pairs a small fast model with a big one."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why developers are",
+        "slug": "why-developers-are",
+        "description": "Article URL: https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/ Comments URL: https://news.ycombinator.com/item?id=48842611 Points: 17 # Comments: 0",
+        "summary": "Article URL: https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/ Comments URL: https://news.ycombinator.com/item?id=48842611 Points: 17 # Comments: 0",
+        "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+        "source": "Hacker News",
+        "isoDate": "2026-07-09T08:22:52.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Grow Your Marketing Agency",
+        "slug": "how-to-grow-your-marketing-agency",
+        "description": "Modern agencies increasingly rely on AI-powered SEO automation platforms to streamline repetitive work, allowing teams to focus on strategy, client relationships, and business growth instead of routine tasks. Document processes for: Sales Onboarding Content production SEO audits Reporting Client communication Standardized systems improve quality while making it easier to hire and train new team members.",
+        "summary": "Modern agencies increasingly rely on AI-powered SEO automation platforms to streamline repetitive work, allowing teams to focus on strategy, client relationships, and business growth instead of routine tasks. Document processes for: Sales Onboarding Content production SEO audits Reporting Client communication Standardized systems improve quality while making it easier to hire and train new team members.",
+        "link": "https://dev.to/shreekantv/how-to-grow-your-marketing-agency-complete-guide-to-scaling-faster-2jk0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-09T07:33:39.000Z",
+        "keywords": [
+          "ai",
+          "software",
+          "tools",
+          "dev",
+          "saas",
+          "productivity"
+        ],
+        "useCases": [
+          "ai",
+          "software",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "software-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for software workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Document processes for: Sales Onboarding Content production SEO audits Reporting Client communication Standardized systems improve quality while making it easier to hire and train new team members.",
+          "Examples include: SEO blog posts Industry guides Tutorials Case studies Comparison articles Video content Publishing consistently builds trust and positions your agency as an expert.",
+          "Publish case studies that highlight: Organic traffic growth Keyword improvements Lead generation Revenue impact Local SEO success Include data wherever possible."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-07-09T08:56:44.629Z",
+    "lastUpdated": "2026-07-09T08:56:44.629Z",
+    "visibleDate": "Jul 9, 2026",
+    "url": "pages/2026-07-09-085644629-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-07-09-085644629-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "7 Free SEO",
+      "AI Writing Is"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include 7 Free SEO, AI Writing Is. Gitpod brings zero-con",
+    "tools": [
+      {
+        "name": "7 Free SEO",
+        "slug": "7-free-seo",
+        "description": "Try the free SEO checker or free AI blog writer - 3 articles, no credit card. The last 2 are tools I built to fill the gap between research and publishing.",
+        "summary": "Try the free SEO checker or free AI blog writer - 3 articles, no credit card. The last 2 are tools I built to fill the gap between research and publishing.",
+        "link": "https://dev.to/hai_li_94fb2ac0212e529c4b/7-free-seo-tools-for-small-business-that-actually-work-in-2026-14gb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-09T08:32:25.000Z",
+        "keywords": [
+          "seo",
+          "tools",
+          "smallbusiness",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "seo",
+          "tools",
+          "smallbusiness"
+        ],
+        "pros": [
+          "Great for seo",
+          "tools-ready automation",
+          "Great for seo"
+        ],
+        "cons": [
+          "Overkill for seo experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for seo experiments"
+        ],
+        "highlights": [
+          "Try the free SEO checker or free AI blog writer - 3 articles, no credit card.",
+          "The last 2 are tools I built to fill the gap between research and publishing.",
+          "You do not need a $100/month SEO software stack."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Writing Is",
+        "slug": "ai-writing-is",
+        "description": "And the only way out is an editing pass that has taste in it — taste calibrated to a specific writer, not an average of what lots of raters found pleasant.</p> <p>You cannot fix the training. You know it when you see it.</p> <p>The popular explanation this week was speculative decoding — inference-time optimization that pairs a small fast model with a big one.",
+        "summary": "And the only way out is an editing pass that has taste in it — taste calibrated to a specific writer, not an average of what lots of raters found pleasant.</p> <p>You cannot fix the training. You know it when you see it.</p> <p>The popular explanation this week was speculative decoding — inference-time optimization that pairs a small fast model with a big one.",
+        "link": "https://dev.to/amrree/ai-writing-is-broken-half-the-fix-is-yours-56a9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-09T08:23:06.000Z",
+        "keywords": [
+          "ai",
+          "writing",
+          "editing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "writing",
+          "editing"
+        ],
+        "pros": [
+          "Great for ai",
+          "writing-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for writing workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "And the only way out is an editing pass that has taste in it — taste calibrated to a specific writer, not an average of what lots of raters found pleasant.</p> <p>You cannot fix the training.",
+          "Danny Waneri built a 36-pattern checklist calibrated against his own published work — not generic \"AI writing\" examples, but his specific corpus.",
+          "You know it when you see it.</p> <p>The popular explanation this week was speculative decoding — inference-time optimization that pairs a small fast model with a big one."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-07-09T08:56:44.629Z",
+    "lastUpdated": "2026-07-09T08:56:44.629Z",
+    "visibleDate": "Jul 9, 2026",
+    "url": "pages/2026-07-09-085644629-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-07-09-085644629-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "7 Free SEO",
+      "AI Writing Is",
+      "Why developers are"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include 7 Free SEO, AI Writing Is, Why developers are. New launches that are shi",
+    "tools": [
+      {
+        "name": "7 Free SEO",
+        "slug": "7-free-seo",
+        "description": "Try the free SEO checker or free AI blog writer - 3 articles, no credit card. The last 2 are tools I built to fill the gap between research and publishing.",
+        "summary": "Try the free SEO checker or free AI blog writer - 3 articles, no credit card. The last 2 are tools I built to fill the gap between research and publishing.",
+        "link": "https://dev.to/hai_li_94fb2ac0212e529c4b/7-free-seo-tools-for-small-business-that-actually-work-in-2026-14gb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-09T08:32:25.000Z",
+        "keywords": [
+          "seo",
+          "tools",
+          "smallbusiness",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "seo",
+          "tools",
+          "smallbusiness"
+        ],
+        "pros": [
+          "Great for seo",
+          "tools-ready automation",
+          "Great for seo"
+        ],
+        "cons": [
+          "Overkill for seo experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for seo experiments"
+        ],
+        "highlights": [
+          "Try the free SEO checker or free AI blog writer - 3 articles, no credit card.",
+          "The last 2 are tools I built to fill the gap between research and publishing.",
+          "You do not need a $100/month SEO software stack."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Writing Is",
+        "slug": "ai-writing-is",
+        "description": "And the only way out is an editing pass that has taste in it — taste calibrated to a specific writer, not an average of what lots of raters found pleasant.</p> <p>You cannot fix the training. You know it when you see it.</p> <p>The popular explanation this week was speculative decoding — inference-time optimization that pairs a small fast model with a big one.",
+        "summary": "And the only way out is an editing pass that has taste in it — taste calibrated to a specific writer, not an average of what lots of raters found pleasant.</p> <p>You cannot fix the training. You know it when you see it.</p> <p>The popular explanation this week was speculative decoding — inference-time optimization that pairs a small fast model with a big one.",
+        "link": "https://dev.to/amrree/ai-writing-is-broken-half-the-fix-is-yours-56a9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-09T08:23:06.000Z",
+        "keywords": [
+          "ai",
+          "writing",
+          "editing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "writing",
+          "editing"
+        ],
+        "pros": [
+          "Great for ai",
+          "writing-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for writing workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "And the only way out is an editing pass that has taste in it — taste calibrated to a specific writer, not an average of what lots of raters found pleasant.</p> <p>You cannot fix the training.",
+          "Danny Waneri built a 36-pattern checklist calibrated against his own published work — not generic \"AI writing\" examples, but his specific corpus.",
+          "You know it when you see it.</p> <p>The popular explanation this week was speculative decoding — inference-time optimization that pairs a small fast model with a big one."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why developers are",
+        "slug": "why-developers-are",
+        "description": "Article URL: https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/ Comments URL: https://news.ycombinator.com/item?id=48842611 Points: 17 # Comments: 0",
+        "summary": "Article URL: https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/ Comments URL: https://news.ycombinator.com/item?id=48842611 Points: 17 # Comments: 0",
+        "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+        "source": "Hacker News",
+        "isoDate": "2026-07-09T08:22:52.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-07-08T08:00:55.450Z",
     "lastUpdated": "2026-07-08T08:00:55.450Z",
     "visibleDate": "Jul 8, 2026",

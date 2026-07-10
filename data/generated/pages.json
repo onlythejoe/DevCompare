@@ -7,6 +7,671 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-07-10T08:53:14.926Z",
+    "lastUpdated": "2026-07-10T08:53:14.926Z",
+    "visibleDate": "Jul 10, 2026",
+    "url": "pages/2026-07-10-085314926-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-07-10-085314926-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Self-Hosted Log Fingerprinting Pipelines",
+      "16 Free Forex",
+      "Building more than"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Self-Hosted Log Fingerprinting Pipelines, 16 Free Forex, Building more tha",
+    "tools": [
+      {
+        "name": "Self-Hosted Log Fingerprinting Pipelines",
+        "slug": "self-hosted-log-fingerprinting-pipelines",
+        "description": "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume. The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+        "summary": "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume. The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+        "link": "https://dev.to/ericwoooo_kr/self-hosted-log-fingerprinting-pipelines-catching-anomalies-without-sending-logs-to-the-cloud-52l5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-10T08:10:41.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+          "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+          "A Schedule Trigger fires every 5 minutes, queries Loki via HTTP Request (LogQL, range query, last 5-minute window), then hands off to a sub-workflow that runs normalize → embed → compare."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-4ij4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-10T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Building more than",
+        "slug": "building-more-than",
+        "description": "Live from Microsoft Build, Ryan is joined by Jay Parikh, Microsoft’s VP of AI Core, for a conversation on what enterprises need to build, deploy, and run AI agents at scale with demonstrable ROI; how Microsoft built an end-to-end agent development system that goes past just the harness; and how you can evaluate for reliability and correctness in models that get more intelligent and autonomous everyday.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍‌​​ ‌‌​ ​ ‌‍‌‍​ ‍‌​ ​ ​ ‌‌​ ‍​​‍ ‌​ ​ ‌‍​‍‌‍​‍​ ​‍​‍ ‌​ ‌​‌‍‌‍​ ‌‍​ ‍‌​‍ ‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍ ‌‌‍‌​​ ​ ​ ​‌‌‍‌​​ ​‌​ ‍‌​ ‌‌​ ​‍​ ​‍‌‍​ ‌‍‌​​ ‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍‌​​ ‌‌​ ​ ‌‍‌‍​ ‍‌​ ​ ​ ‌‌​ ‍​​‍ ‌​ ​ ‌‍​‍‌‍​‍​ ​‍​‍ ‌​ ‌​‌‍‌‍​ ‌‍​ ‍‌​‍ ‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍ ‌‌‍‌​​ ​ ​ ​‌‌‍‌​​ ​‌​ ‍‌​ ‌‌​ ​‍​ ​‍‌‍​ ‌‍‌​​ ‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "Live from Microsoft Build, Ryan is joined by Jay Parikh, Microsoft’s VP of AI Core, for a conversation on what enterprises need to build, deploy, and run AI agents at scale with demonstrable ROI; how Microsoft built an end-to-end agent development system that goes past just the harness; and how you can evaluate for reliability and correctness in models that get more intelligent and autonomous everyday.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍‌​​ ‌‌​ ​ ‌‍‌‍​ ‍‌​ ​ ​ ‌‌​ ‍​​‍ ‌​ ​ ‌‍​‍‌‍​‍​ ​‍​‍ ‌​ ‌​‌‍‌‍​ ‌‍​ ‍‌​‍ ‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍ ‌‌‍‌​​ ​ ​ ​‌‌‍‌​​ ​‌​ ‍‌​ ‌‌​ ​‍​ ​‍‌‍​ ‌‍‌​​ ‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍‌​​ ‌‌​ ​ ‌‍‌‍​ ‍‌​ ​ ​ ‌‌​ ‍​​‍ ‌​ ​ ‌‍​‍‌‍​‍​ ​‍​‍ ‌​ ‌​‌‍‌‍​ ‌‍​ ‍‌​‍ ‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍ ‌‌‍‌​​ ​ ​ ​‌‌‍‌​​ ​‌​ ‍‌​ ‌‌​ ​‍​ ​‍‌‍​ ‌‍‌​​ ‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/07/10/building-more-than-just-an-agent-harness/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-07-10T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "microsoft",
+          "agentic-ai"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI-generated videos to",
+        "slug": "ai-generated-videos-to",
+        "description": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 19 # Comments: 16",
+        "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 19 # Comments: 16",
+        "link": "https://nevo-project.epfl.ch/",
+        "source": "Hacker News",
+        "isoDate": "2026-07-10T07:39:11.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI is",
+        "slug": "how-ai-is",
+        "description": "Imagine turning a complex coding project into a series of slides, where each slide breaks down key aspects of your work — from the initial problem and solution to code snippets and outcomes. </p> <p>Imagine turning a complex coding project into a series of slides, where each slide breaks down key aspects of your work — from the initial problem and solution to code snippets and outcomes.",
+        "summary": "Imagine turning a complex coding project into a series of slides, where each slide breaks down key aspects of your work — from the initial problem and solution to code snippets and outcomes. </p> <p>Imagine turning a complex coding project into a series of slides, where each slide breaks down key aspects of your work — from the initial problem and solution to code snippets and outcomes.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-is-revolutionizing-linkedin-engagement-for-software-developers-39g4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-10T07:25:38.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Imagine turning a complex coding project into a series of slides, where each slide breaks down key aspects of your work — from the initial problem and solution to code snippets and outcomes.",
+          "</p> <p>Imagine turning a complex coding project into a series of slides, where each slide breaks down key aspects of your work — from the initial problem and solution to code snippets and outcomes.",
+          "This tool enables you to create eye-catching carousel posts that visually represent your projects, coding skills, or even data-driven insights in a more dynamic format."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-07-10T08:53:14.926Z",
+    "lastUpdated": "2026-07-10T08:53:14.926Z",
+    "visibleDate": "Jul 10, 2026",
+    "url": "pages/2026-07-10-085314926-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-07-10-085314926-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Self-Hosted Log Fingerprinting Pipelines",
+      "16 Free Forex",
+      "Building more than"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Self-Hosted Log Fingerprinting Pipelines, 16 Free Forex, Building ",
+    "tools": [
+      {
+        "name": "Self-Hosted Log Fingerprinting Pipelines",
+        "slug": "self-hosted-log-fingerprinting-pipelines",
+        "description": "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume. The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+        "summary": "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume. The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+        "link": "https://dev.to/ericwoooo_kr/self-hosted-log-fingerprinting-pipelines-catching-anomalies-without-sending-logs-to-the-cloud-52l5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-10T08:10:41.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+          "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+          "A Schedule Trigger fires every 5 minutes, queries Loki via HTTP Request (LogQL, range query, last 5-minute window), then hands off to a sub-workflow that runs normalize → embed → compare."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-4ij4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-10T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Building more than",
+        "slug": "building-more-than",
+        "description": "Live from Microsoft Build, Ryan is joined by Jay Parikh, Microsoft’s VP of AI Core, for a conversation on what enterprises need to build, deploy, and run AI agents at scale with demonstrable ROI; how Microsoft built an end-to-end agent development system that goes past just the harness; and how you can evaluate for reliability and correctness in models that get more intelligent and autonomous everyday.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍‌​​ ‌‌​ ​ ‌‍‌‍​ ‍‌​ ​ ​ ‌‌​ ‍​​‍ ‌​ ​ ‌‍​‍‌‍​‍​ ​‍​‍ ‌​ ‌​‌‍‌‍​ ‌‍​ ‍‌​‍ ‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍ ‌‌‍‌​​ ​ ​ ​‌‌‍‌​​ ​‌​ ‍‌​ ‌‌​ ​‍​ ​‍‌‍​ ‌‍‌​​ ‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍‌​​ ‌‌​ ​ ‌‍‌‍​ ‍‌​ ​ ​ ‌‌​ ‍​​‍ ‌​ ​ ‌‍​‍‌‍​‍​ ​‍​‍ ‌​ ‌​‌‍‌‍​ ‌‍​ ‍‌​‍ ‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍ ‌‌‍‌​​ ​ ​ ​‌‌‍‌​​ ​‌​ ‍‌​ ‌‌​ ​‍​ ​‍‌‍​ ‌‍‌​​ ‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "Live from Microsoft Build, Ryan is joined by Jay Parikh, Microsoft’s VP of AI Core, for a conversation on what enterprises need to build, deploy, and run AI agents at scale with demonstrable ROI; how Microsoft built an end-to-end agent development system that goes past just the harness; and how you can evaluate for reliability and correctness in models that get more intelligent and autonomous everyday.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍‌​​ ‌‌​ ​ ‌‍‌‍​ ‍‌​ ​ ​ ‌‌​ ‍​​‍ ‌​ ​ ‌‍​‍‌‍​‍​ ​‍​‍ ‌​ ‌​‌‍‌‍​ ‌‍​ ‍‌​‍ ‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍ ‌‌‍‌​​ ​ ​ ​‌‌‍‌​​ ​‌​ ‍‌​ ‌‌​ ​‍​ ​‍‌‍​ ‌‍‌​​ ‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍‌​​ ‌‌​ ​ ‌‍‌‍​ ‍‌​ ​ ​ ‌‌​ ‍​​‍ ‌​ ​ ‌‍​‍‌‍​‍​ ​‍​‍ ‌​ ‌​‌‍‌‍​ ‌‍​ ‍‌​‍ ‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍ ‌‌‍‌​​ ​ ​ ​‌‌‍‌​​ ​‌​ ‍‌​ ‌‌​ ​‍​ ​‍‌‍​ ‌‍‌​​ ‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/07/10/building-more-than-just-an-agent-harness/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-07-10T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "microsoft",
+          "agentic-ai"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI-generated videos to",
+        "slug": "ai-generated-videos-to",
+        "description": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 19 # Comments: 16",
+        "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 19 # Comments: 16",
+        "link": "https://nevo-project.epfl.ch/",
+        "source": "Hacker News",
+        "isoDate": "2026-07-10T07:39:11.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-07-10T08:53:14.926Z",
+    "lastUpdated": "2026-07-10T08:53:14.926Z",
+    "visibleDate": "Jul 10, 2026",
+    "url": "pages/2026-07-10-085314926-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-07-10-085314926-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Self-Hosted Log Fingerprinting Pipelines",
+      "16 Free Forex"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Self-Hosted Log Fingerprinting Pipelines, 16 Free",
+    "tools": [
+      {
+        "name": "Self-Hosted Log Fingerprinting Pipelines",
+        "slug": "self-hosted-log-fingerprinting-pipelines",
+        "description": "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume. The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+        "summary": "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume. The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+        "link": "https://dev.to/ericwoooo_kr/self-hosted-log-fingerprinting-pipelines-catching-anomalies-without-sending-logs-to-the-cloud-52l5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-10T08:10:41.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+          "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+          "A Schedule Trigger fires every 5 minutes, queries Loki via HTTP Request (LogQL, range query, last 5-minute window), then hands off to a sub-workflow that runs normalize → embed → compare."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-4ij4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-10T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-07-10T08:53:14.926Z",
+    "lastUpdated": "2026-07-10T08:53:14.926Z",
+    "visibleDate": "Jul 10, 2026",
+    "url": "pages/2026-07-10-085314926-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-07-10-085314926-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Self-Hosted Log Fingerprinting Pipelines",
+      "16 Free Forex",
+      "Building more than"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Self-Hosted Log Fingerprinting Pipelines, 16 Free Forex, Building more t",
+    "tools": [
+      {
+        "name": "Self-Hosted Log Fingerprinting Pipelines",
+        "slug": "self-hosted-log-fingerprinting-pipelines",
+        "description": "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume. The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+        "summary": "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume. The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+        "link": "https://dev.to/ericwoooo_kr/self-hosted-log-fingerprinting-pipelines-catching-anomalies-without-sending-logs-to-the-cloud-52l5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-10T08:10:41.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+          "The HTTP Request node hits the Ollama embedding API, another hits Qdrant's upsert endpoint, and the whole flow triggers either from a Loki webhook alert or a cron that polls LogQL for new log volume.",
+          "A Schedule Trigger fires every 5 minutes, queries Loki via HTTP Request (LogQL, range query, last 5-minute window), then hands off to a sub-workflow that runs normalize → embed → compare."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-4ij4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-10T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Building more than",
+        "slug": "building-more-than",
+        "description": "Live from Microsoft Build, Ryan is joined by Jay Parikh, Microsoft’s VP of AI Core, for a conversation on what enterprises need to build, deploy, and run AI agents at scale with demonstrable ROI; how Microsoft built an end-to-end agent development system that goes past just the harness; and how you can evaluate for reliability and correctness in models that get more intelligent and autonomous everyday.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍‌​​ ‌‌​ ​ ‌‍‌‍​ ‍‌​ ​ ​ ‌‌​ ‍​​‍ ‌​ ​ ‌‍​‍‌‍​‍​ ​‍​‍ ‌​ ‌​‌‍‌‍​ ‌‍​ ‍‌​‍ ‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍ ‌‌‍‌​​ ​ ​ ​‌‌‍‌​​ ​‌​ ‍‌​ ‌‌​ ​‍​ ​‍‌‍​ ‌‍‌​​ ‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍‌​​ ‌‌​ ​ ‌‍‌‍​ ‍‌​ ​ ​ ‌‌​ ‍​​‍ ‌​ ​ ‌‍​‍‌‍​‍​ ​‍​‍ ‌​ ‌​‌‍‌‍​ ‌‍​ ‍‌​‍ ‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍ ‌‌‍‌​​ ​ ​ ​‌‌‍‌​​ ​‌​ ‍‌​ ‌‌​ ​‍​ ​‍‌‍​ ‌‍‌​​ ‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "Live from Microsoft Build, Ryan is joined by Jay Parikh, Microsoft’s VP of AI Core, for a conversation on what enterprises need to build, deploy, and run AI agents at scale with demonstrable ROI; how Microsoft built an end-to-end agent development system that goes past just the harness; and how you can evaluate for reliability and correctness in models that get more intelligent and autonomous everyday.​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍‌​​ ‌‌​ ​ ‌‍‌‍​ ‍‌​ ​ ​ ‌‌​ ‍​​‍ ‌​ ​ ‌‍​‍‌‍​‍​ ​‍​‍ ‌​ ‌​‌‍‌‍​ ‌‍​ ‍‌​‍ ‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍ ‌‌‍‌​​ ​ ​ ​‌‌‍‌​​ ​‌​ ‍‌​ ‌‌​ ​‍​ ​‍‌‍​ ‌‍‌​​ ‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍‌​​ ‌‌​ ​ ‌‍‌‍​ ‍‌​ ​ ​ ‌‌​ ‍​​‍ ‌​ ​ ‌‍​‍‌‍​‍​ ​‍​‍ ‌​ ‌​‌‍‌‍​ ‌‍​ ‍‌​‍ ‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍ ‌‌‍‌​​ ​ ​ ​‌‌‍‌​​ ​‌​ ‍‌​ ‌‌​ ​‍​ ​‍‌‍​ ‌‍‌​​ ‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/07/10/building-more-than-just-an-agent-harness/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-07-10T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "microsoft",
+          "agentic-ai"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-07-09T08:56:44.629Z",
     "lastUpdated": "2026-07-09T08:56:44.629Z",
     "visibleDate": "Jul 9, 2026",

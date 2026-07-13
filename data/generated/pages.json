@@ -7,6 +7,699 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-07-13T08:37:06.675Z",
+    "lastUpdated": "2026-07-13T08:37:06.675Z",
+    "visibleDate": "Jul 13, 2026",
+    "url": "pages/2026-07-13-083706675-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-07-13-083706675-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "Modularized Workflow Toggles in GitHub Actions",
+      "16 Free Forex",
+      "A no-code way"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Modularized Workflow Toggles in GitHub Actions, 16 Free Forex, A no-code w",
+    "tools": [
+      {
+        "name": "Modularized Workflow Toggles in GitHub Actions",
+        "slug": "modularized-workflow-toggles-in-github-actions",
+        "description": "if: github.event_name == 'push' || inputs.run_lint uses: ./.github/workflows/lint.yml secrets: inherit test: # Same dual-trigger pattern — push always runs, dispatch checks the toggle. A typical monolithic <code>.github/workflows/ci.yml</code> queues lint, unit tests, integration tests, Docker build, push to registry, deploy to staging, and a Slack notification for every single push to every branch.",
+        "summary": "if: github.event_name == 'push' || inputs.run_lint uses: ./.github/workflows/lint.yml secrets: inherit test: # Same dual-trigger pattern — push always runs, dispatch checks the toggle. A typical monolithic <code>.github/workflows/ci.yml</code> queues lint, unit tests, integration tests, Docker build, push to registry, deploy to staging, and a Slack notification for every single push to every branch.",
+        "link": "https://dev.to/ericwoooo_kr/modularized-workflow-toggles-in-github-actions-cutting-cicd-run-time-without-losing-control-m4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-13T08:10:39.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "career",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "career"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "if: github.event_name == 'push' || inputs.run_lint uses: ./.github/workflows/lint.yml secrets: inherit test: # Same dual-trigger pattern — push always runs, dispatch checks the toggle.",
+          "GitHub Actions' default <code>needs:</code> behavior treats a skipped upstream job the same as a failed one, which means your entire pipeline silently dies the moment you flip a toggle off.",
+          "GitHub-hosted runners bill per minute, and a full pipeline that takes 18 minutes on a docs-only commit is 18 minutes of pure waste — multiplied by every engineer pushing WIP commits."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://github.com?ref=XXXX"
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-1dn5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-13T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "A no-code way",
+        "slug": "a-no-code-way",
+        "description": "This World Cup has been full of upsets — Norway knocking out Brazil, Cabo Verde drawing with both Spain and Uruguay, all four pre-tournament favorites needing a single-goal margin just to survive the Round of 16. <p>This World Cup has been full of upsets — Norway knocking out Brazil, Cabo Verde drawing with both Spain and Uruguay, all four pre-tournament favorites needing a single-goal margin just to survive the Round of 16.",
+        "summary": "This World Cup has been full of upsets — Norway knocking out Brazil, Cabo Verde drawing with both Spain and Uruguay, all four pre-tournament favorites needing a single-goal margin just to survive the Round of 16. <p>This World Cup has been full of upsets — Norway knocking out Brazil, Cabo Verde drawing with both Spain and Uruguay, all four pre-tournament favorites needing a single-goal margin just to survive the Round of 16.",
+        "link": "https://dev.to/lina_scott_54a0bd6c06f67c/a-no-code-way-to-scrape-live-world-cup-betting-odds-566g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-13T07:53:51.000Z",
+        "keywords": [
+          "ai",
+          "datascience",
+          "saas",
+          "tools",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "datascience",
+          "saas"
+        ],
+        "pros": [
+          "Great for ai",
+          "datascience-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for datascience workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "For this kind of one-off, \"I just need this table right now\" need — do you usually reach for a script (Selenium/Playwright/BS4), a no-code tool like this, or just manually copy-paste?",
+          "So instead of spinning up Playwright or BeautifulSoup for a one-off pull, I tried something different: describing what I want in plain language and letting an AI agent handle the extraction.",
+          "Point it at a live odds page (I used Polymarket's live sports markets) and describe what you want: event time, volume, location, participants, moneyline, spread, total."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Could Review",
+        "slug": "i-could-review",
+        "description": "that's a whole other level, those are completely different neural pathways because the ability to review code, design &amp; architecture aren't the same as writing it from memory and it should never be mistaken. that's a whole other level, those are completely different neural pathways because the ability to review code, design & architecture aren't the same as writing it from memory and it should never be mistaken.",
+        "summary": "that's a whole other level, those are completely different neural pathways because the ability to review code, design &amp; architecture aren't the same as writing it from memory and it should never be mistaken. that's a whole other level, those are completely different neural pathways because the ability to review code, design & architecture aren't the same as writing it from memory and it should never be mistaken.",
+        "link": "https://dev.to/adamthedeveloper/i-could-review-it-i-couldnt-write-it-3gfj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-13T07:52:12.000Z",
+        "keywords": [
+          "ai",
+          "programming",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "programming",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "programming-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "But ever since I knew how to use AI ( maybe around mid 2024, I was still doing the old trad way when i started in 2018 ), I've been letting AI write ALOT of my code.",
+          "I hope to help others understand algorithms in distributed systems where it's written with as much as simplicity as I could but also not leaving out edge cases and failure modes.",
+          "I will be releasing the article one by one each after I'm done where I will document every hell and tasmanian devil I would've had gone through, no filters with the exception of bad languages."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Quadrupling code performance",
+        "slug": "quadrupling-code-performance",
+        "description": "Article URL: https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/ Comments URL: https://news.ycombinator.com/item?id=48889148 Points: 19 # Comments: 2",
+        "summary": "Article URL: https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/ Comments URL: https://news.ycombinator.com/item?id=48889148 Points: 19 # Comments: 2",
+        "link": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+        "source": "Hacker News",
+        "isoDate": "2026-07-13T07:37:06.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-07-13T08:37:06.675Z",
+    "lastUpdated": "2026-07-13T08:37:06.675Z",
+    "visibleDate": "Jul 13, 2026",
+    "url": "pages/2026-07-13-083706675-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-07-13-083706675-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "Modularized Workflow Toggles in GitHub Actions",
+      "16 Free Forex",
+      "A no-code way"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Modularized Workflow Toggles in GitHub Actions, 16 Free Forex, A n",
+    "tools": [
+      {
+        "name": "Modularized Workflow Toggles in GitHub Actions",
+        "slug": "modularized-workflow-toggles-in-github-actions",
+        "description": "if: github.event_name == 'push' || inputs.run_lint uses: ./.github/workflows/lint.yml secrets: inherit test: # Same dual-trigger pattern — push always runs, dispatch checks the toggle. A typical monolithic <code>.github/workflows/ci.yml</code> queues lint, unit tests, integration tests, Docker build, push to registry, deploy to staging, and a Slack notification for every single push to every branch.",
+        "summary": "if: github.event_name == 'push' || inputs.run_lint uses: ./.github/workflows/lint.yml secrets: inherit test: # Same dual-trigger pattern — push always runs, dispatch checks the toggle. A typical monolithic <code>.github/workflows/ci.yml</code> queues lint, unit tests, integration tests, Docker build, push to registry, deploy to staging, and a Slack notification for every single push to every branch.",
+        "link": "https://dev.to/ericwoooo_kr/modularized-workflow-toggles-in-github-actions-cutting-cicd-run-time-without-losing-control-m4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-13T08:10:39.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "career",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "career"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "if: github.event_name == 'push' || inputs.run_lint uses: ./.github/workflows/lint.yml secrets: inherit test: # Same dual-trigger pattern — push always runs, dispatch checks the toggle.",
+          "GitHub Actions' default <code>needs:</code> behavior treats a skipped upstream job the same as a failed one, which means your entire pipeline silently dies the moment you flip a toggle off.",
+          "GitHub-hosted runners bill per minute, and a full pipeline that takes 18 minutes on a docs-only commit is 18 minutes of pure waste — multiplied by every engineer pushing WIP commits."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://github.com?ref=XXXX"
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-1dn5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-13T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "A no-code way",
+        "slug": "a-no-code-way",
+        "description": "This World Cup has been full of upsets — Norway knocking out Brazil, Cabo Verde drawing with both Spain and Uruguay, all four pre-tournament favorites needing a single-goal margin just to survive the Round of 16. <p>This World Cup has been full of upsets — Norway knocking out Brazil, Cabo Verde drawing with both Spain and Uruguay, all four pre-tournament favorites needing a single-goal margin just to survive the Round of 16.",
+        "summary": "This World Cup has been full of upsets — Norway knocking out Brazil, Cabo Verde drawing with both Spain and Uruguay, all four pre-tournament favorites needing a single-goal margin just to survive the Round of 16. <p>This World Cup has been full of upsets — Norway knocking out Brazil, Cabo Verde drawing with both Spain and Uruguay, all four pre-tournament favorites needing a single-goal margin just to survive the Round of 16.",
+        "link": "https://dev.to/lina_scott_54a0bd6c06f67c/a-no-code-way-to-scrape-live-world-cup-betting-odds-566g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-13T07:53:51.000Z",
+        "keywords": [
+          "ai",
+          "datascience",
+          "saas",
+          "tools",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "datascience",
+          "saas"
+        ],
+        "pros": [
+          "Great for ai",
+          "datascience-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for datascience workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "For this kind of one-off, \"I just need this table right now\" need — do you usually reach for a script (Selenium/Playwright/BS4), a no-code tool like this, or just manually copy-paste?",
+          "So instead of spinning up Playwright or BeautifulSoup for a one-off pull, I tried something different: describing what I want in plain language and letting an AI agent handle the extraction.",
+          "Point it at a live odds page (I used Polymarket's live sports markets) and describe what you want: event time, volume, location, participants, moneyline, spread, total."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Could Review",
+        "slug": "i-could-review",
+        "description": "that's a whole other level, those are completely different neural pathways because the ability to review code, design &amp; architecture aren't the same as writing it from memory and it should never be mistaken. that's a whole other level, those are completely different neural pathways because the ability to review code, design & architecture aren't the same as writing it from memory and it should never be mistaken.",
+        "summary": "that's a whole other level, those are completely different neural pathways because the ability to review code, design &amp; architecture aren't the same as writing it from memory and it should never be mistaken. that's a whole other level, those are completely different neural pathways because the ability to review code, design & architecture aren't the same as writing it from memory and it should never be mistaken.",
+        "link": "https://dev.to/adamthedeveloper/i-could-review-it-i-couldnt-write-it-3gfj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-13T07:52:12.000Z",
+        "keywords": [
+          "ai",
+          "programming",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "programming",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "programming-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "But ever since I knew how to use AI ( maybe around mid 2024, I was still doing the old trad way when i started in 2018 ), I've been letting AI write ALOT of my code.",
+          "I hope to help others understand algorithms in distributed systems where it's written with as much as simplicity as I could but also not leaving out edge cases and failure modes.",
+          "I will be releasing the article one by one each after I'm done where I will document every hell and tasmanian devil I would've had gone through, no filters with the exception of bad languages."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-07-13T08:37:06.675Z",
+    "lastUpdated": "2026-07-13T08:37:06.675Z",
+    "visibleDate": "Jul 13, 2026",
+    "url": "pages/2026-07-13-083706675-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-07-13-083706675-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Modularized Workflow Toggles in GitHub Actions",
+      "16 Free Forex"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Modularized Workflow Toggles in GitHub Actions, 1",
+    "tools": [
+      {
+        "name": "Modularized Workflow Toggles in GitHub Actions",
+        "slug": "modularized-workflow-toggles-in-github-actions",
+        "description": "if: github.event_name == 'push' || inputs.run_lint uses: ./.github/workflows/lint.yml secrets: inherit test: # Same dual-trigger pattern — push always runs, dispatch checks the toggle. A typical monolithic <code>.github/workflows/ci.yml</code> queues lint, unit tests, integration tests, Docker build, push to registry, deploy to staging, and a Slack notification for every single push to every branch.",
+        "summary": "if: github.event_name == 'push' || inputs.run_lint uses: ./.github/workflows/lint.yml secrets: inherit test: # Same dual-trigger pattern — push always runs, dispatch checks the toggle. A typical monolithic <code>.github/workflows/ci.yml</code> queues lint, unit tests, integration tests, Docker build, push to registry, deploy to staging, and a Slack notification for every single push to every branch.",
+        "link": "https://dev.to/ericwoooo_kr/modularized-workflow-toggles-in-github-actions-cutting-cicd-run-time-without-losing-control-m4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-13T08:10:39.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "career",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "career"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "if: github.event_name == 'push' || inputs.run_lint uses: ./.github/workflows/lint.yml secrets: inherit test: # Same dual-trigger pattern — push always runs, dispatch checks the toggle.",
+          "GitHub Actions' default <code>needs:</code> behavior treats a skipped upstream job the same as a failed one, which means your entire pipeline silently dies the moment you flip a toggle off.",
+          "GitHub-hosted runners bill per minute, and a full pipeline that takes 18 minutes on a docs-only commit is 18 minutes of pure waste — multiplied by every engineer pushing WIP commits."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://github.com?ref=XXXX"
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-1dn5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-13T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-07-13T08:37:06.675Z",
+    "lastUpdated": "2026-07-13T08:37:06.675Z",
+    "visibleDate": "Jul 13, 2026",
+    "url": "pages/2026-07-13-083706675-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-07-13-083706675-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "Modularized Workflow Toggles in GitHub Actions",
+      "16 Free Forex",
+      "A no-code way"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Modularized Workflow Toggles in GitHub Actions, 16 Free Forex, A no-code",
+    "tools": [
+      {
+        "name": "Modularized Workflow Toggles in GitHub Actions",
+        "slug": "modularized-workflow-toggles-in-github-actions",
+        "description": "if: github.event_name == 'push' || inputs.run_lint uses: ./.github/workflows/lint.yml secrets: inherit test: # Same dual-trigger pattern — push always runs, dispatch checks the toggle. A typical monolithic <code>.github/workflows/ci.yml</code> queues lint, unit tests, integration tests, Docker build, push to registry, deploy to staging, and a Slack notification for every single push to every branch.",
+        "summary": "if: github.event_name == 'push' || inputs.run_lint uses: ./.github/workflows/lint.yml secrets: inherit test: # Same dual-trigger pattern — push always runs, dispatch checks the toggle. A typical monolithic <code>.github/workflows/ci.yml</code> queues lint, unit tests, integration tests, Docker build, push to registry, deploy to staging, and a Slack notification for every single push to every branch.",
+        "link": "https://dev.to/ericwoooo_kr/modularized-workflow-toggles-in-github-actions-cutting-cicd-run-time-without-losing-control-m4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-13T08:10:39.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "career",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "career"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "if: github.event_name == 'push' || inputs.run_lint uses: ./.github/workflows/lint.yml secrets: inherit test: # Same dual-trigger pattern — push always runs, dispatch checks the toggle.",
+          "GitHub Actions' default <code>needs:</code> behavior treats a skipped upstream job the same as a failed one, which means your entire pipeline silently dies the moment you flip a toggle off.",
+          "GitHub-hosted runners bill per minute, and a full pipeline that takes 18 minutes on a docs-only commit is 18 minutes of pure waste — multiplied by every engineer pushing WIP commits."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://github.com?ref=XXXX"
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-1dn5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-13T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "A no-code way",
+        "slug": "a-no-code-way",
+        "description": "This World Cup has been full of upsets — Norway knocking out Brazil, Cabo Verde drawing with both Spain and Uruguay, all four pre-tournament favorites needing a single-goal margin just to survive the Round of 16. <p>This World Cup has been full of upsets — Norway knocking out Brazil, Cabo Verde drawing with both Spain and Uruguay, all four pre-tournament favorites needing a single-goal margin just to survive the Round of 16.",
+        "summary": "This World Cup has been full of upsets — Norway knocking out Brazil, Cabo Verde drawing with both Spain and Uruguay, all four pre-tournament favorites needing a single-goal margin just to survive the Round of 16. <p>This World Cup has been full of upsets — Norway knocking out Brazil, Cabo Verde drawing with both Spain and Uruguay, all four pre-tournament favorites needing a single-goal margin just to survive the Round of 16.",
+        "link": "https://dev.to/lina_scott_54a0bd6c06f67c/a-no-code-way-to-scrape-live-world-cup-betting-odds-566g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-13T07:53:51.000Z",
+        "keywords": [
+          "ai",
+          "datascience",
+          "saas",
+          "tools",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "datascience",
+          "saas"
+        ],
+        "pros": [
+          "Great for ai",
+          "datascience-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for datascience workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "For this kind of one-off, \"I just need this table right now\" need — do you usually reach for a script (Selenium/Playwright/BS4), a no-code tool like this, or just manually copy-paste?",
+          "So instead of spinning up Playwright or BeautifulSoup for a one-off pull, I tried something different: describing what I want in plain language and letting an AI agent handle the extraction.",
+          "Point it at a live odds page (I used Polymarket's live sports markets) and describe what you want: event time, volume, location, participants, moneyline, spread, total."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-07-12T07:51:23.769Z",
     "lastUpdated": "2026-07-12T07:51:23.769Z",
     "visibleDate": "Jul 12, 2026",

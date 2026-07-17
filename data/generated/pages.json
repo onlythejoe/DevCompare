@@ -7,6 +7,663 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-07-17T07:46:17.212Z",
+    "lastUpdated": "2026-07-17T07:46:17.212Z",
+    "visibleDate": "Jul 17, 2026",
+    "url": "pages/2026-07-17-074617212-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-07-17-074617212-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Developers who move",
+      "How AI-Powered Tools",
+      "EEG shows brain"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Developers who move, How AI-Powered Tools, EEG shows brain. Productivity s",
+    "tools": [
+      {
+        "name": "Developers who move",
+        "slug": "developers-who-move",
+        "description": "At MS Build, Ryan is joined by Cassidy Williams, Senior Director of Developer Advocacy at GitHub and former Stack Overflow Podcast host, to discuss how agentic coding is shifting dev work towards higher-level strategy while increasing decision fatigue; why human taste, community feedback, and mentorship are becoming more essential than ever for developer careers; and the new GitHub Copilot announcements coming out of Microsoft, including the new GitHub Copilot app. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "At MS Build, Ryan is joined by Cassidy Williams, Senior Director of Developer Advocacy at GitHub and former Stack Overflow Podcast host, to discuss how agentic coding is shifting dev work towards higher-level strategy while increasing decision fatigue; why human taste, community feedback, and mentorship are becoming more essential than ever for developer careers; and the new GitHub Copilot announcements coming out of Microsoft, including the new GitHub Copilot app. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/07/17/devs-who-move-fast-still-need-to-do-it-together/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-07-17T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "dev-life",
+          "ai",
+          "agentic-ai"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI-Powered Tools",
+        "slug": "how-ai-powered-tools",
+        "description": "By automating the content generation process, you can focus on what matters: sharing your insights and experiences as a developer while reaching a broader audience without spending hours on each post. </p> <p>This is where the <strong><a href=\"https://blixaitoolkit.com/tools/ai/linkedin-carousel-generator\" rel=\"noopener noreferrer\">Visual LinkedIn Carousel Generator</a></strong> from BlixAI Toolkit shines.",
+        "summary": "By automating the content generation process, you can focus on what matters: sharing your insights and experiences as a developer while reaching a broader audience without spending hours on each post. </p> <p>This is where the <strong><a href=\"https://blixaitoolkit.com/tools/ai/linkedin-carousel-generator\" rel=\"noopener noreferrer\">Visual LinkedIn Carousel Generator</a></strong> from BlixAI Toolkit shines.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-powered-tools-can-enhance-your-linkedin-presence-as-a-developer-2cai",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-17T07:25:56.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The Evolving Role of Developers in the AI Era In 2026, software developers are finding themselves at a crossroads where traditional coding skills meet AI-enhanced capabilities.",
+          "Recent headlines indicate a significant shift in how AI tools are not just changing the coding experience but also reshaping the dynamics of careers and professional identities.",
+          "As remote work and global collaboration continue to dominate the software development landscape, having a robust LinkedIn profile has become essential."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "EEG shows brain",
+        "slug": "eeg-shows-brain",
+        "description": "Article URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876 Comments URL: https://news.ycombinator.com/item?id=48943745 Points: 42 # Comments: 12",
+        "summary": "Article URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876 Comments URL: https://news.ycombinator.com/item?id=48943745 Points: 42 # Comments: 12",
+        "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+        "source": "Hacker News",
+        "isoDate": "2026-07-17T05:51:10.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "article"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why I Started",
+        "slug": "why-i-started",
+        "description": "But I do believe curation is a form of self-care.</p> <p>Choosing what to keep and what to let go of, even in something as mundane as a photo gallery, is practice for bigger decisions.</p> <p>My gallery is not spotless. Each swipe was a small decision, and each decision made the next one easier.</p> <h2> The privacy part </h2> <p>Your photo gallery is probably the least secure thing on your phone.",
+        "summary": "But I do believe curation is a form of self-care.</p> <p>Choosing what to keep and what to let go of, even in something as mundane as a photo gallery, is practice for bigger decisions.</p> <p>My gallery is not spotless. Each swipe was a small decision, and each decision made the next one easier.</p> <h2> The privacy part </h2> <p>Your photo gallery is probably the least secure thing on your phone.",
+        "link": "https://dev.to/irislinl7r8/why-i-started-treating-my-photo-gallery-like-a-garden-5fch",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-17T05:40:15.000Z",
+        "keywords": [
+          "mentalhealth",
+          "mobile",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "mentalhealth",
+          "mobile",
+          "productivity"
+        ],
+        "pros": [
+          "Great for mentalhealth",
+          "mobile-ready automation",
+          "Great for mentalhealth"
+        ],
+        "cons": [
+          "Overkill for mentalhealth experiments",
+          "Needs extra setup for mobile workflows",
+          "Overkill for mentalhealth experiments"
+        ],
+        "highlights": [
+          "Each swipe was a small decision, and each decision made the next one easier.</p> <h2> The privacy part </h2> <p>Your photo gallery is probably the least secure thing on your phone.",
+          "<p>Last month I opened my phone gallery and saw a number that stopped me: 11,437 photos.</p> <p>The funny thing is, I could not tell you what 80% of them are.",
+          "The problem was the feeling: every time I opened the gallery, I felt a low-grade anxiety I could not explain."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Generate",
+        "slug": "how-to-generate",
+        "description": "Extract data from thousands of Google Maps locations and businesses, including reviews, reviewer details, images, contact info, including full name, email, and job title, opening hours, prices & more. Website Content Crawler (140K users) </h3> <p>Crawl websites and extract text content to feed AI models, LLM applications, vector databases, or RAG pipelines.",
+        "summary": "Extract data from thousands of Google Maps locations and businesses, including reviews, reviewer details, images, contact info, including full name, email, and job title, opening hours, prices & more. Website Content Crawler (140K users) </h3> <p>Crawl websites and extract text content to feed AI models, LLM applications, vector databases, or RAG pipelines.",
+        "link": "https://dev.to/nick_davies_323125afbb05c/how-to-generate-10000-leads-per-month-using-automation-tools-533",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-17T04:01:28.000Z",
+        "keywords": [
+          "sales",
+          "marketing",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "sales",
+          "marketing",
+          "automation"
+        ],
+        "pros": [
+          "Great for sales",
+          "marketing-ready automation",
+          "Great for sales"
+        ],
+        "cons": [
+          "Overkill for sales experiments",
+          "Needs extra setup for marketing workflows",
+          "Overkill for sales experiments"
+        ],
+        "highlights": [
+          "Use URLs or search queries to scrape TikTok profiles, hashtags, posts, URLs, shares, followers, hearts, names, video, and music-related data.",
+          "Use URLs or search queries to scrape TikTok profiles, hashtags, posts, URLs, shares, followers, hearts, names, video, and music-related data.",
+          "Website Content Crawler (140K users) </h3> <p>Crawl websites and extract text content to feed AI models, LLM applications, vector databases, or RAG pipelines."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-07-17T07:46:17.212Z",
+    "lastUpdated": "2026-07-17T07:46:17.212Z",
+    "visibleDate": "Jul 17, 2026",
+    "url": "pages/2026-07-17-074617212-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-07-17-074617212-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Developers who move",
+      "How AI-Powered Tools",
+      "EEG shows brain"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Developers who move, How AI-Powered Tools, EEG shows brain. Reliab",
+    "tools": [
+      {
+        "name": "Developers who move",
+        "slug": "developers-who-move",
+        "description": "At MS Build, Ryan is joined by Cassidy Williams, Senior Director of Developer Advocacy at GitHub and former Stack Overflow Podcast host, to discuss how agentic coding is shifting dev work towards higher-level strategy while increasing decision fatigue; why human taste, community feedback, and mentorship are becoming more essential than ever for developer careers; and the new GitHub Copilot announcements coming out of Microsoft, including the new GitHub Copilot app. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "At MS Build, Ryan is joined by Cassidy Williams, Senior Director of Developer Advocacy at GitHub and former Stack Overflow Podcast host, to discuss how agentic coding is shifting dev work towards higher-level strategy while increasing decision fatigue; why human taste, community feedback, and mentorship are becoming more essential than ever for developer careers; and the new GitHub Copilot announcements coming out of Microsoft, including the new GitHub Copilot app. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/07/17/devs-who-move-fast-still-need-to-do-it-together/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-07-17T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "dev-life",
+          "ai",
+          "agentic-ai"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI-Powered Tools",
+        "slug": "how-ai-powered-tools",
+        "description": "By automating the content generation process, you can focus on what matters: sharing your insights and experiences as a developer while reaching a broader audience without spending hours on each post. </p> <p>This is where the <strong><a href=\"https://blixaitoolkit.com/tools/ai/linkedin-carousel-generator\" rel=\"noopener noreferrer\">Visual LinkedIn Carousel Generator</a></strong> from BlixAI Toolkit shines.",
+        "summary": "By automating the content generation process, you can focus on what matters: sharing your insights and experiences as a developer while reaching a broader audience without spending hours on each post. </p> <p>This is where the <strong><a href=\"https://blixaitoolkit.com/tools/ai/linkedin-carousel-generator\" rel=\"noopener noreferrer\">Visual LinkedIn Carousel Generator</a></strong> from BlixAI Toolkit shines.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-powered-tools-can-enhance-your-linkedin-presence-as-a-developer-2cai",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-17T07:25:56.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The Evolving Role of Developers in the AI Era In 2026, software developers are finding themselves at a crossroads where traditional coding skills meet AI-enhanced capabilities.",
+          "Recent headlines indicate a significant shift in how AI tools are not just changing the coding experience but also reshaping the dynamics of careers and professional identities.",
+          "As remote work and global collaboration continue to dominate the software development landscape, having a robust LinkedIn profile has become essential."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "EEG shows brain",
+        "slug": "eeg-shows-brain",
+        "description": "Article URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876 Comments URL: https://news.ycombinator.com/item?id=48943745 Points: 42 # Comments: 12",
+        "summary": "Article URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876 Comments URL: https://news.ycombinator.com/item?id=48943745 Points: 42 # Comments: 12",
+        "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+        "source": "Hacker News",
+        "isoDate": "2026-07-17T05:51:10.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "article"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why I Started",
+        "slug": "why-i-started",
+        "description": "But I do believe curation is a form of self-care.</p> <p>Choosing what to keep and what to let go of, even in something as mundane as a photo gallery, is practice for bigger decisions.</p> <p>My gallery is not spotless. Each swipe was a small decision, and each decision made the next one easier.</p> <h2> The privacy part </h2> <p>Your photo gallery is probably the least secure thing on your phone.",
+        "summary": "But I do believe curation is a form of self-care.</p> <p>Choosing what to keep and what to let go of, even in something as mundane as a photo gallery, is practice for bigger decisions.</p> <p>My gallery is not spotless. Each swipe was a small decision, and each decision made the next one easier.</p> <h2> The privacy part </h2> <p>Your photo gallery is probably the least secure thing on your phone.",
+        "link": "https://dev.to/irislinl7r8/why-i-started-treating-my-photo-gallery-like-a-garden-5fch",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-17T05:40:15.000Z",
+        "keywords": [
+          "mentalhealth",
+          "mobile",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "mentalhealth",
+          "mobile",
+          "productivity"
+        ],
+        "pros": [
+          "Great for mentalhealth",
+          "mobile-ready automation",
+          "Great for mentalhealth"
+        ],
+        "cons": [
+          "Overkill for mentalhealth experiments",
+          "Needs extra setup for mobile workflows",
+          "Overkill for mentalhealth experiments"
+        ],
+        "highlights": [
+          "Each swipe was a small decision, and each decision made the next one easier.</p> <h2> The privacy part </h2> <p>Your photo gallery is probably the least secure thing on your phone.",
+          "<p>Last month I opened my phone gallery and saw a number that stopped me: 11,437 photos.</p> <p>The funny thing is, I could not tell you what 80% of them are.",
+          "The problem was the feeling: every time I opened the gallery, I felt a low-grade anxiety I could not explain."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-07-17T07:46:17.212Z",
+    "lastUpdated": "2026-07-17T07:46:17.212Z",
+    "visibleDate": "Jul 17, 2026",
+    "url": "pages/2026-07-17-074617212-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-07-17-074617212-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Developers who move",
+      "How AI-Powered Tools"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Developers who move, How AI-Powered Tools. Gitpod",
+    "tools": [
+      {
+        "name": "Developers who move",
+        "slug": "developers-who-move",
+        "description": "At MS Build, Ryan is joined by Cassidy Williams, Senior Director of Developer Advocacy at GitHub and former Stack Overflow Podcast host, to discuss how agentic coding is shifting dev work towards higher-level strategy while increasing decision fatigue; why human taste, community feedback, and mentorship are becoming more essential than ever for developer careers; and the new GitHub Copilot announcements coming out of Microsoft, including the new GitHub Copilot app. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "At MS Build, Ryan is joined by Cassidy Williams, Senior Director of Developer Advocacy at GitHub and former Stack Overflow Podcast host, to discuss how agentic coding is shifting dev work towards higher-level strategy while increasing decision fatigue; why human taste, community feedback, and mentorship are becoming more essential than ever for developer careers; and the new GitHub Copilot announcements coming out of Microsoft, including the new GitHub Copilot app. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/07/17/devs-who-move-fast-still-need-to-do-it-together/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-07-17T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "dev-life",
+          "ai",
+          "agentic-ai"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI-Powered Tools",
+        "slug": "how-ai-powered-tools",
+        "description": "By automating the content generation process, you can focus on what matters: sharing your insights and experiences as a developer while reaching a broader audience without spending hours on each post. </p> <p>This is where the <strong><a href=\"https://blixaitoolkit.com/tools/ai/linkedin-carousel-generator\" rel=\"noopener noreferrer\">Visual LinkedIn Carousel Generator</a></strong> from BlixAI Toolkit shines.",
+        "summary": "By automating the content generation process, you can focus on what matters: sharing your insights and experiences as a developer while reaching a broader audience without spending hours on each post. </p> <p>This is where the <strong><a href=\"https://blixaitoolkit.com/tools/ai/linkedin-carousel-generator\" rel=\"noopener noreferrer\">Visual LinkedIn Carousel Generator</a></strong> from BlixAI Toolkit shines.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-powered-tools-can-enhance-your-linkedin-presence-as-a-developer-2cai",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-17T07:25:56.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The Evolving Role of Developers in the AI Era In 2026, software developers are finding themselves at a crossroads where traditional coding skills meet AI-enhanced capabilities.",
+          "Recent headlines indicate a significant shift in how AI tools are not just changing the coding experience but also reshaping the dynamics of careers and professional identities.",
+          "As remote work and global collaboration continue to dominate the software development landscape, having a robust LinkedIn profile has become essential."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-07-17T07:46:17.212Z",
+    "lastUpdated": "2026-07-17T07:46:17.212Z",
+    "visibleDate": "Jul 17, 2026",
+    "url": "pages/2026-07-17-074617212-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-07-17-074617212-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Developers who move",
+      "How AI-Powered Tools",
+      "EEG shows brain"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Developers who move, How AI-Powered Tools, EEG shows brain. New launches",
+    "tools": [
+      {
+        "name": "Developers who move",
+        "slug": "developers-who-move",
+        "description": "At MS Build, Ryan is joined by Cassidy Williams, Senior Director of Developer Advocacy at GitHub and former Stack Overflow Podcast host, to discuss how agentic coding is shifting dev work towards higher-level strategy while increasing decision fatigue; why human taste, community feedback, and mentorship are becoming more essential than ever for developer careers; and the new GitHub Copilot announcements coming out of Microsoft, including the new GitHub Copilot app. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "At MS Build, Ryan is joined by Cassidy Williams, Senior Director of Developer Advocacy at GitHub and former Stack Overflow Podcast host, to discuss how agentic coding is shifting dev work towards higher-level strategy while increasing decision fatigue; why human taste, community feedback, and mentorship are becoming more essential than ever for developer careers; and the new GitHub Copilot announcements coming out of Microsoft, including the new GitHub Copilot app. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​​ ‍​‌‍‌‍​ ‌‌​ ​‍‌‍‌​​ ‌ ‌‍​‍​‍ ‌‌‍‌‌‌‍‌​​ ​ ​ ‌‌​‍ ‌​ ‌​‌‍‌​​ ​‍​ ​ ​‍ ‌​ ‍‌​ ​​​ ‌​‌‍‌‌​‍ ‌‌‍‌‌​ ​‌‌‍​ ​ ​ ​ ​​​ ‌‍​ ‍​​ ‌‌​ ​‍‌‍‌‌​ ‌ ​ ‌ ​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/07/17/devs-who-move-fast-still-need-to-do-it-together/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-07-17T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "dev-life",
+          "ai",
+          "agentic-ai"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI-Powered Tools",
+        "slug": "how-ai-powered-tools",
+        "description": "By automating the content generation process, you can focus on what matters: sharing your insights and experiences as a developer while reaching a broader audience without spending hours on each post. </p> <p>This is where the <strong><a href=\"https://blixaitoolkit.com/tools/ai/linkedin-carousel-generator\" rel=\"noopener noreferrer\">Visual LinkedIn Carousel Generator</a></strong> from BlixAI Toolkit shines.",
+        "summary": "By automating the content generation process, you can focus on what matters: sharing your insights and experiences as a developer while reaching a broader audience without spending hours on each post. </p> <p>This is where the <strong><a href=\"https://blixaitoolkit.com/tools/ai/linkedin-carousel-generator\" rel=\"noopener noreferrer\">Visual LinkedIn Carousel Generator</a></strong> from BlixAI Toolkit shines.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-powered-tools-can-enhance-your-linkedin-presence-as-a-developer-2cai",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-17T07:25:56.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The Evolving Role of Developers in the AI Era In 2026, software developers are finding themselves at a crossroads where traditional coding skills meet AI-enhanced capabilities.",
+          "Recent headlines indicate a significant shift in how AI tools are not just changing the coding experience but also reshaping the dynamics of careers and professional identities.",
+          "As remote work and global collaboration continue to dominate the software development landscape, having a robust LinkedIn profile has become essential."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "EEG shows brain",
+        "slug": "eeg-shows-brain",
+        "description": "Article URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876 Comments URL: https://news.ycombinator.com/item?id=48943745 Points: 42 # Comments: 12",
+        "summary": "Article URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876 Comments URL: https://news.ycombinator.com/item?id=48943745 Points: 42 # Comments: 12",
+        "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+        "source": "Hacker News",
+        "isoDate": "2026-07-17T05:51:10.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "article"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-07-16T07:48:33.855Z",
     "lastUpdated": "2026-07-16T07:48:33.855Z",
     "visibleDate": "Jul 16, 2026",

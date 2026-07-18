@@ -7,6 +7,670 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-07-18T07:20:50.374Z",
+    "lastUpdated": "2026-07-18T07:20:50.374Z",
+    "visibleDate": "Jul 18, 2026",
+    "url": "pages/2026-07-18-072050374-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-07-18-072050374-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Tool Spotlight",
+      "用数据分析工具识别彩票号码规律的经验分享",
+      "I cleaned 2,300"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Tool Spotlight, 用数据分析工具识别彩票号码规律的经验分享, I cleaned 2,300. Productivity stacks",
+    "tools": [
+      {
+        "name": "Tool Spotlight",
+        "slug": "tool-spotlight",
+        "description": "It’s like having a really smart friend who’s always ready to lend a hand—no drama, just results.</p> <p>What MiniMax does well is impressive. Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page.</p> <p>Who is MiniMax for?",
+        "summary": "It’s like having a really smart friend who’s always ready to lend a hand—no drama, just results.</p> <p>What MiniMax does well is impressive. Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page.</p> <p>Who is MiniMax for?",
+        "link": "https://dev.to/amrree/tool-spotlight-minimax-2f7d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-18T06:43:03.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "toolspotlight",
+          "sol",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "toolspotlight"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "It’s like having a really smart friend who’s always ready to lend a hand—no drama, just results.</p> <p>What MiniMax does well is impressive.",
+          "Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page.</p> <p>Who is MiniMax for?",
+          "Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "用数据分析工具识别彩票号码规律的经验分享",
+        "slug": "",
+        "description": "✅ 结论：数据分析工具确实能帮助识别彩票号码规律。 📊 数据背景： 🔍 问题分析： 💡 解决方案： 📈 实际效果： 🔗 免费工具：https://uu186.yuanceai.top/tool.html ⚠️ 声明：本文纯分享数据分析经验，不构成任何投资建议。量力而行。",
+        "summary": "✅ 结论：数据分析工具确实能帮助识别彩票号码规律。 📊 数据背景： 🔍 问题分析： 💡 解决方案： 📈 实际效果： 🔗 免费工具：https://uu186.yuanceai.top/tool.html ⚠️ 声明：本文纯分享数据分析经验，不构成任何投资建议。量力而行。",
+        "link": "https://dev.to/aimigo_57e64d6aeaf6a67a02/yong-shu-ju-fen-xi-gong-ju-shi-bie-cai-piao-hao-ma-gui-lu-de-jing-yan-fen-xiang-44hm",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-18T06:00:06.000Z",
+        "keywords": [
+          "dataanalysis",
+          "statistics",
+          "probability",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "dataanalysis",
+          "statistics",
+          "probability"
+        ],
+        "pros": [
+          "Great for dataanalysis",
+          "statistics-ready automation",
+          "Great for dataanalysis"
+        ],
+        "cons": [
+          "Overkill for dataanalysis experiments",
+          "Needs extra setup for statistics workflows",
+          "Overkill for dataanalysis experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I cleaned 2,300",
+        "slug": "i-cleaned-2-300",
+        "description": "Mostly screenshots of Slack threads, boarding passes from 2024, and six near-identical photos of the same whiteboard.</p> <p>I tried the built-in Duplicates album first (Photos → Albums → Utilities → Duplicates). Free on iOS 16+ / iPadOS / macOS (M1+): https://apps.apple.com/app/id6779493280 If you have a better cleanup workflow (or a swipe-fatigue horror story), I'm listening.",
+        "summary": "Mostly screenshots of Slack threads, boarding passes from 2024, and six near-identical photos of the same whiteboard.</p> <p>I tried the built-in Duplicates album first (Photos → Albums → Utilities → Duplicates). Free on iOS 16+ / iPadOS / macOS (M1+): https://apps.apple.com/app/id6779493280 If you have a better cleanup workflow (or a swipe-fatigue horror story), I'm listening.",
+        "link": "https://dev.to/leozhang8285/i-cleaned-2300-photos-off-my-iphone-with-a-47-mb-app-8i5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-18T05:36:39.000Z",
+        "keywords": [
+          "productivity",
+          "ios",
+          "mobile",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "ios",
+          "mobile"
+        ],
+        "pros": [
+          "Great for productivity",
+          "ios-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for ios workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Free on iOS 16+ / iPadOS / macOS (M1+): https://apps.apple.com/app/id6779493280 If you have a better cleanup workflow (or a swipe-fatigue horror story), I'm listening.",
+          "Two things made me actually finish the cleanup instead of abandoning it halfway like every other time: Nothing gets deleted while you swipe.",
+          "Freeing up storage with an app that itself eats 300 MB always felt ironic to me.</p></li> </ol> <p>I did it in short bursts — waiting for coffee, in elevators, during CI runs."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Linkedin Scraping Tools Compared",
+        "slug": "linkedin-scraping-tools-compared",
+        "description": "Users: 51K Rating: 4.4/5 Pricing: Pay per event Try it on Apify Search for LinkedIn profiles with filters and extract detailed profile information, including work experience, education history, location and more. Users: 62K Rating: 3.5/5 Pricing: Pay per event Try it on Apify Extract detailed information from LinkedIn profiles in bulk, including complete work experience, education history, skills and more.",
+        "summary": "Users: 51K Rating: 4.4/5 Pricing: Pay per event Try it on Apify Search for LinkedIn profiles with filters and extract detailed profile information, including work experience, education history, location and more. Users: 62K Rating: 3.5/5 Pricing: Pay per event Try it on Apify Extract detailed information from LinkedIn profiles in bulk, including complete work experience, education history, skills and more.",
+        "link": "https://dev.to/nick_davies_323125afbb05c/linkedin-scraping-tools-compared-which-one-should-you-use-in-2026-1kf4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-18T03:55:34.000Z",
+        "keywords": [
+          "webdev",
+          "api",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "api",
+          "automation"
+        ],
+        "pros": [
+          "Great for webdev",
+          "api-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for api workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Users: 62K Rating: 3.5/5 Pricing: Pay per event Try it on Apify Extract detailed information from LinkedIn profiles in bulk, including complete work experience, education history, skills and more.",
+          "LinkedIn Profile Scraper + Email ✅ No Cookies </h3> <p>Extract detailed information from LinkedIn profiles in bulk, including complete work experience, education history, skills and more.",
+          "Users: 19K Rating: 4.9/5 Pricing: Pay per event Try it on Apify All tools are available on Apify with $5/month in free credits for new accounts."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to find",
+        "slug": "how-to-find",
+        "description": "Two weeks ago, a typosquatting repo (JuanquiFortuny/prospector-mcp-email-finder) slipped a Windows trojan (Trojan:Win64/Lazy.PGPK!MTB) into a competing MCP directory via a fake \"Download Latest Release\" badge. This means: A typo in the repo URL → you install the wrong thing A malicious PR merged into a legit repo → you install malware A typosquatting repo with a similar name → you install a trojan This actually happened.",
+        "summary": "Two weeks ago, a typosquatting repo (JuanquiFortuny/prospector-mcp-email-finder) slipped a Windows trojan (Trojan:Win64/Lazy.PGPK!MTB) into a competing MCP directory via a fake \"Download Latest Release\" badge. This means: A typo in the repo URL → you install the wrong thing A malicious PR merged into a legit repo → you install malware A typosquatting repo with a similar name → you install a trojan This actually happened.",
+        "link": "https://dev.to/edison_flores_6d2cd381b13/how-to-find-safe-mcp-servers-for-your-ai-coding-assistant-and-why-most-directories-lie-3967",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-18T03:27:34.000Z",
+        "keywords": [
+          "mcp",
+          "ai",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "mcp",
+          "ai",
+          "tools"
+        ],
+        "pros": [
+          "Great for mcp",
+          "ai-ready automation",
+          "Great for mcp"
+        ],
+        "cons": [
+          "Overkill for mcp experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for mcp experiments"
+        ],
+        "highlights": [
+          "Anyone can publish an MCP server, and most directories don't check anything.</p> <p>MarketNow is trying to fix this: every server audited, every certificate signed, every incident public.",
+          "If you use Claude Desktop, Cursor, Cline, or Continue, you've probably installed MCP servers from a \"curated list\" or directory.",
+          "Most \"awesome-mcp-servers\" lists work like this: Someone submits a GitHub repo The maintainer adds it to the README That's it."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-07-18T07:20:50.374Z",
+    "lastUpdated": "2026-07-18T07:20:50.374Z",
+    "visibleDate": "Jul 18, 2026",
+    "url": "pages/2026-07-18-072050374-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-07-18-072050374-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Tool Spotlight",
+      "用数据分析工具识别彩票号码规律的经验分享",
+      "I cleaned 2,300"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Tool Spotlight, 用数据分析工具识别彩票号码规律的经验分享, I cleaned 2,300. Reliable re",
+    "tools": [
+      {
+        "name": "Tool Spotlight",
+        "slug": "tool-spotlight",
+        "description": "It’s like having a really smart friend who’s always ready to lend a hand—no drama, just results.</p> <p>What MiniMax does well is impressive. Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page.</p> <p>Who is MiniMax for?",
+        "summary": "It’s like having a really smart friend who’s always ready to lend a hand—no drama, just results.</p> <p>What MiniMax does well is impressive. Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page.</p> <p>Who is MiniMax for?",
+        "link": "https://dev.to/amrree/tool-spotlight-minimax-2f7d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-18T06:43:03.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "toolspotlight",
+          "sol",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "toolspotlight"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "It’s like having a really smart friend who’s always ready to lend a hand—no drama, just results.</p> <p>What MiniMax does well is impressive.",
+          "Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page.</p> <p>Who is MiniMax for?",
+          "Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "用数据分析工具识别彩票号码规律的经验分享",
+        "slug": "",
+        "description": "✅ 结论：数据分析工具确实能帮助识别彩票号码规律。 📊 数据背景： 🔍 问题分析： 💡 解决方案： 📈 实际效果： 🔗 免费工具：https://uu186.yuanceai.top/tool.html ⚠️ 声明：本文纯分享数据分析经验，不构成任何投资建议。量力而行。",
+        "summary": "✅ 结论：数据分析工具确实能帮助识别彩票号码规律。 📊 数据背景： 🔍 问题分析： 💡 解决方案： 📈 实际效果： 🔗 免费工具：https://uu186.yuanceai.top/tool.html ⚠️ 声明：本文纯分享数据分析经验，不构成任何投资建议。量力而行。",
+        "link": "https://dev.to/aimigo_57e64d6aeaf6a67a02/yong-shu-ju-fen-xi-gong-ju-shi-bie-cai-piao-hao-ma-gui-lu-de-jing-yan-fen-xiang-44hm",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-18T06:00:06.000Z",
+        "keywords": [
+          "dataanalysis",
+          "statistics",
+          "probability",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "dataanalysis",
+          "statistics",
+          "probability"
+        ],
+        "pros": [
+          "Great for dataanalysis",
+          "statistics-ready automation",
+          "Great for dataanalysis"
+        ],
+        "cons": [
+          "Overkill for dataanalysis experiments",
+          "Needs extra setup for statistics workflows",
+          "Overkill for dataanalysis experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I cleaned 2,300",
+        "slug": "i-cleaned-2-300",
+        "description": "Mostly screenshots of Slack threads, boarding passes from 2024, and six near-identical photos of the same whiteboard.</p> <p>I tried the built-in Duplicates album first (Photos → Albums → Utilities → Duplicates). Free on iOS 16+ / iPadOS / macOS (M1+): https://apps.apple.com/app/id6779493280 If you have a better cleanup workflow (or a swipe-fatigue horror story), I'm listening.",
+        "summary": "Mostly screenshots of Slack threads, boarding passes from 2024, and six near-identical photos of the same whiteboard.</p> <p>I tried the built-in Duplicates album first (Photos → Albums → Utilities → Duplicates). Free on iOS 16+ / iPadOS / macOS (M1+): https://apps.apple.com/app/id6779493280 If you have a better cleanup workflow (or a swipe-fatigue horror story), I'm listening.",
+        "link": "https://dev.to/leozhang8285/i-cleaned-2300-photos-off-my-iphone-with-a-47-mb-app-8i5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-18T05:36:39.000Z",
+        "keywords": [
+          "productivity",
+          "ios",
+          "mobile",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "ios",
+          "mobile"
+        ],
+        "pros": [
+          "Great for productivity",
+          "ios-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for ios workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Free on iOS 16+ / iPadOS / macOS (M1+): https://apps.apple.com/app/id6779493280 If you have a better cleanup workflow (or a swipe-fatigue horror story), I'm listening.",
+          "Two things made me actually finish the cleanup instead of abandoning it halfway like every other time: Nothing gets deleted while you swipe.",
+          "Freeing up storage with an app that itself eats 300 MB always felt ironic to me.</p></li> </ol> <p>I did it in short bursts — waiting for coffee, in elevators, during CI runs."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Linkedin Scraping Tools Compared",
+        "slug": "linkedin-scraping-tools-compared",
+        "description": "Users: 51K Rating: 4.4/5 Pricing: Pay per event Try it on Apify Search for LinkedIn profiles with filters and extract detailed profile information, including work experience, education history, location and more. Users: 62K Rating: 3.5/5 Pricing: Pay per event Try it on Apify Extract detailed information from LinkedIn profiles in bulk, including complete work experience, education history, skills and more.",
+        "summary": "Users: 51K Rating: 4.4/5 Pricing: Pay per event Try it on Apify Search for LinkedIn profiles with filters and extract detailed profile information, including work experience, education history, location and more. Users: 62K Rating: 3.5/5 Pricing: Pay per event Try it on Apify Extract detailed information from LinkedIn profiles in bulk, including complete work experience, education history, skills and more.",
+        "link": "https://dev.to/nick_davies_323125afbb05c/linkedin-scraping-tools-compared-which-one-should-you-use-in-2026-1kf4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-18T03:55:34.000Z",
+        "keywords": [
+          "webdev",
+          "api",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "api",
+          "automation"
+        ],
+        "pros": [
+          "Great for webdev",
+          "api-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for api workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Users: 62K Rating: 3.5/5 Pricing: Pay per event Try it on Apify Extract detailed information from LinkedIn profiles in bulk, including complete work experience, education history, skills and more.",
+          "LinkedIn Profile Scraper + Email ✅ No Cookies </h3> <p>Extract detailed information from LinkedIn profiles in bulk, including complete work experience, education history, skills and more.",
+          "Users: 19K Rating: 4.9/5 Pricing: Pay per event Try it on Apify All tools are available on Apify with $5/month in free credits for new accounts."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-07-18T07:20:50.374Z",
+    "lastUpdated": "2026-07-18T07:20:50.374Z",
+    "visibleDate": "Jul 18, 2026",
+    "url": "pages/2026-07-18-072050374-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-07-18-072050374-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "Tool Spotlight",
+      "用数据分析工具识别彩票号码规律的经验分享"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Tool Spotlight, 用数据分析工具识别彩票号码规律的经验分享. Gitpod brin",
+    "tools": [
+      {
+        "name": "Tool Spotlight",
+        "slug": "tool-spotlight",
+        "description": "It’s like having a really smart friend who’s always ready to lend a hand—no drama, just results.</p> <p>What MiniMax does well is impressive. Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page.</p> <p>Who is MiniMax for?",
+        "summary": "It’s like having a really smart friend who’s always ready to lend a hand—no drama, just results.</p> <p>What MiniMax does well is impressive. Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page.</p> <p>Who is MiniMax for?",
+        "link": "https://dev.to/amrree/tool-spotlight-minimax-2f7d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-18T06:43:03.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "toolspotlight",
+          "sol",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "toolspotlight"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "It’s like having a really smart friend who’s always ready to lend a hand—no drama, just results.</p> <p>What MiniMax does well is impressive.",
+          "Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page.</p> <p>Who is MiniMax for?",
+          "Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "用数据分析工具识别彩票号码规律的经验分享",
+        "slug": "",
+        "description": "✅ 结论：数据分析工具确实能帮助识别彩票号码规律。 📊 数据背景： 🔍 问题分析： 💡 解决方案： 📈 实际效果： 🔗 免费工具：https://uu186.yuanceai.top/tool.html ⚠️ 声明：本文纯分享数据分析经验，不构成任何投资建议。量力而行。",
+        "summary": "✅ 结论：数据分析工具确实能帮助识别彩票号码规律。 📊 数据背景： 🔍 问题分析： 💡 解决方案： 📈 实际效果： 🔗 免费工具：https://uu186.yuanceai.top/tool.html ⚠️ 声明：本文纯分享数据分析经验，不构成任何投资建议。量力而行。",
+        "link": "https://dev.to/aimigo_57e64d6aeaf6a67a02/yong-shu-ju-fen-xi-gong-ju-shi-bie-cai-piao-hao-ma-gui-lu-de-jing-yan-fen-xiang-44hm",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-18T06:00:06.000Z",
+        "keywords": [
+          "dataanalysis",
+          "statistics",
+          "probability",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "dataanalysis",
+          "statistics",
+          "probability"
+        ],
+        "pros": [
+          "Great for dataanalysis",
+          "statistics-ready automation",
+          "Great for dataanalysis"
+        ],
+        "cons": [
+          "Overkill for dataanalysis experiments",
+          "Needs extra setup for statistics workflows",
+          "Overkill for dataanalysis experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-07-18T07:20:50.374Z",
+    "lastUpdated": "2026-07-18T07:20:50.374Z",
+    "visibleDate": "Jul 18, 2026",
+    "url": "pages/2026-07-18-072050374-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-07-18-072050374-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Tool Spotlight",
+      "用数据分析工具识别彩票号码规律的经验分享",
+      "I cleaned 2,300"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Tool Spotlight, 用数据分析工具识别彩票号码规律的经验分享, I cleaned 2,300. New launches that",
+    "tools": [
+      {
+        "name": "Tool Spotlight",
+        "slug": "tool-spotlight",
+        "description": "It’s like having a really smart friend who’s always ready to lend a hand—no drama, just results.</p> <p>What MiniMax does well is impressive. Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page.</p> <p>Who is MiniMax for?",
+        "summary": "It’s like having a really smart friend who’s always ready to lend a hand—no drama, just results.</p> <p>What MiniMax does well is impressive. Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page.</p> <p>Who is MiniMax for?",
+        "link": "https://dev.to/amrree/tool-spotlight-minimax-2f7d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-18T06:43:03.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "toolspotlight",
+          "sol",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "toolspotlight"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "It’s like having a really smart friend who’s always ready to lend a hand—no drama, just results.</p> <p>What MiniMax does well is impressive.",
+          "Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page.</p> <p>Who is MiniMax for?",
+          "Additionally, while its responses are generally accurate, there have been times when it missed the mark, requiring a bit of back-and-forth to get on the same page."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "用数据分析工具识别彩票号码规律的经验分享",
+        "slug": "",
+        "description": "✅ 结论：数据分析工具确实能帮助识别彩票号码规律。 📊 数据背景： 🔍 问题分析： 💡 解决方案： 📈 实际效果： 🔗 免费工具：https://uu186.yuanceai.top/tool.html ⚠️ 声明：本文纯分享数据分析经验，不构成任何投资建议。量力而行。",
+        "summary": "✅ 结论：数据分析工具确实能帮助识别彩票号码规律。 📊 数据背景： 🔍 问题分析： 💡 解决方案： 📈 实际效果： 🔗 免费工具：https://uu186.yuanceai.top/tool.html ⚠️ 声明：本文纯分享数据分析经验，不构成任何投资建议。量力而行。",
+        "link": "https://dev.to/aimigo_57e64d6aeaf6a67a02/yong-shu-ju-fen-xi-gong-ju-shi-bie-cai-piao-hao-ma-gui-lu-de-jing-yan-fen-xiang-44hm",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-18T06:00:06.000Z",
+        "keywords": [
+          "dataanalysis",
+          "statistics",
+          "probability",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "dataanalysis",
+          "statistics",
+          "probability"
+        ],
+        "pros": [
+          "Great for dataanalysis",
+          "statistics-ready automation",
+          "Great for dataanalysis"
+        ],
+        "cons": [
+          "Overkill for dataanalysis experiments",
+          "Needs extra setup for statistics workflows",
+          "Overkill for dataanalysis experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I cleaned 2,300",
+        "slug": "i-cleaned-2-300",
+        "description": "Mostly screenshots of Slack threads, boarding passes from 2024, and six near-identical photos of the same whiteboard.</p> <p>I tried the built-in Duplicates album first (Photos → Albums → Utilities → Duplicates). Free on iOS 16+ / iPadOS / macOS (M1+): https://apps.apple.com/app/id6779493280 If you have a better cleanup workflow (or a swipe-fatigue horror story), I'm listening.",
+        "summary": "Mostly screenshots of Slack threads, boarding passes from 2024, and six near-identical photos of the same whiteboard.</p> <p>I tried the built-in Duplicates album first (Photos → Albums → Utilities → Duplicates). Free on iOS 16+ / iPadOS / macOS (M1+): https://apps.apple.com/app/id6779493280 If you have a better cleanup workflow (or a swipe-fatigue horror story), I'm listening.",
+        "link": "https://dev.to/leozhang8285/i-cleaned-2300-photos-off-my-iphone-with-a-47-mb-app-8i5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-18T05:36:39.000Z",
+        "keywords": [
+          "productivity",
+          "ios",
+          "mobile",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "ios",
+          "mobile"
+        ],
+        "pros": [
+          "Great for productivity",
+          "ios-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for ios workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Free on iOS 16+ / iPadOS / macOS (M1+): https://apps.apple.com/app/id6779493280 If you have a better cleanup workflow (or a swipe-fatigue horror story), I'm listening.",
+          "Two things made me actually finish the cleanup instead of abandoning it halfway like every other time: Nothing gets deleted while you swipe.",
+          "Freeing up storage with an app that itself eats 300 MB always felt ironic to me.</p></li> </ol> <p>I did it in short bursts — waiting for coffee, in elevators, during CI runs."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-07-17T07:46:17.212Z",
     "lastUpdated": "2026-07-17T07:46:17.212Z",
     "visibleDate": "Jul 17, 2026",

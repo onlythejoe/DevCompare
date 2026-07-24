@@ -7,6 +7,667 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-07-24T08:00:25.599Z",
+    "lastUpdated": "2026-07-24T08:00:25.599Z",
+    "visibleDate": "Jul 24, 2026",
+    "url": "pages/2026-07-24-080025599-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-07-24-080025599-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Complete Guide to File Compression",
+      "Partnerships can keep",
+      "How AI Tools"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include The Complete Guide to File Compression, Partnerships can keep, How AI Tool",
+    "tools": [
+      {
+        "name": "The Complete Guide to File Compression",
+        "slug": "the-complete-guide-to-file-compression",
+        "description": "Contracts, reports, presentations, electronic invoices — vast numbers of documents circulate as PDFs, and embedded high-resolution images, scanned pages, and vector graphics frequently cause file size bloat. Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+        "summary": "Contracts, reports, presentations, electronic invoices — vast numbers of documents circulate as PDFs, and embedded high-resolution images, scanned pages, and vector graphics frequently cause file size bloat. Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+        "link": "https://dev.to/uglypeardata/the-complete-guide-to-file-compression-pdf-image-video-document-compression-explained-5dh3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-24T07:54:55.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "compression"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "dev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+          "Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+          "Specialized content compression tools directly reduce the size of individual files (PDF, images, video) — the compressed file can be opened immediately without extraction."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Partnerships can keep",
+        "slug": "partnerships-can-keep",
+        "description": "Ryan welcomes VoidZero’s Evan You and Cloudflare’s Dane Knecht back to the show to discuss Cloudflare’s recent acquisition of VoidZero and what it means for JavaScript development, how partnerships like theirs can help open-source projects stay maintained and sustainably monetized, and how Cloudflare’s distributed systems are helping to improve developer experience in Vite and beyond. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "Ryan welcomes VoidZero’s Evan You and Cloudflare’s Dane Knecht back to the show to discuss Cloudflare’s recent acquisition of VoidZero and what it means for JavaScript development, how partnerships like theirs can help open-source projects stay maintained and sustainably monetized, and how Cloudflare’s distributed systems are helping to improve developer experience in Vite and beyond. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-07-24T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "javascript",
+          "open-source",
+          "dev-tools"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI Tools",
+        "slug": "how-ai-tools",
+        "description": "Imagine effortlessly generating posts that highlight your latest side project or share insights from your coding journey, all while saving precious time that you could invest in development. The Growing Influence of AI in Software Development As we step further into 2026, one trend stands out in the ever-evolving landscape of software development: the increasing reliance on AI tools.",
+        "summary": "Imagine effortlessly generating posts that highlight your latest side project or share insights from your coding journey, all while saving precious time that you could invest in development. The Growing Influence of AI in Software Development As we step further into 2026, one trend stands out in the ever-evolving landscape of software development: the increasing reliance on AI tools.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-tools-are-reshaping-software-development-and-boosting-side-hustles-3f6k",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-24T07:25:57.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The Growing Influence of AI in Software Development As we step further into 2026, one trend stands out in the ever-evolving landscape of software development: the increasing reliance on AI tools.",
+          "Imagine effortlessly generating posts that highlight your latest side project or share insights from your coding journey, all while saving precious time that you could invest in development.",
+          "Two standout tools are particularly relevant: LinkedIn Post Generator As a developer, establishing your personal brand is crucial when venturing into side hustles."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The PImpl idiom and the C++26 std",
+        "slug": "the-pimpl-idiom-and-the-c-26-std",
+        "description": "Article URL: https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/ Comments URL: https://news.ycombinator.com/item?id=49032095 Points: 18 # Comments: 13",
+        "summary": "Article URL: https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/ Comments URL: https://news.ycombinator.com/item?id=49032095 Points: 18 # Comments: 13",
+        "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+        "source": "Hacker News",
+        "isoDate": "2026-07-24T07:02:43.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 digital logbooks for shift handover, compared",
+        "slug": "5-digital-logbooks-for-shift-handover-compared",
+        "description": "Fit: discrete manufacturing (electronics, furniture, automotive components, building materials, mechanical engineering, metalworking) plus mining, oil, and gas — anywhere those logs are already being kept. logsheet.ai is built around two roles in the handover: the outgoing shift fills out a digital logbook; the incoming shift works through a checklist of completed tasks and checks.",
+        "summary": "Fit: discrete manufacturing (electronics, furniture, automotive components, building materials, mechanical engineering, metalworking) plus mining, oil, and gas — anywhere those logs are already being kept. logsheet.ai is built around two roles in the handover: the outgoing shift fills out a digital logbook; the incoming shift works through a checklist of completed tasks and checks.",
+        "link": "https://dev.to/isolution/5-digital-logbooks-for-shift-handover-compared-logsheetai-maintainx-redlist-fiix-a-chrome-16fg",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-24T06:53:56.000Z",
+        "keywords": [
+          "manufacturing",
+          "productivity",
+          "tools",
+          "iot",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "manufacturing",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for manufacturing",
+          "productivity-ready automation",
+          "Great for manufacturing"
+        ],
+        "cons": [
+          "Overkill for manufacturing experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for manufacturing experiments"
+        ],
+        "highlights": [
+          "logsheet.ai is built around two roles in the handover: the outgoing shift fills out a digital logbook; the incoming shift works through a checklist of completed tasks and checks.",
+          "It covers a wide range of production docs: maintenance/repair logbooks, an operations logbook, instrument and meter readings, a transport log, employee task logs, and more.",
+          "The handover model is task-based: the system generates a task for the incoming crew that carries the outgoing shift report, which should flag anything needing immediate resolution."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-07-24T08:00:25.599Z",
+    "lastUpdated": "2026-07-24T08:00:25.599Z",
+    "visibleDate": "Jul 24, 2026",
+    "url": "pages/2026-07-24-080025599-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-07-24-080025599-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Complete Guide to File Compression",
+      "Partnerships can keep",
+      "How AI Tools"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include The Complete Guide to File Compression, Partnerships can keep, How",
+    "tools": [
+      {
+        "name": "The Complete Guide to File Compression",
+        "slug": "the-complete-guide-to-file-compression",
+        "description": "Contracts, reports, presentations, electronic invoices — vast numbers of documents circulate as PDFs, and embedded high-resolution images, scanned pages, and vector graphics frequently cause file size bloat. Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+        "summary": "Contracts, reports, presentations, electronic invoices — vast numbers of documents circulate as PDFs, and embedded high-resolution images, scanned pages, and vector graphics frequently cause file size bloat. Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+        "link": "https://dev.to/uglypeardata/the-complete-guide-to-file-compression-pdf-image-video-document-compression-explained-5dh3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-24T07:54:55.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "compression"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "dev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+          "Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+          "Specialized content compression tools directly reduce the size of individual files (PDF, images, video) — the compressed file can be opened immediately without extraction."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Partnerships can keep",
+        "slug": "partnerships-can-keep",
+        "description": "Ryan welcomes VoidZero’s Evan You and Cloudflare’s Dane Knecht back to the show to discuss Cloudflare’s recent acquisition of VoidZero and what it means for JavaScript development, how partnerships like theirs can help open-source projects stay maintained and sustainably monetized, and how Cloudflare’s distributed systems are helping to improve developer experience in Vite and beyond. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "Ryan welcomes VoidZero’s Evan You and Cloudflare’s Dane Knecht back to the show to discuss Cloudflare’s recent acquisition of VoidZero and what it means for JavaScript development, how partnerships like theirs can help open-source projects stay maintained and sustainably monetized, and how Cloudflare’s distributed systems are helping to improve developer experience in Vite and beyond. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-07-24T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "javascript",
+          "open-source",
+          "dev-tools"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI Tools",
+        "slug": "how-ai-tools",
+        "description": "Imagine effortlessly generating posts that highlight your latest side project or share insights from your coding journey, all while saving precious time that you could invest in development. The Growing Influence of AI in Software Development As we step further into 2026, one trend stands out in the ever-evolving landscape of software development: the increasing reliance on AI tools.",
+        "summary": "Imagine effortlessly generating posts that highlight your latest side project or share insights from your coding journey, all while saving precious time that you could invest in development. The Growing Influence of AI in Software Development As we step further into 2026, one trend stands out in the ever-evolving landscape of software development: the increasing reliance on AI tools.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-tools-are-reshaping-software-development-and-boosting-side-hustles-3f6k",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-24T07:25:57.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The Growing Influence of AI in Software Development As we step further into 2026, one trend stands out in the ever-evolving landscape of software development: the increasing reliance on AI tools.",
+          "Imagine effortlessly generating posts that highlight your latest side project or share insights from your coding journey, all while saving precious time that you could invest in development.",
+          "Two standout tools are particularly relevant: LinkedIn Post Generator As a developer, establishing your personal brand is crucial when venturing into side hustles."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The PImpl idiom and the C++26 std",
+        "slug": "the-pimpl-idiom-and-the-c-26-std",
+        "description": "Article URL: https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/ Comments URL: https://news.ycombinator.com/item?id=49032095 Points: 18 # Comments: 13",
+        "summary": "Article URL: https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/ Comments URL: https://news.ycombinator.com/item?id=49032095 Points: 18 # Comments: 13",
+        "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+        "source": "Hacker News",
+        "isoDate": "2026-07-24T07:02:43.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-07-24T08:00:25.599Z",
+    "lastUpdated": "2026-07-24T08:00:25.599Z",
+    "visibleDate": "Jul 24, 2026",
+    "url": "pages/2026-07-24-080025599-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-07-24-080025599-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Complete Guide to File Compression",
+      "Partnerships can keep"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include The Complete Guide to File Compression, Partnersh",
+    "tools": [
+      {
+        "name": "The Complete Guide to File Compression",
+        "slug": "the-complete-guide-to-file-compression",
+        "description": "Contracts, reports, presentations, electronic invoices — vast numbers of documents circulate as PDFs, and embedded high-resolution images, scanned pages, and vector graphics frequently cause file size bloat. Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+        "summary": "Contracts, reports, presentations, electronic invoices — vast numbers of documents circulate as PDFs, and embedded high-resolution images, scanned pages, and vector graphics frequently cause file size bloat. Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+        "link": "https://dev.to/uglypeardata/the-complete-guide-to-file-compression-pdf-image-video-document-compression-explained-5dh3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-24T07:54:55.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "compression"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "dev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+          "Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+          "Specialized content compression tools directly reduce the size of individual files (PDF, images, video) — the compressed file can be opened immediately without extraction."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Partnerships can keep",
+        "slug": "partnerships-can-keep",
+        "description": "Ryan welcomes VoidZero’s Evan You and Cloudflare’s Dane Knecht back to the show to discuss Cloudflare’s recent acquisition of VoidZero and what it means for JavaScript development, how partnerships like theirs can help open-source projects stay maintained and sustainably monetized, and how Cloudflare’s distributed systems are helping to improve developer experience in Vite and beyond. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "Ryan welcomes VoidZero’s Evan You and Cloudflare’s Dane Knecht back to the show to discuss Cloudflare’s recent acquisition of VoidZero and what it means for JavaScript development, how partnerships like theirs can help open-source projects stay maintained and sustainably monetized, and how Cloudflare’s distributed systems are helping to improve developer experience in Vite and beyond. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-07-24T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "javascript",
+          "open-source",
+          "dev-tools"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-07-24T08:00:25.599Z",
+    "lastUpdated": "2026-07-24T08:00:25.599Z",
+    "visibleDate": "Jul 24, 2026",
+    "url": "pages/2026-07-24-080025599-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-07-24-080025599-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The Complete Guide to File Compression",
+      "Partnerships can keep",
+      "How AI Tools"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include The Complete Guide to File Compression, Partnerships can keep, How AI To",
+    "tools": [
+      {
+        "name": "The Complete Guide to File Compression",
+        "slug": "the-complete-guide-to-file-compression",
+        "description": "Contracts, reports, presentations, electronic invoices — vast numbers of documents circulate as PDFs, and embedded high-resolution images, scanned pages, and vector graphics frequently cause file size bloat. Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+        "summary": "Contracts, reports, presentations, electronic invoices — vast numbers of documents circulate as PDFs, and embedded high-resolution images, scanned pages, and vector graphics frequently cause file size bloat. Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+        "link": "https://dev.to/uglypeardata/the-complete-guide-to-file-compression-pdf-image-video-document-compression-explained-5dh3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-24T07:54:55.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "compression"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "dev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+          "Open-source options like Ghostscript and PyMuPDF can perform local PDF compression via command line or programmatically, suitable for handling sensitive or classified documents.",
+          "Specialized content compression tools directly reduce the size of individual files (PDF, images, video) — the compressed file can be opened immediately without extraction."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Partnerships can keep",
+        "slug": "partnerships-can-keep",
+        "description": "Ryan welcomes VoidZero’s Evan You and Cloudflare’s Dane Knecht back to the show to discuss Cloudflare’s recent acquisition of VoidZero and what it means for JavaScript development, how partnerships like theirs can help open-source projects stay maintained and sustainably monetized, and how Cloudflare’s distributed systems are helping to improve developer experience in Vite and beyond. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "Ryan welcomes VoidZero’s Evan You and Cloudflare’s Dane Knecht back to the show to discuss Cloudflare’s recent acquisition of VoidZero and what it means for JavaScript development, how partnerships like theirs can help open-source projects stay maintained and sustainably monetized, and how Cloudflare’s distributed systems are helping to improve developer experience in Vite and beyond. ​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-07-24T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "javascript",
+          "open-source",
+          "dev-tools"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI Tools",
+        "slug": "how-ai-tools",
+        "description": "Imagine effortlessly generating posts that highlight your latest side project or share insights from your coding journey, all while saving precious time that you could invest in development. The Growing Influence of AI in Software Development As we step further into 2026, one trend stands out in the ever-evolving landscape of software development: the increasing reliance on AI tools.",
+        "summary": "Imagine effortlessly generating posts that highlight your latest side project or share insights from your coding journey, all while saving precious time that you could invest in development. The Growing Influence of AI in Software Development As we step further into 2026, one trend stands out in the ever-evolving landscape of software development: the increasing reliance on AI tools.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-tools-are-reshaping-software-development-and-boosting-side-hustles-3f6k",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-24T07:25:57.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The Growing Influence of AI in Software Development As we step further into 2026, one trend stands out in the ever-evolving landscape of software development: the increasing reliance on AI tools.",
+          "Imagine effortlessly generating posts that highlight your latest side project or share insights from your coding journey, all while saving precious time that you could invest in development.",
+          "Two standout tools are particularly relevant: LinkedIn Post Generator As a developer, establishing your personal brand is crucial when venturing into side hustles."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-07-23T08:03:46.442Z",
     "lastUpdated": "2026-07-23T08:03:46.442Z",
     "visibleDate": "Jul 23, 2026",

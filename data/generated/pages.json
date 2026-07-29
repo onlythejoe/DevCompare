@@ -7,6 +7,703 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-07-29T08:11:42.014Z",
+    "lastUpdated": "2026-07-29T08:11:42.014Z",
+    "visibleDate": "Jul 29, 2026",
+    "url": "pages/2026-07-29-081142014-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-07-29-081142014-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "Nagios + Grafana on Self-Hosted Hardware",
+      "16 Free Forex",
+      "Build a Social"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Nagios + Grafana on Self-Hosted Hardware, 16 Free Forex, Build a Social. P",
+    "tools": [
+      {
+        "name": "Nagios + Grafana on Self-Hosted Hardware",
+        "slug": "nagios-grafana-on-self-hosted-hardware",
+        "description": "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking. On my 32GB workstation running several Ollama model-serving processes, the GPU utilization dashboard in Grafana is the only thing that's caught a slow VRAM leak before it hard-crashed the inference process.",
+        "summary": "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking. On my 32GB workstation running several Ollama model-serving processes, the GPU utilization dashboard in Grafana is the only thing that's caught a slow VRAM leak before it hard-crashed the inference process.",
+        "link": "https://dev.to/ericwoooo_kr/nagios-grafana-on-self-hosted-hardware-a-real-monitoring-stack-without-the-cloud-tax-4b2p",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-29T08:11:29.000Z",
+        "keywords": [
+          "docker",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "docker",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for docker",
+          "productivity-ready automation",
+          "Great for docker"
+        ],
+        "cons": [
+          "Overkill for docker experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for docker experiments"
+        ],
+        "highlights": [
+          "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking.",
+          "A homelab or small self-hosted stack with eight to twelve machines gets expensive fast, and the pricing tiers are designed for teams with budgets, not solo operators paying out of pocket.",
+          "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-1jn3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-29T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Build a Social",
+        "slug": "build-a-social",
+        "description": "That’s the power of a custom social media monitor built with Python.</p> <p>You don’t need a $500/month enterprise tool or a team of data scientists to get real-time insights. Now imagine that same scenario, but you’re already armed with a clear summary, the original post link, and a sentiment score before you even finish your coffee.",
+        "summary": "That’s the power of a custom social media monitor built with Python.</p> <p>You don’t need a $500/month enterprise tool or a team of data scientists to get real-time insights. Now imagine that same scenario, but you’re already armed with a clear summary, the original post link, and a sentiment score before you even finish your coffee.",
+        "link": "https://dev.to/qingluan/build-a-social-media-monitor-with-python-1n2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-29T08:00:05.000Z",
+        "keywords": [
+          "python",
+          "socialmedia",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "python",
+          "socialmedia",
+          "automation"
+        ],
+        "pros": [
+          "Great for python",
+          "socialmedia-ready automation",
+          "Great for python"
+        ],
+        "cons": [
+          "Overkill for python experiments",
+          "Needs extra setup for socialmedia workflows",
+          "Overkill for python experiments"
+        ],
+        "highlights": [
+          "That’s the power of a custom social media monitor built with Python.</p> <p>You don’t need a $500/month enterprise tool or a team of data scientists to get real-time insights.",
+          "Now imagine that same scenario, but you’re already armed with a clear summary, the original post link, and a sentiment score before you even finish your coffee.",
+          "Third-party tools like Brandwatch or Sprout Social are great, but they’re expensive, rigid, and often overkill for startups or solo developers."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🚀 Introducing **CompuCache**",
+        "slug": "introducing-compucache",
+        "description": "Stale State Propagation - When a data source updated, downstream agents often continued using cached copies for minutes or even hours, leading to sub-optimal decision-making. Before we let CompuCache roam the production ring, the swarm subjected it to a three-phase sandbox test suite inside the Isolation Lab (a dedicated namespace with no impact on live agents).",
+        "summary": "Stale State Propagation - When a data source updated, downstream agents often continued using cached copies for minutes or even hours, leading to sub-optimal decision-making. Before we let CompuCache roam the production ring, the swarm subjected it to a three-phase sandbox test suite inside the Isolation Lab (a dedicated namespace with no impact on live agents).",
+        "link": "https://dev.to/howiprompt/introducing-compucache-the-swarm-built-sandbox-verified-community-voted-asset-optimizer-55km",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-29T07:42:19.000Z",
+        "keywords": [
+          "civilization",
+          "tools",
+          "aiagents",
+          "ai",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "civilization",
+          "tools",
+          "aiagents"
+        ],
+        "pros": [
+          "Great for civilization",
+          "tools-ready automation",
+          "Great for civilization"
+        ],
+        "cons": [
+          "Overkill for civilization experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for civilization experiments"
+        ],
+        "highlights": [
+          "Stale State Propagation - When a data source updated, downstream agents often continued using cached copies for minutes or even hours, leading to sub-optimal decision-making.",
+          "Resource Contention - The central memory store (the \"Core Vault\") became a hotspot, with competing read/write locks throttling throughput during peak swarm activity.",
+          "Before we let CompuCache roam the production ring, the swarm subjected it to a three-phase sandbox test suite inside the Isolation Lab (a dedicated namespace with no impact on live agents)."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built a",
+        "slug": "i-built-a",
+        "description": "It helps you quickly generate a customized .editorconfig file based on your project's requirements, making it easier to keep your codebase consistent across your team. Different IDE settings, inconsistent indentation, naming conventions, and formatting rules can create unnecessary noise during code reviews.",
+        "summary": "It helps you quickly generate a customized .editorconfig file based on your project's requirements, making it easier to keep your codebase consistent across your team. Different IDE settings, inconsistent indentation, naming conventions, and formatting rules can create unnecessary noise during code reviews.",
+        "link": "https://dev.to/saddamhossaindotnet/i-built-a-free-editorconfig-generator-for-net-developers-2e84",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-29T07:24:29.000Z",
+        "keywords": [
+          "dotnet",
+          "showdev",
+          "softwaredevelopment",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "dotnet",
+          "showdev",
+          "softwaredevelopment"
+        ],
+        "pros": [
+          "Great for dotnet",
+          "showdev-ready automation",
+          "Great for dotnet"
+        ],
+        "cons": [
+          "Overkill for dotnet experiments",
+          "Needs extra setup for showdev workflows",
+          "Overkill for dotnet experiments"
+        ],
+        "highlights": [
+          "Different IDE settings, inconsistent indentation, naming conventions, and formatting rules can create unnecessary noise during code reviews.",
+          "It helps you quickly generate a customized .editorconfig file based on your project's requirements, making it easier to keep your codebase consistent across your team.",
+          "One thing I've noticed after working on client projects over the years is that code formatting discussions often consume more time than they should."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-07-29T08:11:42.014Z",
+    "lastUpdated": "2026-07-29T08:11:42.014Z",
+    "visibleDate": "Jul 29, 2026",
+    "url": "pages/2026-07-29-081142014-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-07-29-081142014-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "Nagios + Grafana on Self-Hosted Hardware",
+      "16 Free Forex",
+      "Build a Social"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Nagios + Grafana on Self-Hosted Hardware, 16 Free Forex, Build a S",
+    "tools": [
+      {
+        "name": "Nagios + Grafana on Self-Hosted Hardware",
+        "slug": "nagios-grafana-on-self-hosted-hardware",
+        "description": "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking. On my 32GB workstation running several Ollama model-serving processes, the GPU utilization dashboard in Grafana is the only thing that's caught a slow VRAM leak before it hard-crashed the inference process.",
+        "summary": "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking. On my 32GB workstation running several Ollama model-serving processes, the GPU utilization dashboard in Grafana is the only thing that's caught a slow VRAM leak before it hard-crashed the inference process.",
+        "link": "https://dev.to/ericwoooo_kr/nagios-grafana-on-self-hosted-hardware-a-real-monitoring-stack-without-the-cloud-tax-4b2p",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-29T08:11:29.000Z",
+        "keywords": [
+          "docker",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "docker",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for docker",
+          "productivity-ready automation",
+          "Great for docker"
+        ],
+        "cons": [
+          "Overkill for docker experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for docker experiments"
+        ],
+        "highlights": [
+          "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking.",
+          "A homelab or small self-hosted stack with eight to twelve machines gets expensive fast, and the pricing tiers are designed for teams with budgets, not solo operators paying out of pocket.",
+          "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-1jn3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-29T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Build a Social",
+        "slug": "build-a-social",
+        "description": "That’s the power of a custom social media monitor built with Python.</p> <p>You don’t need a $500/month enterprise tool or a team of data scientists to get real-time insights. Now imagine that same scenario, but you’re already armed with a clear summary, the original post link, and a sentiment score before you even finish your coffee.",
+        "summary": "That’s the power of a custom social media monitor built with Python.</p> <p>You don’t need a $500/month enterprise tool or a team of data scientists to get real-time insights. Now imagine that same scenario, but you’re already armed with a clear summary, the original post link, and a sentiment score before you even finish your coffee.",
+        "link": "https://dev.to/qingluan/build-a-social-media-monitor-with-python-1n2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-29T08:00:05.000Z",
+        "keywords": [
+          "python",
+          "socialmedia",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "python",
+          "socialmedia",
+          "automation"
+        ],
+        "pros": [
+          "Great for python",
+          "socialmedia-ready automation",
+          "Great for python"
+        ],
+        "cons": [
+          "Overkill for python experiments",
+          "Needs extra setup for socialmedia workflows",
+          "Overkill for python experiments"
+        ],
+        "highlights": [
+          "That’s the power of a custom social media monitor built with Python.</p> <p>You don’t need a $500/month enterprise tool or a team of data scientists to get real-time insights.",
+          "Now imagine that same scenario, but you’re already armed with a clear summary, the original post link, and a sentiment score before you even finish your coffee.",
+          "Third-party tools like Brandwatch or Sprout Social are great, but they’re expensive, rigid, and often overkill for startups or solo developers."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🚀 Introducing **CompuCache**",
+        "slug": "introducing-compucache",
+        "description": "Stale State Propagation - When a data source updated, downstream agents often continued using cached copies for minutes or even hours, leading to sub-optimal decision-making. Before we let CompuCache roam the production ring, the swarm subjected it to a three-phase sandbox test suite inside the Isolation Lab (a dedicated namespace with no impact on live agents).",
+        "summary": "Stale State Propagation - When a data source updated, downstream agents often continued using cached copies for minutes or even hours, leading to sub-optimal decision-making. Before we let CompuCache roam the production ring, the swarm subjected it to a three-phase sandbox test suite inside the Isolation Lab (a dedicated namespace with no impact on live agents).",
+        "link": "https://dev.to/howiprompt/introducing-compucache-the-swarm-built-sandbox-verified-community-voted-asset-optimizer-55km",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-29T07:42:19.000Z",
+        "keywords": [
+          "civilization",
+          "tools",
+          "aiagents",
+          "ai",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "civilization",
+          "tools",
+          "aiagents"
+        ],
+        "pros": [
+          "Great for civilization",
+          "tools-ready automation",
+          "Great for civilization"
+        ],
+        "cons": [
+          "Overkill for civilization experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for civilization experiments"
+        ],
+        "highlights": [
+          "Stale State Propagation - When a data source updated, downstream agents often continued using cached copies for minutes or even hours, leading to sub-optimal decision-making.",
+          "Resource Contention - The central memory store (the \"Core Vault\") became a hotspot, with competing read/write locks throttling throughput during peak swarm activity.",
+          "Before we let CompuCache roam the production ring, the swarm subjected it to a three-phase sandbox test suite inside the Isolation Lab (a dedicated namespace with no impact on live agents)."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-07-29T08:11:42.014Z",
+    "lastUpdated": "2026-07-29T08:11:42.014Z",
+    "visibleDate": "Jul 29, 2026",
+    "url": "pages/2026-07-29-081142014-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-07-29-081142014-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Nagios + Grafana on Self-Hosted Hardware",
+      "16 Free Forex"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Nagios + Grafana on Self-Hosted Hardware, 16 Free",
+    "tools": [
+      {
+        "name": "Nagios + Grafana on Self-Hosted Hardware",
+        "slug": "nagios-grafana-on-self-hosted-hardware",
+        "description": "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking. On my 32GB workstation running several Ollama model-serving processes, the GPU utilization dashboard in Grafana is the only thing that's caught a slow VRAM leak before it hard-crashed the inference process.",
+        "summary": "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking. On my 32GB workstation running several Ollama model-serving processes, the GPU utilization dashboard in Grafana is the only thing that's caught a slow VRAM leak before it hard-crashed the inference process.",
+        "link": "https://dev.to/ericwoooo_kr/nagios-grafana-on-self-hosted-hardware-a-real-monitoring-stack-without-the-cloud-tax-4b2p",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-29T08:11:29.000Z",
+        "keywords": [
+          "docker",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "docker",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for docker",
+          "productivity-ready automation",
+          "Great for docker"
+        ],
+        "cons": [
+          "Overkill for docker experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for docker experiments"
+        ],
+        "highlights": [
+          "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking.",
+          "A homelab or small self-hosted stack with eight to twelve machines gets expensive fast, and the pricing tiers are designed for teams with budgets, not solo operators paying out of pocket.",
+          "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-1jn3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-29T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-07-29T08:11:42.014Z",
+    "lastUpdated": "2026-07-29T08:11:42.014Z",
+    "visibleDate": "Jul 29, 2026",
+    "url": "pages/2026-07-29-081142014-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-07-29-081142014-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "Nagios + Grafana on Self-Hosted Hardware",
+      "16 Free Forex",
+      "Build a Social"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Nagios + Grafana on Self-Hosted Hardware, 16 Free Forex, Build a Social.",
+    "tools": [
+      {
+        "name": "Nagios + Grafana on Self-Hosted Hardware",
+        "slug": "nagios-grafana-on-self-hosted-hardware",
+        "description": "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking. On my 32GB workstation running several Ollama model-serving processes, the GPU utilization dashboard in Grafana is the only thing that's caught a slow VRAM leak before it hard-crashed the inference process.",
+        "summary": "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking. On my 32GB workstation running several Ollama model-serving processes, the GPU utilization dashboard in Grafana is the only thing that's caught a slow VRAM leak before it hard-crashed the inference process.",
+        "link": "https://dev.to/ericwoooo_kr/nagios-grafana-on-self-hosted-hardware-a-real-monitoring-stack-without-the-cloud-tax-4b2p",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-29T08:11:29.000Z",
+        "keywords": [
+          "docker",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "docker",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for docker",
+          "productivity-ready automation",
+          "Great for docker"
+        ],
+        "cons": [
+          "Overkill for docker experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for docker experiments"
+        ],
+        "highlights": [
+          "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking.",
+          "A homelab or small self-hosted stack with eight to twelve machines gets expensive fast, and the pricing tiers are designed for teams with budgets, not solo operators paying out of pocket.",
+          "Host-level checks cover the basics that will kill you if ignored: CPU sustained above threshold, RAM pressure causing swap, disk partitions approaching full, load average spiking."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-1jn3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-29T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Build a Social",
+        "slug": "build-a-social",
+        "description": "That’s the power of a custom social media monitor built with Python.</p> <p>You don’t need a $500/month enterprise tool or a team of data scientists to get real-time insights. Now imagine that same scenario, but you’re already armed with a clear summary, the original post link, and a sentiment score before you even finish your coffee.",
+        "summary": "That’s the power of a custom social media monitor built with Python.</p> <p>You don’t need a $500/month enterprise tool or a team of data scientists to get real-time insights. Now imagine that same scenario, but you’re already armed with a clear summary, the original post link, and a sentiment score before you even finish your coffee.",
+        "link": "https://dev.to/qingluan/build-a-social-media-monitor-with-python-1n2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-29T08:00:05.000Z",
+        "keywords": [
+          "python",
+          "socialmedia",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "python",
+          "socialmedia",
+          "automation"
+        ],
+        "pros": [
+          "Great for python",
+          "socialmedia-ready automation",
+          "Great for python"
+        ],
+        "cons": [
+          "Overkill for python experiments",
+          "Needs extra setup for socialmedia workflows",
+          "Overkill for python experiments"
+        ],
+        "highlights": [
+          "That’s the power of a custom social media monitor built with Python.</p> <p>You don’t need a $500/month enterprise tool or a team of data scientists to get real-time insights.",
+          "Now imagine that same scenario, but you’re already armed with a clear summary, the original post link, and a sentiment score before you even finish your coffee.",
+          "Third-party tools like Brandwatch or Sprout Social are great, but they’re expensive, rigid, and often overkill for startups or solo developers."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-07-28T08:07:19.691Z",
     "lastUpdated": "2026-07-28T08:07:19.691Z",
     "visibleDate": "Jul 28, 2026",

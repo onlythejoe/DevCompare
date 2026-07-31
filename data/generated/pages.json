@@ -7,6 +7,690 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-07-31T08:24:00.387Z",
+    "lastUpdated": "2026-07-31T08:24:00.387Z",
+    "visibleDate": "Jul 31, 2026",
+    "url": "pages/2026-07-31-082400387-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-07-31-082400387-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "ADhammer",
+      "5 Self-Hosted Analytics",
+      "Google Ads"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include ADhammer, 5 Self-Hosted Analytics, Google Ads. Productivity stacks that ke",
+    "tools": [
+      {
+        "name": "ADhammer",
+        "slug": "adhammer",
+        "description": "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS. Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+        "summary": "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS. Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+        "link": "https://dev.to/pumadracon/adhammer-a-full-active-directory-pentest-tool-in-rust-413a",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-31T08:19:37.000Z",
+        "keywords": [
+          "programming",
+          "security",
+          "cybersecurity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "security",
+          "cybersecurity"
+        ],
+        "pros": [
+          "Great for programming",
+          "security-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+          "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+          "Whole DCE/RPC · NTLM · SMB2 · Kerberos stack written from scratch (no impacket) — split into 4 reusable MIT crates on crates.io."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 Self-Hosted Analytics",
+        "slug": "5-self-hosted-analytics",
+        "description": "If anyone outside engineering needs to self-serve on raw data, factor in either building a thin query UI on top of ClickHouse or routing aggregated exports through something like Metabase pointed at the same database. Layer Grafana on top of any of the above if you're already running a home-lab or server monitoring stack and want business metrics in the same dashboard as node exporter, Caddy access logs, or container health.",
+        "summary": "If anyone outside engineering needs to self-serve on raw data, factor in either building a thin query UI on top of ClickHouse or routing aggregated exports through something like Metabase pointed at the same database. Layer Grafana on top of any of the above if you're already running a home-lab or server monitoring stack and want business metrics in the same dashboard as node exporter, Caddy access logs, or container health.",
+        "link": "https://dev.to/ericwoooo_kr/5-self-hosted-analytics-tools-worth-running-on-your-own-hardware-in-2026-4fp9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-31T08:11:12.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "On my workstation setup, having a single Grafana board showing site traffic alongside GPU utilization and n8n workflow success rates is genuinely more useful than toggling between four separate UIs.",
+          "Each tool gets an honest resource cost — disk growth rate, RAM floor, CPU spikes during ingestion — and one dealbreaker that the README won't tell you upfront.",
+          "One cross-cutting signal worth flagging: if your stack is already PostgreSQL-heavy, Umami and Matomo both run on it natively, which means one fewer moving part in your backup and restore procedures."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Google Ads",
+        "slug": "google-ads",
+        "description": "The web interface makes live changes immediately.</p> <p><strong>Offline access</strong>: Download your account. Import back.<br> Useful for: Large keyword uploads, bulk bid changes.</p> <h2> When to Use Editor vs.",
+        "summary": "The web interface makes live changes immediately.</p> <p><strong>Offline access</strong>: Download your account. Import back.<br> Useful for: Large keyword uploads, bulk bid changes.</p> <h2> When to Use Editor vs.",
+        "link": "https://dev.to/yositeup/google-ads-how-to-use-google-ads-editor-2026-ff7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-31T08:07:02.000Z",
+        "keywords": [
+          "googleads",
+          "ppc",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "googleads",
+          "ppc",
+          "tools",
+          "bidding"
+        ],
+        "pros": [
+          "Great for googleads",
+          "ppc-ready automation",
+          "Great for googleads"
+        ],
+        "cons": [
+          "Overkill for googleads experiments",
+          "Needs extra setup for ppc workflows",
+          "Overkill for googleads experiments"
+        ],
+        "highlights": [
+          "The web interface makes live changes immediately.</p> <p><strong>Offline access</strong>: Download your account.",
+          "Import back.<br> Useful for: Large keyword uploads, bulk bid changes.</p> <h2> When to Use Editor vs.",
+          "Google Ads Editor is a free desktop application for managing Google Ads campaigns offline."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-5h5o",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-31T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "用数据分析工具识别彩票号码规律的经验分享",
+        "slug": "",
+        "description": "✅ 结论：数据分析工具确实能帮助识别彩票号码规律。 📊 数据背景： 🔍 问题分析： 💡 解决方案： 📈 实际效果： 🔗 免费工具：https://youyou.moxuanai.top/tool.html ⚠️ 声明：本文纯分享数据分析经验，不构成任何投资建议。量力而行。",
+        "summary": "✅ 结论：数据分析工具确实能帮助识别彩票号码规律。 📊 数据背景： 🔍 问题分析： 💡 解决方案： 📈 实际效果： 🔗 免费工具：https://youyou.moxuanai.top/tool.html ⚠️ 声明：本文纯分享数据分析经验，不构成任何投资建议。量力而行。",
+        "link": "https://dev.to/aimigo_57e64d6aeaf6a67a02/yong-shu-ju-fen-xi-gong-ju-shi-bie-cai-piao-hao-ma-gui-lu-de-jing-yan-fen-xiang-2kpp",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-31T08:00:07.000Z",
+        "keywords": [
+          "dataanalysis",
+          "statistics",
+          "probability",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "dataanalysis",
+          "statistics",
+          "probability"
+        ],
+        "pros": [
+          "Great for dataanalysis",
+          "statistics-ready automation",
+          "Great for dataanalysis"
+        ],
+        "cons": [
+          "Overkill for dataanalysis experiments",
+          "Needs extra setup for statistics workflows",
+          "Overkill for dataanalysis experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-07-31T08:24:00.387Z",
+    "lastUpdated": "2026-07-31T08:24:00.387Z",
+    "visibleDate": "Jul 31, 2026",
+    "url": "pages/2026-07-31-082400387-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-07-31-082400387-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "ADhammer",
+      "5 Self-Hosted Analytics",
+      "Google Ads"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include ADhammer, 5 Self-Hosted Analytics, Google Ads. Reliable remote deb",
+    "tools": [
+      {
+        "name": "ADhammer",
+        "slug": "adhammer",
+        "description": "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS. Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+        "summary": "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS. Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+        "link": "https://dev.to/pumadracon/adhammer-a-full-active-directory-pentest-tool-in-rust-413a",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-31T08:19:37.000Z",
+        "keywords": [
+          "programming",
+          "security",
+          "cybersecurity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "security",
+          "cybersecurity"
+        ],
+        "pros": [
+          "Great for programming",
+          "security-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+          "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+          "Whole DCE/RPC · NTLM · SMB2 · Kerberos stack written from scratch (no impacket) — split into 4 reusable MIT crates on crates.io."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 Self-Hosted Analytics",
+        "slug": "5-self-hosted-analytics",
+        "description": "If anyone outside engineering needs to self-serve on raw data, factor in either building a thin query UI on top of ClickHouse or routing aggregated exports through something like Metabase pointed at the same database. Layer Grafana on top of any of the above if you're already running a home-lab or server monitoring stack and want business metrics in the same dashboard as node exporter, Caddy access logs, or container health.",
+        "summary": "If anyone outside engineering needs to self-serve on raw data, factor in either building a thin query UI on top of ClickHouse or routing aggregated exports through something like Metabase pointed at the same database. Layer Grafana on top of any of the above if you're already running a home-lab or server monitoring stack and want business metrics in the same dashboard as node exporter, Caddy access logs, or container health.",
+        "link": "https://dev.to/ericwoooo_kr/5-self-hosted-analytics-tools-worth-running-on-your-own-hardware-in-2026-4fp9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-31T08:11:12.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "On my workstation setup, having a single Grafana board showing site traffic alongside GPU utilization and n8n workflow success rates is genuinely more useful than toggling between four separate UIs.",
+          "Each tool gets an honest resource cost — disk growth rate, RAM floor, CPU spikes during ingestion — and one dealbreaker that the README won't tell you upfront.",
+          "One cross-cutting signal worth flagging: if your stack is already PostgreSQL-heavy, Umami and Matomo both run on it natively, which means one fewer moving part in your backup and restore procedures."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Google Ads",
+        "slug": "google-ads",
+        "description": "The web interface makes live changes immediately.</p> <p><strong>Offline access</strong>: Download your account. Import back.<br> Useful for: Large keyword uploads, bulk bid changes.</p> <h2> When to Use Editor vs.",
+        "summary": "The web interface makes live changes immediately.</p> <p><strong>Offline access</strong>: Download your account. Import back.<br> Useful for: Large keyword uploads, bulk bid changes.</p> <h2> When to Use Editor vs.",
+        "link": "https://dev.to/yositeup/google-ads-how-to-use-google-ads-editor-2026-ff7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-31T08:07:02.000Z",
+        "keywords": [
+          "googleads",
+          "ppc",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "googleads",
+          "ppc",
+          "tools",
+          "bidding"
+        ],
+        "pros": [
+          "Great for googleads",
+          "ppc-ready automation",
+          "Great for googleads"
+        ],
+        "cons": [
+          "Overkill for googleads experiments",
+          "Needs extra setup for ppc workflows",
+          "Overkill for googleads experiments"
+        ],
+        "highlights": [
+          "The web interface makes live changes immediately.</p> <p><strong>Offline access</strong>: Download your account.",
+          "Import back.<br> Useful for: Large keyword uploads, bulk bid changes.</p> <h2> When to Use Editor vs.",
+          "Google Ads Editor is a free desktop application for managing Google Ads campaigns offline."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-5h5o",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-31T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-07-31T08:24:00.387Z",
+    "lastUpdated": "2026-07-31T08:24:00.387Z",
+    "visibleDate": "Jul 31, 2026",
+    "url": "pages/2026-07-31-082400387-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-07-31-082400387-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "ADhammer",
+      "5 Self-Hosted Analytics"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include ADhammer, 5 Self-Hosted Analytics. Gitpod brings ",
+    "tools": [
+      {
+        "name": "ADhammer",
+        "slug": "adhammer",
+        "description": "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS. Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+        "summary": "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS. Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+        "link": "https://dev.to/pumadracon/adhammer-a-full-active-directory-pentest-tool-in-rust-413a",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-31T08:19:37.000Z",
+        "keywords": [
+          "programming",
+          "security",
+          "cybersecurity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "security",
+          "cybersecurity"
+        ],
+        "pros": [
+          "Great for programming",
+          "security-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+          "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+          "Whole DCE/RPC · NTLM · SMB2 · Kerberos stack written from scratch (no impacket) — split into 4 reusable MIT crates on crates.io."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 Self-Hosted Analytics",
+        "slug": "5-self-hosted-analytics",
+        "description": "If anyone outside engineering needs to self-serve on raw data, factor in either building a thin query UI on top of ClickHouse or routing aggregated exports through something like Metabase pointed at the same database. Layer Grafana on top of any of the above if you're already running a home-lab or server monitoring stack and want business metrics in the same dashboard as node exporter, Caddy access logs, or container health.",
+        "summary": "If anyone outside engineering needs to self-serve on raw data, factor in either building a thin query UI on top of ClickHouse or routing aggregated exports through something like Metabase pointed at the same database. Layer Grafana on top of any of the above if you're already running a home-lab or server monitoring stack and want business metrics in the same dashboard as node exporter, Caddy access logs, or container health.",
+        "link": "https://dev.to/ericwoooo_kr/5-self-hosted-analytics-tools-worth-running-on-your-own-hardware-in-2026-4fp9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-31T08:11:12.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "On my workstation setup, having a single Grafana board showing site traffic alongside GPU utilization and n8n workflow success rates is genuinely more useful than toggling between four separate UIs.",
+          "Each tool gets an honest resource cost — disk growth rate, RAM floor, CPU spikes during ingestion — and one dealbreaker that the README won't tell you upfront.",
+          "One cross-cutting signal worth flagging: if your stack is already PostgreSQL-heavy, Umami and Matomo both run on it natively, which means one fewer moving part in your backup and restore procedures."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-07-31T08:24:00.387Z",
+    "lastUpdated": "2026-07-31T08:24:00.387Z",
+    "visibleDate": "Jul 31, 2026",
+    "url": "pages/2026-07-31-082400387-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-07-31-082400387-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "ADhammer",
+      "5 Self-Hosted Analytics",
+      "Google Ads"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include ADhammer, 5 Self-Hosted Analytics, Google Ads. New launches that are shi",
+    "tools": [
+      {
+        "name": "ADhammer",
+        "slug": "adhammer",
+        "description": "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS. Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+        "summary": "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS. Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+        "link": "https://dev.to/pumadracon/adhammer-a-full-active-directory-pentest-tool-in-rust-413a",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-31T08:19:37.000Z",
+        "keywords": [
+          "programming",
+          "security",
+          "cybersecurity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "security",
+          "cybersecurity"
+        ],
+        "pros": [
+          "Great for programming",
+          "security-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+          "Audits a domain (control-path graph, 10/16 AD CS ESC classes, MITRE-tagged) and validates findings end-to-end: DCSync, golden/silver tickets, pass-the-ticket to SYSTEM, LAPS, WinRM, ADCS.",
+          "Whole DCE/RPC · NTLM · SMB2 · Kerberos stack written from scratch (no impacket) — split into 4 reusable MIT crates on crates.io."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 Self-Hosted Analytics",
+        "slug": "5-self-hosted-analytics",
+        "description": "If anyone outside engineering needs to self-serve on raw data, factor in either building a thin query UI on top of ClickHouse or routing aggregated exports through something like Metabase pointed at the same database. Layer Grafana on top of any of the above if you're already running a home-lab or server monitoring stack and want business metrics in the same dashboard as node exporter, Caddy access logs, or container health.",
+        "summary": "If anyone outside engineering needs to self-serve on raw data, factor in either building a thin query UI on top of ClickHouse or routing aggregated exports through something like Metabase pointed at the same database. Layer Grafana on top of any of the above if you're already running a home-lab or server monitoring stack and want business metrics in the same dashboard as node exporter, Caddy access logs, or container health.",
+        "link": "https://dev.to/ericwoooo_kr/5-self-hosted-analytics-tools-worth-running-on-your-own-hardware-in-2026-4fp9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-31T08:11:12.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "On my workstation setup, having a single Grafana board showing site traffic alongside GPU utilization and n8n workflow success rates is genuinely more useful than toggling between four separate UIs.",
+          "Each tool gets an honest resource cost — disk growth rate, RAM floor, CPU spikes during ingestion — and one dealbreaker that the README won't tell you upfront.",
+          "One cross-cutting signal worth flagging: if your stack is already PostgreSQL-heavy, Umami and Matomo both run on it natively, which means one fewer moving part in your backup and restore procedures."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Google Ads",
+        "slug": "google-ads",
+        "description": "The web interface makes live changes immediately.</p> <p><strong>Offline access</strong>: Download your account. Import back.<br> Useful for: Large keyword uploads, bulk bid changes.</p> <h2> When to Use Editor vs.",
+        "summary": "The web interface makes live changes immediately.</p> <p><strong>Offline access</strong>: Download your account. Import back.<br> Useful for: Large keyword uploads, bulk bid changes.</p> <h2> When to Use Editor vs.",
+        "link": "https://dev.to/yositeup/google-ads-how-to-use-google-ads-editor-2026-ff7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-07-31T08:07:02.000Z",
+        "keywords": [
+          "googleads",
+          "ppc",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "googleads",
+          "ppc",
+          "tools",
+          "bidding"
+        ],
+        "pros": [
+          "Great for googleads",
+          "ppc-ready automation",
+          "Great for googleads"
+        ],
+        "cons": [
+          "Overkill for googleads experiments",
+          "Needs extra setup for ppc workflows",
+          "Overkill for googleads experiments"
+        ],
+        "highlights": [
+          "The web interface makes live changes immediately.</p> <p><strong>Offline access</strong>: Download your account.",
+          "Import back.<br> Useful for: Large keyword uploads, bulk bid changes.</p> <h2> When to Use Editor vs.",
+          "Google Ads Editor is a free desktop application for managing Google Ads campaigns offline."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-07-30T07:59:59.044Z",
     "lastUpdated": "2026-07-30T07:59:59.044Z",
     "visibleDate": "Jul 30, 2026",

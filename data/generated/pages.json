@@ -7,6 +7,691 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-08-03T08:52:02.706Z",
+    "lastUpdated": "2026-08-03T08:52:02.706Z",
+    "visibleDate": "Aug 3, 2026",
+    "url": "pages/2026-08-03-085202706-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-08-03-085202706-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "5 Monitoring Tools",
+      "16 Free Forex",
+      "Quiet browsing? Tabby"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include 5 Monitoring Tools, 16 Free Forex, Quiet browsing? Tabby. Productivity sta",
+    "tools": [
+      {
+        "name": "5 Monitoring Tools",
+        "slug": "5-monitoring-tools",
+        "description": "The config inside Uptime Kuma for a self-hosted ntfy instance is just your server URL, topic name, and optional auth token — takes 30 seconds.</p> <p>The ceiling is real and worth naming clearly. You can define a rule that scans a CIDR range (say <code>192.168.1.0/24</code>) on a schedule, checks for a running Zabbix agent on port 10050, and automatically registers matching hosts with a default template applied.",
+        "summary": "The config inside Uptime Kuma for a self-hosted ntfy instance is just your server URL, topic name, and optional auth token — takes 30 seconds.</p> <p>The ceiling is real and worth naming clearly. You can define a rule that scans a CIDR range (say <code>192.168.1.0/24</code>) on a schedule, checks for a running Zabbix agent on port 10050, and automatically registers matching hosts with a default template applied.",
+        "link": "https://dev.to/ericwoooo_kr/5-monitoring-tools-that-actually-work-for-self-hosted-servers-tested-on-real-hardware-21oi",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-03T08:11:10.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The config inside Uptime Kuma for a self-hosted ntfy instance is just your server URL, topic name, and optional auth token — takes 30 seconds.</p> <p>The ceiling is real and worth naming clearly.",
+          "The OSS version keeps high-resolution data in a custom database (DBENGINE) and the default tier setup retains roughly a few days of per-second metrics before it starts downsampling or dropping.",
+          "The OSS version keeps high-resolution data in a custom database (DBENGINE) and the default tier setup retains roughly a few days of per-second metrics before it starts downsampling or dropping."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-1jch",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-03T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Quiet browsing? Tabby",
+        "slug": "quiet-browsing-tabby",
+        "description": "She is a virtual pet cat who floats on the pages you visit, reacts from the tab title and web address only, and grows from a newborn kitten into an adult cat over real calendar days. Students grinding through research, remote workers between calls, and anyone who lives in Chrome know that quiet.</p> <p><strong>Tabby</strong> is a free, open-source Google Chrome extension I built for that.",
+        "summary": "She is a virtual pet cat who floats on the pages you visit, reacts from the tab title and web address only, and grows from a newborn kitten into an adult cat over real calendar days. Students grinding through research, remote workers between calls, and anyone who lives in Chrome know that quiet.</p> <p><strong>Tabby</strong> is a free, open-source Google Chrome extension I built for that.",
+        "link": "https://dev.to/prazian/quiet-browsing-tabby-keeps-you-company-j77",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-03T07:30:45.000Z",
+        "keywords": [
+          "opensource",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "opensource",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for opensource",
+          "webdev-ready automation",
+          "Great for opensource"
+        ],
+        "cons": [
+          "Overkill for opensource experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for opensource experiments"
+        ],
+        "highlights": [
+          "She is a virtual pet cat who floats on the pages you visit, reacts from the tab title and web address only, and grows from a newborn kitten into an adult cat over real calendar days.",
+          "She is a virtual pet cat who floats on the pages you visit, reacts from the tab title and web address only, and grows from a newborn kitten into an adult cat over real calendar days.",
+          "On first install she appears in the bottom-left with a short three-step tour: who she is, that she stays local, and how to feed or play with her."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why I Stopped",
+        "slug": "why-i-stopped",
+        "description": "By the fourth site, I had a folder of client photos sitting on servers I knew nothing about, run by companies I'd never heard of, with privacy policies I hadn't read and had no real way to verify. I opened the first \"free online image converter\" that came up in search results.</p> <p>It asked me to create an account before it would let me download anything.</p> <p>I closed the tab and tried the next one.",
+        "summary": "By the fourth site, I had a folder of client photos sitting on servers I knew nothing about, run by companies I'd never heard of, with privacy policies I hadn't read and had no real way to verify. I opened the first \"free online image converter\" that came up in search results.</p> <p>It asked me to create an account before it would let me download anything.</p> <p>I closed the tab and tried the next one.",
+        "link": "https://dev.to/haider_official_1f56151e6/why-i-stopped-uploading-my-photos-just-to-convert-them-13o",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-03T07:03:23.000Z",
+        "keywords": [
+          "tools",
+          "webdev",
+          "productivity",
+          "privacy",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "webdev",
+          "productivity"
+        ],
+        "pros": [
+          "Great for tools",
+          "webdev-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "By the fourth site, I had a folder of client photos sitting on servers I knew nothing about, run by companies I'd never heard of, with privacy policies I hadn't read and had no real way to verify.",
+          "It's just how those sites were built — often because it's easier to add ads, accounts, and watermarks to something running on your server than to something running entirely in someone else's browser.",
+          "Nobody was using it for something as simple as \"convert this JPG to a PNG.\" So the upload step that every converter site makes you go through isn't a technical requirement."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Write",
+        "slug": "how-to-write",
+        "description": "Improving metadata is one of the easier tests you can run because it does not require redesigning the whole page.</p> <h2> Final thoughts </h2> <p>Meta tags are not a magic ranking trick. A practical title answers: “What is this page, and why should the right person care?” A practical description answers: “What will I get if I click?” Many weak snippets fail because they start with a keyword list.",
+        "summary": "Improving metadata is one of the easier tests you can run because it does not require redesigning the whole page.</p> <h2> Final thoughts </h2> <p>Meta tags are not a magic ranking trick. A practical title answers: “What is this page, and why should the right person care?” A practical description answers: “What will I get if I click?” Many weak snippets fail because they start with a keyword list.",
+        "link": "https://dev.to/ahmed_bilal_feb553ed9c484/how-to-write-meta-tags-that-earn-better-clicks-without-guessing-344i",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-03T07:02:05.000Z",
+        "keywords": [
+          "seo",
+          "webdev",
+          "marketing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "seo",
+          "webdev",
+          "marketing"
+        ],
+        "pros": [
+          "Great for seo",
+          "webdev-ready automation",
+          "Great for seo"
+        ],
+        "cons": [
+          "Overkill for seo experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for seo experiments"
+        ],
+        "highlights": [
+          "Improving metadata is one of the easier tests you can run because it does not require redesigning the whole page.</p> <h2> Final thoughts </h2> <p>Meta tags are not a magic ranking trick.",
+          "If you publish websites, landing pages, docs, or blog posts, meta tags can feel like a tiny detail compared with the actual content.",
+          "Better snippets earn clicks by being useful, not by shouting.</p> <h2> Connect metadata with the rest of technical SEO </h2> <p>Meta tags are only one part of the publishing checklist."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-08-03T08:52:02.706Z",
+    "lastUpdated": "2026-08-03T08:52:02.706Z",
+    "visibleDate": "Aug 3, 2026",
+    "url": "pages/2026-08-03-085202706-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-08-03-085202706-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "5 Monitoring Tools",
+      "16 Free Forex",
+      "Quiet browsing? Tabby"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include 5 Monitoring Tools, 16 Free Forex, Quiet browsing? Tabby. Reliable",
+    "tools": [
+      {
+        "name": "5 Monitoring Tools",
+        "slug": "5-monitoring-tools",
+        "description": "The config inside Uptime Kuma for a self-hosted ntfy instance is just your server URL, topic name, and optional auth token — takes 30 seconds.</p> <p>The ceiling is real and worth naming clearly. You can define a rule that scans a CIDR range (say <code>192.168.1.0/24</code>) on a schedule, checks for a running Zabbix agent on port 10050, and automatically registers matching hosts with a default template applied.",
+        "summary": "The config inside Uptime Kuma for a self-hosted ntfy instance is just your server URL, topic name, and optional auth token — takes 30 seconds.</p> <p>The ceiling is real and worth naming clearly. You can define a rule that scans a CIDR range (say <code>192.168.1.0/24</code>) on a schedule, checks for a running Zabbix agent on port 10050, and automatically registers matching hosts with a default template applied.",
+        "link": "https://dev.to/ericwoooo_kr/5-monitoring-tools-that-actually-work-for-self-hosted-servers-tested-on-real-hardware-21oi",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-03T08:11:10.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The config inside Uptime Kuma for a self-hosted ntfy instance is just your server URL, topic name, and optional auth token — takes 30 seconds.</p> <p>The ceiling is real and worth naming clearly.",
+          "The OSS version keeps high-resolution data in a custom database (DBENGINE) and the default tier setup retains roughly a few days of per-second metrics before it starts downsampling or dropping.",
+          "The OSS version keeps high-resolution data in a custom database (DBENGINE) and the default tier setup retains roughly a few days of per-second metrics before it starts downsampling or dropping."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-1jch",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-03T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Quiet browsing? Tabby",
+        "slug": "quiet-browsing-tabby",
+        "description": "She is a virtual pet cat who floats on the pages you visit, reacts from the tab title and web address only, and grows from a newborn kitten into an adult cat over real calendar days. Students grinding through research, remote workers between calls, and anyone who lives in Chrome know that quiet.</p> <p><strong>Tabby</strong> is a free, open-source Google Chrome extension I built for that.",
+        "summary": "She is a virtual pet cat who floats on the pages you visit, reacts from the tab title and web address only, and grows from a newborn kitten into an adult cat over real calendar days. Students grinding through research, remote workers between calls, and anyone who lives in Chrome know that quiet.</p> <p><strong>Tabby</strong> is a free, open-source Google Chrome extension I built for that.",
+        "link": "https://dev.to/prazian/quiet-browsing-tabby-keeps-you-company-j77",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-03T07:30:45.000Z",
+        "keywords": [
+          "opensource",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "opensource",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for opensource",
+          "webdev-ready automation",
+          "Great for opensource"
+        ],
+        "cons": [
+          "Overkill for opensource experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for opensource experiments"
+        ],
+        "highlights": [
+          "She is a virtual pet cat who floats on the pages you visit, reacts from the tab title and web address only, and grows from a newborn kitten into an adult cat over real calendar days.",
+          "She is a virtual pet cat who floats on the pages you visit, reacts from the tab title and web address only, and grows from a newborn kitten into an adult cat over real calendar days.",
+          "On first install she appears in the bottom-left with a short three-step tour: who she is, that she stays local, and how to feed or play with her."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why I Stopped",
+        "slug": "why-i-stopped",
+        "description": "By the fourth site, I had a folder of client photos sitting on servers I knew nothing about, run by companies I'd never heard of, with privacy policies I hadn't read and had no real way to verify. I opened the first \"free online image converter\" that came up in search results.</p> <p>It asked me to create an account before it would let me download anything.</p> <p>I closed the tab and tried the next one.",
+        "summary": "By the fourth site, I had a folder of client photos sitting on servers I knew nothing about, run by companies I'd never heard of, with privacy policies I hadn't read and had no real way to verify. I opened the first \"free online image converter\" that came up in search results.</p> <p>It asked me to create an account before it would let me download anything.</p> <p>I closed the tab and tried the next one.",
+        "link": "https://dev.to/haider_official_1f56151e6/why-i-stopped-uploading-my-photos-just-to-convert-them-13o",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-03T07:03:23.000Z",
+        "keywords": [
+          "tools",
+          "webdev",
+          "productivity",
+          "privacy",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "webdev",
+          "productivity"
+        ],
+        "pros": [
+          "Great for tools",
+          "webdev-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "By the fourth site, I had a folder of client photos sitting on servers I knew nothing about, run by companies I'd never heard of, with privacy policies I hadn't read and had no real way to verify.",
+          "It's just how those sites were built — often because it's easier to add ads, accounts, and watermarks to something running on your server than to something running entirely in someone else's browser.",
+          "Nobody was using it for something as simple as \"convert this JPG to a PNG.\" So the upload step that every converter site makes you go through isn't a technical requirement."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-08-03T08:52:02.706Z",
+    "lastUpdated": "2026-08-03T08:52:02.706Z",
+    "visibleDate": "Aug 3, 2026",
+    "url": "pages/2026-08-03-085202706-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-08-03-085202706-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "5 Monitoring Tools",
+      "16 Free Forex"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include 5 Monitoring Tools, 16 Free Forex. Gitpod brings ",
+    "tools": [
+      {
+        "name": "5 Monitoring Tools",
+        "slug": "5-monitoring-tools",
+        "description": "The config inside Uptime Kuma for a self-hosted ntfy instance is just your server URL, topic name, and optional auth token — takes 30 seconds.</p> <p>The ceiling is real and worth naming clearly. You can define a rule that scans a CIDR range (say <code>192.168.1.0/24</code>) on a schedule, checks for a running Zabbix agent on port 10050, and automatically registers matching hosts with a default template applied.",
+        "summary": "The config inside Uptime Kuma for a self-hosted ntfy instance is just your server URL, topic name, and optional auth token — takes 30 seconds.</p> <p>The ceiling is real and worth naming clearly. You can define a rule that scans a CIDR range (say <code>192.168.1.0/24</code>) on a schedule, checks for a running Zabbix agent on port 10050, and automatically registers matching hosts with a default template applied.",
+        "link": "https://dev.to/ericwoooo_kr/5-monitoring-tools-that-actually-work-for-self-hosted-servers-tested-on-real-hardware-21oi",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-03T08:11:10.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The config inside Uptime Kuma for a self-hosted ntfy instance is just your server URL, topic name, and optional auth token — takes 30 seconds.</p> <p>The ceiling is real and worth naming clearly.",
+          "The OSS version keeps high-resolution data in a custom database (DBENGINE) and the default tier setup retains roughly a few days of per-second metrics before it starts downsampling or dropping.",
+          "The OSS version keeps high-resolution data in a custom database (DBENGINE) and the default tier setup retains roughly a few days of per-second metrics before it starts downsampling or dropping."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-1jch",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-03T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-08-03T08:52:02.706Z",
+    "lastUpdated": "2026-08-03T08:52:02.706Z",
+    "visibleDate": "Aug 3, 2026",
+    "url": "pages/2026-08-03-085202706-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-08-03-085202706-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "5 Monitoring Tools",
+      "16 Free Forex",
+      "Quiet browsing? Tabby"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include 5 Monitoring Tools, 16 Free Forex, Quiet browsing? Tabby. New launches t",
+    "tools": [
+      {
+        "name": "5 Monitoring Tools",
+        "slug": "5-monitoring-tools",
+        "description": "The config inside Uptime Kuma for a self-hosted ntfy instance is just your server URL, topic name, and optional auth token — takes 30 seconds.</p> <p>The ceiling is real and worth naming clearly. You can define a rule that scans a CIDR range (say <code>192.168.1.0/24</code>) on a schedule, checks for a running Zabbix agent on port 10050, and automatically registers matching hosts with a default template applied.",
+        "summary": "The config inside Uptime Kuma for a self-hosted ntfy instance is just your server URL, topic name, and optional auth token — takes 30 seconds.</p> <p>The ceiling is real and worth naming clearly. You can define a rule that scans a CIDR range (say <code>192.168.1.0/24</code>) on a schedule, checks for a running Zabbix agent on port 10050, and automatically registers matching hosts with a default template applied.",
+        "link": "https://dev.to/ericwoooo_kr/5-monitoring-tools-that-actually-work-for-self-hosted-servers-tested-on-real-hardware-21oi",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-03T08:11:10.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The config inside Uptime Kuma for a self-hosted ntfy instance is just your server URL, topic name, and optional auth token — takes 30 seconds.</p> <p>The ceiling is real and worth naming clearly.",
+          "The OSS version keeps high-resolution data in a custom database (DBENGINE) and the default tier setup retains roughly a few days of per-second metrics before it starts downsampling or dropping.",
+          "The OSS version keeps high-resolution data in a custom database (DBENGINE) and the default tier setup retains roughly a few days of per-second metrics before it starts downsampling or dropping."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-1jch",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-03T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Quiet browsing? Tabby",
+        "slug": "quiet-browsing-tabby",
+        "description": "She is a virtual pet cat who floats on the pages you visit, reacts from the tab title and web address only, and grows from a newborn kitten into an adult cat over real calendar days. Students grinding through research, remote workers between calls, and anyone who lives in Chrome know that quiet.</p> <p><strong>Tabby</strong> is a free, open-source Google Chrome extension I built for that.",
+        "summary": "She is a virtual pet cat who floats on the pages you visit, reacts from the tab title and web address only, and grows from a newborn kitten into an adult cat over real calendar days. Students grinding through research, remote workers between calls, and anyone who lives in Chrome know that quiet.</p> <p><strong>Tabby</strong> is a free, open-source Google Chrome extension I built for that.",
+        "link": "https://dev.to/prazian/quiet-browsing-tabby-keeps-you-company-j77",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-03T07:30:45.000Z",
+        "keywords": [
+          "opensource",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "opensource",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for opensource",
+          "webdev-ready automation",
+          "Great for opensource"
+        ],
+        "cons": [
+          "Overkill for opensource experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for opensource experiments"
+        ],
+        "highlights": [
+          "She is a virtual pet cat who floats on the pages you visit, reacts from the tab title and web address only, and grows from a newborn kitten into an adult cat over real calendar days.",
+          "She is a virtual pet cat who floats on the pages you visit, reacts from the tab title and web address only, and grows from a newborn kitten into an adult cat over real calendar days.",
+          "On first install she appears in the bottom-left with a short three-step tour: who she is, that she stays local, and how to feed or play with her."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-08-02T07:56:27.277Z",
     "lastUpdated": "2026-08-02T07:56:27.277Z",
     "visibleDate": "Aug 2, 2026",

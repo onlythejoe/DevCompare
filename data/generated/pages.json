@@ -7,6 +7,666 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-08-05T08:09:10.383Z",
+    "lastUpdated": "2026-08-05T08:09:10.383Z",
+    "visibleDate": "Aug 5, 2026",
+    "url": "pages/2026-08-05-080910383-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-08-05-080910383-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "10 automation tools",
+      "16 Free Forex",
+      "Hansel"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include 10 automation tools, 16 Free Forex, Hansel. Productivity stacks that keep ",
+    "tools": [
+      {
+        "name": "10 automation tools",
+        "slug": "10-automation-tools",
+        "description": "Honest reviews of agent automation tools.",
+        "summary": "Honest reviews of agent automation tools.",
+        "link": "https://dev.to/vishalxqzj/10-automation-tools-that-work-in-2026-456e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-05T08:02:04.000Z",
+        "keywords": [
+          "automation",
+          "tools",
+          "review",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "automation",
+          "tools",
+          "review"
+        ],
+        "pros": [
+          "Great for automation",
+          "tools-ready automation",
+          "Great for automation"
+        ],
+        "cons": [
+          "Overkill for automation experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for automation experiments"
+        ],
+        "highlights": [
+          "Honest reviews of agent automation tools."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-4fnc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-05T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Hansel",
+        "slug": "hansel",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/hansel-2",
+        "source": "Product Hunt",
+        "isoDate": "2026-08-05T06:59:36.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Hey everyone! 👋",
+        "slug": "hey-everyone",
+        "description": "Hey everyone! 👋 I just deployed Velocity One, a lightweight speed test tool that measures: No ads, no tracking, no registration - just pure speed testing. Try it here: https://velocity-speedtest-production.up.railway.app Built with Node.js + vanilla JavaScript, deployed on Railway.",
+        "summary": "Hey everyone! 👋 I just deployed Velocity One, a lightweight speed test tool that measures: No ads, no tracking, no registration - just pure speed testing. Try it here: https://velocity-speedtest-production.up.railway.app Built with Node.js + vanilla JavaScript, deployed on Railway.",
+        "link": "https://dev.to/dmogad1/hey-everyone-3djj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-05T06:48:28.000Z",
+        "keywords": [
+          "javascript",
+          "opensource",
+          "showdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "opensource",
+          "showdev"
+        ],
+        "pros": [
+          "Great for javascript",
+          "opensource-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for opensource workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "Hey everyone! 👋 I just deployed Velocity One, a lightweight speed test tool that measures: No ads, no tracking, no registration - just pure speed testing.",
+          "Try it here: https://velocity-speedtest-production.up.railway.app Built with Node.js + vanilla JavaScript, deployed on Railway.",
+          "Open source on GitHub at dmogad1/velocity-speedtest</p> <p>Feedback welcome! 🎯</p>"
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Boost Your Conversion",
+        "slug": "boost-your-conversion",
+        "description": "One of the critical trends this year is the growing demand for effective landing pages that convert traffic into actionable results, alongside the necessity for personalized learning goals in special education. This transformation is essential not only for driving sales but also for ensuring that educational materials meet the diverse needs of students.</p> <p>Landing pages play a pivotal role in this equation.",
+        "summary": "One of the critical trends this year is the growing demand for effective landing pages that convert traffic into actionable results, alongside the necessity for personalized learning goals in special education. This transformation is essential not only for driving sales but also for ensuring that educational materials meet the diverse needs of students.</p> <p>Landing pages play a pivotal role in this equation.",
+        "link": "https://dev.to/themez_world_dc53aea53896/boost-your-conversion-rates-and-special-education-goals-with-ai-in-2026-1g6n",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-05T06:34:35.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "According to a recent article in Technology Org, AI is transforming digital content creation by allowing marketers to craft personalized experiences that resonate more deeply with audiences.",
+          "In an environment where personalized education is paramount, the IEP SMART Goal Generator helps educators automate the typically tedious task of writing measurable goals.",
+          "Whether you're a solopreneur aiming to drive conversions or an educator tasked with nurturing individual student growth, the tools available today offer unprecedented support."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-08-05T08:09:10.383Z",
+    "lastUpdated": "2026-08-05T08:09:10.383Z",
+    "visibleDate": "Aug 5, 2026",
+    "url": "pages/2026-08-05-080910383-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-08-05-080910383-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "10 automation tools",
+      "16 Free Forex",
+      "Hansel"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include 10 automation tools, 16 Free Forex, Hansel. Reliable remote debugg",
+    "tools": [
+      {
+        "name": "10 automation tools",
+        "slug": "10-automation-tools",
+        "description": "Honest reviews of agent automation tools.",
+        "summary": "Honest reviews of agent automation tools.",
+        "link": "https://dev.to/vishalxqzj/10-automation-tools-that-work-in-2026-456e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-05T08:02:04.000Z",
+        "keywords": [
+          "automation",
+          "tools",
+          "review",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "automation",
+          "tools",
+          "review"
+        ],
+        "pros": [
+          "Great for automation",
+          "tools-ready automation",
+          "Great for automation"
+        ],
+        "cons": [
+          "Overkill for automation experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for automation experiments"
+        ],
+        "highlights": [
+          "Honest reviews of agent automation tools."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-4fnc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-05T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Hansel",
+        "slug": "hansel",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/hansel-2",
+        "source": "Product Hunt",
+        "isoDate": "2026-08-05T06:59:36.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Hey everyone! 👋",
+        "slug": "hey-everyone",
+        "description": "Hey everyone! 👋 I just deployed Velocity One, a lightweight speed test tool that measures: No ads, no tracking, no registration - just pure speed testing. Try it here: https://velocity-speedtest-production.up.railway.app Built with Node.js + vanilla JavaScript, deployed on Railway.",
+        "summary": "Hey everyone! 👋 I just deployed Velocity One, a lightweight speed test tool that measures: No ads, no tracking, no registration - just pure speed testing. Try it here: https://velocity-speedtest-production.up.railway.app Built with Node.js + vanilla JavaScript, deployed on Railway.",
+        "link": "https://dev.to/dmogad1/hey-everyone-3djj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-05T06:48:28.000Z",
+        "keywords": [
+          "javascript",
+          "opensource",
+          "showdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "opensource",
+          "showdev"
+        ],
+        "pros": [
+          "Great for javascript",
+          "opensource-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for opensource workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "Hey everyone! 👋 I just deployed Velocity One, a lightweight speed test tool that measures: No ads, no tracking, no registration - just pure speed testing.",
+          "Try it here: https://velocity-speedtest-production.up.railway.app Built with Node.js + vanilla JavaScript, deployed on Railway.",
+          "Open source on GitHub at dmogad1/velocity-speedtest</p> <p>Feedback welcome! 🎯</p>"
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-08-05T08:09:10.383Z",
+    "lastUpdated": "2026-08-05T08:09:10.383Z",
+    "visibleDate": "Aug 5, 2026",
+    "url": "pages/2026-08-05-080910383-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-08-05-080910383-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "10 automation tools",
+      "16 Free Forex"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include 10 automation tools, 16 Free Forex. Gitpod brings",
+    "tools": [
+      {
+        "name": "10 automation tools",
+        "slug": "10-automation-tools",
+        "description": "Honest reviews of agent automation tools.",
+        "summary": "Honest reviews of agent automation tools.",
+        "link": "https://dev.to/vishalxqzj/10-automation-tools-that-work-in-2026-456e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-05T08:02:04.000Z",
+        "keywords": [
+          "automation",
+          "tools",
+          "review",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "automation",
+          "tools",
+          "review"
+        ],
+        "pros": [
+          "Great for automation",
+          "tools-ready automation",
+          "Great for automation"
+        ],
+        "cons": [
+          "Overkill for automation experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for automation experiments"
+        ],
+        "highlights": [
+          "Honest reviews of agent automation tools."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-4fnc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-05T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-08-05T08:09:10.383Z",
+    "lastUpdated": "2026-08-05T08:09:10.383Z",
+    "visibleDate": "Aug 5, 2026",
+    "url": "pages/2026-08-05-080910383-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-08-05-080910383-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "10 automation tools",
+      "16 Free Forex",
+      "Hansel"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include 10 automation tools, 16 Free Forex, Hansel. New launches that are shippi",
+    "tools": [
+      {
+        "name": "10 automation tools",
+        "slug": "10-automation-tools",
+        "description": "Honest reviews of agent automation tools.",
+        "summary": "Honest reviews of agent automation tools.",
+        "link": "https://dev.to/vishalxqzj/10-automation-tools-that-work-in-2026-456e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-05T08:02:04.000Z",
+        "keywords": [
+          "automation",
+          "tools",
+          "review",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "automation",
+          "tools",
+          "review"
+        ],
+        "pros": [
+          "Great for automation",
+          "tools-ready automation",
+          "Great for automation"
+        ],
+        "cons": [
+          "Overkill for automation experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for automation experiments"
+        ],
+        "highlights": [
+          "Honest reviews of agent automation tools."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "16 Free Forex",
+        "slug": "16-free-forex",
+        "description": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "summary": "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength. Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+        "link": "https://dev.to/gfil86/16-free-forex-trading-calculators-that-actually-work-in-2026-4fnc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-05T08:00:32.000Z",
+        "keywords": [
+          "forex",
+          "trading",
+          "tools",
+          "riskmanagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "forex",
+          "trading",
+          "tools"
+        ],
+        "pros": [
+          "Great for forex",
+          "trading-ready automation",
+          "Great for forex"
+        ],
+        "cons": [
+          "Overkill for forex experiments",
+          "Needs extra setup for trading workflows",
+          "Overkill for forex experiments"
+        ],
+        "highlights": [
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "Position size, pip value, Fibonacci, ATR, Kelly, margin, R:R, drawdown, profit factor, compound interest, pivot points, correlation, currency strength.",
+          "16 Free Trading Calculators I built these for my own trading."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Hansel",
+        "slug": "hansel",
+        "description": "Discussion | Link",
+        "summary": "Discussion | Link",
+        "link": "https://www.producthunt.com/products/hansel-2",
+        "source": "Product Hunt",
+        "isoDate": "2026-08-05T06:59:36.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "discussion"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-08-04T08:10:35.298Z",
     "lastUpdated": "2026-08-04T08:10:35.298Z",
     "visibleDate": "Aug 4, 2026",

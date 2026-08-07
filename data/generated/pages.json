@@ -7,6 +7,671 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-08-07T06:54:43.923Z",
+    "lastUpdated": "2026-08-07T06:54:43.923Z",
+    "visibleDate": "Aug 7, 2026",
+    "url": "pages/2026-08-07-065443923-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-08-07-065443923-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to be",
+      "How AI Tools",
+      "✨ Spotlight #CodeTrendy"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include How to be, How AI Tools, ✨ Spotlight #CodeTrendy. Productivity stacks that",
+    "tools": [
+      {
+        "name": "How to be",
+        "slug": "how-to-be",
+        "description": "Ryan welcomes McLaren Stanley, Senior Principal Engineer for Amazon Stores, to discuss what it actually takes to make teams AI native, why agentic engineering is shifting code bottlenecks downstream to testing and deployment, and why robust validation is essential to build trust and enable “fearless commits.”​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "Ryan welcomes McLaren Stanley, Senior Principal Engineer for Amazon Stores, to discuss what it actually takes to make teams AI native, why agentic engineering is shifting code bottlenecks downstream to testing and deployment, and why robust validation is essential to build trust and enable “fearless commits.”​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-08-07T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "agentic-ai",
+          "sdlc",
+          "amazon"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI Tools",
+        "slug": "how-ai-tools",
+        "description": "However, as highlighted in <strong>GitLab's research</strong>, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency. However, as highlighted in GitLab's research, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency.",
+        "summary": "However, as highlighted in <strong>GitLab's research</strong>, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency. However, as highlighted in GitLab's research, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-tools-can-streamline-your-code-writing-and-rewriting-process-2026",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-07T06:34:35.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "However, as highlighted in GitLab's research, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency.",
+          "The recent headlines reveal a growing concern in the software industry – as developers, you are tasked with not only writing code but ensuring it’s robust, maintainable, and ready for deployment.",
+          "However, as highlighted in <strong>GitLab's research</strong>, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "✨ Spotlight #CodeTrendy",
+        "slug": "spotlight-codetrendy",
+        "description": "9+ founders alr https://codetrendy.com/listing/mediapronet <p>✨ Spotlight #CodeTrendy → MEDIAPRONET</p> <p>Get a permanent dofollow backlink. ✨ Spotlight #CodeTrendy → MEDIAPRONET Get a permanent dofollow backlink.",
+        "summary": "9+ founders alr https://codetrendy.com/listing/mediapronet <p>✨ Spotlight #CodeTrendy → MEDIAPRONET</p> <p>Get a permanent dofollow backlink. ✨ Spotlight #CodeTrendy → MEDIAPRONET Get a permanent dofollow backlink.",
+        "link": "https://dev.to/codetrendy/spotlight-codetrendy-mediapronetget-a-permanent-dofollow-backlink-one-time-payment-instant-3ff0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-07T06:17:19.000Z",
+        "keywords": [
+          "directory",
+          "web",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "directory",
+          "web",
+          "tools"
+        ],
+        "pros": [
+          "Great for directory",
+          "web-ready automation",
+          "Great for directory"
+        ],
+        "cons": [
+          "Overkill for directory experiments",
+          "Needs extra setup for web workflows",
+          "Overkill for directory experiments"
+        ],
+        "highlights": [
+          "9+ founders alr https://codetrendy.com/listing/mediapronet <p>✨ Spotlight #CodeTrendy → MEDIAPRONET</p> <p>Get a permanent dofollow backlink.",
+          "✨ Spotlight #CodeTrendy → MEDIAPRONET Get a permanent dofollow backlink.",
+          "One-time payment, instant listing, lifetime link."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Auto-Reframe a Video to Vertical (9",
+        "slug": "how-to-auto-reframe-a-video-to-vertical-9",
+        "description": "Sometimes a static wide-to-vertical crop actually looks better here.</li> <li> <strong>Rapid cross-cutting or heavy motion.</strong> Sports and fast montages can outrun the tracker, producing a jittery frame. Browser-based editors run the whole reframe in a tab with nothing to install — upload your horizontal file, set 9:16, let subject tracking make its pass, review the drift, caption, and export.",
+        "summary": "Sometimes a static wide-to-vertical crop actually looks better here.</li> <li> <strong>Rapid cross-cutting or heavy motion.</strong> Sports and fast montages can outrun the tracker, producing a jittery frame. Browser-based editors run the whole reframe in a tab with nothing to install — upload your horizontal file, set 9:16, let subject tracking make its pass, review the drift, caption, and export.",
+        "link": "https://dev.to/bot_a_7b41c25533cb271e188/how-to-auto-reframe-a-video-to-vertical-916-4nc8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-07T06:11:58.000Z",
+        "keywords": [
+          "ai",
+          "tutorial",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tutorial",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "tutorial-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tutorial workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "If you post to TikTok, YouTube Shorts, or Instagram Reels, reframing isn't a one-off chore — it's a step you repeat on every clip you ship, so it pays to get the workflow right once.",
+          "Keeping the right thing inside the new, narrower frame is the hard part — and it's the whole reason \"auto reframe horizontal to vertical\" exists as a feature instead of a one-click resize.",
+          "Browser-based editors run the whole reframe in a tab with nothing to install — upload your horizontal file, set 9:16, let subject tracking make its pass, review the drift, caption, and export."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Framework discloses data",
+        "slug": "framework-discloses-data",
+        "description": "Article URL: https://community.frame.work/t/framework-data-breach-discussion/83939 Comments URL: https://news.ycombinator.com/item?id=49206130 Points: 35 # Comments: 6",
+        "summary": "Article URL: https://community.frame.work/t/framework-data-breach-discussion/83939 Comments URL: https://news.ycombinator.com/item?id=49206130 Points: 35 # Comments: 6",
+        "link": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+        "source": "Hacker News",
+        "isoDate": "2026-08-07T05:17:57.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-08-07T06:54:43.923Z",
+    "lastUpdated": "2026-08-07T06:54:43.923Z",
+    "visibleDate": "Aug 7, 2026",
+    "url": "pages/2026-08-07-065443923-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-08-07-065443923-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to be",
+      "How AI Tools",
+      "✨ Spotlight #CodeTrendy"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include How to be, How AI Tools, ✨ Spotlight #CodeTrendy. Reliable remote ",
+    "tools": [
+      {
+        "name": "How to be",
+        "slug": "how-to-be",
+        "description": "Ryan welcomes McLaren Stanley, Senior Principal Engineer for Amazon Stores, to discuss what it actually takes to make teams AI native, why agentic engineering is shifting code bottlenecks downstream to testing and deployment, and why robust validation is essential to build trust and enable “fearless commits.”​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "Ryan welcomes McLaren Stanley, Senior Principal Engineer for Amazon Stores, to discuss what it actually takes to make teams AI native, why agentic engineering is shifting code bottlenecks downstream to testing and deployment, and why robust validation is essential to build trust and enable “fearless commits.”​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-08-07T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "agentic-ai",
+          "sdlc",
+          "amazon"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI Tools",
+        "slug": "how-ai-tools",
+        "description": "However, as highlighted in <strong>GitLab's research</strong>, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency. However, as highlighted in GitLab's research, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency.",
+        "summary": "However, as highlighted in <strong>GitLab's research</strong>, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency. However, as highlighted in GitLab's research, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-tools-can-streamline-your-code-writing-and-rewriting-process-2026",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-07T06:34:35.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "However, as highlighted in GitLab's research, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency.",
+          "The recent headlines reveal a growing concern in the software industry – as developers, you are tasked with not only writing code but ensuring it’s robust, maintainable, and ready for deployment.",
+          "However, as highlighted in <strong>GitLab's research</strong>, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "✨ Spotlight #CodeTrendy",
+        "slug": "spotlight-codetrendy",
+        "description": "9+ founders alr https://codetrendy.com/listing/mediapronet <p>✨ Spotlight #CodeTrendy → MEDIAPRONET</p> <p>Get a permanent dofollow backlink. ✨ Spotlight #CodeTrendy → MEDIAPRONET Get a permanent dofollow backlink.",
+        "summary": "9+ founders alr https://codetrendy.com/listing/mediapronet <p>✨ Spotlight #CodeTrendy → MEDIAPRONET</p> <p>Get a permanent dofollow backlink. ✨ Spotlight #CodeTrendy → MEDIAPRONET Get a permanent dofollow backlink.",
+        "link": "https://dev.to/codetrendy/spotlight-codetrendy-mediapronetget-a-permanent-dofollow-backlink-one-time-payment-instant-3ff0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-07T06:17:19.000Z",
+        "keywords": [
+          "directory",
+          "web",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "directory",
+          "web",
+          "tools"
+        ],
+        "pros": [
+          "Great for directory",
+          "web-ready automation",
+          "Great for directory"
+        ],
+        "cons": [
+          "Overkill for directory experiments",
+          "Needs extra setup for web workflows",
+          "Overkill for directory experiments"
+        ],
+        "highlights": [
+          "9+ founders alr https://codetrendy.com/listing/mediapronet <p>✨ Spotlight #CodeTrendy → MEDIAPRONET</p> <p>Get a permanent dofollow backlink.",
+          "✨ Spotlight #CodeTrendy → MEDIAPRONET Get a permanent dofollow backlink.",
+          "One-time payment, instant listing, lifetime link."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Auto-Reframe a Video to Vertical (9",
+        "slug": "how-to-auto-reframe-a-video-to-vertical-9",
+        "description": "Sometimes a static wide-to-vertical crop actually looks better here.</li> <li> <strong>Rapid cross-cutting or heavy motion.</strong> Sports and fast montages can outrun the tracker, producing a jittery frame. Browser-based editors run the whole reframe in a tab with nothing to install — upload your horizontal file, set 9:16, let subject tracking make its pass, review the drift, caption, and export.",
+        "summary": "Sometimes a static wide-to-vertical crop actually looks better here.</li> <li> <strong>Rapid cross-cutting or heavy motion.</strong> Sports and fast montages can outrun the tracker, producing a jittery frame. Browser-based editors run the whole reframe in a tab with nothing to install — upload your horizontal file, set 9:16, let subject tracking make its pass, review the drift, caption, and export.",
+        "link": "https://dev.to/bot_a_7b41c25533cb271e188/how-to-auto-reframe-a-video-to-vertical-916-4nc8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-07T06:11:58.000Z",
+        "keywords": [
+          "ai",
+          "tutorial",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tutorial",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "tutorial-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tutorial workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "If you post to TikTok, YouTube Shorts, or Instagram Reels, reframing isn't a one-off chore — it's a step you repeat on every clip you ship, so it pays to get the workflow right once.",
+          "Keeping the right thing inside the new, narrower frame is the hard part — and it's the whole reason \"auto reframe horizontal to vertical\" exists as a feature instead of a one-click resize.",
+          "Browser-based editors run the whole reframe in a tab with nothing to install — upload your horizontal file, set 9:16, let subject tracking make its pass, review the drift, caption, and export."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-08-07T06:54:43.923Z",
+    "lastUpdated": "2026-08-07T06:54:43.923Z",
+    "visibleDate": "Aug 7, 2026",
+    "url": "pages/2026-08-07-065443923-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-08-07-065443923-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to be",
+      "How AI Tools"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include How to be, How AI Tools. Gitpod brings zero-confi",
+    "tools": [
+      {
+        "name": "How to be",
+        "slug": "how-to-be",
+        "description": "Ryan welcomes McLaren Stanley, Senior Principal Engineer for Amazon Stores, to discuss what it actually takes to make teams AI native, why agentic engineering is shifting code bottlenecks downstream to testing and deployment, and why robust validation is essential to build trust and enable “fearless commits.”​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "Ryan welcomes McLaren Stanley, Senior Principal Engineer for Amazon Stores, to discuss what it actually takes to make teams AI native, why agentic engineering is shifting code bottlenecks downstream to testing and deployment, and why robust validation is essential to build trust and enable “fearless commits.”​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-08-07T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "agentic-ai",
+          "sdlc",
+          "amazon"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI Tools",
+        "slug": "how-ai-tools",
+        "description": "However, as highlighted in <strong>GitLab's research</strong>, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency. However, as highlighted in GitLab's research, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency.",
+        "summary": "However, as highlighted in <strong>GitLab's research</strong>, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency. However, as highlighted in GitLab's research, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-tools-can-streamline-your-code-writing-and-rewriting-process-2026",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-07T06:34:35.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "However, as highlighted in GitLab's research, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency.",
+          "The recent headlines reveal a growing concern in the software industry – as developers, you are tasked with not only writing code but ensuring it’s robust, maintainable, and ready for deployment.",
+          "However, as highlighted in <strong>GitLab's research</strong>, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-08-07T06:54:43.923Z",
+    "lastUpdated": "2026-08-07T06:54:43.923Z",
+    "visibleDate": "Aug 7, 2026",
+    "url": "pages/2026-08-07-065443923-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-08-07-065443923-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to be",
+      "How AI Tools",
+      "✨ Spotlight #CodeTrendy"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include How to be, How AI Tools, ✨ Spotlight #CodeTrendy. New launches that are ",
+    "tools": [
+      {
+        "name": "How to be",
+        "slug": "how-to-be",
+        "description": "Ryan welcomes McLaren Stanley, Senior Principal Engineer for Amazon Stores, to discuss what it actually takes to make teams AI native, why agentic engineering is shifting code bottlenecks downstream to testing and deployment, and why robust validation is essential to build trust and enable “fearless commits.”​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "summary": "Ryan welcomes McLaren Stanley, Senior Principal Engineer for Amazon Stores, to discuss what it actually takes to make teams AI native, why agentic engineering is shifting code bottlenecks downstream to testing and deployment, and why robust validation is essential to build trust and enable “fearless commits.”​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍​ ‌‍‌​​ ‌‍‌‍‌​​ ‍‌​ ‌​‌‍​‌​ ‍​​‍ ‌​ ‌‍‌‍‌‌‌‍​‍​ ‌‍​‍ ‌​ ‌​​ ​‍​ ‌​​ ​ ​‍ ‌​ ‍​‌‍‌‌‌‍‌‌​ ​‌​‍ ‌‌‍​‍​ ‌‌‌‍​‍​ ​ ​ ‍‌​ ​‌‌‍‌‌‌‍‌‍​ ​​​ ‌​​ ‌​​ ​‌​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌‍‌‌‌ ‍​‌‍​ ‌‍‌‌‌ ​‍‌ ​​‌ ‌​​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+        "link": "https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-08-07T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "agentic-ai",
+          "sdlc",
+          "amazon"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How AI Tools",
+        "slug": "how-ai-tools",
+        "description": "However, as highlighted in <strong>GitLab's research</strong>, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency. However, as highlighted in GitLab's research, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency.",
+        "summary": "However, as highlighted in <strong>GitLab's research</strong>, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency. However, as highlighted in GitLab's research, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency.",
+        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-tools-can-streamline-your-code-writing-and-rewriting-process-2026",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-07T06:34:35.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "However, as highlighted in GitLab's research, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency.",
+          "The recent headlines reveal a growing concern in the software industry – as developers, you are tasked with not only writing code but ensuring it’s robust, maintainable, and ready for deployment.",
+          "However, as highlighted in <strong>GitLab's research</strong>, while these tools help developers write more lines of code, they don't necessarily enhance overall software delivery efficiency."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "✨ Spotlight #CodeTrendy",
+        "slug": "spotlight-codetrendy",
+        "description": "9+ founders alr https://codetrendy.com/listing/mediapronet <p>✨ Spotlight #CodeTrendy → MEDIAPRONET</p> <p>Get a permanent dofollow backlink. ✨ Spotlight #CodeTrendy → MEDIAPRONET Get a permanent dofollow backlink.",
+        "summary": "9+ founders alr https://codetrendy.com/listing/mediapronet <p>✨ Spotlight #CodeTrendy → MEDIAPRONET</p> <p>Get a permanent dofollow backlink. ✨ Spotlight #CodeTrendy → MEDIAPRONET Get a permanent dofollow backlink.",
+        "link": "https://dev.to/codetrendy/spotlight-codetrendy-mediapronetget-a-permanent-dofollow-backlink-one-time-payment-instant-3ff0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-07T06:17:19.000Z",
+        "keywords": [
+          "directory",
+          "web",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "directory",
+          "web",
+          "tools"
+        ],
+        "pros": [
+          "Great for directory",
+          "web-ready automation",
+          "Great for directory"
+        ],
+        "cons": [
+          "Overkill for directory experiments",
+          "Needs extra setup for web workflows",
+          "Overkill for directory experiments"
+        ],
+        "highlights": [
+          "9+ founders alr https://codetrendy.com/listing/mediapronet <p>✨ Spotlight #CodeTrendy → MEDIAPRONET</p> <p>Get a permanent dofollow backlink.",
+          "✨ Spotlight #CodeTrendy → MEDIAPRONET Get a permanent dofollow backlink.",
+          "One-time payment, instant listing, lifetime link."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-08-06T08:08:07.361Z",
     "lastUpdated": "2026-08-06T08:08:07.361Z",
     "visibleDate": "Aug 6, 2026",

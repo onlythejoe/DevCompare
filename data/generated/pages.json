@@ -7,6 +7,655 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-08-15T06:14:27.425Z",
+    "lastUpdated": "2026-08-15T06:14:27.425Z",
+    "visibleDate": "Aug 15, 2026",
+    "url": "pages/2026-08-15-061427425-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-08-15-061427425-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The other Sean",
+      "I built 59 free browser-based dev tools in vanilla JS",
+      "The End of"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include The other Sean, I built 59 free browser-based dev tools in vanilla JS, The",
+    "tools": [
+      {
+        "name": "The other Sean",
+        "slug": "the-other-sean",
+        "description": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 33 # Comments: 7",
+        "summary": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 33 # Comments: 7",
+        "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+        "source": "Hacker News",
+        "isoDate": "2026-08-15T04:18:44.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built 59 free browser-based dev tools in vanilla JS",
+        "slug": "i-built-59-free-browser-based-dev-tools-in-vanilla-js",
+        "description": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "summary": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-1fmb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-15T04:04:49.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers.",
+          "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+          "</h2> <p>The main constraint I set for myself: <strong>zero dependencies, zero server, zero telemetry</strong>.</p> <p>When you paste your JWT token into jwt.io, it goes to their server."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The End of",
+        "slug": "the-end-of",
+        "description": "Article URL: https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics Comments URL: https://news.ycombinator.com/item?id=49307383 Points: 11 # Comments: 1",
+        "summary": "Article URL: https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics Comments URL: https://news.ycombinator.com/item?id=49307383 Points: 11 # Comments: 1",
+        "link": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
+        "source": "Hacker News",
+        "isoDate": "2026-08-15T03:37:00.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 20 # Comments: 7",
+        "summary": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 20 # Comments: 7",
+        "link": "https://app.deltix.ai",
+        "source": "Hacker News",
+        "isoDate": "2026-08-15T02:42:14.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Grammarly vs Perplexity",
+        "slug": "grammarly-vs-perplexity",
+        "description": "We'll break down each tool's core strengths, pricing, use cases, and limitations so you can make an informed decision — whether you're a student, freelance writer, marketer, or business professional. [INTERNAL_LINK: best AI writing tools 2026] Grammarly Grammarly launched in 2009 and has grown into one of the most widely used AI writing assistants on the planet, with over 50 million daily active users as of 2026.",
+        "summary": "We'll break down each tool's core strengths, pricing, use cases, and limitations so you can make an informed decision — whether you're a student, freelance writer, marketer, or business professional. [INTERNAL_LINK: best AI writing tools 2026] Grammarly Grammarly launched in 2009 and has grown into one of the most widely used AI writing assistants on the planet, with over 50 million daily active users as of 2026.",
+        "link": "https://dev.to/onsen/grammarly-vs-perplexity-which-ai-tool-wins-1fk3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-15T02:19:36.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "We'll break down each tool's core strengths, pricing, use cases, and limitations so you can make an informed decision — whether you're a student, freelance writer, marketer, or business professional.",
+          "By August 2026, it has evolved into a sophisticated AI-powered research engine that combines the conversational ability of large language models with real-time web search and source citation.",
+          "In real-world testing, it consistently catches errors that spell-checkers miss — things like confusing \"affect\" and \"effect\" or misplaced commas that change meaning.</p> <p><strong>2."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-08-15T06:14:27.425Z",
+    "lastUpdated": "2026-08-15T06:14:27.425Z",
+    "visibleDate": "Aug 15, 2026",
+    "url": "pages/2026-08-15-061427425-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-08-15-061427425-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The other Sean",
+      "I built 59 free browser-based dev tools in vanilla JS",
+      "The End of"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include The other Sean, I built 59 free browser-based dev tools in vanilla",
+    "tools": [
+      {
+        "name": "The other Sean",
+        "slug": "the-other-sean",
+        "description": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 33 # Comments: 7",
+        "summary": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 33 # Comments: 7",
+        "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+        "source": "Hacker News",
+        "isoDate": "2026-08-15T04:18:44.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built 59 free browser-based dev tools in vanilla JS",
+        "slug": "i-built-59-free-browser-based-dev-tools-in-vanilla-js",
+        "description": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "summary": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-1fmb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-15T04:04:49.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers.",
+          "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+          "</h2> <p>The main constraint I set for myself: <strong>zero dependencies, zero server, zero telemetry</strong>.</p> <p>When you paste your JWT token into jwt.io, it goes to their server."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The End of",
+        "slug": "the-end-of",
+        "description": "Article URL: https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics Comments URL: https://news.ycombinator.com/item?id=49307383 Points: 11 # Comments: 1",
+        "summary": "Article URL: https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics Comments URL: https://news.ycombinator.com/item?id=49307383 Points: 11 # Comments: 1",
+        "link": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
+        "source": "Hacker News",
+        "isoDate": "2026-08-15T03:37:00.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 20 # Comments: 7",
+        "summary": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 20 # Comments: 7",
+        "link": "https://app.deltix.ai",
+        "source": "Hacker News",
+        "isoDate": "2026-08-15T02:42:14.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-08-15T06:14:27.425Z",
+    "lastUpdated": "2026-08-15T06:14:27.425Z",
+    "visibleDate": "Aug 15, 2026",
+    "url": "pages/2026-08-15-061427425-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-08-15-061427425-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The other Sean",
+      "I built 59 free browser-based dev tools in vanilla JS"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include The other Sean, I built 59 free browser-based dev",
+    "tools": [
+      {
+        "name": "The other Sean",
+        "slug": "the-other-sean",
+        "description": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 33 # Comments: 7",
+        "summary": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 33 # Comments: 7",
+        "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+        "source": "Hacker News",
+        "isoDate": "2026-08-15T04:18:44.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built 59 free browser-based dev tools in vanilla JS",
+        "slug": "i-built-59-free-browser-based-dev-tools-in-vanilla-js",
+        "description": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "summary": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-1fmb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-15T04:04:49.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers.",
+          "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+          "</h2> <p>The main constraint I set for myself: <strong>zero dependencies, zero server, zero telemetry</strong>.</p> <p>When you paste your JWT token into jwt.io, it goes to their server."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-08-15T06:14:27.425Z",
+    "lastUpdated": "2026-08-15T06:14:27.425Z",
+    "visibleDate": "Aug 15, 2026",
+    "url": "pages/2026-08-15-061427425-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-08-15-061427425-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "The other Sean",
+      "I built 59 free browser-based dev tools in vanilla JS",
+      "The End of"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include The other Sean, I built 59 free browser-based dev tools in vanilla JS, T",
+    "tools": [
+      {
+        "name": "The other Sean",
+        "slug": "the-other-sean",
+        "description": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 33 # Comments: 7",
+        "summary": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 33 # Comments: 7",
+        "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+        "source": "Hacker News",
+        "isoDate": "2026-08-15T04:18:44.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built 59 free browser-based dev tools in vanilla JS",
+        "slug": "i-built-59-free-browser-based-dev-tools-in-vanilla-js",
+        "description": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "summary": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-1fmb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-15T04:04:49.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers.",
+          "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+          "</h2> <p>The main constraint I set for myself: <strong>zero dependencies, zero server, zero telemetry</strong>.</p> <p>When you paste your JWT token into jwt.io, it goes to their server."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The End of",
+        "slug": "the-end-of",
+        "description": "Article URL: https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics Comments URL: https://news.ycombinator.com/item?id=49307383 Points: 11 # Comments: 1",
+        "summary": "Article URL: https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics Comments URL: https://news.ycombinator.com/item?id=49307383 Points: 11 # Comments: 1",
+        "link": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
+        "source": "Hacker News",
+        "isoDate": "2026-08-15T03:37:00.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-08-14T07:00:44.322Z",
     "lastUpdated": "2026-08-14T07:00:44.322Z",
     "visibleDate": "Aug 14, 2026",

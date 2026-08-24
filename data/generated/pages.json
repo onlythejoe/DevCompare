@@ -7,6 +7,676 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-08-24T06:28:13.106Z",
+    "lastUpdated": "2026-08-24T06:28:13.106Z",
+    "visibleDate": "Aug 24, 2026",
+    "url": "pages/2026-08-24-062813106-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-08-24-062813106-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Hey DEV! I'm Stefan",
+      "🎯 ATS Resume Checker: Honest parseability scoring",
+      "Talking your way"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Hey DEV! I'm Stefan, 🎯 ATS Resume Checker: Honest parseability scoring, T",
+    "tools": [
+      {
+        "name": "Hey DEV! I'm Stefan",
+        "slug": "hey-dev-i-m-stefan",
+        "description": "Nothing dramatic, just easy wins that add up.</li> </ul> <p>Say hi</p> <p>I'm always happy to talk TYPO3, front-end tooling, or technical SEO — and I'm open to freelance work and collaborations, wherever you're based. 🙂 Cheers, Stefan <p>Hey, I'm Stefan</p> <p>I'm a freelance web designer &amp; developer based in Klagenfurt, Austria — though these days most of my work happens for clients well beyond Austria's borders.",
+        "summary": "Nothing dramatic, just easy wins that add up.</li> </ul> <p>Say hi</p> <p>I'm always happy to talk TYPO3, front-end tooling, or technical SEO — and I'm open to freelance work and collaborations, wherever you're based. 🙂 Cheers, Stefan <p>Hey, I'm Stefan</p> <p>I'm a freelance web designer &amp; developer based in Klagenfurt, Austria — though these days most of my work happens for clients well beyond Austria's borders.",
+        "link": "https://dev.to/stefan_andres_07/hey-dev-im-stefan-typo3-dev-and-i-just-launched-a-page-of-free-browser-tools-4h65",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-24T05:33:10.000Z",
+        "keywords": [
+          "freelance",
+          "showdev",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "freelance",
+          "showdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for freelance",
+          "showdev-ready automation",
+          "Great for freelance"
+        ],
+        "cons": [
+          "Overkill for freelance experiments",
+          "Needs extra setup for showdev workflows",
+          "Overkill for freelance experiments"
+        ],
+        "highlights": [
+          "SEO & Performance Check — enter a URL and get an on-page SEO report plus real Google PageSpeed metrics (LCP, FCP, CLS) with plain-language suggestions.",
+          "What I built I wanted a set of quick, no-nonsense tools I could point clients (and myself) to instead of juggling five different sketchy websites full of ads.",
+          "Hey, I'm Stefan I'm a freelance web designer & developer based in Klagenfurt, Austria — though these days most of my work happens for clients well beyond Austria's borders."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🎯 ATS Resume Checker: Honest parseability scoring",
+        "slug": "ats-resume-checker-honest-parseability-scoring",
+        "description": "### 🔍 Parseability first Before anything about wording, the tool answers the question that matters: **does text come out of this file at all?** A gorgeous resume that extracts to nothing scores badly here, correctly. tooladda.online/ats-resume-checker.html parses the file in your browser, tells you what an applicant tracking system would actually fail to read, and asks you for nothing.",
+        "summary": "### 🔍 Parseability first Before anything about wording, the tool answers the question that matters: **does text come out of this file at all?** A gorgeous resume that extracts to nothing scores badly here, correctly. tooladda.online/ats-resume-checker.html parses the file in your browser, tells you what an applicant tracking system would actually fail to read, and asks you for nothing.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/ats-resume-checker-honest-parseability-scoring-your-resume-never-leaves-your-laptop-45lb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-24T05:11:52.000Z",
+        "keywords": [
+          "career",
+          "privacy",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "career",
+          "privacy",
+          "webdev"
+        ],
+        "pros": [
+          "Great for career",
+          "privacy-ready automation",
+          "Great for career"
+        ],
+        "cons": [
+          "Overkill for career experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for career experiments"
+        ],
+        "highlights": [
+          "tooladda.online/ats-resume-checker.html parses the file in your browser, tells you what an applicant tracking system would actually fail to read, and asks you for nothing.",
+          "Fix → the red items, re-run, re-check ▶ Check your resume — tooladda.online/ats-resume-checker.html ⚠️ Warning Ignore anyone promising a \"98% ATS score\".",
+          "If you want to rebuild from scratch in an ATS-safe structure, the ToolAdda Resume Builder exports real-text PDF and DOCX with no watermark."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Talking your way",
+        "slug": "talking-your-way",
+        "description": "An hour later you have a rough map and no idea whether it's accurate.</p> <p>The fastest way through is the thing you'd do with a colleague who knows the repo, ask a vague question and let them narrow it. The cleaning is where your real confusion went missing.</p> <p><strong>Follow-ups are where it pays off</strong></p> <p>Orientation isn't one question, it's twenty in a row, each depending on the last.",
+        "summary": "An hour later you have a rough map and no idea whether it's accurate.</p> <p>The fastest way through is the thing you'd do with a colleague who knows the repo, ask a vague question and let them narrow it. The cleaning is where your real confusion went missing.</p> <p><strong>Follow-ups are where it pays off</strong></p> <p>Orientation isn't one question, it's twenty in a row, each depending on the last.",
+        "link": "https://dev.to/julie_elis_01325f/talking-your-way-into-an-unfamiliar-codebase-with-voice-coding-302n",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-24T05:01:04.000Z",
+        "keywords": [
+          "ai",
+          "programming",
+          "vibecoding",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "programming",
+          "vibecoding"
+        ],
+        "pros": [
+          "Great for ai",
+          "programming-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "That chain is where typing gets expensive, not any single prompt, but the twentieth one, when you've been reformulating for half an hour.</p> <p>Out loud, a follow-up is four words.",
+          "\"Which one runs first?\" \"Who calls that?\" \"Is that dead?\" You keep asking because asking is free, and the map assembles faster than reading would have built it.",
+          "When the answer comes back spoken, you can be looking at the file it's describing rather than at a chat panel, your eyes stay on the code while the explanation arrives."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built 59 free browser-based dev tools in vanilla JS",
+        "slug": "i-built-59-free-browser-based-dev-tools-in-vanilla-js",
+        "description": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "summary": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-5cdb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-24T04:21:57.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers.",
+          "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+          "</h2> <p>The main constraint I set for myself: <strong>zero dependencies, zero server, zero telemetry</strong>.</p> <p>When you paste your JWT token into jwt.io, it goes to their server."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Four Practical Ways",
+        "slug": "four-practical-ways",
+        "description": "A short video with one clearly visible subject, stable lighting, and limited motion blur is easier to process than a scene containing multiple people, frequent cuts, or heavy obstruction. AI-generated content should not be used to create false endorsements or misrepresent a real person.<br> Confidential client footage and unpublished commercial assets also require additional care.",
+        "summary": "A short video with one clearly visible subject, stable lighting, and limited motion blur is easier to process than a scene containing multiple people, frequent cuts, or heavy obstruction. AI-generated content should not be used to create false endorsements or misrepresent a real person.<br> Confidential client footage and unpublished commercial assets also require additional care.",
+        "link": "https://dev.to/can123/four-practical-ways-to-repurpose-one-video-with-ai-clk",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-24T03:52:17.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "A short video with one clearly visible subject, stable lighting, and limited motion blur is easier to process than a scene containing multiple people, frequent cuts, or heavy obstruction.",
+          "AI-generated content should not be used to create false endorsements or misrepresent a real person.<br> Confidential client footage and unpublished commercial assets also require additional care.",
+          "Instead of modifying an existing performer, it uses a reference video to transfer gestures, expressions, timing, or full-body movement to a still portrait or character image."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-08-24T06:28:13.106Z",
+    "lastUpdated": "2026-08-24T06:28:13.106Z",
+    "visibleDate": "Aug 24, 2026",
+    "url": "pages/2026-08-24-062813106-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-08-24-062813106-top-software-for-remote-debugging.md",
+    "categories": [],
+    "toolHighlights": [
+      "Hey DEV! I'm Stefan",
+      "🎯 ATS Resume Checker: Honest parseability scoring",
+      "Talking your way"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Hey DEV! I'm Stefan, 🎯 ATS Resume Checker: Honest parseability sc",
+    "tools": [
+      {
+        "name": "Hey DEV! I'm Stefan",
+        "slug": "hey-dev-i-m-stefan",
+        "description": "Nothing dramatic, just easy wins that add up.</li> </ul> <p>Say hi</p> <p>I'm always happy to talk TYPO3, front-end tooling, or technical SEO — and I'm open to freelance work and collaborations, wherever you're based. 🙂 Cheers, Stefan <p>Hey, I'm Stefan</p> <p>I'm a freelance web designer &amp; developer based in Klagenfurt, Austria — though these days most of my work happens for clients well beyond Austria's borders.",
+        "summary": "Nothing dramatic, just easy wins that add up.</li> </ul> <p>Say hi</p> <p>I'm always happy to talk TYPO3, front-end tooling, or technical SEO — and I'm open to freelance work and collaborations, wherever you're based. 🙂 Cheers, Stefan <p>Hey, I'm Stefan</p> <p>I'm a freelance web designer &amp; developer based in Klagenfurt, Austria — though these days most of my work happens for clients well beyond Austria's borders.",
+        "link": "https://dev.to/stefan_andres_07/hey-dev-im-stefan-typo3-dev-and-i-just-launched-a-page-of-free-browser-tools-4h65",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-24T05:33:10.000Z",
+        "keywords": [
+          "freelance",
+          "showdev",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "freelance",
+          "showdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for freelance",
+          "showdev-ready automation",
+          "Great for freelance"
+        ],
+        "cons": [
+          "Overkill for freelance experiments",
+          "Needs extra setup for showdev workflows",
+          "Overkill for freelance experiments"
+        ],
+        "highlights": [
+          "SEO & Performance Check — enter a URL and get an on-page SEO report plus real Google PageSpeed metrics (LCP, FCP, CLS) with plain-language suggestions.",
+          "What I built I wanted a set of quick, no-nonsense tools I could point clients (and myself) to instead of juggling five different sketchy websites full of ads.",
+          "Hey, I'm Stefan I'm a freelance web designer & developer based in Klagenfurt, Austria — though these days most of my work happens for clients well beyond Austria's borders."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🎯 ATS Resume Checker: Honest parseability scoring",
+        "slug": "ats-resume-checker-honest-parseability-scoring",
+        "description": "### 🔍 Parseability first Before anything about wording, the tool answers the question that matters: **does text come out of this file at all?** A gorgeous resume that extracts to nothing scores badly here, correctly. tooladda.online/ats-resume-checker.html parses the file in your browser, tells you what an applicant tracking system would actually fail to read, and asks you for nothing.",
+        "summary": "### 🔍 Parseability first Before anything about wording, the tool answers the question that matters: **does text come out of this file at all?** A gorgeous resume that extracts to nothing scores badly here, correctly. tooladda.online/ats-resume-checker.html parses the file in your browser, tells you what an applicant tracking system would actually fail to read, and asks you for nothing.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/ats-resume-checker-honest-parseability-scoring-your-resume-never-leaves-your-laptop-45lb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-24T05:11:52.000Z",
+        "keywords": [
+          "career",
+          "privacy",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "career",
+          "privacy",
+          "webdev"
+        ],
+        "pros": [
+          "Great for career",
+          "privacy-ready automation",
+          "Great for career"
+        ],
+        "cons": [
+          "Overkill for career experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for career experiments"
+        ],
+        "highlights": [
+          "tooladda.online/ats-resume-checker.html parses the file in your browser, tells you what an applicant tracking system would actually fail to read, and asks you for nothing.",
+          "Fix → the red items, re-run, re-check ▶ Check your resume — tooladda.online/ats-resume-checker.html ⚠️ Warning Ignore anyone promising a \"98% ATS score\".",
+          "If you want to rebuild from scratch in an ATS-safe structure, the ToolAdda Resume Builder exports real-text PDF and DOCX with no watermark."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Talking your way",
+        "slug": "talking-your-way",
+        "description": "An hour later you have a rough map and no idea whether it's accurate.</p> <p>The fastest way through is the thing you'd do with a colleague who knows the repo, ask a vague question and let them narrow it. The cleaning is where your real confusion went missing.</p> <p><strong>Follow-ups are where it pays off</strong></p> <p>Orientation isn't one question, it's twenty in a row, each depending on the last.",
+        "summary": "An hour later you have a rough map and no idea whether it's accurate.</p> <p>The fastest way through is the thing you'd do with a colleague who knows the repo, ask a vague question and let them narrow it. The cleaning is where your real confusion went missing.</p> <p><strong>Follow-ups are where it pays off</strong></p> <p>Orientation isn't one question, it's twenty in a row, each depending on the last.",
+        "link": "https://dev.to/julie_elis_01325f/talking-your-way-into-an-unfamiliar-codebase-with-voice-coding-302n",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-24T05:01:04.000Z",
+        "keywords": [
+          "ai",
+          "programming",
+          "vibecoding",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "programming",
+          "vibecoding"
+        ],
+        "pros": [
+          "Great for ai",
+          "programming-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "That chain is where typing gets expensive, not any single prompt, but the twentieth one, when you've been reformulating for half an hour.</p> <p>Out loud, a follow-up is four words.",
+          "\"Which one runs first?\" \"Who calls that?\" \"Is that dead?\" You keep asking because asking is free, and the map assembles faster than reading would have built it.",
+          "When the answer comes back spoken, you can be looking at the file it's describing rather than at a chat panel, your eyes stay on the code while the explanation arrives."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built 59 free browser-based dev tools in vanilla JS",
+        "slug": "i-built-59-free-browser-based-dev-tools-in-vanilla-js",
+        "description": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "summary": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-5cdb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-24T04:21:57.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers.",
+          "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+          "</h2> <p>The main constraint I set for myself: <strong>zero dependencies, zero server, zero telemetry</strong>.</p> <p>When you paste your JWT token into jwt.io, it goes to their server."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-08-24T06:28:13.106Z",
+    "lastUpdated": "2026-08-24T06:28:13.106Z",
+    "visibleDate": "Aug 24, 2026",
+    "url": "pages/2026-08-24-062813106-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-08-24-062813106-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "Hey DEV! I'm Stefan",
+      "🎯 ATS Resume Checker: Honest parseability scoring"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Hey DEV! I'm Stefan, 🎯 ATS Resume Checker: Hones",
+    "tools": [
+      {
+        "name": "Hey DEV! I'm Stefan",
+        "slug": "hey-dev-i-m-stefan",
+        "description": "Nothing dramatic, just easy wins that add up.</li> </ul> <p>Say hi</p> <p>I'm always happy to talk TYPO3, front-end tooling, or technical SEO — and I'm open to freelance work and collaborations, wherever you're based. 🙂 Cheers, Stefan <p>Hey, I'm Stefan</p> <p>I'm a freelance web designer &amp; developer based in Klagenfurt, Austria — though these days most of my work happens for clients well beyond Austria's borders.",
+        "summary": "Nothing dramatic, just easy wins that add up.</li> </ul> <p>Say hi</p> <p>I'm always happy to talk TYPO3, front-end tooling, or technical SEO — and I'm open to freelance work and collaborations, wherever you're based. 🙂 Cheers, Stefan <p>Hey, I'm Stefan</p> <p>I'm a freelance web designer &amp; developer based in Klagenfurt, Austria — though these days most of my work happens for clients well beyond Austria's borders.",
+        "link": "https://dev.to/stefan_andres_07/hey-dev-im-stefan-typo3-dev-and-i-just-launched-a-page-of-free-browser-tools-4h65",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-24T05:33:10.000Z",
+        "keywords": [
+          "freelance",
+          "showdev",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "freelance",
+          "showdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for freelance",
+          "showdev-ready automation",
+          "Great for freelance"
+        ],
+        "cons": [
+          "Overkill for freelance experiments",
+          "Needs extra setup for showdev workflows",
+          "Overkill for freelance experiments"
+        ],
+        "highlights": [
+          "SEO & Performance Check — enter a URL and get an on-page SEO report plus real Google PageSpeed metrics (LCP, FCP, CLS) with plain-language suggestions.",
+          "What I built I wanted a set of quick, no-nonsense tools I could point clients (and myself) to instead of juggling five different sketchy websites full of ads.",
+          "Hey, I'm Stefan I'm a freelance web designer & developer based in Klagenfurt, Austria — though these days most of my work happens for clients well beyond Austria's borders."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🎯 ATS Resume Checker: Honest parseability scoring",
+        "slug": "ats-resume-checker-honest-parseability-scoring",
+        "description": "### 🔍 Parseability first Before anything about wording, the tool answers the question that matters: **does text come out of this file at all?** A gorgeous resume that extracts to nothing scores badly here, correctly. tooladda.online/ats-resume-checker.html parses the file in your browser, tells you what an applicant tracking system would actually fail to read, and asks you for nothing.",
+        "summary": "### 🔍 Parseability first Before anything about wording, the tool answers the question that matters: **does text come out of this file at all?** A gorgeous resume that extracts to nothing scores badly here, correctly. tooladda.online/ats-resume-checker.html parses the file in your browser, tells you what an applicant tracking system would actually fail to read, and asks you for nothing.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/ats-resume-checker-honest-parseability-scoring-your-resume-never-leaves-your-laptop-45lb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-24T05:11:52.000Z",
+        "keywords": [
+          "career",
+          "privacy",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "career",
+          "privacy",
+          "webdev"
+        ],
+        "pros": [
+          "Great for career",
+          "privacy-ready automation",
+          "Great for career"
+        ],
+        "cons": [
+          "Overkill for career experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for career experiments"
+        ],
+        "highlights": [
+          "tooladda.online/ats-resume-checker.html parses the file in your browser, tells you what an applicant tracking system would actually fail to read, and asks you for nothing.",
+          "Fix → the red items, re-run, re-check ▶ Check your resume — tooladda.online/ats-resume-checker.html ⚠️ Warning Ignore anyone promising a \"98% ATS score\".",
+          "If you want to rebuild from scratch in an ATS-safe structure, the ToolAdda Resume Builder exports real-text PDF and DOCX with no watermark."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-08-24T06:28:13.106Z",
+    "lastUpdated": "2026-08-24T06:28:13.106Z",
+    "visibleDate": "Aug 24, 2026",
+    "url": "pages/2026-08-24-062813106-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-08-24-062813106-new-collections-this-week.md",
+    "categories": [],
+    "toolHighlights": [
+      "Hey DEV! I'm Stefan",
+      "🎯 ATS Resume Checker: Honest parseability scoring",
+      "Talking your way"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Hey DEV! I'm Stefan, 🎯 ATS Resume Checker: Honest parseability scoring,",
+    "tools": [
+      {
+        "name": "Hey DEV! I'm Stefan",
+        "slug": "hey-dev-i-m-stefan",
+        "description": "Nothing dramatic, just easy wins that add up.</li> </ul> <p>Say hi</p> <p>I'm always happy to talk TYPO3, front-end tooling, or technical SEO — and I'm open to freelance work and collaborations, wherever you're based. 🙂 Cheers, Stefan <p>Hey, I'm Stefan</p> <p>I'm a freelance web designer &amp; developer based in Klagenfurt, Austria — though these days most of my work happens for clients well beyond Austria's borders.",
+        "summary": "Nothing dramatic, just easy wins that add up.</li> </ul> <p>Say hi</p> <p>I'm always happy to talk TYPO3, front-end tooling, or technical SEO — and I'm open to freelance work and collaborations, wherever you're based. 🙂 Cheers, Stefan <p>Hey, I'm Stefan</p> <p>I'm a freelance web designer &amp; developer based in Klagenfurt, Austria — though these days most of my work happens for clients well beyond Austria's borders.",
+        "link": "https://dev.to/stefan_andres_07/hey-dev-im-stefan-typo3-dev-and-i-just-launched-a-page-of-free-browser-tools-4h65",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-24T05:33:10.000Z",
+        "keywords": [
+          "freelance",
+          "showdev",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "freelance",
+          "showdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for freelance",
+          "showdev-ready automation",
+          "Great for freelance"
+        ],
+        "cons": [
+          "Overkill for freelance experiments",
+          "Needs extra setup for showdev workflows",
+          "Overkill for freelance experiments"
+        ],
+        "highlights": [
+          "SEO & Performance Check — enter a URL and get an on-page SEO report plus real Google PageSpeed metrics (LCP, FCP, CLS) with plain-language suggestions.",
+          "What I built I wanted a set of quick, no-nonsense tools I could point clients (and myself) to instead of juggling five different sketchy websites full of ads.",
+          "Hey, I'm Stefan I'm a freelance web designer & developer based in Klagenfurt, Austria — though these days most of my work happens for clients well beyond Austria's borders."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🎯 ATS Resume Checker: Honest parseability scoring",
+        "slug": "ats-resume-checker-honest-parseability-scoring",
+        "description": "### 🔍 Parseability first Before anything about wording, the tool answers the question that matters: **does text come out of this file at all?** A gorgeous resume that extracts to nothing scores badly here, correctly. tooladda.online/ats-resume-checker.html parses the file in your browser, tells you what an applicant tracking system would actually fail to read, and asks you for nothing.",
+        "summary": "### 🔍 Parseability first Before anything about wording, the tool answers the question that matters: **does text come out of this file at all?** A gorgeous resume that extracts to nothing scores badly here, correctly. tooladda.online/ats-resume-checker.html parses the file in your browser, tells you what an applicant tracking system would actually fail to read, and asks you for nothing.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/ats-resume-checker-honest-parseability-scoring-your-resume-never-leaves-your-laptop-45lb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-24T05:11:52.000Z",
+        "keywords": [
+          "career",
+          "privacy",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "career",
+          "privacy",
+          "webdev"
+        ],
+        "pros": [
+          "Great for career",
+          "privacy-ready automation",
+          "Great for career"
+        ],
+        "cons": [
+          "Overkill for career experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for career experiments"
+        ],
+        "highlights": [
+          "tooladda.online/ats-resume-checker.html parses the file in your browser, tells you what an applicant tracking system would actually fail to read, and asks you for nothing.",
+          "Fix → the red items, re-run, re-check ▶ Check your resume — tooladda.online/ats-resume-checker.html ⚠️ Warning Ignore anyone promising a \"98% ATS score\".",
+          "If you want to rebuild from scratch in an ATS-safe structure, the ToolAdda Resume Builder exports real-text PDF and DOCX with no watermark."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Talking your way",
+        "slug": "talking-your-way",
+        "description": "An hour later you have a rough map and no idea whether it's accurate.</p> <p>The fastest way through is the thing you'd do with a colleague who knows the repo, ask a vague question and let them narrow it. The cleaning is where your real confusion went missing.</p> <p><strong>Follow-ups are where it pays off</strong></p> <p>Orientation isn't one question, it's twenty in a row, each depending on the last.",
+        "summary": "An hour later you have a rough map and no idea whether it's accurate.</p> <p>The fastest way through is the thing you'd do with a colleague who knows the repo, ask a vague question and let them narrow it. The cleaning is where your real confusion went missing.</p> <p><strong>Follow-ups are where it pays off</strong></p> <p>Orientation isn't one question, it's twenty in a row, each depending on the last.",
+        "link": "https://dev.to/julie_elis_01325f/talking-your-way-into-an-unfamiliar-codebase-with-voice-coding-302n",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-24T05:01:04.000Z",
+        "keywords": [
+          "ai",
+          "programming",
+          "vibecoding",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "programming",
+          "vibecoding"
+        ],
+        "pros": [
+          "Great for ai",
+          "programming-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "That chain is where typing gets expensive, not any single prompt, but the twentieth one, when you've been reformulating for half an hour.</p> <p>Out loud, a follow-up is four words.",
+          "\"Which one runs first?\" \"Who calls that?\" \"Is that dead?\" You keep asking because asking is free, and the map assembles faster than reading would have built it.",
+          "When the answer comes back spoken, you can be looking at the file it's describing rather than at a chat panel, your eyes stay on the code while the explanation arrives."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-08-23T06:17:07.967Z",
     "lastUpdated": "2026-08-23T06:17:07.967Z",
     "visibleDate": "Aug 23, 2026",

@@ -7,6 +7,670 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-08-25T06:20:30.480Z",
+    "lastUpdated": "2026-08-25T06:20:30.480Z",
+    "visibleDate": "Aug 25, 2026",
+    "url": "pages/2026-08-25-062030480-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-08-25-062030480-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Inside LinkedIn's cognitive",
+      "How Generative AI",
+      "Free Model + Free Server"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Inside LinkedIn's cognitive, How Generative AI, Free Model + Free Server. ",
+    "tools": [
+      {
+        "name": "Inside LinkedIn's cognitive",
+        "slug": "inside-linkedin-s-cognitive",
+        "description": "Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn&#x27;s hiring assistant a persistent, personalized state. Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn's hiring assistant a persistent, personalized state.",
+        "summary": "Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn&#x27;s hiring assistant a persistent, personalized state. Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn's hiring assistant a persistent, personalized state.",
+        "link": "https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-08-25T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "agentic-ai",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How Generative AI",
+        "slug": "how-generative-ai",
+        "description": "Business leaders, finance teams, sales teams, operations managers, analysts, and other professionals can interact with enterprise information using natural language rather than depending entirely on technical skills. Reduced Manual Analytics Work Automated querying, analysis, reporting, narratives, and workflows can reduce repetitive analytical effort and allow teams to focus more on higher-value decisions.",
+        "summary": "Business leaders, finance teams, sales teams, operations managers, analysts, and other professionals can interact with enterprise information using natural language rather than depending entirely on technical skills. Reduced Manual Analytics Work Automated querying, analysis, reporting, narratives, and workflows can reduce repetitive analytical effort and allow teams to focus more on higher-value decisions.",
+        "link": "https://dev.to/ezinsightsai/how-generative-ai-is-changing-enterprise-analytics-forever-4ci7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-25T06:12:28.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "softwareengineering",
+          "analytics",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "softwareengineering"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Reduced Manual Analytics Work Automated querying, analysis, reporting, narratives, and workflows can reduce repetitive analytical effort and allow teams to focus more on higher-value decisions.",
+          "Faster Access to Business Insights Teams can interact with enterprise data using conversational queries and AI-generated analysis rather than relying entirely on manual SQL and reporting workflows.",
+          "From Dashboards to Conversations Traditional analytics often requires users to navigate dashboards, apply filters, write queries, or depend on analysts to answer business questions."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Free Model + Free Server",
+        "slug": "free-model-free-server",
+        "description": "That pass rate decides where the free tier belongs.</p> <h2> What gets evaluated </h2> <p>MonkeyCode is an open-source project with free model access and a free server option. The free tier earns its place on the left side of the table.</p> <h2> Where free tiers break </h2> <p>Three failure modes show up consistently:</p> <ol> <li>Context drift.",
+        "summary": "That pass rate decides where the free tier belongs.</p> <h2> What gets evaluated </h2> <p>MonkeyCode is an open-source project with free model access and a free server option. The free tier earns its place on the left side of the table.</p> <h2> Where free tiers break </h2> <p>Three failure modes show up consistently:</p> <ol> <li>Context drift.",
+        "link": "https://dev.to/gitrs_5994/free-model-free-server-a-reproducible-12-task-eval-for-ai-coding-agents-2oga",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-25T05:20:29.000Z",
+        "keywords": [
+          "ai",
+          "testing",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "testing",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "testing-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for testing workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "That pass rate decides where the free tier belongs.</p> <h2> What gets evaluated </h2> <p>MonkeyCode is an open-source project with free model access and a free server option.",
+          "The free tier earns its place on the left side of the table.</p> <h2> Where free tiers break </h2> <p>Three failure modes show up consistently:</p> <ol> <li>Context drift.",
+          "Class Pass rate Median tokens Median seconds Scoped 4/4 1,200 18 Medium 3/4 2,800 41 Open 1/4 6,500 96 The pattern matters more than the numbers."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "📄 Resume Builder: Real-text PDF, DOCX and TXT",
+        "slug": "resume-builder-real-text-pdf-docx-and-txt",
+        "description": "### 📥 Import your old resume Drop in the PDF or Word file you already have and start from your real content instead of retyping ten years of history into empty boxes. </td> <td width=\"50%\"> ### 🧱 Single-column, ATS-safe structure Standard section names, consistent date formats, contact details in the body — not in a header a parser will skip.",
+        "summary": "### 📥 Import your old resume Drop in the PDF or Word file you already have and start from your real content instead of retyping ten years of history into empty boxes. </td> <td width=\"50%\"> ### 🧱 Single-column, ATS-safe structure Standard section names, consistent date formats, contact details in the body — not in a header a parser will skip.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/resume-builder-real-text-pdf-docx-and-txt-no-watermark-no-paywall-no-account-26g6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-25T05:05:23.000Z",
+        "keywords": [
+          "productivity",
+          "career",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "career",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "career-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for career workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "### 📥 Import your old resume Drop in the PDF or Word file you already have and start from your real content instead of retyping ten years of history into empty boxes.",
+          "### 🧱 Single-column, ATS-safe structure Standard section names, consistent date formats, contact details in the body — not in a header a parser will skip.",
+          "</td> <td width=\"50%\"> ### 🧱 Single-column, ATS-safe structure Standard section names, consistent date formats, contact details in the body — not in a header a parser will skip."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask \"what did I work on Tuesday?\" or have it build memory about your projects. Point Claude Code (or anything with file access) at the folder and ask \"what did I work on Tuesday?\" or have it build memory about your projects.",
+        "summary": "It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask \"what did I work on Tuesday?\" or have it build memory about your projects. Point Claude Code (or anything with file access) at the folder and ask \"what did I work on Tuesday?\" or have it build memory about your projects.",
+        "link": "https://github.com/dragthelake/ambient-context",
+        "source": "Hacker News",
+        "isoDate": "2026-08-25T04:33:24.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "folder"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API.",
+          "Point Claude Code (or anything with file access) at the folder and ask \"what did I work on Tuesday?\" or have it build memory about your projects.",
+          "It writes plain markdown, one file per day, into a folder you choose."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-08-25T06:20:30.480Z",
+    "lastUpdated": "2026-08-25T06:20:30.480Z",
+    "visibleDate": "Aug 25, 2026",
+    "url": "pages/2026-08-25-062030480-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-08-25-062030480-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Inside LinkedIn's cognitive",
+      "How Generative AI",
+      "Free Model + Free Server"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Inside LinkedIn's cognitive, How Generative AI, Free Model + Free ",
+    "tools": [
+      {
+        "name": "Inside LinkedIn's cognitive",
+        "slug": "inside-linkedin-s-cognitive",
+        "description": "Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn&#x27;s hiring assistant a persistent, personalized state. Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn's hiring assistant a persistent, personalized state.",
+        "summary": "Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn&#x27;s hiring assistant a persistent, personalized state. Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn's hiring assistant a persistent, personalized state.",
+        "link": "https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-08-25T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "agentic-ai",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How Generative AI",
+        "slug": "how-generative-ai",
+        "description": "Business leaders, finance teams, sales teams, operations managers, analysts, and other professionals can interact with enterprise information using natural language rather than depending entirely on technical skills. Reduced Manual Analytics Work Automated querying, analysis, reporting, narratives, and workflows can reduce repetitive analytical effort and allow teams to focus more on higher-value decisions.",
+        "summary": "Business leaders, finance teams, sales teams, operations managers, analysts, and other professionals can interact with enterprise information using natural language rather than depending entirely on technical skills. Reduced Manual Analytics Work Automated querying, analysis, reporting, narratives, and workflows can reduce repetitive analytical effort and allow teams to focus more on higher-value decisions.",
+        "link": "https://dev.to/ezinsightsai/how-generative-ai-is-changing-enterprise-analytics-forever-4ci7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-25T06:12:28.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "softwareengineering",
+          "analytics",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "softwareengineering"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Reduced Manual Analytics Work Automated querying, analysis, reporting, narratives, and workflows can reduce repetitive analytical effort and allow teams to focus more on higher-value decisions.",
+          "Faster Access to Business Insights Teams can interact with enterprise data using conversational queries and AI-generated analysis rather than relying entirely on manual SQL and reporting workflows.",
+          "From Dashboards to Conversations Traditional analytics often requires users to navigate dashboards, apply filters, write queries, or depend on analysts to answer business questions."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Free Model + Free Server",
+        "slug": "free-model-free-server",
+        "description": "That pass rate decides where the free tier belongs.</p> <h2> What gets evaluated </h2> <p>MonkeyCode is an open-source project with free model access and a free server option. The free tier earns its place on the left side of the table.</p> <h2> Where free tiers break </h2> <p>Three failure modes show up consistently:</p> <ol> <li>Context drift.",
+        "summary": "That pass rate decides where the free tier belongs.</p> <h2> What gets evaluated </h2> <p>MonkeyCode is an open-source project with free model access and a free server option. The free tier earns its place on the left side of the table.</p> <h2> Where free tiers break </h2> <p>Three failure modes show up consistently:</p> <ol> <li>Context drift.",
+        "link": "https://dev.to/gitrs_5994/free-model-free-server-a-reproducible-12-task-eval-for-ai-coding-agents-2oga",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-25T05:20:29.000Z",
+        "keywords": [
+          "ai",
+          "testing",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "testing",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "testing-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for testing workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "That pass rate decides where the free tier belongs.</p> <h2> What gets evaluated </h2> <p>MonkeyCode is an open-source project with free model access and a free server option.",
+          "The free tier earns its place on the left side of the table.</p> <h2> Where free tiers break </h2> <p>Three failure modes show up consistently:</p> <ol> <li>Context drift.",
+          "Class Pass rate Median tokens Median seconds Scoped 4/4 1,200 18 Medium 3/4 2,800 41 Open 1/4 6,500 96 The pattern matters more than the numbers."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "📄 Resume Builder: Real-text PDF, DOCX and TXT",
+        "slug": "resume-builder-real-text-pdf-docx-and-txt",
+        "description": "### 📥 Import your old resume Drop in the PDF or Word file you already have and start from your real content instead of retyping ten years of history into empty boxes. </td> <td width=\"50%\"> ### 🧱 Single-column, ATS-safe structure Standard section names, consistent date formats, contact details in the body — not in a header a parser will skip.",
+        "summary": "### 📥 Import your old resume Drop in the PDF or Word file you already have and start from your real content instead of retyping ten years of history into empty boxes. </td> <td width=\"50%\"> ### 🧱 Single-column, ATS-safe structure Standard section names, consistent date formats, contact details in the body — not in a header a parser will skip.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/resume-builder-real-text-pdf-docx-and-txt-no-watermark-no-paywall-no-account-26g6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-25T05:05:23.000Z",
+        "keywords": [
+          "productivity",
+          "career",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "career",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "career-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for career workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "### 📥 Import your old resume Drop in the PDF or Word file you already have and start from your real content instead of retyping ten years of history into empty boxes.",
+          "### 🧱 Single-column, ATS-safe structure Standard section names, consistent date formats, contact details in the body — not in a header a parser will skip.",
+          "</td> <td width=\"50%\"> ### 🧱 Single-column, ATS-safe structure Standard section names, consistent date formats, contact details in the body — not in a header a parser will skip."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-08-25T06:20:30.480Z",
+    "lastUpdated": "2026-08-25T06:20:30.480Z",
+    "visibleDate": "Aug 25, 2026",
+    "url": "pages/2026-08-25-062030480-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-08-25-062030480-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "Inside LinkedIn's cognitive",
+      "How Generative AI"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Inside LinkedIn's cognitive, How Generative AI. G",
+    "tools": [
+      {
+        "name": "Inside LinkedIn's cognitive",
+        "slug": "inside-linkedin-s-cognitive",
+        "description": "Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn&#x27;s hiring assistant a persistent, personalized state. Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn's hiring assistant a persistent, personalized state.",
+        "summary": "Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn&#x27;s hiring assistant a persistent, personalized state. Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn's hiring assistant a persistent, personalized state.",
+        "link": "https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-08-25T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "agentic-ai",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How Generative AI",
+        "slug": "how-generative-ai",
+        "description": "Business leaders, finance teams, sales teams, operations managers, analysts, and other professionals can interact with enterprise information using natural language rather than depending entirely on technical skills. Reduced Manual Analytics Work Automated querying, analysis, reporting, narratives, and workflows can reduce repetitive analytical effort and allow teams to focus more on higher-value decisions.",
+        "summary": "Business leaders, finance teams, sales teams, operations managers, analysts, and other professionals can interact with enterprise information using natural language rather than depending entirely on technical skills. Reduced Manual Analytics Work Automated querying, analysis, reporting, narratives, and workflows can reduce repetitive analytical effort and allow teams to focus more on higher-value decisions.",
+        "link": "https://dev.to/ezinsightsai/how-generative-ai-is-changing-enterprise-analytics-forever-4ci7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-25T06:12:28.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "softwareengineering",
+          "analytics",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "softwareengineering"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Reduced Manual Analytics Work Automated querying, analysis, reporting, narratives, and workflows can reduce repetitive analytical effort and allow teams to focus more on higher-value decisions.",
+          "Faster Access to Business Insights Teams can interact with enterprise data using conversational queries and AI-generated analysis rather than relying entirely on manual SQL and reporting workflows.",
+          "From Dashboards to Conversations Traditional analytics often requires users to navigate dashboards, apply filters, write queries, or depend on analysts to answer business questions."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-08-25T06:20:30.480Z",
+    "lastUpdated": "2026-08-25T06:20:30.480Z",
+    "visibleDate": "Aug 25, 2026",
+    "url": "pages/2026-08-25-062030480-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-08-25-062030480-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Inside LinkedIn's cognitive",
+      "How Generative AI",
+      "Free Model + Free Server"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Inside LinkedIn's cognitive, How Generative AI, Free Model + Free Server",
+    "tools": [
+      {
+        "name": "Inside LinkedIn's cognitive",
+        "slug": "inside-linkedin-s-cognitive",
+        "description": "Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn&#x27;s hiring assistant a persistent, personalized state. Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn's hiring assistant a persistent, personalized state.",
+        "summary": "Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn&#x27;s hiring assistant a persistent, personalized state. Ryan is joined by Praveen Bodigutla, Principal AI Researcher at LinkedIn, to chat about the four-layer memory system his team built to give LinkedIn's hiring assistant a persistent, personalized state.",
+        "link": "https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/",
+        "source": "StackOverflow Blog",
+        "isoDate": "2026-08-25T07:40:00.000Z",
+        "keywords": [
+          "podcast",
+          "se-tech",
+          "se-stackoverflow",
+          "ai",
+          "agentic-ai",
+          "dev"
+        ],
+        "useCases": [
+          "podcast",
+          "se tech",
+          "se stackoverflow"
+        ],
+        "pros": [
+          "Great for podcast",
+          "se tech-ready automation",
+          "Great for podcast"
+        ],
+        "cons": [
+          "Overkill for podcast experiments",
+          "Needs extra setup for se tech workflows",
+          "Overkill for podcast experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How Generative AI",
+        "slug": "how-generative-ai",
+        "description": "Business leaders, finance teams, sales teams, operations managers, analysts, and other professionals can interact with enterprise information using natural language rather than depending entirely on technical skills. Reduced Manual Analytics Work Automated querying, analysis, reporting, narratives, and workflows can reduce repetitive analytical effort and allow teams to focus more on higher-value decisions.",
+        "summary": "Business leaders, finance teams, sales teams, operations managers, analysts, and other professionals can interact with enterprise information using natural language rather than depending entirely on technical skills. Reduced Manual Analytics Work Automated querying, analysis, reporting, narratives, and workflows can reduce repetitive analytical effort and allow teams to focus more on higher-value decisions.",
+        "link": "https://dev.to/ezinsightsai/how-generative-ai-is-changing-enterprise-analytics-forever-4ci7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-25T06:12:28.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "softwareengineering",
+          "analytics",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "softwareengineering"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Reduced Manual Analytics Work Automated querying, analysis, reporting, narratives, and workflows can reduce repetitive analytical effort and allow teams to focus more on higher-value decisions.",
+          "Faster Access to Business Insights Teams can interact with enterprise data using conversational queries and AI-generated analysis rather than relying entirely on manual SQL and reporting workflows.",
+          "From Dashboards to Conversations Traditional analytics often requires users to navigate dashboards, apply filters, write queries, or depend on analysts to answer business questions."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Free Model + Free Server",
+        "slug": "free-model-free-server",
+        "description": "That pass rate decides where the free tier belongs.</p> <h2> What gets evaluated </h2> <p>MonkeyCode is an open-source project with free model access and a free server option. The free tier earns its place on the left side of the table.</p> <h2> Where free tiers break </h2> <p>Three failure modes show up consistently:</p> <ol> <li>Context drift.",
+        "summary": "That pass rate decides where the free tier belongs.</p> <h2> What gets evaluated </h2> <p>MonkeyCode is an open-source project with free model access and a free server option. The free tier earns its place on the left side of the table.</p> <h2> Where free tiers break </h2> <p>Three failure modes show up consistently:</p> <ol> <li>Context drift.",
+        "link": "https://dev.to/gitrs_5994/free-model-free-server-a-reproducible-12-task-eval-for-ai-coding-agents-2oga",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-25T05:20:29.000Z",
+        "keywords": [
+          "ai",
+          "testing",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "testing",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "testing-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for testing workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "That pass rate decides where the free tier belongs.</p> <h2> What gets evaluated </h2> <p>MonkeyCode is an open-source project with free model access and a free server option.",
+          "The free tier earns its place on the left side of the table.</p> <h2> Where free tiers break </h2> <p>Three failure modes show up consistently:</p> <ol> <li>Context drift.",
+          "Class Pass rate Median tokens Median seconds Scoped 4/4 1,200 18 Medium 3/4 2,800 41 Open 1/4 6,500 96 The pattern matters more than the numbers."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-08-24T06:28:13.106Z",
     "lastUpdated": "2026-08-24T06:28:13.106Z",
     "visibleDate": "Aug 24, 2026",

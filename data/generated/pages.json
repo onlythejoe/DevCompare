@@ -7,6 +7,651 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-08-27T16:51:42.668Z",
+    "lastUpdated": "2026-08-27T16:51:42.668Z",
+    "visibleDate": "Aug 27, 2026",
+    "url": "pages/2026-08-27-165142668-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-08-27-165142668-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why HPSC Is",
+      "Semrush Data Shows",
+      "Small Models Have"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Why HPSC Is, Semrush Data Shows, Small Models Have. Productivity stacks th",
+    "tools": [
+      {
+        "name": "Why HPSC Is",
+        "slug": "why-hpsc-is",
+        "description": "Article URL: https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration Comments URL: https://news.ycombinator.com/item?id=49466989 Points: 3 # Comments: 0",
+        "summary": "Article URL: https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration Comments URL: https://news.ycombinator.com/item?id=49466989 Points: 3 # Comments: 0",
+        "link": "https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration",
+        "source": "Hacker News",
+        "isoDate": "2026-08-27T16:01:09.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Semrush Data Shows",
+        "slug": "semrush-data-shows",
+        "description": "AI-assisted workflows can be useful when they reduce manual preparation, but each workflow still needs an accountable owner who can assess search intent, brand fit, technical feasibility, and expected business value. The changing role mix matters because SEO work is being reshaped by AI tools, evolving search experiences, and the need to connect organic search with content, product, marketing, and revenue goals.",
+        "summary": "AI-assisted workflows can be useful when they reduce manual preparation, but each workflow still needs an accountable owner who can assess search intent, brand fit, technical feasibility, and expected business value. The changing role mix matters because SEO work is being reshaped by AI tools, evolving search experiences, and the need to connect organic search with content, product, marketing, and revenue goals.",
+        "link": "https://dev.to/alifar/semrush-data-shows-seo-hiring-is-shifting-toward-senior-strategy-in-2026-3n13",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-27T16:00:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "geo",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The changing role mix matters because SEO work is being reshaped by AI tools, evolving search experiences, and the need to connect organic search with content, product, marketing, and revenue goals.",
+          "Routine work has not disappeared, but the hiring data suggests companies are placing a higher value on people who can set priorities, evaluate experiments, and make trade-offs across teams.",
+          "The company deduplicated postings and used semantic classification to separate senior positions, including Head, Director, VP, Chief, Lead, and Executive titles, from other roles."
+        ],
+        "pricing": "Paid plans starting at $130",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Small Models Have",
+        "slug": "small-models-have",
+        "description": "Article URL: https://calv.info/small-models-have-arrived Comments URL: https://news.ycombinator.com/item?id=49466917 Points: 22 # Comments: 3",
+        "summary": "Article URL: https://calv.info/small-models-have-arrived Comments URL: https://news.ycombinator.com/item?id=49466917 Points: 22 # Comments: 3",
+        "link": "https://calv.info/small-models-have-arrived",
+        "source": "Hacker News",
+        "isoDate": "2026-08-27T15:56:58.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The broadcast squeezeback,",
+        "slug": "the-broadcast-squeezeback",
+        "description": "Article URL: https://www.mux.com/blog/the-broadcast-squeezeback-rebuilt-with-css-grid-and-webvtt Comments URL: https://news.ycombinator.com/item?id=49466902 Points: 5 # Comments: 1",
+        "summary": "Article URL: https://www.mux.com/blog/the-broadcast-squeezeback-rebuilt-with-css-grid-and-webvtt Comments URL: https://news.ycombinator.com/item?id=49466902 Points: 5 # Comments: 1",
+        "link": "https://www.mux.com/blog/the-broadcast-squeezeback-rebuilt-with-css-grid-and-webvtt",
+        "source": "Hacker News",
+        "isoDate": "2026-08-27T15:56:03.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Suica, Japan's First",
+        "slug": "suica-japan-s-first",
+        "description": "Article URL: https://www.tokyodev.com/articles/the-story-of-suica Comments URL: https://news.ycombinator.com/item?id=49466894 Points: 27 # Comments: 11",
+        "summary": "Article URL: https://www.tokyodev.com/articles/the-story-of-suica Comments URL: https://news.ycombinator.com/item?id=49466894 Points: 27 # Comments: 11",
+        "link": "https://www.tokyodev.com/articles/the-story-of-suica",
+        "source": "Hacker News",
+        "isoDate": "2026-08-27T15:55:12.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-08-27T16:51:42.668Z",
+    "lastUpdated": "2026-08-27T16:51:42.668Z",
+    "visibleDate": "Aug 27, 2026",
+    "url": "pages/2026-08-27-165142668-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-08-27-165142668-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why HPSC Is",
+      "Semrush Data Shows",
+      "Small Models Have"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Why HPSC Is, Semrush Data Shows, Small Models Have. Reliable remot",
+    "tools": [
+      {
+        "name": "Why HPSC Is",
+        "slug": "why-hpsc-is",
+        "description": "Article URL: https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration Comments URL: https://news.ycombinator.com/item?id=49466989 Points: 3 # Comments: 0",
+        "summary": "Article URL: https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration Comments URL: https://news.ycombinator.com/item?id=49466989 Points: 3 # Comments: 0",
+        "link": "https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration",
+        "source": "Hacker News",
+        "isoDate": "2026-08-27T16:01:09.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Semrush Data Shows",
+        "slug": "semrush-data-shows",
+        "description": "AI-assisted workflows can be useful when they reduce manual preparation, but each workflow still needs an accountable owner who can assess search intent, brand fit, technical feasibility, and expected business value. The changing role mix matters because SEO work is being reshaped by AI tools, evolving search experiences, and the need to connect organic search with content, product, marketing, and revenue goals.",
+        "summary": "AI-assisted workflows can be useful when they reduce manual preparation, but each workflow still needs an accountable owner who can assess search intent, brand fit, technical feasibility, and expected business value. The changing role mix matters because SEO work is being reshaped by AI tools, evolving search experiences, and the need to connect organic search with content, product, marketing, and revenue goals.",
+        "link": "https://dev.to/alifar/semrush-data-shows-seo-hiring-is-shifting-toward-senior-strategy-in-2026-3n13",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-27T16:00:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "geo",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The changing role mix matters because SEO work is being reshaped by AI tools, evolving search experiences, and the need to connect organic search with content, product, marketing, and revenue goals.",
+          "Routine work has not disappeared, but the hiring data suggests companies are placing a higher value on people who can set priorities, evaluate experiments, and make trade-offs across teams.",
+          "The company deduplicated postings and used semantic classification to separate senior positions, including Head, Director, VP, Chief, Lead, and Executive titles, from other roles."
+        ],
+        "pricing": "Paid plans starting at $130",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Small Models Have",
+        "slug": "small-models-have",
+        "description": "Article URL: https://calv.info/small-models-have-arrived Comments URL: https://news.ycombinator.com/item?id=49466917 Points: 22 # Comments: 3",
+        "summary": "Article URL: https://calv.info/small-models-have-arrived Comments URL: https://news.ycombinator.com/item?id=49466917 Points: 22 # Comments: 3",
+        "link": "https://calv.info/small-models-have-arrived",
+        "source": "Hacker News",
+        "isoDate": "2026-08-27T15:56:58.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The broadcast squeezeback,",
+        "slug": "the-broadcast-squeezeback",
+        "description": "Article URL: https://www.mux.com/blog/the-broadcast-squeezeback-rebuilt-with-css-grid-and-webvtt Comments URL: https://news.ycombinator.com/item?id=49466902 Points: 5 # Comments: 1",
+        "summary": "Article URL: https://www.mux.com/blog/the-broadcast-squeezeback-rebuilt-with-css-grid-and-webvtt Comments URL: https://news.ycombinator.com/item?id=49466902 Points: 5 # Comments: 1",
+        "link": "https://www.mux.com/blog/the-broadcast-squeezeback-rebuilt-with-css-grid-and-webvtt",
+        "source": "Hacker News",
+        "isoDate": "2026-08-27T15:56:03.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-08-27T16:51:42.668Z",
+    "lastUpdated": "2026-08-27T16:51:42.668Z",
+    "visibleDate": "Aug 27, 2026",
+    "url": "pages/2026-08-27-165142668-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-08-27-165142668-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why HPSC Is",
+      "Semrush Data Shows"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Why HPSC Is, Semrush Data Shows. Gitpod brings ze",
+    "tools": [
+      {
+        "name": "Why HPSC Is",
+        "slug": "why-hpsc-is",
+        "description": "Article URL: https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration Comments URL: https://news.ycombinator.com/item?id=49466989 Points: 3 # Comments: 0",
+        "summary": "Article URL: https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration Comments URL: https://news.ycombinator.com/item?id=49466989 Points: 3 # Comments: 0",
+        "link": "https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration",
+        "source": "Hacker News",
+        "isoDate": "2026-08-27T16:01:09.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Semrush Data Shows",
+        "slug": "semrush-data-shows",
+        "description": "AI-assisted workflows can be useful when they reduce manual preparation, but each workflow still needs an accountable owner who can assess search intent, brand fit, technical feasibility, and expected business value. The changing role mix matters because SEO work is being reshaped by AI tools, evolving search experiences, and the need to connect organic search with content, product, marketing, and revenue goals.",
+        "summary": "AI-assisted workflows can be useful when they reduce manual preparation, but each workflow still needs an accountable owner who can assess search intent, brand fit, technical feasibility, and expected business value. The changing role mix matters because SEO work is being reshaped by AI tools, evolving search experiences, and the need to connect organic search with content, product, marketing, and revenue goals.",
+        "link": "https://dev.to/alifar/semrush-data-shows-seo-hiring-is-shifting-toward-senior-strategy-in-2026-3n13",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-27T16:00:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "geo",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The changing role mix matters because SEO work is being reshaped by AI tools, evolving search experiences, and the need to connect organic search with content, product, marketing, and revenue goals.",
+          "Routine work has not disappeared, but the hiring data suggests companies are placing a higher value on people who can set priorities, evaluate experiments, and make trade-offs across teams.",
+          "The company deduplicated postings and used semantic classification to separate senior positions, including Head, Director, VP, Chief, Lead, and Executive titles, from other roles."
+        ],
+        "pricing": "Paid plans starting at $130",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-08-27T16:51:42.668Z",
+    "lastUpdated": "2026-08-27T16:51:42.668Z",
+    "visibleDate": "Aug 27, 2026",
+    "url": "pages/2026-08-27-165142668-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-08-27-165142668-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why HPSC Is",
+      "Semrush Data Shows",
+      "Small Models Have"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Why HPSC Is, Semrush Data Shows, Small Models Have. New launches that ar",
+    "tools": [
+      {
+        "name": "Why HPSC Is",
+        "slug": "why-hpsc-is",
+        "description": "Article URL: https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration Comments URL: https://news.ycombinator.com/item?id=49466989 Points: 3 # Comments: 0",
+        "summary": "Article URL: https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration Comments URL: https://news.ycombinator.com/item?id=49466989 Points: 3 # Comments: 0",
+        "link": "https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration",
+        "source": "Hacker News",
+        "isoDate": "2026-08-27T16:01:09.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Semrush Data Shows",
+        "slug": "semrush-data-shows",
+        "description": "AI-assisted workflows can be useful when they reduce manual preparation, but each workflow still needs an accountable owner who can assess search intent, brand fit, technical feasibility, and expected business value. The changing role mix matters because SEO work is being reshaped by AI tools, evolving search experiences, and the need to connect organic search with content, product, marketing, and revenue goals.",
+        "summary": "AI-assisted workflows can be useful when they reduce manual preparation, but each workflow still needs an accountable owner who can assess search intent, brand fit, technical feasibility, and expected business value. The changing role mix matters because SEO work is being reshaped by AI tools, evolving search experiences, and the need to connect organic search with content, product, marketing, and revenue goals.",
+        "link": "https://dev.to/alifar/semrush-data-shows-seo-hiring-is-shifting-toward-senior-strategy-in-2026-3n13",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-27T16:00:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "geo",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The changing role mix matters because SEO work is being reshaped by AI tools, evolving search experiences, and the need to connect organic search with content, product, marketing, and revenue goals.",
+          "Routine work has not disappeared, but the hiring data suggests companies are placing a higher value on people who can set priorities, evaluate experiments, and make trade-offs across teams.",
+          "The company deduplicated postings and used semantic classification to separate senior positions, including Head, Director, VP, Chief, Lead, and Executive titles, from other roles."
+        ],
+        "pricing": "Paid plans starting at $130",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Small Models Have",
+        "slug": "small-models-have",
+        "description": "Article URL: https://calv.info/small-models-have-arrived Comments URL: https://news.ycombinator.com/item?id=49466917 Points: 22 # Comments: 3",
+        "summary": "Article URL: https://calv.info/small-models-have-arrived Comments URL: https://news.ycombinator.com/item?id=49466917 Points: 22 # Comments: 3",
+        "link": "https://calv.info/small-models-have-arrived",
+        "source": "Hacker News",
+        "isoDate": "2026-08-27T15:56:58.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-08-26T06:22:10.541Z",
     "lastUpdated": "2026-08-26T06:22:10.541Z",
     "visibleDate": "Aug 26, 2026",

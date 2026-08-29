@@ -7,6 +7,682 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-08-29T11:47:54.270Z",
+    "lastUpdated": "2026-08-29T11:47:54.270Z",
+    "visibleDate": "Aug 29, 2026",
+    "url": "pages/2026-08-29-114754270-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-08-29-114754270-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why /24 Isn't",
+      "How to Check",
+      "🔍 Compare PDFs: Text, visual and layout diff"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Why /24 Isn't, How to Check, 🔍 Compare PDFs: Text, visual and layout diff",
+    "tools": [
+      {
+        "name": "Why /24 Isn't",
+        "slug": "why-24-isn-t",
+        "description": "A typical AWS VPC starts at /16, and individual subnets inside it are commonly carved into /20s or /24s depending on how many resources each availability zone needs, chosen deliberately rather than defaulted to. AWS's own documentation on VPC design covers the sizing tradeoffs at that scale, which look completely different from a small office network where a single /24 genuinely does cover everything.",
+        "summary": "A typical AWS VPC starts at /16, and individual subnets inside it are commonly carved into /20s or /24s depending on how many resources each availability zone needs, chosen deliberately rather than defaulted to. AWS's own documentation on VPC design covers the sizing tradeoffs at that scale, which look completely different from a small office network where a single /24 genuinely does cover everything.",
+        "link": "https://dev.to/evvytools/why-24-isnt-always-the-subnet-size-you-assume-5e1l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-29T11:19:57.000Z",
+        "keywords": [
+          "networking",
+          "tools",
+          "backend",
+          "cloud",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "networking",
+          "tools",
+          "backend"
+        ],
+        "pros": [
+          "Great for networking",
+          "tools-ready automation",
+          "Great for networking"
+        ],
+        "cons": [
+          "Overkill for networking experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for networking experiments"
+        ],
+        "highlights": [
+          "A firewall rule, a cloud VPC subnet, or a documentation table using anything other than /24 gets misread by anyone whose mental model stopped updating after the /24 assumption set in.",
+          "AWS's own documentation on VPC design covers the sizing tradeoffs at that scale, which look completely different from a small office network where a single /24 genuinely does cover everything.",
+          "For a huge share of small, self-contained networks, it genuinely is the right size, and defaulting to it as a first guess costs nothing when it turns out to be correct."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Check",
+        "slug": "how-to-check",
+        "description": "Do this against the real production configuration, not local development, since proxies, load balancers, and CDN layers frequently add or strip headers between your app server and the actual response a browser receives. A missing or weak CSP does little to stop injected scripts from running if an XSS vulnerability exists elsewhere in the application, turning what should be a contained bug into something an attacker can fully exploit.",
+        "summary": "Do this against the real production configuration, not local development, since proxies, load balancers, and CDN layers frequently add or strip headers between your app server and the actual response a browser receives. A missing or weak CSP does little to stop injected scripts from running if an XSS vulnerability exists elsewhere in the application, turning what should be a contained bug into something an attacker can fully exploit.",
+        "link": "https://dev.to/evvytools/how-to-check-your-servers-security-headers-before-going-live-2fne",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-29T11:19:55.000Z",
+        "keywords": [
+          "security",
+          "webdev",
+          "tools",
+          "backend",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "security",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for security",
+          "webdev-ready automation",
+          "Great for security"
+        ],
+        "cons": [
+          "Overkill for security experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for security experiments"
+        ],
+        "highlights": [
+          "Header configuration doesn't touch application logic, doesn't appear in most functional test suites, and doesn't break anything a user would notice during normal browsing.",
+          "A quick request against the live endpoint, whether through a browser's network tab or a command-line request, shows every header the server is currently returning.",
+          "The page loads, the API responds, everything looks fine right up until someone tests the actual security posture instead of just the functionality."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🔍 Compare PDFs: Text, visual and layout diff",
+        "slug": "compare-pdfs-text-visual-and-layout-diff",
+        "description": "Read → highlighted diff, then export the report ▶ Compare now — tooladda.online/compare-pdfs.html 💡 Tip Run text mode and visual mode on anything important. That's the main reason to use this for contracts.</p> <p><strong>Why does it say \"no differences\" when the files clearly differ?</strong></p> <p>Almost certainly a scanned PDF with no text layer.",
+        "summary": "Read → highlighted diff, then export the report ▶ Compare now — tooladda.online/compare-pdfs.html 💡 Tip Run text mode and visual mode on anything important. That's the main reason to use this for contracts.</p> <p><strong>Why does it say \"no differences\" when the files clearly differ?</strong></p> <p>Almost certainly a scanned PDF with no text layer.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/compare-pdfs-text-visual-and-layout-diff-no-adobe-no-upload-1b29",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-29T11:18:03.000Z",
+        "keywords": [
+          "productivity",
+          "privacy",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "privacy",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "privacy-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Read → highlighted diff, then export the report ▶ Compare now — tooladda.online/compare-pdfs.html 💡 Tip Run text mode and visual mode on anything important.",
+          "That's the main reason to use this for contracts.</p> <p><strong>Why does it say \"no differences\" when the files clearly differ?</strong></p> <p>Almost certainly a scanned PDF with no text layer.",
+          "Add one word on page 2 and every following line shifts; a pixel diff lights up 40 pages that contain no real change."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🎯 New on",
+        "slug": "new-on",
+        "description": "https://codetrendy.com/listing/lingera <p>🎯 New on the directory #CodeTrendy → Lingera</p> <p>One memory. 🎯 New on the directory #CodeTrendy → Lingera One memory.",
+        "summary": "https://codetrendy.com/listing/lingera <p>🎯 New on the directory #CodeTrendy → Lingera</p> <p>One memory. 🎯 New on the directory #CodeTrendy → Lingera One memory.",
+        "link": "https://dev.to/codetrendy/new-on-the-directory-codetrendy-lingeraone-memory-across-every-aiknowledgemanagement-j-b14",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-29T11:15:18.000Z",
+        "keywords": [
+          "directory",
+          "web",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "directory",
+          "web",
+          "tools"
+        ],
+        "pros": [
+          "Great for directory",
+          "web-ready automation",
+          "Great for directory"
+        ],
+        "cons": [
+          "Overkill for directory experiments",
+          "Needs extra setup for web workflows",
+          "Overkill for directory experiments"
+        ],
+        "highlights": [
+          "https://codetrendy.com/listing/lingera <p>🎯 New on the directory #CodeTrendy → Lingera</p> <p>One memory.",
+          "🎯 New on the directory #CodeTrendy → Lingera One memory."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Free tool",
+        "slug": "free-tool",
+        "description": "Read the full article on Shotlingo → Originally published on shotlingo.com — Shotlingo turns one screenshot template into pixel-perfect, localized App Store & Google Play screenshots in dozens of languages. A free, no-signup tool from Shotlingo for App Store / Google Play work.",
+        "summary": "Read the full article on Shotlingo → Originally published on shotlingo.com — Shotlingo turns one screenshot template into pixel-perfect, localized App Store & Google Play screenshots in dozens of languages. A free, no-signup tool from Shotlingo for App Store / Google Play work.",
+        "link": "https://dev.to/shotlingo/free-tool-app-icon-sizes-4ge3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-29T11:07:55.000Z",
+        "keywords": [
+          "aso",
+          "appstore",
+          "ios",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "aso",
+          "appstore",
+          "ios"
+        ],
+        "pros": [
+          "Great for aso",
+          "appstore-ready automation",
+          "Great for aso"
+        ],
+        "cons": [
+          "Overkill for aso experiments",
+          "Needs extra setup for appstore workflows",
+          "Overkill for aso experiments"
+        ],
+        "highlights": [
+          "A free, no-signup tool from Shotlingo for App Store / Google Play work."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-08-29T11:47:54.270Z",
+    "lastUpdated": "2026-08-29T11:47:54.270Z",
+    "visibleDate": "Aug 29, 2026",
+    "url": "pages/2026-08-29-114754270-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-08-29-114754270-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why /24 Isn't",
+      "How to Check",
+      "🔍 Compare PDFs: Text, visual and layout diff"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Why /24 Isn't, How to Check, 🔍 Compare PDFs: Text, visual and lay",
+    "tools": [
+      {
+        "name": "Why /24 Isn't",
+        "slug": "why-24-isn-t",
+        "description": "A typical AWS VPC starts at /16, and individual subnets inside it are commonly carved into /20s or /24s depending on how many resources each availability zone needs, chosen deliberately rather than defaulted to. AWS's own documentation on VPC design covers the sizing tradeoffs at that scale, which look completely different from a small office network where a single /24 genuinely does cover everything.",
+        "summary": "A typical AWS VPC starts at /16, and individual subnets inside it are commonly carved into /20s or /24s depending on how many resources each availability zone needs, chosen deliberately rather than defaulted to. AWS's own documentation on VPC design covers the sizing tradeoffs at that scale, which look completely different from a small office network where a single /24 genuinely does cover everything.",
+        "link": "https://dev.to/evvytools/why-24-isnt-always-the-subnet-size-you-assume-5e1l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-29T11:19:57.000Z",
+        "keywords": [
+          "networking",
+          "tools",
+          "backend",
+          "cloud",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "networking",
+          "tools",
+          "backend"
+        ],
+        "pros": [
+          "Great for networking",
+          "tools-ready automation",
+          "Great for networking"
+        ],
+        "cons": [
+          "Overkill for networking experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for networking experiments"
+        ],
+        "highlights": [
+          "A firewall rule, a cloud VPC subnet, or a documentation table using anything other than /24 gets misread by anyone whose mental model stopped updating after the /24 assumption set in.",
+          "AWS's own documentation on VPC design covers the sizing tradeoffs at that scale, which look completely different from a small office network where a single /24 genuinely does cover everything.",
+          "For a huge share of small, self-contained networks, it genuinely is the right size, and defaulting to it as a first guess costs nothing when it turns out to be correct."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Check",
+        "slug": "how-to-check",
+        "description": "Do this against the real production configuration, not local development, since proxies, load balancers, and CDN layers frequently add or strip headers between your app server and the actual response a browser receives. A missing or weak CSP does little to stop injected scripts from running if an XSS vulnerability exists elsewhere in the application, turning what should be a contained bug into something an attacker can fully exploit.",
+        "summary": "Do this against the real production configuration, not local development, since proxies, load balancers, and CDN layers frequently add or strip headers between your app server and the actual response a browser receives. A missing or weak CSP does little to stop injected scripts from running if an XSS vulnerability exists elsewhere in the application, turning what should be a contained bug into something an attacker can fully exploit.",
+        "link": "https://dev.to/evvytools/how-to-check-your-servers-security-headers-before-going-live-2fne",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-29T11:19:55.000Z",
+        "keywords": [
+          "security",
+          "webdev",
+          "tools",
+          "backend",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "security",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for security",
+          "webdev-ready automation",
+          "Great for security"
+        ],
+        "cons": [
+          "Overkill for security experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for security experiments"
+        ],
+        "highlights": [
+          "Header configuration doesn't touch application logic, doesn't appear in most functional test suites, and doesn't break anything a user would notice during normal browsing.",
+          "A quick request against the live endpoint, whether through a browser's network tab or a command-line request, shows every header the server is currently returning.",
+          "The page loads, the API responds, everything looks fine right up until someone tests the actual security posture instead of just the functionality."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🔍 Compare PDFs: Text, visual and layout diff",
+        "slug": "compare-pdfs-text-visual-and-layout-diff",
+        "description": "Read → highlighted diff, then export the report ▶ Compare now — tooladda.online/compare-pdfs.html 💡 Tip Run text mode and visual mode on anything important. That's the main reason to use this for contracts.</p> <p><strong>Why does it say \"no differences\" when the files clearly differ?</strong></p> <p>Almost certainly a scanned PDF with no text layer.",
+        "summary": "Read → highlighted diff, then export the report ▶ Compare now — tooladda.online/compare-pdfs.html 💡 Tip Run text mode and visual mode on anything important. That's the main reason to use this for contracts.</p> <p><strong>Why does it say \"no differences\" when the files clearly differ?</strong></p> <p>Almost certainly a scanned PDF with no text layer.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/compare-pdfs-text-visual-and-layout-diff-no-adobe-no-upload-1b29",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-29T11:18:03.000Z",
+        "keywords": [
+          "productivity",
+          "privacy",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "privacy",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "privacy-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Read → highlighted diff, then export the report ▶ Compare now — tooladda.online/compare-pdfs.html 💡 Tip Run text mode and visual mode on anything important.",
+          "That's the main reason to use this for contracts.</p> <p><strong>Why does it say \"no differences\" when the files clearly differ?</strong></p> <p>Almost certainly a scanned PDF with no text layer.",
+          "Add one word on page 2 and every following line shifts; a pixel diff lights up 40 pages that contain no real change."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🎯 New on",
+        "slug": "new-on",
+        "description": "https://codetrendy.com/listing/lingera <p>🎯 New on the directory #CodeTrendy → Lingera</p> <p>One memory. 🎯 New on the directory #CodeTrendy → Lingera One memory.",
+        "summary": "https://codetrendy.com/listing/lingera <p>🎯 New on the directory #CodeTrendy → Lingera</p> <p>One memory. 🎯 New on the directory #CodeTrendy → Lingera One memory.",
+        "link": "https://dev.to/codetrendy/new-on-the-directory-codetrendy-lingeraone-memory-across-every-aiknowledgemanagement-j-b14",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-29T11:15:18.000Z",
+        "keywords": [
+          "directory",
+          "web",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "directory",
+          "web",
+          "tools"
+        ],
+        "pros": [
+          "Great for directory",
+          "web-ready automation",
+          "Great for directory"
+        ],
+        "cons": [
+          "Overkill for directory experiments",
+          "Needs extra setup for web workflows",
+          "Overkill for directory experiments"
+        ],
+        "highlights": [
+          "https://codetrendy.com/listing/lingera <p>🎯 New on the directory #CodeTrendy → Lingera</p> <p>One memory.",
+          "🎯 New on the directory #CodeTrendy → Lingera One memory."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-08-29T11:47:54.270Z",
+    "lastUpdated": "2026-08-29T11:47:54.270Z",
+    "visibleDate": "Aug 29, 2026",
+    "url": "pages/2026-08-29-114754270-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-08-29-114754270-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "Why /24 Isn't",
+      "How to Check"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Why /24 Isn't, How to Check. Gitpod brings zero-c",
+    "tools": [
+      {
+        "name": "Why /24 Isn't",
+        "slug": "why-24-isn-t",
+        "description": "A typical AWS VPC starts at /16, and individual subnets inside it are commonly carved into /20s or /24s depending on how many resources each availability zone needs, chosen deliberately rather than defaulted to. AWS's own documentation on VPC design covers the sizing tradeoffs at that scale, which look completely different from a small office network where a single /24 genuinely does cover everything.",
+        "summary": "A typical AWS VPC starts at /16, and individual subnets inside it are commonly carved into /20s or /24s depending on how many resources each availability zone needs, chosen deliberately rather than defaulted to. AWS's own documentation on VPC design covers the sizing tradeoffs at that scale, which look completely different from a small office network where a single /24 genuinely does cover everything.",
+        "link": "https://dev.to/evvytools/why-24-isnt-always-the-subnet-size-you-assume-5e1l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-29T11:19:57.000Z",
+        "keywords": [
+          "networking",
+          "tools",
+          "backend",
+          "cloud",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "networking",
+          "tools",
+          "backend"
+        ],
+        "pros": [
+          "Great for networking",
+          "tools-ready automation",
+          "Great for networking"
+        ],
+        "cons": [
+          "Overkill for networking experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for networking experiments"
+        ],
+        "highlights": [
+          "A firewall rule, a cloud VPC subnet, or a documentation table using anything other than /24 gets misread by anyone whose mental model stopped updating after the /24 assumption set in.",
+          "AWS's own documentation on VPC design covers the sizing tradeoffs at that scale, which look completely different from a small office network where a single /24 genuinely does cover everything.",
+          "For a huge share of small, self-contained networks, it genuinely is the right size, and defaulting to it as a first guess costs nothing when it turns out to be correct."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Check",
+        "slug": "how-to-check",
+        "description": "Do this against the real production configuration, not local development, since proxies, load balancers, and CDN layers frequently add or strip headers between your app server and the actual response a browser receives. A missing or weak CSP does little to stop injected scripts from running if an XSS vulnerability exists elsewhere in the application, turning what should be a contained bug into something an attacker can fully exploit.",
+        "summary": "Do this against the real production configuration, not local development, since proxies, load balancers, and CDN layers frequently add or strip headers between your app server and the actual response a browser receives. A missing or weak CSP does little to stop injected scripts from running if an XSS vulnerability exists elsewhere in the application, turning what should be a contained bug into something an attacker can fully exploit.",
+        "link": "https://dev.to/evvytools/how-to-check-your-servers-security-headers-before-going-live-2fne",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-29T11:19:55.000Z",
+        "keywords": [
+          "security",
+          "webdev",
+          "tools",
+          "backend",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "security",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for security",
+          "webdev-ready automation",
+          "Great for security"
+        ],
+        "cons": [
+          "Overkill for security experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for security experiments"
+        ],
+        "highlights": [
+          "Header configuration doesn't touch application logic, doesn't appear in most functional test suites, and doesn't break anything a user would notice during normal browsing.",
+          "A quick request against the live endpoint, whether through a browser's network tab or a command-line request, shows every header the server is currently returning.",
+          "The page loads, the API responds, everything looks fine right up until someone tests the actual security posture instead of just the functionality."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-08-29T11:47:54.270Z",
+    "lastUpdated": "2026-08-29T11:47:54.270Z",
+    "visibleDate": "Aug 29, 2026",
+    "url": "pages/2026-08-29-114754270-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-08-29-114754270-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why /24 Isn't",
+      "How to Check",
+      "🔍 Compare PDFs: Text, visual and layout diff"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Why /24 Isn't, How to Check, 🔍 Compare PDFs: Text, visual and layout di",
+    "tools": [
+      {
+        "name": "Why /24 Isn't",
+        "slug": "why-24-isn-t",
+        "description": "A typical AWS VPC starts at /16, and individual subnets inside it are commonly carved into /20s or /24s depending on how many resources each availability zone needs, chosen deliberately rather than defaulted to. AWS's own documentation on VPC design covers the sizing tradeoffs at that scale, which look completely different from a small office network where a single /24 genuinely does cover everything.",
+        "summary": "A typical AWS VPC starts at /16, and individual subnets inside it are commonly carved into /20s or /24s depending on how many resources each availability zone needs, chosen deliberately rather than defaulted to. AWS's own documentation on VPC design covers the sizing tradeoffs at that scale, which look completely different from a small office network where a single /24 genuinely does cover everything.",
+        "link": "https://dev.to/evvytools/why-24-isnt-always-the-subnet-size-you-assume-5e1l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-29T11:19:57.000Z",
+        "keywords": [
+          "networking",
+          "tools",
+          "backend",
+          "cloud",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "networking",
+          "tools",
+          "backend"
+        ],
+        "pros": [
+          "Great for networking",
+          "tools-ready automation",
+          "Great for networking"
+        ],
+        "cons": [
+          "Overkill for networking experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for networking experiments"
+        ],
+        "highlights": [
+          "A firewall rule, a cloud VPC subnet, or a documentation table using anything other than /24 gets misread by anyone whose mental model stopped updating after the /24 assumption set in.",
+          "AWS's own documentation on VPC design covers the sizing tradeoffs at that scale, which look completely different from a small office network where a single /24 genuinely does cover everything.",
+          "For a huge share of small, self-contained networks, it genuinely is the right size, and defaulting to it as a first guess costs nothing when it turns out to be correct."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Check",
+        "slug": "how-to-check",
+        "description": "Do this against the real production configuration, not local development, since proxies, load balancers, and CDN layers frequently add or strip headers between your app server and the actual response a browser receives. A missing or weak CSP does little to stop injected scripts from running if an XSS vulnerability exists elsewhere in the application, turning what should be a contained bug into something an attacker can fully exploit.",
+        "summary": "Do this against the real production configuration, not local development, since proxies, load balancers, and CDN layers frequently add or strip headers between your app server and the actual response a browser receives. A missing or weak CSP does little to stop injected scripts from running if an XSS vulnerability exists elsewhere in the application, turning what should be a contained bug into something an attacker can fully exploit.",
+        "link": "https://dev.to/evvytools/how-to-check-your-servers-security-headers-before-going-live-2fne",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-29T11:19:55.000Z",
+        "keywords": [
+          "security",
+          "webdev",
+          "tools",
+          "backend",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "security",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for security",
+          "webdev-ready automation",
+          "Great for security"
+        ],
+        "cons": [
+          "Overkill for security experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for security experiments"
+        ],
+        "highlights": [
+          "Header configuration doesn't touch application logic, doesn't appear in most functional test suites, and doesn't break anything a user would notice during normal browsing.",
+          "A quick request against the live endpoint, whether through a browser's network tab or a command-line request, shows every header the server is currently returning.",
+          "The page loads, the API responds, everything looks fine right up until someone tests the actual security posture instead of just the functionality."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🔍 Compare PDFs: Text, visual and layout diff",
+        "slug": "compare-pdfs-text-visual-and-layout-diff",
+        "description": "Read → highlighted diff, then export the report ▶ Compare now — tooladda.online/compare-pdfs.html 💡 Tip Run text mode and visual mode on anything important. That's the main reason to use this for contracts.</p> <p><strong>Why does it say \"no differences\" when the files clearly differ?</strong></p> <p>Almost certainly a scanned PDF with no text layer.",
+        "summary": "Read → highlighted diff, then export the report ▶ Compare now — tooladda.online/compare-pdfs.html 💡 Tip Run text mode and visual mode on anything important. That's the main reason to use this for contracts.</p> <p><strong>Why does it say \"no differences\" when the files clearly differ?</strong></p> <p>Almost certainly a scanned PDF with no text layer.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/compare-pdfs-text-visual-and-layout-diff-no-adobe-no-upload-1b29",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-08-29T11:18:03.000Z",
+        "keywords": [
+          "productivity",
+          "privacy",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "privacy",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "privacy-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Read → highlighted diff, then export the report ▶ Compare now — tooladda.online/compare-pdfs.html 💡 Tip Run text mode and visual mode on anything important.",
+          "That's the main reason to use this for contracts.</p> <p><strong>Why does it say \"no differences\" when the files clearly differ?</strong></p> <p>Almost certainly a scanned PDF with no text layer.",
+          "Add one word on page 2 and every following line shifts; a pixel diff lights up 40 pages that contain no real change."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-08-28T17:43:45.599Z",
     "lastUpdated": "2026-08-28T17:43:45.599Z",
     "visibleDate": "Aug 28, 2026",

@@ -7,6 +7,687 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-09-02T09:59:15.081Z",
+    "lastUpdated": "2026-09-02T09:59:15.081Z",
+    "visibleDate": "Sep 2, 2026",
+    "url": "pages/2026-09-02-095915081-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-09-02-095915081-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "ChatGPT vs. Claude",
+      "🛂 Passport Photo Maker: India 35 45mm, US visa, UPSC, Schengen",
+      "I built DataFormatTools"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include ChatGPT vs. Claude, 🛂 Passport Photo Maker: India 35 45mm, US visa, UPSC,",
+    "tools": [
+      {
+        "name": "ChatGPT vs. Claude",
+        "slug": "chatgpt-vs-claude",
+        "description": "Advanced Use Cases: Where Each AI Excels ChatGPT’s Strengths: Leveraging its vast plugin ecosystem and image generation (DALL-E) integration. Head-to-Head: Performance on Everyday Tasks Creative Writing & Ideation: Comparing output for blog posts, stories, and marketing copy.",
+        "summary": "Advanced Use Cases: Where Each AI Excels ChatGPT’s Strengths: Leveraging its vast plugin ecosystem and image generation (DALL-E) integration. Head-to-Head: Performance on Everyday Tasks Creative Writing & Ideation: Comparing output for blog posts, stories, and marketing copy.",
+        "link": "https://dev.to/samchenreviews/chatgpt-vs-claude-the-ultimate-ai-assistant-comparison-for-2024-1109",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-02T09:41:50.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "machinelearning",
+          "tech",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "machinelearning"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Head-to-Head: Performance on Everyday Tasks Creative Writing & Ideation: Comparing output for blog posts, stories, and marketing copy.",
+          "Claude: The Ultimate AI Assistant Comparison for 2024 Brief overview of the rise of large language model (LLM) chatbots.",
+          "Advanced Use Cases: Where Each AI Excels ChatGPT’s Strengths: Leveraging its vast plugin ecosystem and image generation (DALL-E) integration."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🛂 Passport Photo Maker: India 35 45mm, US visa, UPSC, Schengen",
+        "slug": "passport-photo-maker-india-35-45mm-us-visa-upsc-schengen",
+        "description": "A ₹0 tool plus two minutes of reading beats a rejected application.</p> </blockquote> <h3> The five things that actually fail </h3> <ol> <li>😐 <strong>Expression</strong> — neutral, mouth closed. Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the <strong>official page for your document</strong> before you submit.",
+        "summary": "A ₹0 tool plus two minutes of reading beats a rejected application.</p> </blockquote> <h3> The five things that actually fail </h3> <ol> <li>😐 <strong>Expression</strong> — neutral, mouth closed. Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the <strong>official page for your document</strong> before you submit.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/passport-photo-maker-india-35x45mm-us-visa-upsc-schengen-plus-a-print-sheet-that-fits-the-3og5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-02T08:56:56.000Z",
+        "keywords": [
+          "productivity",
+          "privacy",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "privacy",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "privacy-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "A ₹0 tool plus two minutes of reading beats a rejected application.</p> </blockquote> <h3> The five things that actually fail </h3> <ol> <li>😐 <strong>Expression</strong> — neutral, mouth closed.",
+          "Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the official page for your document before you submit.",
+          "Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the <strong>official page for your document</strong> before you submit."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built DataFormatTools",
+        "slug": "i-built-dataformattools",
+        "description": "🌐 Try it: https://www.dataformattools.com/ I'd especially love feedback from developers: Which developer tool do you use most often? I also focused on making the tools fast, responsive, and easy to use on both desktop and mobile.",
+        "summary": "🌐 Try it: https://www.dataformattools.com/ I'd especially love feedback from developers: Which developer tool do you use most often? I also focused on making the tools fast, responsive, and easy to use on both desktop and mobile.",
+        "link": "https://dev.to/bhukya_sandeep_54f6f67c09/i-built-dataformattools-a-free-collection-of-browser-based-developer-tools-for-working-with-519l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-02T08:52:17.000Z",
+        "keywords": [
+          "showdev",
+          "tools",
+          "webdev",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "showdev",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for showdev",
+          "tools-ready automation",
+          "Great for showdev"
+        ],
+        "cons": [
+          "Overkill for showdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for showdev experiments"
+        ],
+        "highlights": [
+          "🌐 Try it: https://www.dataformattools.com/ I'd especially love feedback from developers: Which developer tool do you use most often?",
+          "I also focused on making the tools fast, responsive, and easy to use on both desktop and mobile.",
+          "No account required and no complicated setup."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Your git history",
+        "slug": "your-git-history",
+        "description": "You can also point it at any repo without cloning first: gitfault -C pallets/click hotspots The most fun way to try it is to run it on a codebase you know well and see if the top hotspot matches your gut. Every codebase has a few files that quietly cost you most of your time: the ones everybody keeps editing, that break in surprising ways, and that only one person really understands.",
+        "summary": "You can also point it at any repo without cloning first: gitfault -C pallets/click hotspots The most fun way to try it is to run it on a codebase you know well and see if the top hotspot matches your gut. Every codebase has a few files that quietly cost you most of your time: the ones everybody keeps editing, that break in surprising ways, and that only one person really understands.",
+        "link": "https://dev.to/kenjirasmussen/your-git-history-already-knows-where-your-codebase-hurts-dj4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-02T08:46:55.000Z",
+        "keywords": [
+          "git",
+          "productivity",
+          "showdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "git",
+          "productivity",
+          "showdev"
+        ],
+        "pros": [
+          "Great for git",
+          "productivity-ready automation",
+          "Great for git"
+        ],
+        "cons": [
+          "Overkill for git experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for git experiments"
+        ],
+        "highlights": [
+          "Every codebase has a few files that quietly cost you most of your time: the ones everybody keeps editing, that break in surprising ways, and that only one person really understands.",
+          "This is the idea behind behavioral code analysis — treating version-control history as data about how a team actually works, popularized by Adam Tornhill in Your Code as a Crime Scene.",
+          "<p>Every codebase has a few files that quietly cost you most of your time: the ones everybody keeps editing, that break in surprising ways, and that only one person really understands."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Telli (YC F24)",
+        "slug": "telli-yc-f24",
+        "description": "Article URL: https://careers.telli.com/ Comments URL: https://news.ycombinator.com/item?id=49533557 Points: 0 # Comments: 0",
+        "summary": "Article URL: https://careers.telli.com/ Comments URL: https://news.ycombinator.com/item?id=49533557 Points: 0 # Comments: 0",
+        "link": "https://careers.telli.com/",
+        "source": "Hacker News",
+        "isoDate": "2026-09-02T08:43:49.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-09-02T09:59:15.081Z",
+    "lastUpdated": "2026-09-02T09:59:15.081Z",
+    "visibleDate": "Sep 2, 2026",
+    "url": "pages/2026-09-02-095915081-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-09-02-095915081-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "ChatGPT vs. Claude",
+      "🛂 Passport Photo Maker: India 35 45mm, US visa, UPSC, Schengen",
+      "I built DataFormatTools"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include ChatGPT vs. Claude, 🛂 Passport Photo Maker: India 35 45mm, US vis",
+    "tools": [
+      {
+        "name": "ChatGPT vs. Claude",
+        "slug": "chatgpt-vs-claude",
+        "description": "Advanced Use Cases: Where Each AI Excels ChatGPT’s Strengths: Leveraging its vast plugin ecosystem and image generation (DALL-E) integration. Head-to-Head: Performance on Everyday Tasks Creative Writing & Ideation: Comparing output for blog posts, stories, and marketing copy.",
+        "summary": "Advanced Use Cases: Where Each AI Excels ChatGPT’s Strengths: Leveraging its vast plugin ecosystem and image generation (DALL-E) integration. Head-to-Head: Performance on Everyday Tasks Creative Writing & Ideation: Comparing output for blog posts, stories, and marketing copy.",
+        "link": "https://dev.to/samchenreviews/chatgpt-vs-claude-the-ultimate-ai-assistant-comparison-for-2024-1109",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-02T09:41:50.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "machinelearning",
+          "tech",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "machinelearning"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Head-to-Head: Performance on Everyday Tasks Creative Writing & Ideation: Comparing output for blog posts, stories, and marketing copy.",
+          "Claude: The Ultimate AI Assistant Comparison for 2024 Brief overview of the rise of large language model (LLM) chatbots.",
+          "Advanced Use Cases: Where Each AI Excels ChatGPT’s Strengths: Leveraging its vast plugin ecosystem and image generation (DALL-E) integration."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🛂 Passport Photo Maker: India 35 45mm, US visa, UPSC, Schengen",
+        "slug": "passport-photo-maker-india-35-45mm-us-visa-upsc-schengen",
+        "description": "A ₹0 tool plus two minutes of reading beats a rejected application.</p> </blockquote> <h3> The five things that actually fail </h3> <ol> <li>😐 <strong>Expression</strong> — neutral, mouth closed. Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the <strong>official page for your document</strong> before you submit.",
+        "summary": "A ₹0 tool plus two minutes of reading beats a rejected application.</p> </blockquote> <h3> The five things that actually fail </h3> <ol> <li>😐 <strong>Expression</strong> — neutral, mouth closed. Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the <strong>official page for your document</strong> before you submit.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/passport-photo-maker-india-35x45mm-us-visa-upsc-schengen-plus-a-print-sheet-that-fits-the-3og5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-02T08:56:56.000Z",
+        "keywords": [
+          "productivity",
+          "privacy",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "privacy",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "privacy-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "A ₹0 tool plus two minutes of reading beats a rejected application.</p> </blockquote> <h3> The five things that actually fail </h3> <ol> <li>😐 <strong>Expression</strong> — neutral, mouth closed.",
+          "Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the official page for your document before you submit.",
+          "Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the <strong>official page for your document</strong> before you submit."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built DataFormatTools",
+        "slug": "i-built-dataformattools",
+        "description": "🌐 Try it: https://www.dataformattools.com/ I'd especially love feedback from developers: Which developer tool do you use most often? I also focused on making the tools fast, responsive, and easy to use on both desktop and mobile.",
+        "summary": "🌐 Try it: https://www.dataformattools.com/ I'd especially love feedback from developers: Which developer tool do you use most often? I also focused on making the tools fast, responsive, and easy to use on both desktop and mobile.",
+        "link": "https://dev.to/bhukya_sandeep_54f6f67c09/i-built-dataformattools-a-free-collection-of-browser-based-developer-tools-for-working-with-519l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-02T08:52:17.000Z",
+        "keywords": [
+          "showdev",
+          "tools",
+          "webdev",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "showdev",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for showdev",
+          "tools-ready automation",
+          "Great for showdev"
+        ],
+        "cons": [
+          "Overkill for showdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for showdev experiments"
+        ],
+        "highlights": [
+          "🌐 Try it: https://www.dataformattools.com/ I'd especially love feedback from developers: Which developer tool do you use most often?",
+          "I also focused on making the tools fast, responsive, and easy to use on both desktop and mobile.",
+          "No account required and no complicated setup."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Your git history",
+        "slug": "your-git-history",
+        "description": "You can also point it at any repo without cloning first: gitfault -C pallets/click hotspots The most fun way to try it is to run it on a codebase you know well and see if the top hotspot matches your gut. Every codebase has a few files that quietly cost you most of your time: the ones everybody keeps editing, that break in surprising ways, and that only one person really understands.",
+        "summary": "You can also point it at any repo without cloning first: gitfault -C pallets/click hotspots The most fun way to try it is to run it on a codebase you know well and see if the top hotspot matches your gut. Every codebase has a few files that quietly cost you most of your time: the ones everybody keeps editing, that break in surprising ways, and that only one person really understands.",
+        "link": "https://dev.to/kenjirasmussen/your-git-history-already-knows-where-your-codebase-hurts-dj4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-02T08:46:55.000Z",
+        "keywords": [
+          "git",
+          "productivity",
+          "showdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "git",
+          "productivity",
+          "showdev"
+        ],
+        "pros": [
+          "Great for git",
+          "productivity-ready automation",
+          "Great for git"
+        ],
+        "cons": [
+          "Overkill for git experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for git experiments"
+        ],
+        "highlights": [
+          "Every codebase has a few files that quietly cost you most of your time: the ones everybody keeps editing, that break in surprising ways, and that only one person really understands.",
+          "This is the idea behind behavioral code analysis — treating version-control history as data about how a team actually works, popularized by Adam Tornhill in Your Code as a Crime Scene.",
+          "<p>Every codebase has a few files that quietly cost you most of your time: the ones everybody keeps editing, that break in surprising ways, and that only one person really understands."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-09-02T09:59:15.081Z",
+    "lastUpdated": "2026-09-02T09:59:15.081Z",
+    "visibleDate": "Sep 2, 2026",
+    "url": "pages/2026-09-02-095915081-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-09-02-095915081-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "ChatGPT vs. Claude",
+      "🛂 Passport Photo Maker: India 35 45mm, US visa, UPSC, Schengen"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include ChatGPT vs. Claude, 🛂 Passport Photo Maker: Indi",
+    "tools": [
+      {
+        "name": "ChatGPT vs. Claude",
+        "slug": "chatgpt-vs-claude",
+        "description": "Advanced Use Cases: Where Each AI Excels ChatGPT’s Strengths: Leveraging its vast plugin ecosystem and image generation (DALL-E) integration. Head-to-Head: Performance on Everyday Tasks Creative Writing & Ideation: Comparing output for blog posts, stories, and marketing copy.",
+        "summary": "Advanced Use Cases: Where Each AI Excels ChatGPT’s Strengths: Leveraging its vast plugin ecosystem and image generation (DALL-E) integration. Head-to-Head: Performance on Everyday Tasks Creative Writing & Ideation: Comparing output for blog posts, stories, and marketing copy.",
+        "link": "https://dev.to/samchenreviews/chatgpt-vs-claude-the-ultimate-ai-assistant-comparison-for-2024-1109",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-02T09:41:50.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "machinelearning",
+          "tech",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "machinelearning"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Head-to-Head: Performance on Everyday Tasks Creative Writing & Ideation: Comparing output for blog posts, stories, and marketing copy.",
+          "Claude: The Ultimate AI Assistant Comparison for 2024 Brief overview of the rise of large language model (LLM) chatbots.",
+          "Advanced Use Cases: Where Each AI Excels ChatGPT’s Strengths: Leveraging its vast plugin ecosystem and image generation (DALL-E) integration."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🛂 Passport Photo Maker: India 35 45mm, US visa, UPSC, Schengen",
+        "slug": "passport-photo-maker-india-35-45mm-us-visa-upsc-schengen",
+        "description": "A ₹0 tool plus two minutes of reading beats a rejected application.</p> </blockquote> <h3> The five things that actually fail </h3> <ol> <li>😐 <strong>Expression</strong> — neutral, mouth closed. Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the <strong>official page for your document</strong> before you submit.",
+        "summary": "A ₹0 tool plus two minutes of reading beats a rejected application.</p> </blockquote> <h3> The five things that actually fail </h3> <ol> <li>😐 <strong>Expression</strong> — neutral, mouth closed. Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the <strong>official page for your document</strong> before you submit.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/passport-photo-maker-india-35x45mm-us-visa-upsc-schengen-plus-a-print-sheet-that-fits-the-3og5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-02T08:56:56.000Z",
+        "keywords": [
+          "productivity",
+          "privacy",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "privacy",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "privacy-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "A ₹0 tool plus two minutes of reading beats a rejected application.</p> </blockquote> <h3> The five things that actually fail </h3> <ol> <li>😐 <strong>Expression</strong> — neutral, mouth closed.",
+          "Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the official page for your document before you submit.",
+          "Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the <strong>official page for your document</strong> before you submit."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-09-02T09:59:15.081Z",
+    "lastUpdated": "2026-09-02T09:59:15.081Z",
+    "visibleDate": "Sep 2, 2026",
+    "url": "pages/2026-09-02-095915081-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-09-02-095915081-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "ChatGPT vs. Claude",
+      "🛂 Passport Photo Maker: India 35 45mm, US visa, UPSC, Schengen",
+      "I built DataFormatTools"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include ChatGPT vs. Claude, 🛂 Passport Photo Maker: India 35 45mm, US visa, UPS",
+    "tools": [
+      {
+        "name": "ChatGPT vs. Claude",
+        "slug": "chatgpt-vs-claude",
+        "description": "Advanced Use Cases: Where Each AI Excels ChatGPT’s Strengths: Leveraging its vast plugin ecosystem and image generation (DALL-E) integration. Head-to-Head: Performance on Everyday Tasks Creative Writing & Ideation: Comparing output for blog posts, stories, and marketing copy.",
+        "summary": "Advanced Use Cases: Where Each AI Excels ChatGPT’s Strengths: Leveraging its vast plugin ecosystem and image generation (DALL-E) integration. Head-to-Head: Performance on Everyday Tasks Creative Writing & Ideation: Comparing output for blog posts, stories, and marketing copy.",
+        "link": "https://dev.to/samchenreviews/chatgpt-vs-claude-the-ultimate-ai-assistant-comparison-for-2024-1109",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-02T09:41:50.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "machinelearning",
+          "tech",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "machinelearning"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Head-to-Head: Performance on Everyday Tasks Creative Writing & Ideation: Comparing output for blog posts, stories, and marketing copy.",
+          "Claude: The Ultimate AI Assistant Comparison for 2024 Brief overview of the rise of large language model (LLM) chatbots.",
+          "Advanced Use Cases: Where Each AI Excels ChatGPT’s Strengths: Leveraging its vast plugin ecosystem and image generation (DALL-E) integration."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🛂 Passport Photo Maker: India 35 45mm, US visa, UPSC, Schengen",
+        "slug": "passport-photo-maker-india-35-45mm-us-visa-upsc-schengen",
+        "description": "A ₹0 tool plus two minutes of reading beats a rejected application.</p> </blockquote> <h3> The five things that actually fail </h3> <ol> <li>😐 <strong>Expression</strong> — neutral, mouth closed. Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the <strong>official page for your document</strong> before you submit.",
+        "summary": "A ₹0 tool plus two minutes of reading beats a rejected application.</p> </blockquote> <h3> The five things that actually fail </h3> <ol> <li>😐 <strong>Expression</strong> — neutral, mouth closed. Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the <strong>official page for your document</strong> before you submit.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/passport-photo-maker-india-35x45mm-us-visa-upsc-schengen-plus-a-print-sheet-that-fits-the-3og5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-02T08:56:56.000Z",
+        "keywords": [
+          "productivity",
+          "privacy",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "privacy",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "privacy-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "A ₹0 tool plus two minutes of reading beats a rejected application.</p> </blockquote> <h3> The five things that actually fail </h3> <ol> <li>😐 <strong>Expression</strong> — neutral, mouth closed.",
+          "Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the official page for your document before you submit.",
+          "Use the presets here to get the geometry right, then check the size, background colour and any date/KB requirement against the <strong>official page for your document</strong> before you submit."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built DataFormatTools",
+        "slug": "i-built-dataformattools",
+        "description": "🌐 Try it: https://www.dataformattools.com/ I'd especially love feedback from developers: Which developer tool do you use most often? I also focused on making the tools fast, responsive, and easy to use on both desktop and mobile.",
+        "summary": "🌐 Try it: https://www.dataformattools.com/ I'd especially love feedback from developers: Which developer tool do you use most often? I also focused on making the tools fast, responsive, and easy to use on both desktop and mobile.",
+        "link": "https://dev.to/bhukya_sandeep_54f6f67c09/i-built-dataformattools-a-free-collection-of-browser-based-developer-tools-for-working-with-519l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-02T08:52:17.000Z",
+        "keywords": [
+          "showdev",
+          "tools",
+          "webdev",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "showdev",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for showdev",
+          "tools-ready automation",
+          "Great for showdev"
+        ],
+        "cons": [
+          "Overkill for showdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for showdev experiments"
+        ],
+        "highlights": [
+          "🌐 Try it: https://www.dataformattools.com/ I'd especially love feedback from developers: Which developer tool do you use most often?",
+          "I also focused on making the tools fast, responsive, and easy to use on both desktop and mobile.",
+          "No account required and no complicated setup."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-09-01T10:32:50.025Z",
     "lastUpdated": "2026-09-01T10:32:50.025Z",
     "visibleDate": "Sep 1, 2026",

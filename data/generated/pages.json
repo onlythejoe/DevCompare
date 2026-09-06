@@ -7,6 +7,687 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-09-06T09:43:05.395Z",
+    "lastUpdated": "2026-09-06T09:43:05.395Z",
+    "visibleDate": "Sep 6, 2026",
+    "url": "pages/2026-09-06-094305395-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-09-06-094305395-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "How to Build",
+      "You Don't Have",
+      "🔑 Password Generator"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include How to Build, You Don't Have, 🔑 Password Generator. Productivity stacks t",
+    "tools": [
+      {
+        "name": "How to Build",
+        "slug": "how-to-build",
+        "description": "GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice. GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice.",
+        "summary": "GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice. GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice.",
+        "link": "https://dev.to/samchenreviews/how-to-build-custom-ai-agents-with-claude-api-in-2025-30i6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-06T09:41:21.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "machinelearning",
+          "tech",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "machinelearning",
+          "podcast"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "In production, I’ve caught two issues this way: a database connection pool running out of connections (latency spiked to 30 seconds) and a rate limit from the Anthropic API (error rate hit 12%).",
+          "In production, I’ve caught two issues this way: a database connection pool running out of connections (latency spiked to 30 seconds) and a rate limit from the Anthropic API (error rate hit 12%).",
+          "Unlike GPT-4o, which requires a separate function-calling schema that can introduce latency and parsing errors, Claude accepts tool definitions directly in the API request."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "You Don't Have",
+        "slug": "you-don-t-have",
+        "description": "Article URL: https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/ Comments URL: https://news.ycombinator.com/item?id=49584637 Points: 15 # Comments: 0",
+        "summary": "Article URL: https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/ Comments URL: https://news.ycombinator.com/item?id=49584637 Points: 15 # Comments: 0",
+        "link": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+        "source": "Hacker News",
+        "isoDate": "2026-09-06T09:14:22.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🔑 Password Generator",
+        "slug": "password-generator",
+        "description": "A merely-decent unique password per site is far safer than one magnificent password everywhere.</p> <p><strong>💡 Tip</strong></p> <p>Turn on two-factor authentication wherever it's offered. ⚡ 10-second version Generated at tooladda.online/password-generator.html using your browser's cryptographic random number generator — not Math.random(), which is predictable and has no business anywhere near a password.",
+        "summary": "A merely-decent unique password per site is far safer than one magnificent password everywhere.</p> <p><strong>💡 Tip</strong></p> <p>Turn on two-factor authentication wherever it's offered. ⚡ 10-second version Generated at tooladda.online/password-generator.html using your browser's cryptographic random number generator — not Math.random(), which is predictable and has no business anywhere near a password.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/password-generator-cryptographically-secure-passwords-passphrases-pins-and-api-keys-41h2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-06T08:47:03.000Z",
+        "keywords": [
+          "security",
+          "programming",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "security",
+          "programming",
+          "webdev"
+        ],
+        "pros": [
+          "Great for security",
+          "programming-ready automation",
+          "Great for security"
+        ],
+        "cons": [
+          "Overkill for security experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for security experiments"
+        ],
+        "highlights": [
+          "A merely-decent unique password per site is far safer than one magnificent password everywhere.</p> <p><strong>💡 Tip</strong></p> <p>Turn on two-factor authentication wherever it's offered.",
+          "Password Looks Actual entropy Reality P@ssw0rd! Passes every corporate rule ✅ ~10 bits of real entropy In every cracking dictionary ever assembled.",
+          "</td> </tr> <tr> <td width=\"50%\"> ### 📊 Honest strength analysis Entropy in bits plus a crack-time estimate, rather than a green bar that turns green because you added `1!` to the end."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why your screenshot",
+        "slug": "why-your-screenshot",
+        "description": "See <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/decode\" rel=\"noopener noreferrer\">MDN's decode() reference</a>.</p> <p>Setting <code>crossOrigin</code> does not grant permission by itself. <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/How_to/CORS_enabled_image\" rel=\"noopener noreferrer\">MDN explains the canvas CORS requirements</a>.</p> <p>Fonts need their own check.",
+        "summary": "See <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/decode\" rel=\"noopener noreferrer\">MDN's decode() reference</a>.</p> <p>Setting <code>crossOrigin</code> does not grant permission by itself. <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/How_to/CORS_enabled_image\" rel=\"noopener noreferrer\">MDN explains the canvas CORS requirements</a>.</p> <p>Fonts need their own check.",
+        "link": "https://dev.to/amr_elskaan_96e65a8e76478/why-your-screenshot-export-looks-different-from-the-preview-1d7d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-06T08:30:18.000Z",
+        "keywords": [
+          "design",
+          "software",
+          "tools",
+          "dev",
+          "saas",
+          "productivity"
+        ],
+        "useCases": [
+          "design",
+          "software",
+          "tools"
+        ],
+        "pros": [
+          "Great for design",
+          "software-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for software workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "<a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/How_to/CORS_enabled_image\" rel=\"noopener noreferrer\">MDN explains the canvas CORS requirements</a>.</p> <p>Fonts need their own check.",
+          "Test screenshot replacement separately, with an explicit expected image and crop.</p> <p>If twenty templates fail in a similar way, a shared loading or export step is a useful place to investigate.",
+          "Small text-edge differences may come from rasterization; a missing screen, changed line break or incorrect crop deserves a different diagnosis."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "RAG vs Memory vs Tools",
+        "slug": "rag-vs-memory-vs-tools",
+        "description": "The first time it remembers the wrong thing — a stale user preference, an old pricing rule, a deleted project, a support decision from six months ago — you realize the real problem is not making the agent smarter. Tools are best for live state and authoritative actions: account balances, subscription status, order details, feature flags, permissions, calendar availability, ticket status, database records, or API-side truth.",
+        "summary": "The first time it remembers the wrong thing — a stale user preference, an old pricing rule, a deleted project, a support decision from six months ago — you realize the real problem is not making the agent smarter. Tools are best for live state and authoritative actions: account balances, subscription status, order details, feature flags, permissions, calendar availability, ticket status, database records, or API-side truth.",
+        "link": "https://dev.to/hosseinhezami/rag-vs-memory-vs-tools-what-information-should-an-ai-agent-actually-store-1k31",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-06T08:21:17.000Z",
+        "keywords": [
+          "ai",
+          "rag",
+          "agents",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "rag",
+          "agents"
+        ],
+        "pros": [
+          "Great for ai",
+          "rag-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for rag workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Examples: user:12345:preferences workspace:analytics:conventions project:billing-migration:context conversation:support-ticket-987:summary A preference like “use UTC” may be user-scoped.",
+          "Memory is best for durable facts that should persist across sessions: user preferences, stable project context, explicit corrections, long-lived decisions, or summaries of past interactions.",
+          "Context window is best for temporary state: the current task, the current form fields, the immediate user goal, the most recent tool results, and short-lived reasoning artifacts."
+        ],
+        "pricing": "Paid plans starting at $1",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-09-06T09:43:05.395Z",
+    "lastUpdated": "2026-09-06T09:43:05.395Z",
+    "visibleDate": "Sep 6, 2026",
+    "url": "pages/2026-09-06-094305395-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-09-06-094305395-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "How to Build",
+      "You Don't Have",
+      "🔑 Password Generator"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include How to Build, You Don't Have, 🔑 Password Generator. Reliable remo",
+    "tools": [
+      {
+        "name": "How to Build",
+        "slug": "how-to-build",
+        "description": "GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice. GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice.",
+        "summary": "GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice. GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice.",
+        "link": "https://dev.to/samchenreviews/how-to-build-custom-ai-agents-with-claude-api-in-2025-30i6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-06T09:41:21.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "machinelearning",
+          "tech",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "machinelearning",
+          "podcast"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "In production, I’ve caught two issues this way: a database connection pool running out of connections (latency spiked to 30 seconds) and a rate limit from the Anthropic API (error rate hit 12%).",
+          "In production, I’ve caught two issues this way: a database connection pool running out of connections (latency spiked to 30 seconds) and a rate limit from the Anthropic API (error rate hit 12%).",
+          "Unlike GPT-4o, which requires a separate function-calling schema that can introduce latency and parsing errors, Claude accepts tool definitions directly in the API request."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "You Don't Have",
+        "slug": "you-don-t-have",
+        "description": "Article URL: https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/ Comments URL: https://news.ycombinator.com/item?id=49584637 Points: 15 # Comments: 0",
+        "summary": "Article URL: https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/ Comments URL: https://news.ycombinator.com/item?id=49584637 Points: 15 # Comments: 0",
+        "link": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+        "source": "Hacker News",
+        "isoDate": "2026-09-06T09:14:22.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🔑 Password Generator",
+        "slug": "password-generator",
+        "description": "A merely-decent unique password per site is far safer than one magnificent password everywhere.</p> <p><strong>💡 Tip</strong></p> <p>Turn on two-factor authentication wherever it's offered. ⚡ 10-second version Generated at tooladda.online/password-generator.html using your browser's cryptographic random number generator — not Math.random(), which is predictable and has no business anywhere near a password.",
+        "summary": "A merely-decent unique password per site is far safer than one magnificent password everywhere.</p> <p><strong>💡 Tip</strong></p> <p>Turn on two-factor authentication wherever it's offered. ⚡ 10-second version Generated at tooladda.online/password-generator.html using your browser's cryptographic random number generator — not Math.random(), which is predictable and has no business anywhere near a password.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/password-generator-cryptographically-secure-passwords-passphrases-pins-and-api-keys-41h2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-06T08:47:03.000Z",
+        "keywords": [
+          "security",
+          "programming",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "security",
+          "programming",
+          "webdev"
+        ],
+        "pros": [
+          "Great for security",
+          "programming-ready automation",
+          "Great for security"
+        ],
+        "cons": [
+          "Overkill for security experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for security experiments"
+        ],
+        "highlights": [
+          "A merely-decent unique password per site is far safer than one magnificent password everywhere.</p> <p><strong>💡 Tip</strong></p> <p>Turn on two-factor authentication wherever it's offered.",
+          "Password Looks Actual entropy Reality P@ssw0rd! Passes every corporate rule ✅ ~10 bits of real entropy In every cracking dictionary ever assembled.",
+          "</td> </tr> <tr> <td width=\"50%\"> ### 📊 Honest strength analysis Entropy in bits plus a crack-time estimate, rather than a green bar that turns green because you added `1!` to the end."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why your screenshot",
+        "slug": "why-your-screenshot",
+        "description": "See <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/decode\" rel=\"noopener noreferrer\">MDN's decode() reference</a>.</p> <p>Setting <code>crossOrigin</code> does not grant permission by itself. <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/How_to/CORS_enabled_image\" rel=\"noopener noreferrer\">MDN explains the canvas CORS requirements</a>.</p> <p>Fonts need their own check.",
+        "summary": "See <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/decode\" rel=\"noopener noreferrer\">MDN's decode() reference</a>.</p> <p>Setting <code>crossOrigin</code> does not grant permission by itself. <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/How_to/CORS_enabled_image\" rel=\"noopener noreferrer\">MDN explains the canvas CORS requirements</a>.</p> <p>Fonts need their own check.",
+        "link": "https://dev.to/amr_elskaan_96e65a8e76478/why-your-screenshot-export-looks-different-from-the-preview-1d7d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-06T08:30:18.000Z",
+        "keywords": [
+          "design",
+          "software",
+          "tools",
+          "dev",
+          "saas",
+          "productivity"
+        ],
+        "useCases": [
+          "design",
+          "software",
+          "tools"
+        ],
+        "pros": [
+          "Great for design",
+          "software-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for software workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "<a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/How_to/CORS_enabled_image\" rel=\"noopener noreferrer\">MDN explains the canvas CORS requirements</a>.</p> <p>Fonts need their own check.",
+          "Test screenshot replacement separately, with an explicit expected image and crop.</p> <p>If twenty templates fail in a similar way, a shared loading or export step is a useful place to investigate.",
+          "Small text-edge differences may come from rasterization; a missing screen, changed line break or incorrect crop deserves a different diagnosis."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-09-06T09:43:05.395Z",
+    "lastUpdated": "2026-09-06T09:43:05.395Z",
+    "visibleDate": "Sep 6, 2026",
+    "url": "pages/2026-09-06-094305395-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-09-06-094305395-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to Build",
+      "You Don't Have"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include How to Build, You Don't Have. Gitpod brings zero-",
+    "tools": [
+      {
+        "name": "How to Build",
+        "slug": "how-to-build",
+        "description": "GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice. GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice.",
+        "summary": "GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice. GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice.",
+        "link": "https://dev.to/samchenreviews/how-to-build-custom-ai-agents-with-claude-api-in-2025-30i6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-06T09:41:21.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "machinelearning",
+          "tech",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "machinelearning",
+          "podcast"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "In production, I’ve caught two issues this way: a database connection pool running out of connections (latency spiked to 30 seconds) and a rate limit from the Anthropic API (error rate hit 12%).",
+          "In production, I’ve caught two issues this way: a database connection pool running out of connections (latency spiked to 30 seconds) and a rate limit from the Anthropic API (error rate hit 12%).",
+          "Unlike GPT-4o, which requires a separate function-calling schema that can introduce latency and parsing errors, Claude accepts tool definitions directly in the API request."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "You Don't Have",
+        "slug": "you-don-t-have",
+        "description": "Article URL: https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/ Comments URL: https://news.ycombinator.com/item?id=49584637 Points: 15 # Comments: 0",
+        "summary": "Article URL: https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/ Comments URL: https://news.ycombinator.com/item?id=49584637 Points: 15 # Comments: 0",
+        "link": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+        "source": "Hacker News",
+        "isoDate": "2026-09-06T09:14:22.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-09-06T09:43:05.395Z",
+    "lastUpdated": "2026-09-06T09:43:05.395Z",
+    "visibleDate": "Sep 6, 2026",
+    "url": "pages/2026-09-06-094305395-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-09-06-094305395-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to Build",
+      "You Don't Have",
+      "🔑 Password Generator"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include How to Build, You Don't Have, 🔑 Password Generator. New launches that a",
+    "tools": [
+      {
+        "name": "How to Build",
+        "slug": "how-to-build",
+        "description": "GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice. GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice.",
+        "summary": "GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice. GPT-4o, at $2.50 input and $10.00 output, is cheaper per token, but Claude’s lower latency on tool use and better adherence to structured output often results in fewer retries—leading to a lower total cost in practice.",
+        "link": "https://dev.to/samchenreviews/how-to-build-custom-ai-agents-with-claude-api-in-2025-30i6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-06T09:41:21.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "machinelearning",
+          "tech",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "machinelearning",
+          "podcast"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "In production, I’ve caught two issues this way: a database connection pool running out of connections (latency spiked to 30 seconds) and a rate limit from the Anthropic API (error rate hit 12%).",
+          "In production, I’ve caught two issues this way: a database connection pool running out of connections (latency spiked to 30 seconds) and a rate limit from the Anthropic API (error rate hit 12%).",
+          "Unlike GPT-4o, which requires a separate function-calling schema that can introduce latency and parsing errors, Claude accepts tool definitions directly in the API request."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "You Don't Have",
+        "slug": "you-don-t-have",
+        "description": "Article URL: https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/ Comments URL: https://news.ycombinator.com/item?id=49584637 Points: 15 # Comments: 0",
+        "summary": "Article URL: https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/ Comments URL: https://news.ycombinator.com/item?id=49584637 Points: 15 # Comments: 0",
+        "link": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+        "source": "Hacker News",
+        "isoDate": "2026-09-06T09:14:22.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🔑 Password Generator",
+        "slug": "password-generator",
+        "description": "A merely-decent unique password per site is far safer than one magnificent password everywhere.</p> <p><strong>💡 Tip</strong></p> <p>Turn on two-factor authentication wherever it's offered. ⚡ 10-second version Generated at tooladda.online/password-generator.html using your browser's cryptographic random number generator — not Math.random(), which is predictable and has no business anywhere near a password.",
+        "summary": "A merely-decent unique password per site is far safer than one magnificent password everywhere.</p> <p><strong>💡 Tip</strong></p> <p>Turn on two-factor authentication wherever it's offered. ⚡ 10-second version Generated at tooladda.online/password-generator.html using your browser's cryptographic random number generator — not Math.random(), which is predictable and has no business anywhere near a password.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/password-generator-cryptographically-secure-passwords-passphrases-pins-and-api-keys-41h2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-06T08:47:03.000Z",
+        "keywords": [
+          "security",
+          "programming",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "security",
+          "programming",
+          "webdev"
+        ],
+        "pros": [
+          "Great for security",
+          "programming-ready automation",
+          "Great for security"
+        ],
+        "cons": [
+          "Overkill for security experiments",
+          "Needs extra setup for programming workflows",
+          "Overkill for security experiments"
+        ],
+        "highlights": [
+          "A merely-decent unique password per site is far safer than one magnificent password everywhere.</p> <p><strong>💡 Tip</strong></p> <p>Turn on two-factor authentication wherever it's offered.",
+          "Password Looks Actual entropy Reality P@ssw0rd! Passes every corporate rule ✅ ~10 bits of real entropy In every cracking dictionary ever assembled.",
+          "</td> </tr> <tr> <td width=\"50%\"> ### 📊 Honest strength analysis Entropy in bits plus a crack-time estimate, rather than a green bar that turns green because you added `1!` to the end."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-09-05T09:29:27.424Z",
     "lastUpdated": "2026-09-05T09:29:27.424Z",
     "visibleDate": "Sep 5, 2026",

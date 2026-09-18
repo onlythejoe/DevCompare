@@ -7,6 +7,666 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-09-18T10:05:18.733Z",
+    "lastUpdated": "2026-09-18T10:05:18.733Z",
+    "visibleDate": "Sep 18, 2026",
+    "url": "pages/2026-09-18-100518733-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-09-18-100518733-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Proxy Myths Debunked",
+      "MODELAIR Uses AI-Powered",
+      "Microsoft exec called"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Proxy Myths Debunked, MODELAIR Uses AI-Powered, Microsoft exec called. Pro",
+    "tools": [
+      {
+        "name": "Proxy Myths Debunked",
+        "slug": "proxy-myths-debunked",
+        "description": "Proxies come in several flavors, each with different trade-offs: Data Center Proxies: Fast, cheap ($5–50/month for thousands of IPs), but easily detected and blocked by sophisticated target sites. Switching to residential rotating proxies cost 8x more but eliminated blocking entirely and saved months of wasted monitoring data.</p> <p><strong>What This Means</strong>: Match the proxy type to your use case.",
+        "summary": "Proxies come in several flavors, each with different trade-offs: Data Center Proxies: Fast, cheap ($5–50/month for thousands of IPs), but easily detected and blocked by sophisticated target sites. Switching to residential rotating proxies cost 8x more but eliminated blocking entirely and saved months of wasted monitoring data.</p> <p><strong>What This Means</strong>: Match the proxy type to your use case.",
+        "link": "https://dev.to/yaroslav_k/proxy-myths-debunked-common-misconceptions-costing-teams-time-and-money-44ei",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-18T10:00:38.000Z",
+        "keywords": [
+          "proxy",
+          "webscraping",
+          "networking",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "proxy",
+          "webscraping",
+          "networking"
+        ],
+        "pros": [
+          "Great for proxy",
+          "webscraping-ready automation",
+          "Great for proxy"
+        ],
+        "cons": [
+          "Overkill for proxy experiments",
+          "Needs extra setup for webscraping workflows",
+          "Overkill for proxy experiments"
+        ],
+        "highlights": [
+          "Proxies come in several flavors, each with different trade-offs: Data Center Proxies: Fast, cheap ($5–50/month for thousands of IPs), but easily detected and blocked by sophisticated target sites.",
+          "Choosing based purely on price is like buying a car based on cost alone, ignoring fuel efficiency, reliability, and whether it actually meets your needs.",
+          "ISP Proxies: A middle ground—static IPs assigned to data centers but sold as ISP-grade, offering speed with moderate detectability ($20–200/month)."
+        ],
+        "pricing": "Paid plans starting at $5",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "MODELAIR Uses AI-Powered",
+        "slug": "modelair-uses-ai-powered",
+        "description": "According to MODELAIR's official project website, its goal is to build AI-based tools that support decisions on urban air-quality control through simulated 3D city representations and real-time insights. Its wider deployment beyond pilot locations is not established by the available project information and would depend on factors including local sensor networks, usable city data and adoption by public authorities.",
+        "summary": "According to MODELAIR's official project website, its goal is to build AI-based tools that support decisions on urban air-quality control through simulated 3D city representations and real-time insights. Its wider deployment beyond pilot locations is not established by the available project information and would depend on factors including local sensor networks, usable city data and adoption by public authorities.",
+        "link": "https://dev.to/alifar/modelair-uses-ai-powered-3d-digital-twins-for-street-level-air-quality-insights-3mc1",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-18T10:00:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Scalevise helps businesses assess AI use cases, map data and system dependencies, and design practical implementation paths that reduce manual work instead of adding another dashboard.",
+          "A city could use street-level forecasts to identify areas that need closer attention, instead of applying the same response across an entire district.</p> <p>MODELAIR's technical work is ongoing.",
+          "MODELAIR's approach is intended to make those local patterns visible and predictive, giving city authorities a basis for traffic planning, monitoring and more targeted pollution controls."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Microsoft exec called",
+        "slug": "microsoft-exec-called",
+        "description": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 10 # Comments: 1",
+        "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 10 # Comments: 1",
+        "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+        "source": "Hacker News",
+        "isoDate": "2026-09-18T09:45:07.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "OpenJev",
+        "slug": "openjev",
+        "description": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 5 # Comments: 1",
+        "summary": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 5 # Comments: 1",
+        "link": "https://openjev.com/",
+        "source": "Hacker News",
+        "isoDate": "2026-09-18T09:42:22.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "🏞️ PDF to Images: Any page, any DPI",
+        "slug": "pdf-to-images-any-page-any-dpi",
+        "description": "Export → individual files or a ZIP ▶ Convert now — tooladda.online/pdf-to-images.html 💡 Tip Convert one page first at your chosen DPI and look at it full size. Rendering happens locally, so a 200-page document doesn't need uploading.</p> <blockquote> <p><strong>❗ Important</strong></p> <p>Contracts, statements and reports get converted here.",
+        "summary": "Export → individual files or a ZIP ▶ Convert now — tooladda.online/pdf-to-images.html 💡 Tip Convert one page first at your chosen DPI and look at it full size. Rendering happens locally, so a 200-page document doesn't need uploading.</p> <blockquote> <p><strong>❗ Important</strong></p> <p>Contracts, statements and reports get converted here.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/pdf-to-images-any-page-any-dpi-jpg-png-webp-or-avif-3ldp",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-18T09:07:25.000Z",
+        "keywords": [
+          "programming",
+          "productivity",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for programming",
+          "productivity-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Export → individual files or a ZIP ▶ Convert now — tooladda.online/pdf-to-images.html 💡 Tip Convert one page first at your chosen DPI and look at it full size.",
+          "Rendering happens locally, so a 200-page document doesn't need uploading.</p> <blockquote> <p><strong>❗ Important</strong></p> <p>Contracts, statements and reports get converted here.",
+          "### 🎚️ Real DPI control Not \"low / medium / high\" — an actual number, so you can hit an exact pixel size or match a print requirement."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-09-18T10:05:18.733Z",
+    "lastUpdated": "2026-09-18T10:05:18.733Z",
+    "visibleDate": "Sep 18, 2026",
+    "url": "pages/2026-09-18-100518733-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-09-18-100518733-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Proxy Myths Debunked",
+      "MODELAIR Uses AI-Powered",
+      "Microsoft exec called"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Proxy Myths Debunked, MODELAIR Uses AI-Powered, Microsoft exec cal",
+    "tools": [
+      {
+        "name": "Proxy Myths Debunked",
+        "slug": "proxy-myths-debunked",
+        "description": "Proxies come in several flavors, each with different trade-offs: Data Center Proxies: Fast, cheap ($5–50/month for thousands of IPs), but easily detected and blocked by sophisticated target sites. Switching to residential rotating proxies cost 8x more but eliminated blocking entirely and saved months of wasted monitoring data.</p> <p><strong>What This Means</strong>: Match the proxy type to your use case.",
+        "summary": "Proxies come in several flavors, each with different trade-offs: Data Center Proxies: Fast, cheap ($5–50/month for thousands of IPs), but easily detected and blocked by sophisticated target sites. Switching to residential rotating proxies cost 8x more but eliminated blocking entirely and saved months of wasted monitoring data.</p> <p><strong>What This Means</strong>: Match the proxy type to your use case.",
+        "link": "https://dev.to/yaroslav_k/proxy-myths-debunked-common-misconceptions-costing-teams-time-and-money-44ei",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-18T10:00:38.000Z",
+        "keywords": [
+          "proxy",
+          "webscraping",
+          "networking",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "proxy",
+          "webscraping",
+          "networking"
+        ],
+        "pros": [
+          "Great for proxy",
+          "webscraping-ready automation",
+          "Great for proxy"
+        ],
+        "cons": [
+          "Overkill for proxy experiments",
+          "Needs extra setup for webscraping workflows",
+          "Overkill for proxy experiments"
+        ],
+        "highlights": [
+          "Proxies come in several flavors, each with different trade-offs: Data Center Proxies: Fast, cheap ($5–50/month for thousands of IPs), but easily detected and blocked by sophisticated target sites.",
+          "Choosing based purely on price is like buying a car based on cost alone, ignoring fuel efficiency, reliability, and whether it actually meets your needs.",
+          "ISP Proxies: A middle ground—static IPs assigned to data centers but sold as ISP-grade, offering speed with moderate detectability ($20–200/month)."
+        ],
+        "pricing": "Paid plans starting at $5",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "MODELAIR Uses AI-Powered",
+        "slug": "modelair-uses-ai-powered",
+        "description": "According to MODELAIR's official project website, its goal is to build AI-based tools that support decisions on urban air-quality control through simulated 3D city representations and real-time insights. Its wider deployment beyond pilot locations is not established by the available project information and would depend on factors including local sensor networks, usable city data and adoption by public authorities.",
+        "summary": "According to MODELAIR's official project website, its goal is to build AI-based tools that support decisions on urban air-quality control through simulated 3D city representations and real-time insights. Its wider deployment beyond pilot locations is not established by the available project information and would depend on factors including local sensor networks, usable city data and adoption by public authorities.",
+        "link": "https://dev.to/alifar/modelair-uses-ai-powered-3d-digital-twins-for-street-level-air-quality-insights-3mc1",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-18T10:00:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Scalevise helps businesses assess AI use cases, map data and system dependencies, and design practical implementation paths that reduce manual work instead of adding another dashboard.",
+          "A city could use street-level forecasts to identify areas that need closer attention, instead of applying the same response across an entire district.</p> <p>MODELAIR's technical work is ongoing.",
+          "MODELAIR's approach is intended to make those local patterns visible and predictive, giving city authorities a basis for traffic planning, monitoring and more targeted pollution controls."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Microsoft exec called",
+        "slug": "microsoft-exec-called",
+        "description": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 10 # Comments: 1",
+        "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 10 # Comments: 1",
+        "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+        "source": "Hacker News",
+        "isoDate": "2026-09-18T09:45:07.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "OpenJev",
+        "slug": "openjev",
+        "description": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 5 # Comments: 1",
+        "summary": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 5 # Comments: 1",
+        "link": "https://openjev.com/",
+        "source": "Hacker News",
+        "isoDate": "2026-09-18T09:42:22.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-09-18T10:05:18.733Z",
+    "lastUpdated": "2026-09-18T10:05:18.733Z",
+    "visibleDate": "Sep 18, 2026",
+    "url": "pages/2026-09-18-100518733-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-09-18-100518733-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "Proxy Myths Debunked",
+      "MODELAIR Uses AI-Powered"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Proxy Myths Debunked, MODELAIR Uses AI-Powered. G",
+    "tools": [
+      {
+        "name": "Proxy Myths Debunked",
+        "slug": "proxy-myths-debunked",
+        "description": "Proxies come in several flavors, each with different trade-offs: Data Center Proxies: Fast, cheap ($5–50/month for thousands of IPs), but easily detected and blocked by sophisticated target sites. Switching to residential rotating proxies cost 8x more but eliminated blocking entirely and saved months of wasted monitoring data.</p> <p><strong>What This Means</strong>: Match the proxy type to your use case.",
+        "summary": "Proxies come in several flavors, each with different trade-offs: Data Center Proxies: Fast, cheap ($5–50/month for thousands of IPs), but easily detected and blocked by sophisticated target sites. Switching to residential rotating proxies cost 8x more but eliminated blocking entirely and saved months of wasted monitoring data.</p> <p><strong>What This Means</strong>: Match the proxy type to your use case.",
+        "link": "https://dev.to/yaroslav_k/proxy-myths-debunked-common-misconceptions-costing-teams-time-and-money-44ei",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-18T10:00:38.000Z",
+        "keywords": [
+          "proxy",
+          "webscraping",
+          "networking",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "proxy",
+          "webscraping",
+          "networking"
+        ],
+        "pros": [
+          "Great for proxy",
+          "webscraping-ready automation",
+          "Great for proxy"
+        ],
+        "cons": [
+          "Overkill for proxy experiments",
+          "Needs extra setup for webscraping workflows",
+          "Overkill for proxy experiments"
+        ],
+        "highlights": [
+          "Proxies come in several flavors, each with different trade-offs: Data Center Proxies: Fast, cheap ($5–50/month for thousands of IPs), but easily detected and blocked by sophisticated target sites.",
+          "Choosing based purely on price is like buying a car based on cost alone, ignoring fuel efficiency, reliability, and whether it actually meets your needs.",
+          "ISP Proxies: A middle ground—static IPs assigned to data centers but sold as ISP-grade, offering speed with moderate detectability ($20–200/month)."
+        ],
+        "pricing": "Paid plans starting at $5",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "MODELAIR Uses AI-Powered",
+        "slug": "modelair-uses-ai-powered",
+        "description": "According to MODELAIR's official project website, its goal is to build AI-based tools that support decisions on urban air-quality control through simulated 3D city representations and real-time insights. Its wider deployment beyond pilot locations is not established by the available project information and would depend on factors including local sensor networks, usable city data and adoption by public authorities.",
+        "summary": "According to MODELAIR's official project website, its goal is to build AI-based tools that support decisions on urban air-quality control through simulated 3D city representations and real-time insights. Its wider deployment beyond pilot locations is not established by the available project information and would depend on factors including local sensor networks, usable city data and adoption by public authorities.",
+        "link": "https://dev.to/alifar/modelair-uses-ai-powered-3d-digital-twins-for-street-level-air-quality-insights-3mc1",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-18T10:00:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Scalevise helps businesses assess AI use cases, map data and system dependencies, and design practical implementation paths that reduce manual work instead of adding another dashboard.",
+          "A city could use street-level forecasts to identify areas that need closer attention, instead of applying the same response across an entire district.</p> <p>MODELAIR's technical work is ongoing.",
+          "MODELAIR's approach is intended to make those local patterns visible and predictive, giving city authorities a basis for traffic planning, monitoring and more targeted pollution controls."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-09-18T10:05:18.733Z",
+    "lastUpdated": "2026-09-18T10:05:18.733Z",
+    "visibleDate": "Sep 18, 2026",
+    "url": "pages/2026-09-18-100518733-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-09-18-100518733-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Proxy Myths Debunked",
+      "MODELAIR Uses AI-Powered",
+      "Microsoft exec called"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Proxy Myths Debunked, MODELAIR Uses AI-Powered, Microsoft exec called. N",
+    "tools": [
+      {
+        "name": "Proxy Myths Debunked",
+        "slug": "proxy-myths-debunked",
+        "description": "Proxies come in several flavors, each with different trade-offs: Data Center Proxies: Fast, cheap ($5–50/month for thousands of IPs), but easily detected and blocked by sophisticated target sites. Switching to residential rotating proxies cost 8x more but eliminated blocking entirely and saved months of wasted monitoring data.</p> <p><strong>What This Means</strong>: Match the proxy type to your use case.",
+        "summary": "Proxies come in several flavors, each with different trade-offs: Data Center Proxies: Fast, cheap ($5–50/month for thousands of IPs), but easily detected and blocked by sophisticated target sites. Switching to residential rotating proxies cost 8x more but eliminated blocking entirely and saved months of wasted monitoring data.</p> <p><strong>What This Means</strong>: Match the proxy type to your use case.",
+        "link": "https://dev.to/yaroslav_k/proxy-myths-debunked-common-misconceptions-costing-teams-time-and-money-44ei",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-18T10:00:38.000Z",
+        "keywords": [
+          "proxy",
+          "webscraping",
+          "networking",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "proxy",
+          "webscraping",
+          "networking"
+        ],
+        "pros": [
+          "Great for proxy",
+          "webscraping-ready automation",
+          "Great for proxy"
+        ],
+        "cons": [
+          "Overkill for proxy experiments",
+          "Needs extra setup for webscraping workflows",
+          "Overkill for proxy experiments"
+        ],
+        "highlights": [
+          "Proxies come in several flavors, each with different trade-offs: Data Center Proxies: Fast, cheap ($5–50/month for thousands of IPs), but easily detected and blocked by sophisticated target sites.",
+          "Choosing based purely on price is like buying a car based on cost alone, ignoring fuel efficiency, reliability, and whether it actually meets your needs.",
+          "ISP Proxies: A middle ground—static IPs assigned to data centers but sold as ISP-grade, offering speed with moderate detectability ($20–200/month)."
+        ],
+        "pricing": "Paid plans starting at $5",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "MODELAIR Uses AI-Powered",
+        "slug": "modelair-uses-ai-powered",
+        "description": "According to MODELAIR's official project website, its goal is to build AI-based tools that support decisions on urban air-quality control through simulated 3D city representations and real-time insights. Its wider deployment beyond pilot locations is not established by the available project information and would depend on factors including local sensor networks, usable city data and adoption by public authorities.",
+        "summary": "According to MODELAIR's official project website, its goal is to build AI-based tools that support decisions on urban air-quality control through simulated 3D city representations and real-time insights. Its wider deployment beyond pilot locations is not established by the available project information and would depend on factors including local sensor networks, usable city data and adoption by public authorities.",
+        "link": "https://dev.to/alifar/modelair-uses-ai-powered-3d-digital-twins-for-street-level-air-quality-insights-3mc1",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-18T10:00:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Scalevise helps businesses assess AI use cases, map data and system dependencies, and design practical implementation paths that reduce manual work instead of adding another dashboard.",
+          "A city could use street-level forecasts to identify areas that need closer attention, instead of applying the same response across an entire district.</p> <p>MODELAIR's technical work is ongoing.",
+          "MODELAIR's approach is intended to make those local patterns visible and predictive, giving city authorities a basis for traffic planning, monitoring and more targeted pollution controls."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Microsoft exec called",
+        "slug": "microsoft-exec-called",
+        "description": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 10 # Comments: 1",
+        "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 10 # Comments: 1",
+        "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+        "source": "Hacker News",
+        "isoDate": "2026-09-18T09:45:07.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-09-17T10:28:47.015Z",
     "lastUpdated": "2026-09-17T10:28:47.015Z",
     "visibleDate": "Sep 17, 2026",

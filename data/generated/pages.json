@@ -7,6 +7,679 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-09-19T09:46:22.809Z",
+    "lastUpdated": "2026-09-19T09:46:22.809Z",
+    "visibleDate": "Sep 19, 2026",
+    "url": "pages/2026-09-19-094622809-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-09-19-094622809-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to Truly",
+      "📑 Extract PDF Pages: Pull out the pages you need",
+      "TP"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include How to Truly, 📑 Extract PDF Pages: Pull out the pages you need, TP. Produ",
+    "tools": [
+      {
+        "name": "How to Truly",
+        "slug": "how-to-truly",
+        "description": "On third-party keyboards: The Fn key is usually processed inside the keyboard itself to control hardware features like media volume, screen brightness, or device switching. Remove the Gap Permanently </h2> <p>If you already have strong muscle memory for Rectangle’s maximize shortcut, you don't even have to leave it behind.",
+        "summary": "On third-party keyboards: The Fn key is usually processed inside the keyboard itself to control hardware features like media volume, screen brightness, or device switching. Remove the Gap Permanently </h2> <p>If you already have strong muscle memory for Rectangle’s maximize shortcut, you don't even have to leave it behind.",
+        "link": "https://dev.to/shawon/how-to-truly-full-screen-window-in-macos-stage-manager-even-with-an-external-keyboard-49d0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-19T09:20:30.000Z",
+        "keywords": [
+          "hardware",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "hardware",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for hardware",
+          "productivity-ready automation",
+          "Great for hardware"
+        ],
+        "cons": [
+          "Overkill for hardware experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for hardware experiments"
+        ],
+        "highlights": [
+          "On third-party keyboards: The Fn key is usually processed inside the keyboard itself to control hardware features like media volume, screen brightness, or device switching.",
+          "In the Menu Title field, type Fill exactly as shown (capital \"F\", no punctuation—it must match Apple’s menu bar item).",
+          "Because the keyboard never actually sends an Fn signal to macOS, your Mac only receives Control + F—and ignores the command."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "📑 Extract PDF Pages: Pull out the pages you need",
+        "slug": "extract-pdf-pages-pull-out-the-pages-you-need",
+        "description": "A PDF stores text in drawing order, not reading order, so columns interleave.</td> </tr> <tr> <td>Ligatures come out mangled (<code>ﬁ</code>, <code>ﬂ</code>)</td> <td>The font mapped a glyph pair to one character. ⚡ 10-second version Two different jobs, one tool at tooladda.online/pdf-extract.html: extract pages into a smaller PDF, or extract the text as plain text you can paste anywhere.",
+        "summary": "A PDF stores text in drawing order, not reading order, so columns interleave.</td> </tr> <tr> <td>Ligatures come out mangled (<code>ﬁ</code>, <code>ﬂ</code>)</td> <td>The font mapped a glyph pair to one character. ⚡ 10-second version Two different jobs, one tool at tooladda.online/pdf-extract.html: extract pages into a smaller PDF, or extract the text as plain text you can paste anywhere.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/extract-pdf-pages-pull-out-the-pages-you-need-or-pull-out-the-text-2i9l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-19T08:54:16.000Z",
+        "keywords": [
+          "security",
+          "productivity",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "security",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for security",
+          "productivity-ready automation",
+          "Great for security"
+        ],
+        "cons": [
+          "Overkill for security experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for security experiments"
+        ],
+        "highlights": [
+          "⚡ 10-second version Two different jobs, one tool at tooladda.online/pdf-extract.html: extract pages into a smaller PDF, or extract the text as plain text you can paste anywhere.",
+          "A cover plus roman-numeral front matter means \"page 1\" often sits at position 4, and that's how people extract the wrong seven pages.",
+          "Test it by trying to select text in a viewer — if you can't, there's nothing to extract and you need OCR.</p> <p><strong>Why is the extracted text out of order?</strong></p> <p>Multi-column layouts."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "TP",
+        "slug": "tp",
+        "description": "It supports JPG, JPEG, PNG, and PDF, keeps CMYK color data (with an embedded ICC profile) intact through JPG and PDF exports, and processes everything server-side — nothing is stored after your session ends. It supports JPG, JPEG, PNG, and PDF, keeps CMYK color data (with an embedded ICC profile) intact through JPG and PDF exports, and processes everything server-side — nothing is stored after your session ends.</p>",
+        "summary": "It supports JPG, JPEG, PNG, and PDF, keeps CMYK color data (with an embedded ICC profile) intact through JPG and PDF exports, and processes everything server-side — nothing is stored after your session ends. It supports JPG, JPEG, PNG, and PDF, keeps CMYK color data (with an embedded ICC profile) intact through JPG and PDF exports, and processes everything server-side — nothing is stored after your session ends.</p>",
+        "link": "https://dev.to/samuel_poon_1633fe4eef09d/tp-a-free-browser-tool-to-convert-rgb-to-cmyk-for-print-and-upscale-low-res-photos-to-high-res-50h8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-19T08:34:08.000Z",
+        "keywords": [
+          "productivity",
+          "automation",
+          "tools",
+          "startup",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "automation-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How a Free",
+        "slug": "how-a-free",
+        "description": "A free online media tool such as SnapTik can offer users a convenient way to process supported video content without requiring complicated software installation. A well-designed interface can help users complete tasks with fewer steps while making the service approachable for different levels of technical experience.",
+        "summary": "A free online media tool such as SnapTik can offer users a convenient way to process supported video content without requiring complicated software installation. A well-designed interface can help users complete tasks with fewer steps while making the service approachable for different levels of technical experience.",
+        "link": "https://dev.to/harry_potterseo_bb05e06e/how-a-free-online-media-tool-can-simplify-everyday-video-tasks-3kfj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-19T08:21:51.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "dev"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "A free online media tool such as SnapTik can offer users a convenient way to process supported video content without requiring complicated software installation.",
+          "From short-form videos and tutorials to educational clips and creative content, people interact with video content across multiple platforms every day.",
+          "For people who regularly discover useful or entertaining short-form videos, having a simple online resource can make content management more convenient."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Boring Tools, Better",
+        "slug": "boring-tools-better",
+        "description": "And then one day we realize the tool we abandoned years ago still does the job better than the shiny replacement. When I learn something new, I will write it here as a short field note: what I tried, what broke, and the one line that fixed it.",
+        "summary": "And then one day we realize the tool we abandoned years ago still does the job better than the shiny replacement. When I learn something new, I will write it here as a short field note: what I tried, what broke, and the one line that fixed it.",
+        "link": "https://dev.to/leoxd26/boring-tools-better-work-34l5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-19T08:17:43.000Z",
+        "keywords": [
+          "learning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "learning",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for learning",
+          "productivity-ready automation",
+          "Great for learning"
+        ],
+        "cons": [
+          "Overkill for learning experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for learning experiments"
+        ],
+        "highlights": [
+          "And then one day we realize the tool we abandoned years ago still does the job better than the shiny replacement.",
+          "When I learn something new, I will write it here as a short field note: what I tried, what broke, and the one line that fixed it.",
+          "Explaining a problem in plain words is the fastest way to find the misunderstanding hiding inside my own head."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-09-19T09:46:22.809Z",
+    "lastUpdated": "2026-09-19T09:46:22.809Z",
+    "visibleDate": "Sep 19, 2026",
+    "url": "pages/2026-09-19-094622809-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-09-19-094622809-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to Truly",
+      "📑 Extract PDF Pages: Pull out the pages you need",
+      "TP"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include How to Truly, 📑 Extract PDF Pages: Pull out the pages you need, T",
+    "tools": [
+      {
+        "name": "How to Truly",
+        "slug": "how-to-truly",
+        "description": "On third-party keyboards: The Fn key is usually processed inside the keyboard itself to control hardware features like media volume, screen brightness, or device switching. Remove the Gap Permanently </h2> <p>If you already have strong muscle memory for Rectangle’s maximize shortcut, you don't even have to leave it behind.",
+        "summary": "On third-party keyboards: The Fn key is usually processed inside the keyboard itself to control hardware features like media volume, screen brightness, or device switching. Remove the Gap Permanently </h2> <p>If you already have strong muscle memory for Rectangle’s maximize shortcut, you don't even have to leave it behind.",
+        "link": "https://dev.to/shawon/how-to-truly-full-screen-window-in-macos-stage-manager-even-with-an-external-keyboard-49d0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-19T09:20:30.000Z",
+        "keywords": [
+          "hardware",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "hardware",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for hardware",
+          "productivity-ready automation",
+          "Great for hardware"
+        ],
+        "cons": [
+          "Overkill for hardware experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for hardware experiments"
+        ],
+        "highlights": [
+          "On third-party keyboards: The Fn key is usually processed inside the keyboard itself to control hardware features like media volume, screen brightness, or device switching.",
+          "In the Menu Title field, type Fill exactly as shown (capital \"F\", no punctuation—it must match Apple’s menu bar item).",
+          "Because the keyboard never actually sends an Fn signal to macOS, your Mac only receives Control + F—and ignores the command."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "📑 Extract PDF Pages: Pull out the pages you need",
+        "slug": "extract-pdf-pages-pull-out-the-pages-you-need",
+        "description": "A PDF stores text in drawing order, not reading order, so columns interleave.</td> </tr> <tr> <td>Ligatures come out mangled (<code>ﬁ</code>, <code>ﬂ</code>)</td> <td>The font mapped a glyph pair to one character. ⚡ 10-second version Two different jobs, one tool at tooladda.online/pdf-extract.html: extract pages into a smaller PDF, or extract the text as plain text you can paste anywhere.",
+        "summary": "A PDF stores text in drawing order, not reading order, so columns interleave.</td> </tr> <tr> <td>Ligatures come out mangled (<code>ﬁ</code>, <code>ﬂ</code>)</td> <td>The font mapped a glyph pair to one character. ⚡ 10-second version Two different jobs, one tool at tooladda.online/pdf-extract.html: extract pages into a smaller PDF, or extract the text as plain text you can paste anywhere.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/extract-pdf-pages-pull-out-the-pages-you-need-or-pull-out-the-text-2i9l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-19T08:54:16.000Z",
+        "keywords": [
+          "security",
+          "productivity",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "security",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for security",
+          "productivity-ready automation",
+          "Great for security"
+        ],
+        "cons": [
+          "Overkill for security experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for security experiments"
+        ],
+        "highlights": [
+          "⚡ 10-second version Two different jobs, one tool at tooladda.online/pdf-extract.html: extract pages into a smaller PDF, or extract the text as plain text you can paste anywhere.",
+          "A cover plus roman-numeral front matter means \"page 1\" often sits at position 4, and that's how people extract the wrong seven pages.",
+          "Test it by trying to select text in a viewer — if you can't, there's nothing to extract and you need OCR.</p> <p><strong>Why is the extracted text out of order?</strong></p> <p>Multi-column layouts."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "TP",
+        "slug": "tp",
+        "description": "It supports JPG, JPEG, PNG, and PDF, keeps CMYK color data (with an embedded ICC profile) intact through JPG and PDF exports, and processes everything server-side — nothing is stored after your session ends. It supports JPG, JPEG, PNG, and PDF, keeps CMYK color data (with an embedded ICC profile) intact through JPG and PDF exports, and processes everything server-side — nothing is stored after your session ends.</p>",
+        "summary": "It supports JPG, JPEG, PNG, and PDF, keeps CMYK color data (with an embedded ICC profile) intact through JPG and PDF exports, and processes everything server-side — nothing is stored after your session ends. It supports JPG, JPEG, PNG, and PDF, keeps CMYK color data (with an embedded ICC profile) intact through JPG and PDF exports, and processes everything server-side — nothing is stored after your session ends.</p>",
+        "link": "https://dev.to/samuel_poon_1633fe4eef09d/tp-a-free-browser-tool-to-convert-rgb-to-cmyk-for-print-and-upscale-low-res-photos-to-high-res-50h8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-19T08:34:08.000Z",
+        "keywords": [
+          "productivity",
+          "automation",
+          "tools",
+          "startup",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "automation-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How a Free",
+        "slug": "how-a-free",
+        "description": "A free online media tool such as SnapTik can offer users a convenient way to process supported video content without requiring complicated software installation. A well-designed interface can help users complete tasks with fewer steps while making the service approachable for different levels of technical experience.",
+        "summary": "A free online media tool such as SnapTik can offer users a convenient way to process supported video content without requiring complicated software installation. A well-designed interface can help users complete tasks with fewer steps while making the service approachable for different levels of technical experience.",
+        "link": "https://dev.to/harry_potterseo_bb05e06e/how-a-free-online-media-tool-can-simplify-everyday-video-tasks-3kfj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-19T08:21:51.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "dev"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "A free online media tool such as SnapTik can offer users a convenient way to process supported video content without requiring complicated software installation.",
+          "From short-form videos and tutorials to educational clips and creative content, people interact with video content across multiple platforms every day.",
+          "For people who regularly discover useful or entertaining short-form videos, having a simple online resource can make content management more convenient."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-09-19T09:46:22.809Z",
+    "lastUpdated": "2026-09-19T09:46:22.809Z",
+    "visibleDate": "Sep 19, 2026",
+    "url": "pages/2026-09-19-094622809-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-09-19-094622809-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to Truly",
+      "📑 Extract PDF Pages: Pull out the pages you need"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include How to Truly, 📑 Extract PDF Pages: Pull out the ",
+    "tools": [
+      {
+        "name": "How to Truly",
+        "slug": "how-to-truly",
+        "description": "On third-party keyboards: The Fn key is usually processed inside the keyboard itself to control hardware features like media volume, screen brightness, or device switching. Remove the Gap Permanently </h2> <p>If you already have strong muscle memory for Rectangle’s maximize shortcut, you don't even have to leave it behind.",
+        "summary": "On third-party keyboards: The Fn key is usually processed inside the keyboard itself to control hardware features like media volume, screen brightness, or device switching. Remove the Gap Permanently </h2> <p>If you already have strong muscle memory for Rectangle’s maximize shortcut, you don't even have to leave it behind.",
+        "link": "https://dev.to/shawon/how-to-truly-full-screen-window-in-macos-stage-manager-even-with-an-external-keyboard-49d0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-19T09:20:30.000Z",
+        "keywords": [
+          "hardware",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "hardware",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for hardware",
+          "productivity-ready automation",
+          "Great for hardware"
+        ],
+        "cons": [
+          "Overkill for hardware experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for hardware experiments"
+        ],
+        "highlights": [
+          "On third-party keyboards: The Fn key is usually processed inside the keyboard itself to control hardware features like media volume, screen brightness, or device switching.",
+          "In the Menu Title field, type Fill exactly as shown (capital \"F\", no punctuation—it must match Apple’s menu bar item).",
+          "Because the keyboard never actually sends an Fn signal to macOS, your Mac only receives Control + F—and ignores the command."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "📑 Extract PDF Pages: Pull out the pages you need",
+        "slug": "extract-pdf-pages-pull-out-the-pages-you-need",
+        "description": "A PDF stores text in drawing order, not reading order, so columns interleave.</td> </tr> <tr> <td>Ligatures come out mangled (<code>ﬁ</code>, <code>ﬂ</code>)</td> <td>The font mapped a glyph pair to one character. ⚡ 10-second version Two different jobs, one tool at tooladda.online/pdf-extract.html: extract pages into a smaller PDF, or extract the text as plain text you can paste anywhere.",
+        "summary": "A PDF stores text in drawing order, not reading order, so columns interleave.</td> </tr> <tr> <td>Ligatures come out mangled (<code>ﬁ</code>, <code>ﬂ</code>)</td> <td>The font mapped a glyph pair to one character. ⚡ 10-second version Two different jobs, one tool at tooladda.online/pdf-extract.html: extract pages into a smaller PDF, or extract the text as plain text you can paste anywhere.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/extract-pdf-pages-pull-out-the-pages-you-need-or-pull-out-the-text-2i9l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-19T08:54:16.000Z",
+        "keywords": [
+          "security",
+          "productivity",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "security",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for security",
+          "productivity-ready automation",
+          "Great for security"
+        ],
+        "cons": [
+          "Overkill for security experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for security experiments"
+        ],
+        "highlights": [
+          "⚡ 10-second version Two different jobs, one tool at tooladda.online/pdf-extract.html: extract pages into a smaller PDF, or extract the text as plain text you can paste anywhere.",
+          "A cover plus roman-numeral front matter means \"page 1\" often sits at position 4, and that's how people extract the wrong seven pages.",
+          "Test it by trying to select text in a viewer — if you can't, there's nothing to extract and you need OCR.</p> <p><strong>Why is the extracted text out of order?</strong></p> <p>Multi-column layouts."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-09-19T09:46:22.809Z",
+    "lastUpdated": "2026-09-19T09:46:22.809Z",
+    "visibleDate": "Sep 19, 2026",
+    "url": "pages/2026-09-19-094622809-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-09-19-094622809-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to Truly",
+      "📑 Extract PDF Pages: Pull out the pages you need",
+      "TP"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include How to Truly, 📑 Extract PDF Pages: Pull out the pages you need, TP. New",
+    "tools": [
+      {
+        "name": "How to Truly",
+        "slug": "how-to-truly",
+        "description": "On third-party keyboards: The Fn key is usually processed inside the keyboard itself to control hardware features like media volume, screen brightness, or device switching. Remove the Gap Permanently </h2> <p>If you already have strong muscle memory for Rectangle’s maximize shortcut, you don't even have to leave it behind.",
+        "summary": "On third-party keyboards: The Fn key is usually processed inside the keyboard itself to control hardware features like media volume, screen brightness, or device switching. Remove the Gap Permanently </h2> <p>If you already have strong muscle memory for Rectangle’s maximize shortcut, you don't even have to leave it behind.",
+        "link": "https://dev.to/shawon/how-to-truly-full-screen-window-in-macos-stage-manager-even-with-an-external-keyboard-49d0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-19T09:20:30.000Z",
+        "keywords": [
+          "hardware",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "hardware",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for hardware",
+          "productivity-ready automation",
+          "Great for hardware"
+        ],
+        "cons": [
+          "Overkill for hardware experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for hardware experiments"
+        ],
+        "highlights": [
+          "On third-party keyboards: The Fn key is usually processed inside the keyboard itself to control hardware features like media volume, screen brightness, or device switching.",
+          "In the Menu Title field, type Fill exactly as shown (capital \"F\", no punctuation—it must match Apple’s menu bar item).",
+          "Because the keyboard never actually sends an Fn signal to macOS, your Mac only receives Control + F—and ignores the command."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "📑 Extract PDF Pages: Pull out the pages you need",
+        "slug": "extract-pdf-pages-pull-out-the-pages-you-need",
+        "description": "A PDF stores text in drawing order, not reading order, so columns interleave.</td> </tr> <tr> <td>Ligatures come out mangled (<code>ﬁ</code>, <code>ﬂ</code>)</td> <td>The font mapped a glyph pair to one character. ⚡ 10-second version Two different jobs, one tool at tooladda.online/pdf-extract.html: extract pages into a smaller PDF, or extract the text as plain text you can paste anywhere.",
+        "summary": "A PDF stores text in drawing order, not reading order, so columns interleave.</td> </tr> <tr> <td>Ligatures come out mangled (<code>ﬁ</code>, <code>ﬂ</code>)</td> <td>The font mapped a glyph pair to one character. ⚡ 10-second version Two different jobs, one tool at tooladda.online/pdf-extract.html: extract pages into a smaller PDF, or extract the text as plain text you can paste anywhere.",
+        "link": "https://dev.to/tomaz_8a7b374c4dc1136233b/extract-pdf-pages-pull-out-the-pages-you-need-or-pull-out-the-text-2i9l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-19T08:54:16.000Z",
+        "keywords": [
+          "security",
+          "productivity",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "security",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for security",
+          "productivity-ready automation",
+          "Great for security"
+        ],
+        "cons": [
+          "Overkill for security experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for security experiments"
+        ],
+        "highlights": [
+          "⚡ 10-second version Two different jobs, one tool at tooladda.online/pdf-extract.html: extract pages into a smaller PDF, or extract the text as plain text you can paste anywhere.",
+          "A cover plus roman-numeral front matter means \"page 1\" often sits at position 4, and that's how people extract the wrong seven pages.",
+          "Test it by trying to select text in a viewer — if you can't, there's nothing to extract and you need OCR.</p> <p><strong>Why is the extracted text out of order?</strong></p> <p>Multi-column layouts."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "TP",
+        "slug": "tp",
+        "description": "It supports JPG, JPEG, PNG, and PDF, keeps CMYK color data (with an embedded ICC profile) intact through JPG and PDF exports, and processes everything server-side — nothing is stored after your session ends. It supports JPG, JPEG, PNG, and PDF, keeps CMYK color data (with an embedded ICC profile) intact through JPG and PDF exports, and processes everything server-side — nothing is stored after your session ends.</p>",
+        "summary": "It supports JPG, JPEG, PNG, and PDF, keeps CMYK color data (with an embedded ICC profile) intact through JPG and PDF exports, and processes everything server-side — nothing is stored after your session ends. It supports JPG, JPEG, PNG, and PDF, keeps CMYK color data (with an embedded ICC profile) intact through JPG and PDF exports, and processes everything server-side — nothing is stored after your session ends.</p>",
+        "link": "https://dev.to/samuel_poon_1633fe4eef09d/tp-a-free-browser-tool-to-convert-rgb-to-cmyk-for-print-and-upscale-low-res-photos-to-high-res-50h8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-19T08:34:08.000Z",
+        "keywords": [
+          "productivity",
+          "automation",
+          "tools",
+          "startup",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "automation-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-09-18T10:05:18.733Z",
     "lastUpdated": "2026-09-18T10:05:18.733Z",
     "visibleDate": "Sep 18, 2026",

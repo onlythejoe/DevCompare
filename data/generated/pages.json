@@ -7,6 +7,679 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-09-21T11:09:05.654Z",
+    "lastUpdated": "2026-09-21T11:09:05.654Z",
+    "visibleDate": "Sep 21, 2026",
+    "url": "pages/2026-09-21-110905654-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-09-21-110905654-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "AliExpress Price Tracking",
+      "What can visitors",
+      "Nano Banana AI"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include AliExpress Price Tracking, What can visitors, Nano Banana AI. Productivity",
+    "tools": [
+      {
+        "name": "AliExpress Price Tracking",
+        "slug": "aliexpress-price-tracking",
+        "description": "This is usually enough to catch pre-sale inflation, but it won't show you long-term price trends across multiple sale seasons.</p> <p><strong>Price alerts:</strong> AliTools offers price drop notifications. AliExpress pricing is dynamic and opaque: Pre-sale inflation: Sellers raise prices 2-4 weeks before major sales (11.11, Summer Sale, Anniversary Sale) so the \"discount\" percentage looks bigger.",
+        "summary": "This is usually enough to catch pre-sale inflation, but it won't show you long-term price trends across multiple sale seasons.</p> <p><strong>Price alerts:</strong> AliTools offers price drop notifications. AliExpress pricing is dynamic and opaque: Pre-sale inflation: Sellers raise prices 2-4 weeks before major sales (11.11, Summer Sale, Anniversary Sale) so the \"discount\" percentage looks bigger.",
+        "link": "https://dev.to/cs_alishopping/aliexpress-price-tracking-comparing-the-top-tools-5dd7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-21T10:53:27.000Z",
+        "keywords": [
+          "shopping",
+          "chromeextension",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "shopping",
+          "chromeextension",
+          "tools"
+        ],
+        "pros": [
+          "Great for shopping",
+          "chromeextension-ready automation",
+          "Great for shopping"
+        ],
+        "cons": [
+          "Overkill for shopping experiments",
+          "Needs extra setup for chromeextension workflows",
+          "Overkill for shopping experiments"
+        ],
+        "highlights": [
+          "AliExpress pricing is dynamic and opaque: Pre-sale inflation: Sellers raise prices 2-4 weeks before major sales (11.11, Summer Sale, Anniversary Sale) so the \"discount\" percentage looks bigger.",
+          "You see a line graph with price points over time, typically covering the last 30-90 days depending on when AliTools first indexed the product.</p> <p><strong>History depth:</strong> 30-90 days.",
+          "Read our <a href=\"https://news.astools.app/blog/aliexpress-seller-guide\" rel=\"noopener noreferrer\">seller reliability guide</a> for a framework on evaluating stores before you buy.</em></p>"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "What can visitors",
+        "slug": "what-can-visitors",
+        "description": "The Cable Climper specifications listed by STAR include: Binding range: 8–58 mm A Strong IMC 2026 Booth Message You can use this as the final visitor-facing content: What Can You Experience at the STAR Booth? STAR describes it as a remotely operated solution for organizing and securing fiber, copper and RJ45 cables, designed to reduce the need for ladders and manual cable tying.",
+        "summary": "The Cable Climper specifications listed by STAR include: Binding range: 8–58 mm A Strong IMC 2026 Booth Message You can use this as the final visitor-facing content: What Can You Experience at the STAR Booth? STAR describes it as a remotely operated solution for organizing and securing fiber, copper and RJ45 cables, designed to reduce the need for ladders and manual cable tying.",
+        "link": "https://dev.to/star_technologies_6921df2/what-can-visitors-experience-at-the-star-booth-ojg",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-21T10:41:48.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "At the STAR booth at IMC 2026, visitors can experience a hands-on range of fiber-optic, network testing, CCTV, and smart cable-management technologies.",
+          "STAR describes it as a remotely operated solution for organizing and securing fiber, copper and RJ45 cables, designed to reduce the need for ladders and manual cable tying.",
+          "The FFS-5000 platform is part of STAR's fusion-splicer range, built for field technicians working on fiber deployment, FTTH and telecom networks."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Nano Banana AI",
+        "slug": "nano-banana-ai",
+        "description": "With Nano Banana, you can replace a background, change clothing, move an object into a new environment, build an advertising visual, or create several images in one consistent style. For portraits, add: \"preserve facial features, age, hairstyle, and natural proportions.\" This reduces the chance of getting a different person instead of a careful edit.",
+        "summary": "With Nano Banana, you can replace a background, change clothing, move an object into a new environment, build an advertising visual, or create several images in one consistent style. For portraits, add: \"preserve facial features, age, hairstyle, and natural proportions.\" This reduces the chance of getting a different person instead of a careful edit.",
+        "link": "https://dev.to/iishka/nano-banana-ai-what-it-can-do-and-how-to-use-it-3bd6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-21T10:39:11.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "With Nano Banana, you can replace a background, change clothing, move an object into a new environment, build an advertising visual, or create several images in one consistent style.",
+          "For portraits, add: \"preserve facial features, age, hairstyle, and natural proportions.\" This reduces the chance of getting a different person instead of a careful edit.",
+          "It can also be useful for virtual photo shoots and product cards.</p> <h2> How to write a good edit prompt </h2> <p>Describe both the requested change and the details that must remain unchanged."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "ZuckOff Know when",
+        "slug": "zuckoff-know-when",
+        "description": "Article URL: https://zuckoff.app/ Comments URL: https://news.ycombinator.com/item?id=49785429 Points: 40 # Comments: 4",
+        "summary": "Article URL: https://zuckoff.app/ Comments URL: https://news.ycombinator.com/item?id=49785429 Points: 40 # Comments: 4",
+        "link": "https://zuckoff.app/",
+        "source": "Hacker News",
+        "isoDate": "2026-09-21T10:33:14.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "ZuckOff Is a",
+        "slug": "zuckoff-is-a",
+        "description": "Article URL: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff Comments URL: https://news.ycombinator.com/item?id=49785397 Points: 37 # Comments: 0",
+        "summary": "Article URL: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff Comments URL: https://news.ycombinator.com/item?id=49785397 Points: 37 # Comments: 0",
+        "link": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+        "source": "Hacker News",
+        "isoDate": "2026-09-21T10:27:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-09-21T11:09:05.654Z",
+    "lastUpdated": "2026-09-21T11:09:05.654Z",
+    "visibleDate": "Sep 21, 2026",
+    "url": "pages/2026-09-21-110905654-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-09-21-110905654-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "AliExpress Price Tracking",
+      "What can visitors",
+      "Nano Banana AI"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include AliExpress Price Tracking, What can visitors, Nano Banana AI. Reli",
+    "tools": [
+      {
+        "name": "AliExpress Price Tracking",
+        "slug": "aliexpress-price-tracking",
+        "description": "This is usually enough to catch pre-sale inflation, but it won't show you long-term price trends across multiple sale seasons.</p> <p><strong>Price alerts:</strong> AliTools offers price drop notifications. AliExpress pricing is dynamic and opaque: Pre-sale inflation: Sellers raise prices 2-4 weeks before major sales (11.11, Summer Sale, Anniversary Sale) so the \"discount\" percentage looks bigger.",
+        "summary": "This is usually enough to catch pre-sale inflation, but it won't show you long-term price trends across multiple sale seasons.</p> <p><strong>Price alerts:</strong> AliTools offers price drop notifications. AliExpress pricing is dynamic and opaque: Pre-sale inflation: Sellers raise prices 2-4 weeks before major sales (11.11, Summer Sale, Anniversary Sale) so the \"discount\" percentage looks bigger.",
+        "link": "https://dev.to/cs_alishopping/aliexpress-price-tracking-comparing-the-top-tools-5dd7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-21T10:53:27.000Z",
+        "keywords": [
+          "shopping",
+          "chromeextension",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "shopping",
+          "chromeextension",
+          "tools"
+        ],
+        "pros": [
+          "Great for shopping",
+          "chromeextension-ready automation",
+          "Great for shopping"
+        ],
+        "cons": [
+          "Overkill for shopping experiments",
+          "Needs extra setup for chromeextension workflows",
+          "Overkill for shopping experiments"
+        ],
+        "highlights": [
+          "AliExpress pricing is dynamic and opaque: Pre-sale inflation: Sellers raise prices 2-4 weeks before major sales (11.11, Summer Sale, Anniversary Sale) so the \"discount\" percentage looks bigger.",
+          "You see a line graph with price points over time, typically covering the last 30-90 days depending on when AliTools first indexed the product.</p> <p><strong>History depth:</strong> 30-90 days.",
+          "Read our <a href=\"https://news.astools.app/blog/aliexpress-seller-guide\" rel=\"noopener noreferrer\">seller reliability guide</a> for a framework on evaluating stores before you buy.</em></p>"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "What can visitors",
+        "slug": "what-can-visitors",
+        "description": "The Cable Climper specifications listed by STAR include: Binding range: 8–58 mm A Strong IMC 2026 Booth Message You can use this as the final visitor-facing content: What Can You Experience at the STAR Booth? STAR describes it as a remotely operated solution for organizing and securing fiber, copper and RJ45 cables, designed to reduce the need for ladders and manual cable tying.",
+        "summary": "The Cable Climper specifications listed by STAR include: Binding range: 8–58 mm A Strong IMC 2026 Booth Message You can use this as the final visitor-facing content: What Can You Experience at the STAR Booth? STAR describes it as a remotely operated solution for organizing and securing fiber, copper and RJ45 cables, designed to reduce the need for ladders and manual cable tying.",
+        "link": "https://dev.to/star_technologies_6921df2/what-can-visitors-experience-at-the-star-booth-ojg",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-21T10:41:48.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "At the STAR booth at IMC 2026, visitors can experience a hands-on range of fiber-optic, network testing, CCTV, and smart cable-management technologies.",
+          "STAR describes it as a remotely operated solution for organizing and securing fiber, copper and RJ45 cables, designed to reduce the need for ladders and manual cable tying.",
+          "The FFS-5000 platform is part of STAR's fusion-splicer range, built for field technicians working on fiber deployment, FTTH and telecom networks."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Nano Banana AI",
+        "slug": "nano-banana-ai",
+        "description": "With Nano Banana, you can replace a background, change clothing, move an object into a new environment, build an advertising visual, or create several images in one consistent style. For portraits, add: \"preserve facial features, age, hairstyle, and natural proportions.\" This reduces the chance of getting a different person instead of a careful edit.",
+        "summary": "With Nano Banana, you can replace a background, change clothing, move an object into a new environment, build an advertising visual, or create several images in one consistent style. For portraits, add: \"preserve facial features, age, hairstyle, and natural proportions.\" This reduces the chance of getting a different person instead of a careful edit.",
+        "link": "https://dev.to/iishka/nano-banana-ai-what-it-can-do-and-how-to-use-it-3bd6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-21T10:39:11.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "With Nano Banana, you can replace a background, change clothing, move an object into a new environment, build an advertising visual, or create several images in one consistent style.",
+          "For portraits, add: \"preserve facial features, age, hairstyle, and natural proportions.\" This reduces the chance of getting a different person instead of a careful edit.",
+          "It can also be useful for virtual photo shoots and product cards.</p> <h2> How to write a good edit prompt </h2> <p>Describe both the requested change and the details that must remain unchanged."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "ZuckOff Know when",
+        "slug": "zuckoff-know-when",
+        "description": "Article URL: https://zuckoff.app/ Comments URL: https://news.ycombinator.com/item?id=49785429 Points: 40 # Comments: 4",
+        "summary": "Article URL: https://zuckoff.app/ Comments URL: https://news.ycombinator.com/item?id=49785429 Points: 40 # Comments: 4",
+        "link": "https://zuckoff.app/",
+        "source": "Hacker News",
+        "isoDate": "2026-09-21T10:33:14.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-09-21T11:09:05.654Z",
+    "lastUpdated": "2026-09-21T11:09:05.654Z",
+    "visibleDate": "Sep 21, 2026",
+    "url": "pages/2026-09-21-110905654-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-09-21-110905654-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "AliExpress Price Tracking",
+      "What can visitors"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include AliExpress Price Tracking, What can visitors. Git",
+    "tools": [
+      {
+        "name": "AliExpress Price Tracking",
+        "slug": "aliexpress-price-tracking",
+        "description": "This is usually enough to catch pre-sale inflation, but it won't show you long-term price trends across multiple sale seasons.</p> <p><strong>Price alerts:</strong> AliTools offers price drop notifications. AliExpress pricing is dynamic and opaque: Pre-sale inflation: Sellers raise prices 2-4 weeks before major sales (11.11, Summer Sale, Anniversary Sale) so the \"discount\" percentage looks bigger.",
+        "summary": "This is usually enough to catch pre-sale inflation, but it won't show you long-term price trends across multiple sale seasons.</p> <p><strong>Price alerts:</strong> AliTools offers price drop notifications. AliExpress pricing is dynamic and opaque: Pre-sale inflation: Sellers raise prices 2-4 weeks before major sales (11.11, Summer Sale, Anniversary Sale) so the \"discount\" percentage looks bigger.",
+        "link": "https://dev.to/cs_alishopping/aliexpress-price-tracking-comparing-the-top-tools-5dd7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-21T10:53:27.000Z",
+        "keywords": [
+          "shopping",
+          "chromeextension",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "shopping",
+          "chromeextension",
+          "tools"
+        ],
+        "pros": [
+          "Great for shopping",
+          "chromeextension-ready automation",
+          "Great for shopping"
+        ],
+        "cons": [
+          "Overkill for shopping experiments",
+          "Needs extra setup for chromeextension workflows",
+          "Overkill for shopping experiments"
+        ],
+        "highlights": [
+          "AliExpress pricing is dynamic and opaque: Pre-sale inflation: Sellers raise prices 2-4 weeks before major sales (11.11, Summer Sale, Anniversary Sale) so the \"discount\" percentage looks bigger.",
+          "You see a line graph with price points over time, typically covering the last 30-90 days depending on when AliTools first indexed the product.</p> <p><strong>History depth:</strong> 30-90 days.",
+          "Read our <a href=\"https://news.astools.app/blog/aliexpress-seller-guide\" rel=\"noopener noreferrer\">seller reliability guide</a> for a framework on evaluating stores before you buy.</em></p>"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "What can visitors",
+        "slug": "what-can-visitors",
+        "description": "The Cable Climper specifications listed by STAR include: Binding range: 8–58 mm A Strong IMC 2026 Booth Message You can use this as the final visitor-facing content: What Can You Experience at the STAR Booth? STAR describes it as a remotely operated solution for organizing and securing fiber, copper and RJ45 cables, designed to reduce the need for ladders and manual cable tying.",
+        "summary": "The Cable Climper specifications listed by STAR include: Binding range: 8–58 mm A Strong IMC 2026 Booth Message You can use this as the final visitor-facing content: What Can You Experience at the STAR Booth? STAR describes it as a remotely operated solution for organizing and securing fiber, copper and RJ45 cables, designed to reduce the need for ladders and manual cable tying.",
+        "link": "https://dev.to/star_technologies_6921df2/what-can-visitors-experience-at-the-star-booth-ojg",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-21T10:41:48.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "At the STAR booth at IMC 2026, visitors can experience a hands-on range of fiber-optic, network testing, CCTV, and smart cable-management technologies.",
+          "STAR describes it as a remotely operated solution for organizing and securing fiber, copper and RJ45 cables, designed to reduce the need for ladders and manual cable tying.",
+          "The FFS-5000 platform is part of STAR's fusion-splicer range, built for field technicians working on fiber deployment, FTTH and telecom networks."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-09-21T11:09:05.654Z",
+    "lastUpdated": "2026-09-21T11:09:05.654Z",
+    "visibleDate": "Sep 21, 2026",
+    "url": "pages/2026-09-21-110905654-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-09-21-110905654-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "AliExpress Price Tracking",
+      "What can visitors",
+      "Nano Banana AI"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include AliExpress Price Tracking, What can visitors, Nano Banana AI. New launch",
+    "tools": [
+      {
+        "name": "AliExpress Price Tracking",
+        "slug": "aliexpress-price-tracking",
+        "description": "This is usually enough to catch pre-sale inflation, but it won't show you long-term price trends across multiple sale seasons.</p> <p><strong>Price alerts:</strong> AliTools offers price drop notifications. AliExpress pricing is dynamic and opaque: Pre-sale inflation: Sellers raise prices 2-4 weeks before major sales (11.11, Summer Sale, Anniversary Sale) so the \"discount\" percentage looks bigger.",
+        "summary": "This is usually enough to catch pre-sale inflation, but it won't show you long-term price trends across multiple sale seasons.</p> <p><strong>Price alerts:</strong> AliTools offers price drop notifications. AliExpress pricing is dynamic and opaque: Pre-sale inflation: Sellers raise prices 2-4 weeks before major sales (11.11, Summer Sale, Anniversary Sale) so the \"discount\" percentage looks bigger.",
+        "link": "https://dev.to/cs_alishopping/aliexpress-price-tracking-comparing-the-top-tools-5dd7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-21T10:53:27.000Z",
+        "keywords": [
+          "shopping",
+          "chromeextension",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "shopping",
+          "chromeextension",
+          "tools"
+        ],
+        "pros": [
+          "Great for shopping",
+          "chromeextension-ready automation",
+          "Great for shopping"
+        ],
+        "cons": [
+          "Overkill for shopping experiments",
+          "Needs extra setup for chromeextension workflows",
+          "Overkill for shopping experiments"
+        ],
+        "highlights": [
+          "AliExpress pricing is dynamic and opaque: Pre-sale inflation: Sellers raise prices 2-4 weeks before major sales (11.11, Summer Sale, Anniversary Sale) so the \"discount\" percentage looks bigger.",
+          "You see a line graph with price points over time, typically covering the last 30-90 days depending on when AliTools first indexed the product.</p> <p><strong>History depth:</strong> 30-90 days.",
+          "Read our <a href=\"https://news.astools.app/blog/aliexpress-seller-guide\" rel=\"noopener noreferrer\">seller reliability guide</a> for a framework on evaluating stores before you buy.</em></p>"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "What can visitors",
+        "slug": "what-can-visitors",
+        "description": "The Cable Climper specifications listed by STAR include: Binding range: 8–58 mm A Strong IMC 2026 Booth Message You can use this as the final visitor-facing content: What Can You Experience at the STAR Booth? STAR describes it as a remotely operated solution for organizing and securing fiber, copper and RJ45 cables, designed to reduce the need for ladders and manual cable tying.",
+        "summary": "The Cable Climper specifications listed by STAR include: Binding range: 8–58 mm A Strong IMC 2026 Booth Message You can use this as the final visitor-facing content: What Can You Experience at the STAR Booth? STAR describes it as a remotely operated solution for organizing and securing fiber, copper and RJ45 cables, designed to reduce the need for ladders and manual cable tying.",
+        "link": "https://dev.to/star_technologies_6921df2/what-can-visitors-experience-at-the-star-booth-ojg",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-21T10:41:48.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "At the STAR booth at IMC 2026, visitors can experience a hands-on range of fiber-optic, network testing, CCTV, and smart cable-management technologies.",
+          "STAR describes it as a remotely operated solution for organizing and securing fiber, copper and RJ45 cables, designed to reduce the need for ladders and manual cable tying.",
+          "The FFS-5000 platform is part of STAR's fusion-splicer range, built for field technicians working on fiber deployment, FTTH and telecom networks."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Nano Banana AI",
+        "slug": "nano-banana-ai",
+        "description": "With Nano Banana, you can replace a background, change clothing, move an object into a new environment, build an advertising visual, or create several images in one consistent style. For portraits, add: \"preserve facial features, age, hairstyle, and natural proportions.\" This reduces the chance of getting a different person instead of a careful edit.",
+        "summary": "With Nano Banana, you can replace a background, change clothing, move an object into a new environment, build an advertising visual, or create several images in one consistent style. For portraits, add: \"preserve facial features, age, hairstyle, and natural proportions.\" This reduces the chance of getting a different person instead of a careful edit.",
+        "link": "https://dev.to/iishka/nano-banana-ai-what-it-can-do-and-how-to-use-it-3bd6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-09-21T10:39:11.000Z",
+        "keywords": [
+          "ai",
+          "machinelearning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "machinelearning",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "machinelearning-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for machinelearning workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "With Nano Banana, you can replace a background, change clothing, move an object into a new environment, build an advertising visual, or create several images in one consistent style.",
+          "For portraits, add: \"preserve facial features, age, hairstyle, and natural proportions.\" This reduces the chance of getting a different person instead of a careful edit.",
+          "It can also be useful for virtual photo shoots and product cards.</p> <h2> How to write a good edit prompt </h2> <p>Describe both the requested change and the details that must remain unchanged."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-09-20T10:08:29.164Z",
     "lastUpdated": "2026-09-20T10:08:29.164Z",
     "visibleDate": "Sep 20, 2026",

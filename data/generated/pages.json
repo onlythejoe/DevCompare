@@ -7,6 +7,661 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-02T11:23:54.687Z",
+    "lastUpdated": "2026-10-02T11:23:54.687Z",
+    "visibleDate": "Oct 2, 2026",
+    "url": "pages/2026-10-02-112354687-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-02-112354687-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to Create",
+      "Why media fans",
+      "How do you deal with overly bright websites at night? I made a small Chrome extension for it"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include How to Create, Why media fans, How do you deal with overly bright websites",
+    "tools": [
+      {
+        "name": "How to Create",
+        "slug": "how-to-create",
+        "description": "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify. Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+        "summary": "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify. Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+        "link": "https://dev.to/abhinandan_basotra_1c0d50/how-to-create-a-contact-sheet-online-for-free-no-photoshop-required-4lpi",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-02T11:02:27.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "tutorial"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+          "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+          "They can be useful for: - Product images - Screenshots - Illustrations - Video frames - Design variations - Stock images ## How Does a Contact Sheet Generator Work?"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why media fans",
+        "slug": "why-media-fans",
+        "description": "Article URL: https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl Comments URL: https://news.ycombinator.com/item?id=49932048 Points: 15 # Comments: 11",
+        "summary": "Article URL: https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl Comments URL: https://news.ycombinator.com/item?id=49932048 Points: 15 # Comments: 11",
+        "link": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
+        "source": "Hacker News",
+        "isoDate": "2026-10-02T10:50:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How do you deal with overly bright websites at night? I made a small Chrome extension for it",
+        "slug": "how-do-you-deal-with-overly-bright-websites-at-night-i-made-a-small-chrome-extension-for-it",
+        "description": "🔅 Adjust Page Brightness: Take Control of Your Screen's Luminosity Code Wanderer Dec 5 '24 #webdev #productivity #chrome #extensions 2 reactions comment 2 min read",
+        "summary": "🔅 Adjust Page Brightness: Take Control of Your Screen's Luminosity Code Wanderer Dec 5 '24 #webdev #productivity #chrome #extensions 2 reactions comment 2 min read",
+        "link": "https://dev.to/codewanderer/how-do-you-deal-with-overly-bright-websites-at-night-i-made-a-small-chrome-extension-for-it-38cg",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-02T10:33:08.000Z",
+        "keywords": [
+          "javascript",
+          "showdev",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "showdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for javascript",
+          "showdev-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for showdev workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built 59 free browser-based dev tools in vanilla JS",
+        "slug": "i-built-59-free-browser-based-dev-tools-in-vanilla-js",
+        "description": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "summary": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-2hdo",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-02T09:59:33.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers.",
+          "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+          "</h2> <p>The main constraint I set for myself: <strong>zero dependencies, zero server, zero telemetry</strong>.</p> <p>When you paste your JWT token into jwt.io, it goes to their server."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "EasierPyLangLib",
+        "slug": "easierpylanglib",
+        "description": "make python easier repo <h1> make python easier </h1> <p><a href=\"https://github.com/yFish26/EasierPyLangLib\" rel=\"noopener noreferrer\">repo</a></p>",
+        "summary": "make python easier repo <h1> make python easier </h1> <p><a href=\"https://github.com/yFish26/EasierPyLangLib\" rel=\"noopener noreferrer\">repo</a></p>",
+        "link": "https://dev.to/yfish26/easierpylanglib-make-python-easier-1n82",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-02T09:20:38.000Z",
+        "keywords": [
+          "python",
+          "pythonlib",
+          "tools",
+          "github",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "python",
+          "pythonlib",
+          "tools"
+        ],
+        "pros": [
+          "Great for python",
+          "pythonlib-ready automation",
+          "Great for python"
+        ],
+        "cons": [
+          "Overkill for python experiments",
+          "Needs extra setup for pythonlib workflows",
+          "Overkill for python experiments"
+        ],
+        "highlights": [
+          "make python easier repo <h1> make python easier </h1> <p><a href=\"https://github.com/yFish26/EasierPyLangLib\" rel=\"noopener noreferrer\">repo</a></p>"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-02T11:23:54.687Z",
+    "lastUpdated": "2026-10-02T11:23:54.687Z",
+    "visibleDate": "Oct 2, 2026",
+    "url": "pages/2026-10-02-112354687-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-02-112354687-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to Create",
+      "Why media fans",
+      "How do you deal with overly bright websites at night? I made a small Chrome extension for it"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include How to Create, Why media fans, How do you deal with overly bright ",
+    "tools": [
+      {
+        "name": "How to Create",
+        "slug": "how-to-create",
+        "description": "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify. Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+        "summary": "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify. Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+        "link": "https://dev.to/abhinandan_basotra_1c0d50/how-to-create-a-contact-sheet-online-for-free-no-photoshop-required-4lpi",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-02T11:02:27.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "tutorial"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+          "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+          "They can be useful for: - Product images - Screenshots - Illustrations - Video frames - Design variations - Stock images ## How Does a Contact Sheet Generator Work?"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why media fans",
+        "slug": "why-media-fans",
+        "description": "Article URL: https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl Comments URL: https://news.ycombinator.com/item?id=49932048 Points: 15 # Comments: 11",
+        "summary": "Article URL: https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl Comments URL: https://news.ycombinator.com/item?id=49932048 Points: 15 # Comments: 11",
+        "link": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
+        "source": "Hacker News",
+        "isoDate": "2026-10-02T10:50:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How do you deal with overly bright websites at night? I made a small Chrome extension for it",
+        "slug": "how-do-you-deal-with-overly-bright-websites-at-night-i-made-a-small-chrome-extension-for-it",
+        "description": "🔅 Adjust Page Brightness: Take Control of Your Screen's Luminosity Code Wanderer Dec 5 '24 #webdev #productivity #chrome #extensions 2 reactions comment 2 min read",
+        "summary": "🔅 Adjust Page Brightness: Take Control of Your Screen's Luminosity Code Wanderer Dec 5 '24 #webdev #productivity #chrome #extensions 2 reactions comment 2 min read",
+        "link": "https://dev.to/codewanderer/how-do-you-deal-with-overly-bright-websites-at-night-i-made-a-small-chrome-extension-for-it-38cg",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-02T10:33:08.000Z",
+        "keywords": [
+          "javascript",
+          "showdev",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "showdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for javascript",
+          "showdev-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for showdev workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built 59 free browser-based dev tools in vanilla JS",
+        "slug": "i-built-59-free-browser-based-dev-tools-in-vanilla-js",
+        "description": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "summary": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-2hdo",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-02T09:59:33.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers.",
+          "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+          "</h2> <p>The main constraint I set for myself: <strong>zero dependencies, zero server, zero telemetry</strong>.</p> <p>When you paste your JWT token into jwt.io, it goes to their server."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-02T11:23:54.687Z",
+    "lastUpdated": "2026-10-02T11:23:54.687Z",
+    "visibleDate": "Oct 2, 2026",
+    "url": "pages/2026-10-02-112354687-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-02-112354687-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to Create",
+      "Why media fans"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include How to Create, Why media fans. Gitpod brings zero",
+    "tools": [
+      {
+        "name": "How to Create",
+        "slug": "how-to-create",
+        "description": "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify. Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+        "summary": "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify. Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+        "link": "https://dev.to/abhinandan_basotra_1c0d50/how-to-create-a-contact-sheet-online-for-free-no-photoshop-required-4lpi",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-02T11:02:27.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "tutorial"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+          "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+          "They can be useful for: - Product images - Screenshots - Illustrations - Video frames - Design variations - Stock images ## How Does a Contact Sheet Generator Work?"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why media fans",
+        "slug": "why-media-fans",
+        "description": "Article URL: https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl Comments URL: https://news.ycombinator.com/item?id=49932048 Points: 15 # Comments: 11",
+        "summary": "Article URL: https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl Comments URL: https://news.ycombinator.com/item?id=49932048 Points: 15 # Comments: 11",
+        "link": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
+        "source": "Hacker News",
+        "isoDate": "2026-10-02T10:50:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-02T11:23:54.687Z",
+    "lastUpdated": "2026-10-02T11:23:54.687Z",
+    "visibleDate": "Oct 2, 2026",
+    "url": "pages/2026-10-02-112354687-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-02-112354687-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How to Create",
+      "Why media fans",
+      "How do you deal with overly bright websites at night? I made a small Chrome extension for it"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include How to Create, Why media fans, How do you deal with overly bright websit",
+    "tools": [
+      {
+        "name": "How to Create",
+        "slug": "how-to-create",
+        "description": "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify. Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+        "summary": "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify. Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+        "link": "https://dev.to/abhinandan_basotra_1c0d50/how-to-create-a-contact-sheet-online-for-free-no-photoshop-required-4lpi",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-02T11:02:27.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "tutorial"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+          "Compare Similar Images When several photographs are placed next to each other, differences in composition, lighting, sharpness, expressions, and framing become easier to identify.",
+          "They can be useful for: - Product images - Screenshots - Illustrations - Video frames - Design variations - Stock images ## How Does a Contact Sheet Generator Work?"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why media fans",
+        "slug": "why-media-fans",
+        "description": "Article URL: https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl Comments URL: https://news.ycombinator.com/item?id=49932048 Points: 15 # Comments: 11",
+        "summary": "Article URL: https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl Comments URL: https://news.ycombinator.com/item?id=49932048 Points: 15 # Comments: 11",
+        "link": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
+        "source": "Hacker News",
+        "isoDate": "2026-10-02T10:50:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How do you deal with overly bright websites at night? I made a small Chrome extension for it",
+        "slug": "how-do-you-deal-with-overly-bright-websites-at-night-i-made-a-small-chrome-extension-for-it",
+        "description": "🔅 Adjust Page Brightness: Take Control of Your Screen's Luminosity Code Wanderer Dec 5 '24 #webdev #productivity #chrome #extensions 2 reactions comment 2 min read",
+        "summary": "🔅 Adjust Page Brightness: Take Control of Your Screen's Luminosity Code Wanderer Dec 5 '24 #webdev #productivity #chrome #extensions 2 reactions comment 2 min read",
+        "link": "https://dev.to/codewanderer/how-do-you-deal-with-overly-bright-websites-at-night-i-made-a-small-chrome-extension-for-it-38cg",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-02T10:33:08.000Z",
+        "keywords": [
+          "javascript",
+          "showdev",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "showdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for javascript",
+          "showdev-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for showdev workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-01T11:51:44.597Z",
     "lastUpdated": "2026-10-01T11:51:44.597Z",
     "visibleDate": "Oct 1, 2026",

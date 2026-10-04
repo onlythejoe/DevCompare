@@ -7,6 +7,691 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-04T11:21:28.240Z",
+    "lastUpdated": "2026-10-04T11:21:28.240Z",
+    "visibleDate": "Oct 4, 2026",
+    "url": "pages/2026-10-04-112128240-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-04-112128240-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Accelerator Fit Checker",
+      "A site I",
+      "Finally Found a"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Accelerator Fit Checker, A site I, Finally Found a. Productivity stacks th",
+    "tools": [
+      {
+        "name": "Accelerator Fit Checker",
+        "slug": "accelerator-fit-checker",
+        "description": "Learn more and try it out here: Accelerator Fit Checker <p>We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements. This tool takes your key startup metrics – like revenue, user growth, and team size – and provides a straightforward eligibility score.",
+        "summary": "Learn more and try it out here: Accelerator Fit Checker <p>We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements. This tool takes your key startup metrics – like revenue, user growth, and team size – and provides a straightforward eligibility score.",
+        "link": "https://dev.to/itsevilduck/accelerator-fit-checker-gauge-your-startups-eligibility-3phn",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-04T10:16:31.000Z",
+        "keywords": [
+          "startup",
+          "accelerators",
+          "metrics",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "startup",
+          "accelerators",
+          "metrics"
+        ],
+        "pros": [
+          "Great for startup",
+          "accelerators-ready automation",
+          "Great for startup"
+        ],
+        "cons": [
+          "Overkill for startup experiments",
+          "Needs extra setup for accelerators workflows",
+          "Overkill for startup experiments"
+        ],
+        "highlights": [
+          "Learn more and try it out here: Accelerator Fit Checker <p>We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements.",
+          "This tool takes your key startup metrics – like revenue, user growth, and team size – and provides a straightforward eligibility score.",
+          "We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "A site I",
+        "slug": "a-site-i",
+        "description": "Jev decision model <p>I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads. I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+        "summary": "Jev decision model <p>I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads. I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+        "link": "https://dev.to/fieldnotesdc/a-site-i-keep-coming-back-to-for-jev001-a2d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-04T10:16:23.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Jev decision model <p>I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+          "I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+          "It pulls together docs, real-world test notes, and community arguments about the Jev decision model without the usual hype."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Finally Found a",
+        "slug": "finally-found-a",
+        "description": "youtubemp3hub.com <p>I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through. I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through.",
+        "summary": "youtubemp3hub.com <p>I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through. I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through.",
+        "link": "https://dev.to/fieldnotesdc/finally-found-a-youtube-to-mp3-converter-that-just-works-2fn3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-04T10:16:14.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "youtubemp3hub.com <p>I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through.",
+          "I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through.",
+          "You paste a YouTube link, pick your bitrate — I usually go with 192 kbps for music and 128 for podcasts — and it just converts."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Finally, a Better",
+        "slug": "finally-a-better",
+        "description": "git-homed.org <p>I used to start every morning by manually browsing GitHub Trending, clicking through each language tab and category to spot new repositories. It's become my go-to morning read, and honestly, it saves me at least twenty minutes a day.</p> <p><a href=\"https://git-homed.org/\" rel=\"noopener noreferrer\">git-homed.org</a></p>",
+        "summary": "git-homed.org <p>I used to start every morning by manually browsing GitHub Trending, clicking through each language tab and category to spot new repositories. It's become my go-to morning read, and honestly, it saves me at least twenty minutes a day.</p> <p><a href=\"https://git-homed.org/\" rel=\"noopener noreferrer\">git-homed.org</a></p>",
+        "link": "https://dev.to/fieldnotesdc/finally-a-better-way-to-track-github-trends-4g0j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-04T10:15:14.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "git-homed.org <p>I used to start every morning by manually browsing GitHub Trending, clicking through each language tab and category to spot new repositories.",
+          "Last week, a colleague mentioned git-homed, a site that automatically tracks GitHub Trending daily and organizes new entries by language and category.",
+          "I used to start every morning by manually browsing GitHub Trending, clicking through each language tab and category to spot new repositories."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "A Site That",
+        "slug": "a-site-that",
+        "description": "It feels like a fellow tinkerer sharing notes, not a sales pitch.</p> <p><a href=\"https://ai-homed.org/\" rel=\"noopener noreferrer\">ai-homed.org</a></p> The prompt engineering section broke down why my \"act as a senior developer\" prompts kept failing (spoiler: I wasn't giving context).",
+        "summary": "It feels like a fellow tinkerer sharing notes, not a sales pitch.</p> <p><a href=\"https://ai-homed.org/\" rel=\"noopener noreferrer\">ai-homed.org</a></p> The prompt engineering section broke down why my \"act as a senior developer\" prompts kept failing (spoiler: I wasn't giving context).",
+        "link": "https://dev.to/fieldnotesdc/a-site-that-finally-makes-prompt-engineering-click-9gh",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-04T10:14:25.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "The prompt engineering section broke down why my \"act as a senior developer\" prompts kept failing (spoiler: I wasn't giving context).",
+          "The prompt engineering section broke down why my \"act as a senior developer\" prompts kept failing (spoiler: I wasn't giving context).",
+          "It feels like a fellow tinkerer sharing notes, not a sales pitch.</p> <p><a href=\"https://ai-homed.org/\" rel=\"noopener noreferrer\">ai-homed.org</a></p>"
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-04T11:21:28.240Z",
+    "lastUpdated": "2026-10-04T11:21:28.240Z",
+    "visibleDate": "Oct 4, 2026",
+    "url": "pages/2026-10-04-112128240-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-04-112128240-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Accelerator Fit Checker",
+      "A site I",
+      "Finally Found a"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Accelerator Fit Checker, A site I, Finally Found a. Reliable remot",
+    "tools": [
+      {
+        "name": "Accelerator Fit Checker",
+        "slug": "accelerator-fit-checker",
+        "description": "Learn more and try it out here: Accelerator Fit Checker <p>We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements. This tool takes your key startup metrics – like revenue, user growth, and team size – and provides a straightforward eligibility score.",
+        "summary": "Learn more and try it out here: Accelerator Fit Checker <p>We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements. This tool takes your key startup metrics – like revenue, user growth, and team size – and provides a straightforward eligibility score.",
+        "link": "https://dev.to/itsevilduck/accelerator-fit-checker-gauge-your-startups-eligibility-3phn",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-04T10:16:31.000Z",
+        "keywords": [
+          "startup",
+          "accelerators",
+          "metrics",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "startup",
+          "accelerators",
+          "metrics"
+        ],
+        "pros": [
+          "Great for startup",
+          "accelerators-ready automation",
+          "Great for startup"
+        ],
+        "cons": [
+          "Overkill for startup experiments",
+          "Needs extra setup for accelerators workflows",
+          "Overkill for startup experiments"
+        ],
+        "highlights": [
+          "Learn more and try it out here: Accelerator Fit Checker <p>We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements.",
+          "This tool takes your key startup metrics – like revenue, user growth, and team size – and provides a straightforward eligibility score.",
+          "We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "A site I",
+        "slug": "a-site-i",
+        "description": "Jev decision model <p>I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads. I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+        "summary": "Jev decision model <p>I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads. I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+        "link": "https://dev.to/fieldnotesdc/a-site-i-keep-coming-back-to-for-jev001-a2d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-04T10:16:23.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Jev decision model <p>I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+          "I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+          "It pulls together docs, real-world test notes, and community arguments about the Jev decision model without the usual hype."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Finally Found a",
+        "slug": "finally-found-a",
+        "description": "youtubemp3hub.com <p>I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through. I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through.",
+        "summary": "youtubemp3hub.com <p>I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through. I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through.",
+        "link": "https://dev.to/fieldnotesdc/finally-found-a-youtube-to-mp3-converter-that-just-works-2fn3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-04T10:16:14.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "youtubemp3hub.com <p>I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through.",
+          "I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through.",
+          "You paste a YouTube link, pick your bitrate — I usually go with 192 kbps for music and 128 for podcasts — and it just converts."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Finally, a Better",
+        "slug": "finally-a-better",
+        "description": "git-homed.org <p>I used to start every morning by manually browsing GitHub Trending, clicking through each language tab and category to spot new repositories. It's become my go-to morning read, and honestly, it saves me at least twenty minutes a day.</p> <p><a href=\"https://git-homed.org/\" rel=\"noopener noreferrer\">git-homed.org</a></p>",
+        "summary": "git-homed.org <p>I used to start every morning by manually browsing GitHub Trending, clicking through each language tab and category to spot new repositories. It's become my go-to morning read, and honestly, it saves me at least twenty minutes a day.</p> <p><a href=\"https://git-homed.org/\" rel=\"noopener noreferrer\">git-homed.org</a></p>",
+        "link": "https://dev.to/fieldnotesdc/finally-a-better-way-to-track-github-trends-4g0j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-04T10:15:14.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "git-homed.org <p>I used to start every morning by manually browsing GitHub Trending, clicking through each language tab and category to spot new repositories.",
+          "Last week, a colleague mentioned git-homed, a site that automatically tracks GitHub Trending daily and organizes new entries by language and category.",
+          "I used to start every morning by manually browsing GitHub Trending, clicking through each language tab and category to spot new repositories."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-04T11:21:28.240Z",
+    "lastUpdated": "2026-10-04T11:21:28.240Z",
+    "visibleDate": "Oct 4, 2026",
+    "url": "pages/2026-10-04-112128240-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-04-112128240-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Accelerator Fit Checker",
+      "A site I"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Accelerator Fit Checker, A site I. Gitpod brings ",
+    "tools": [
+      {
+        "name": "Accelerator Fit Checker",
+        "slug": "accelerator-fit-checker",
+        "description": "Learn more and try it out here: Accelerator Fit Checker <p>We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements. This tool takes your key startup metrics – like revenue, user growth, and team size – and provides a straightforward eligibility score.",
+        "summary": "Learn more and try it out here: Accelerator Fit Checker <p>We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements. This tool takes your key startup metrics – like revenue, user growth, and team size – and provides a straightforward eligibility score.",
+        "link": "https://dev.to/itsevilduck/accelerator-fit-checker-gauge-your-startups-eligibility-3phn",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-04T10:16:31.000Z",
+        "keywords": [
+          "startup",
+          "accelerators",
+          "metrics",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "startup",
+          "accelerators",
+          "metrics"
+        ],
+        "pros": [
+          "Great for startup",
+          "accelerators-ready automation",
+          "Great for startup"
+        ],
+        "cons": [
+          "Overkill for startup experiments",
+          "Needs extra setup for accelerators workflows",
+          "Overkill for startup experiments"
+        ],
+        "highlights": [
+          "Learn more and try it out here: Accelerator Fit Checker <p>We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements.",
+          "This tool takes your key startup metrics – like revenue, user growth, and team size – and provides a straightforward eligibility score.",
+          "We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "A site I",
+        "slug": "a-site-i",
+        "description": "Jev decision model <p>I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads. I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+        "summary": "Jev decision model <p>I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads. I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+        "link": "https://dev.to/fieldnotesdc/a-site-i-keep-coming-back-to-for-jev001-a2d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-04T10:16:23.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Jev decision model <p>I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+          "I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+          "It pulls together docs, real-world test notes, and community arguments about the Jev decision model without the usual hype."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-04T11:21:28.240Z",
+    "lastUpdated": "2026-10-04T11:21:28.240Z",
+    "visibleDate": "Oct 4, 2026",
+    "url": "pages/2026-10-04-112128240-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-04-112128240-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Accelerator Fit Checker",
+      "A site I",
+      "Finally Found a"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Accelerator Fit Checker, A site I, Finally Found a. New launches that ar",
+    "tools": [
+      {
+        "name": "Accelerator Fit Checker",
+        "slug": "accelerator-fit-checker",
+        "description": "Learn more and try it out here: Accelerator Fit Checker <p>We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements. This tool takes your key startup metrics – like revenue, user growth, and team size – and provides a straightforward eligibility score.",
+        "summary": "Learn more and try it out here: Accelerator Fit Checker <p>We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements. This tool takes your key startup metrics – like revenue, user growth, and team size – and provides a straightforward eligibility score.",
+        "link": "https://dev.to/itsevilduck/accelerator-fit-checker-gauge-your-startups-eligibility-3phn",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-04T10:16:31.000Z",
+        "keywords": [
+          "startup",
+          "accelerators",
+          "metrics",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "startup",
+          "accelerators",
+          "metrics"
+        ],
+        "pros": [
+          "Great for startup",
+          "accelerators-ready automation",
+          "Great for startup"
+        ],
+        "cons": [
+          "Overkill for startup experiments",
+          "Needs extra setup for accelerators workflows",
+          "Overkill for startup experiments"
+        ],
+        "highlights": [
+          "Learn more and try it out here: Accelerator Fit Checker <p>We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements.",
+          "This tool takes your key startup metrics – like revenue, user growth, and team size – and provides a straightforward eligibility score.",
+          "We built Accelerator Fit Checker because founders often wonder how their startup metrics stack up against typical accelerator requirements."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "A site I",
+        "slug": "a-site-i",
+        "description": "Jev decision model <p>I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads. I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+        "summary": "Jev decision model <p>I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads. I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+        "link": "https://dev.to/fieldnotesdc/a-site-i-keep-coming-back-to-for-jev001-a2d",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-04T10:16:23.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "Jev decision model <p>I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+          "I've been comparing TypeSafe's System One decision model with the Laya open-source version for weeks now, mostly through scattered papers and half-finished forum threads.",
+          "It pulls together docs, real-world test notes, and community arguments about the Jev decision model without the usual hype."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Finally Found a",
+        "slug": "finally-found-a",
+        "description": "youtubemp3hub.com <p>I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through. I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through.",
+        "summary": "youtubemp3hub.com <p>I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through. I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through.",
+        "link": "https://dev.to/fieldnotesdc/finally-found-a-youtube-to-mp3-converter-that-just-works-2fn3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-04T10:16:14.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "youtubemp3hub.com <p>I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through.",
+          "I've tried a bunch of YouTube to MP3 converters over the years, and most of them are either covered in sketchy ads or fail halfway through.",
+          "You paste a YouTube link, pick your bitrate — I usually go with 192 kbps for music and 128 for podcasts — and it just converts."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-03T10:41:05.038Z",
     "lastUpdated": "2026-10-03T10:41:05.038Z",
     "visibleDate": "Oct 3, 2026",

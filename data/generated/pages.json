@@ -7,6 +7,691 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-05T12:43:43.400Z",
+    "lastUpdated": "2026-10-05T12:43:43.400Z",
+    "visibleDate": "Oct 5, 2026",
+    "url": "pages/2026-10-05-124343400-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-05-124343400-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "SqlJam",
+      "Online course launch",
+      "Copywriting for course"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include SqlJam, Online course launch, Copywriting for course. Productivity stacks ",
+    "tools": [
+      {
+        "name": "SqlJam",
+        "slug": "sqljam",
+        "description": "Quality: 303 tests (full cross-database import matrix, export package round trips, old-version SQL executed on real servers, UI and boundary tests), 91% line coverage. Hand-written scripts are slow and miss things.</p> <p>SqlJam reads <strong>one metadata tree</strong> and generates SQL with a <strong>dialect chosen by target type and version</strong>.",
+        "summary": "Quality: 303 tests (full cross-database import matrix, export package round trips, old-version SQL executed on real servers, UI and boundary tests), 91% line coverage. Hand-written scripts are slow and miss things.</p> <p>SqlJam reads <strong>one metadata tree</strong> and generates SQL with a <strong>dialect chosen by target type and version</strong>.",
+        "link": "https://dev.to/paganini2008/sqljam-move-tables-across-databases-with-schema-data-and-all-4n87",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-05T12:23:54.000Z",
+        "keywords": [
+          "database",
+          "java",
+          "sql",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "database",
+          "java",
+          "sql"
+        ],
+        "pros": [
+          "Great for database",
+          "java-ready automation",
+          "Great for database"
+        ],
+        "cons": [
+          "Overkill for database experiments",
+          "Needs extra setup for java workflows",
+          "Overkill for database experiments"
+        ],
+        "highlights": [
+          "Quality: 303 tests (full cross-database import matrix, export package round trips, old-version SQL executed on real servers, UI and boundary tests), 91% line coverage.",
+          "Hand-written scripts are slow and miss things.</p> <p>SqlJam reads <strong>one metadata tree</strong> and generates SQL with a <strong>dialect chosen by target type and version</strong>.",
+          "Direct import uses batched inserts for speed.</li> <li> <strong>Version-specific SQL</strong>: older servers get the syntax they understand instead of a lowest common denominator.</li> </ul> <h2> 10."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Online course launch",
+        "slug": "online-course-launch",
+        "description": "Grab the ready-made toolkit: Course Launch Copy Kit — skip the setup and start today. Originally published at zumip.com <p>Online Course Launch Copy: как написать текст, который продаёт ваш курс</p> <p>Вы доделали курс.",
+        "summary": "Grab the ready-made toolkit: Course Launch Copy Kit — skip the setup and start today. Originally published at zumip.com <p>Online Course Launch Copy: как написать текст, который продаёт ваш курс</p> <p>Вы доделали курс.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/online-course-launch-copy-4339",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-05T12:16:17.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Grab the ready-made toolkit: Course Launch Copy Kit — skip the setup and start today.",
+          "Originally published at zumip.com <p>Online Course Launch Copy: как написать текст, который продаёт ваш курс</p> <p>Вы доделали курс.",
+          "Online Course Launch Copy: как написать текст, который продаёт ваш курс Вы доделали курс."
+        ],
+        "pricing": "Paid plans starting at $49",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Copywriting for course",
+        "slug": "copywriting-for-course",
+        "description": "It includes proven frameworks for sales pages, swipe files for launch emails, and step-by-step prompts for social posts—so you can go from blank page to launch-ready copy in a weekend instead of a month. The course is <em>done</em>.</p> <p>And now you're staring at a blank sales page, wondering why the words won't come.</p> <p>Here's the uncomfortable truth: a great course with weak copy doesn't sell.",
+        "summary": "It includes proven frameworks for sales pages, swipe files for launch emails, and step-by-step prompts for social posts—so you can go from blank page to launch-ready copy in a weekend instead of a month. The course is <em>done</em>.</p> <p>And now you're staring at a blank sales page, wondering why the words won't come.</p> <p>Here's the uncomfortable truth: a great course with weak copy doesn't sell.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/copywriting-for-course-creators-3pn2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-05T12:15:02.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Before you write a single word of sales copy, answer these two questions in plain language: What does my student's life look like right before they buy?",
+          "Originally published at zumip.com <h2> Copywriting for Course Creators: How to Sell Out Your Course Without Sounding Like a Used Car Salesman </h2> <p>You've done the hard part.",
+          "Copywriting for Course Creators: How to Sell Out Your Course Without Sounding Like a Used Car Salesman You've done the hard part."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Comparing Brute Ratel vs. Cobalt Strike and Open-Source Alternatives",
+        "slug": "comparing-brute-ratel-vs-cobalt-strike-and-open-source-alternatives",
+        "description": "Prolonged Operational Downtime: Sparse troubleshooting resources mean issues like C2 communication failures or payload execution errors often require extended resolution times, compromising mission-critical timelines. In contrast, Brute Ratel’s affordability and feature parity with Cobalt Strike make it an attractive option, though its newer market presence may expose it to heightened scrutiny and attack surface risks.",
+        "summary": "Prolonged Operational Downtime: Sparse troubleshooting resources mean issues like C2 communication failures or payload execution errors often require extended resolution times, compromising mission-critical timelines. In contrast, Brute Ratel’s affordability and feature parity with Cobalt Strike make it an attractive option, though its newer market presence may expose it to heightened scrutiny and attack surface risks.",
+        "link": "https://dev.to/olgabyte/comparing-brute-ratel-vs-cobalt-strike-and-open-source-alternatives-is-the-investment-worth-it-2gd5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-05T11:59:36.000Z",
+        "keywords": [
+          "cybersecurity",
+          "redteaming",
+          "tools",
+          "comparison",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "cybersecurity",
+          "redteaming",
+          "tools"
+        ],
+        "pros": [
+          "Great for cybersecurity",
+          "redteaming-ready automation",
+          "Great for cybersecurity"
+        ],
+        "cons": [
+          "Overkill for cybersecurity experiments",
+          "Needs extra setup for redteaming workflows",
+          "Overkill for cybersecurity experiments"
+        ],
+        "highlights": [
+          "Analogous to a locksmith’s precision tools, these platforms enable security professionals to simulate advanced persistent threats (APTs) and assess resilience against real-world attack vectors.",
+          "Analogous to a locksmith’s precision tools, these platforms enable security professionals to simulate advanced persistent threats (APTs) and assess resilience against real-world attack vectors.",
+          "Among these tools, Brute Ratel has emerged as a notable contender, offering advanced capabilities at a price point that challenges established solutions like Cobalt Strike."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Stripe's own tools",
+        "slug": "stripe-s-own-tools",
+        "description": "Event-driven checks react per refund near-real-time, need idempotent handlers because delivery retries, and produce fast single-case answers at the cost of running infrastructure continuously. Query Run results persist for 90 days, and each download URL expires after roughly five minutes (<a href=\"https://docs.stripe.com/reports/query-runs\" rel=\"noopener noreferrer\">Query Run API</a>).",
+        "summary": "Event-driven checks react per refund near-real-time, need idempotent handlers because delivery retries, and produce fast single-case answers at the cost of running infrastructure continuously. Query Run results persist for 90 days, and each download URL expires after roughly five minutes (<a href=\"https://docs.stripe.com/reports/query-runs\" rel=\"noopener noreferrer\">Query Run API</a>).",
+        "link": "https://dev.to/veristria/stripes-own-tools-for-fee-visibility-and-their-limits-4o84",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-05T11:58:50.000Z",
+        "keywords": [
+          "feeguard",
+          "stripes",
+          "own",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "feeguard",
+          "stripes",
+          "own"
+        ],
+        "pros": [
+          "Great for feeguard",
+          "stripes-ready automation",
+          "Great for feeguard"
+        ],
+        "cons": [
+          "Overkill for feeguard experiments",
+          "Needs extra setup for stripes workflows",
+          "Overkill for feeguard experiments"
+        ],
+        "highlights": [
+          "Event-driven checks react per refund near-real-time, need idempotent handlers because delivery retries, and produce fast single-case answers at the cost of running infrastructure continuously.",
+          "Alongside these sits Data Pipeline, documented as a retrieval path for the same tables outside the Sigma editor (querying fees data); warehouse-oriented teams pair it with destinations like BigQuery.",
+          "Query Run results persist for 90 days, and each download URL expires after roughly five minutes (<a href=\"https://docs.stripe.com/reports/query-runs\" rel=\"noopener noreferrer\">Query Run API</a>)."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-05T12:43:43.400Z",
+    "lastUpdated": "2026-10-05T12:43:43.400Z",
+    "visibleDate": "Oct 5, 2026",
+    "url": "pages/2026-10-05-124343400-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-05-124343400-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "SqlJam",
+      "Online course launch",
+      "Copywriting for course"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include SqlJam, Online course launch, Copywriting for course. Reliable rem",
+    "tools": [
+      {
+        "name": "SqlJam",
+        "slug": "sqljam",
+        "description": "Quality: 303 tests (full cross-database import matrix, export package round trips, old-version SQL executed on real servers, UI and boundary tests), 91% line coverage. Hand-written scripts are slow and miss things.</p> <p>SqlJam reads <strong>one metadata tree</strong> and generates SQL with a <strong>dialect chosen by target type and version</strong>.",
+        "summary": "Quality: 303 tests (full cross-database import matrix, export package round trips, old-version SQL executed on real servers, UI and boundary tests), 91% line coverage. Hand-written scripts are slow and miss things.</p> <p>SqlJam reads <strong>one metadata tree</strong> and generates SQL with a <strong>dialect chosen by target type and version</strong>.",
+        "link": "https://dev.to/paganini2008/sqljam-move-tables-across-databases-with-schema-data-and-all-4n87",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-05T12:23:54.000Z",
+        "keywords": [
+          "database",
+          "java",
+          "sql",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "database",
+          "java",
+          "sql"
+        ],
+        "pros": [
+          "Great for database",
+          "java-ready automation",
+          "Great for database"
+        ],
+        "cons": [
+          "Overkill for database experiments",
+          "Needs extra setup for java workflows",
+          "Overkill for database experiments"
+        ],
+        "highlights": [
+          "Quality: 303 tests (full cross-database import matrix, export package round trips, old-version SQL executed on real servers, UI and boundary tests), 91% line coverage.",
+          "Hand-written scripts are slow and miss things.</p> <p>SqlJam reads <strong>one metadata tree</strong> and generates SQL with a <strong>dialect chosen by target type and version</strong>.",
+          "Direct import uses batched inserts for speed.</li> <li> <strong>Version-specific SQL</strong>: older servers get the syntax they understand instead of a lowest common denominator.</li> </ul> <h2> 10."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Online course launch",
+        "slug": "online-course-launch",
+        "description": "Grab the ready-made toolkit: Course Launch Copy Kit — skip the setup and start today. Originally published at zumip.com <p>Online Course Launch Copy: как написать текст, который продаёт ваш курс</p> <p>Вы доделали курс.",
+        "summary": "Grab the ready-made toolkit: Course Launch Copy Kit — skip the setup and start today. Originally published at zumip.com <p>Online Course Launch Copy: как написать текст, который продаёт ваш курс</p> <p>Вы доделали курс.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/online-course-launch-copy-4339",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-05T12:16:17.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Grab the ready-made toolkit: Course Launch Copy Kit — skip the setup and start today.",
+          "Originally published at zumip.com <p>Online Course Launch Copy: как написать текст, который продаёт ваш курс</p> <p>Вы доделали курс.",
+          "Online Course Launch Copy: как написать текст, который продаёт ваш курс Вы доделали курс."
+        ],
+        "pricing": "Paid plans starting at $49",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Copywriting for course",
+        "slug": "copywriting-for-course",
+        "description": "It includes proven frameworks for sales pages, swipe files for launch emails, and step-by-step prompts for social posts—so you can go from blank page to launch-ready copy in a weekend instead of a month. The course is <em>done</em>.</p> <p>And now you're staring at a blank sales page, wondering why the words won't come.</p> <p>Here's the uncomfortable truth: a great course with weak copy doesn't sell.",
+        "summary": "It includes proven frameworks for sales pages, swipe files for launch emails, and step-by-step prompts for social posts—so you can go from blank page to launch-ready copy in a weekend instead of a month. The course is <em>done</em>.</p> <p>And now you're staring at a blank sales page, wondering why the words won't come.</p> <p>Here's the uncomfortable truth: a great course with weak copy doesn't sell.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/copywriting-for-course-creators-3pn2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-05T12:15:02.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Before you write a single word of sales copy, answer these two questions in plain language: What does my student's life look like right before they buy?",
+          "Originally published at zumip.com <h2> Copywriting for Course Creators: How to Sell Out Your Course Without Sounding Like a Used Car Salesman </h2> <p>You've done the hard part.",
+          "Copywriting for Course Creators: How to Sell Out Your Course Without Sounding Like a Used Car Salesman You've done the hard part."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Comparing Brute Ratel vs. Cobalt Strike and Open-Source Alternatives",
+        "slug": "comparing-brute-ratel-vs-cobalt-strike-and-open-source-alternatives",
+        "description": "Prolonged Operational Downtime: Sparse troubleshooting resources mean issues like C2 communication failures or payload execution errors often require extended resolution times, compromising mission-critical timelines. In contrast, Brute Ratel’s affordability and feature parity with Cobalt Strike make it an attractive option, though its newer market presence may expose it to heightened scrutiny and attack surface risks.",
+        "summary": "Prolonged Operational Downtime: Sparse troubleshooting resources mean issues like C2 communication failures or payload execution errors often require extended resolution times, compromising mission-critical timelines. In contrast, Brute Ratel’s affordability and feature parity with Cobalt Strike make it an attractive option, though its newer market presence may expose it to heightened scrutiny and attack surface risks.",
+        "link": "https://dev.to/olgabyte/comparing-brute-ratel-vs-cobalt-strike-and-open-source-alternatives-is-the-investment-worth-it-2gd5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-05T11:59:36.000Z",
+        "keywords": [
+          "cybersecurity",
+          "redteaming",
+          "tools",
+          "comparison",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "cybersecurity",
+          "redteaming",
+          "tools"
+        ],
+        "pros": [
+          "Great for cybersecurity",
+          "redteaming-ready automation",
+          "Great for cybersecurity"
+        ],
+        "cons": [
+          "Overkill for cybersecurity experiments",
+          "Needs extra setup for redteaming workflows",
+          "Overkill for cybersecurity experiments"
+        ],
+        "highlights": [
+          "Analogous to a locksmith’s precision tools, these platforms enable security professionals to simulate advanced persistent threats (APTs) and assess resilience against real-world attack vectors.",
+          "Analogous to a locksmith’s precision tools, these platforms enable security professionals to simulate advanced persistent threats (APTs) and assess resilience against real-world attack vectors.",
+          "Among these tools, Brute Ratel has emerged as a notable contender, offering advanced capabilities at a price point that challenges established solutions like Cobalt Strike."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-05T12:43:43.400Z",
+    "lastUpdated": "2026-10-05T12:43:43.400Z",
+    "visibleDate": "Oct 5, 2026",
+    "url": "pages/2026-10-05-124343400-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-05-124343400-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "SqlJam",
+      "Online course launch"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include SqlJam, Online course launch. Gitpod brings zero-",
+    "tools": [
+      {
+        "name": "SqlJam",
+        "slug": "sqljam",
+        "description": "Quality: 303 tests (full cross-database import matrix, export package round trips, old-version SQL executed on real servers, UI and boundary tests), 91% line coverage. Hand-written scripts are slow and miss things.</p> <p>SqlJam reads <strong>one metadata tree</strong> and generates SQL with a <strong>dialect chosen by target type and version</strong>.",
+        "summary": "Quality: 303 tests (full cross-database import matrix, export package round trips, old-version SQL executed on real servers, UI and boundary tests), 91% line coverage. Hand-written scripts are slow and miss things.</p> <p>SqlJam reads <strong>one metadata tree</strong> and generates SQL with a <strong>dialect chosen by target type and version</strong>.",
+        "link": "https://dev.to/paganini2008/sqljam-move-tables-across-databases-with-schema-data-and-all-4n87",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-05T12:23:54.000Z",
+        "keywords": [
+          "database",
+          "java",
+          "sql",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "database",
+          "java",
+          "sql"
+        ],
+        "pros": [
+          "Great for database",
+          "java-ready automation",
+          "Great for database"
+        ],
+        "cons": [
+          "Overkill for database experiments",
+          "Needs extra setup for java workflows",
+          "Overkill for database experiments"
+        ],
+        "highlights": [
+          "Quality: 303 tests (full cross-database import matrix, export package round trips, old-version SQL executed on real servers, UI and boundary tests), 91% line coverage.",
+          "Hand-written scripts are slow and miss things.</p> <p>SqlJam reads <strong>one metadata tree</strong> and generates SQL with a <strong>dialect chosen by target type and version</strong>.",
+          "Direct import uses batched inserts for speed.</li> <li> <strong>Version-specific SQL</strong>: older servers get the syntax they understand instead of a lowest common denominator.</li> </ul> <h2> 10."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Online course launch",
+        "slug": "online-course-launch",
+        "description": "Grab the ready-made toolkit: Course Launch Copy Kit — skip the setup and start today. Originally published at zumip.com <p>Online Course Launch Copy: как написать текст, который продаёт ваш курс</p> <p>Вы доделали курс.",
+        "summary": "Grab the ready-made toolkit: Course Launch Copy Kit — skip the setup and start today. Originally published at zumip.com <p>Online Course Launch Copy: как написать текст, который продаёт ваш курс</p> <p>Вы доделали курс.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/online-course-launch-copy-4339",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-05T12:16:17.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Grab the ready-made toolkit: Course Launch Copy Kit — skip the setup and start today.",
+          "Originally published at zumip.com <p>Online Course Launch Copy: как написать текст, который продаёт ваш курс</p> <p>Вы доделали курс.",
+          "Online Course Launch Copy: как написать текст, который продаёт ваш курс Вы доделали курс."
+        ],
+        "pricing": "Paid plans starting at $49",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-05T12:43:43.400Z",
+    "lastUpdated": "2026-10-05T12:43:43.400Z",
+    "visibleDate": "Oct 5, 2026",
+    "url": "pages/2026-10-05-124343400-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-05-124343400-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "SqlJam",
+      "Online course launch",
+      "Copywriting for course"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include SqlJam, Online course launch, Copywriting for course. New launches that ",
+    "tools": [
+      {
+        "name": "SqlJam",
+        "slug": "sqljam",
+        "description": "Quality: 303 tests (full cross-database import matrix, export package round trips, old-version SQL executed on real servers, UI and boundary tests), 91% line coverage. Hand-written scripts are slow and miss things.</p> <p>SqlJam reads <strong>one metadata tree</strong> and generates SQL with a <strong>dialect chosen by target type and version</strong>.",
+        "summary": "Quality: 303 tests (full cross-database import matrix, export package round trips, old-version SQL executed on real servers, UI and boundary tests), 91% line coverage. Hand-written scripts are slow and miss things.</p> <p>SqlJam reads <strong>one metadata tree</strong> and generates SQL with a <strong>dialect chosen by target type and version</strong>.",
+        "link": "https://dev.to/paganini2008/sqljam-move-tables-across-databases-with-schema-data-and-all-4n87",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-05T12:23:54.000Z",
+        "keywords": [
+          "database",
+          "java",
+          "sql",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "database",
+          "java",
+          "sql"
+        ],
+        "pros": [
+          "Great for database",
+          "java-ready automation",
+          "Great for database"
+        ],
+        "cons": [
+          "Overkill for database experiments",
+          "Needs extra setup for java workflows",
+          "Overkill for database experiments"
+        ],
+        "highlights": [
+          "Quality: 303 tests (full cross-database import matrix, export package round trips, old-version SQL executed on real servers, UI and boundary tests), 91% line coverage.",
+          "Hand-written scripts are slow and miss things.</p> <p>SqlJam reads <strong>one metadata tree</strong> and generates SQL with a <strong>dialect chosen by target type and version</strong>.",
+          "Direct import uses batched inserts for speed.</li> <li> <strong>Version-specific SQL</strong>: older servers get the syntax they understand instead of a lowest common denominator.</li> </ul> <h2> 10."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Online course launch",
+        "slug": "online-course-launch",
+        "description": "Grab the ready-made toolkit: Course Launch Copy Kit — skip the setup and start today. Originally published at zumip.com <p>Online Course Launch Copy: как написать текст, который продаёт ваш курс</p> <p>Вы доделали курс.",
+        "summary": "Grab the ready-made toolkit: Course Launch Copy Kit — skip the setup and start today. Originally published at zumip.com <p>Online Course Launch Copy: как написать текст, который продаёт ваш курс</p> <p>Вы доделали курс.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/online-course-launch-copy-4339",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-05T12:16:17.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Grab the ready-made toolkit: Course Launch Copy Kit — skip the setup and start today.",
+          "Originally published at zumip.com <p>Online Course Launch Copy: как написать текст, который продаёт ваш курс</p> <p>Вы доделали курс.",
+          "Online Course Launch Copy: как написать текст, который продаёт ваш курс Вы доделали курс."
+        ],
+        "pricing": "Paid plans starting at $49",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Copywriting for course",
+        "slug": "copywriting-for-course",
+        "description": "It includes proven frameworks for sales pages, swipe files for launch emails, and step-by-step prompts for social posts—so you can go from blank page to launch-ready copy in a weekend instead of a month. The course is <em>done</em>.</p> <p>And now you're staring at a blank sales page, wondering why the words won't come.</p> <p>Here's the uncomfortable truth: a great course with weak copy doesn't sell.",
+        "summary": "It includes proven frameworks for sales pages, swipe files for launch emails, and step-by-step prompts for social posts—so you can go from blank page to launch-ready copy in a weekend instead of a month. The course is <em>done</em>.</p> <p>And now you're staring at a blank sales page, wondering why the words won't come.</p> <p>Here's the uncomfortable truth: a great course with weak copy doesn't sell.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/copywriting-for-course-creators-3pn2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-05T12:15:02.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Before you write a single word of sales copy, answer these two questions in plain language: What does my student's life look like right before they buy?",
+          "Originally published at zumip.com <h2> Copywriting for Course Creators: How to Sell Out Your Course Without Sounding Like a Used Car Salesman </h2> <p>You've done the hard part.",
+          "Copywriting for Course Creators: How to Sell Out Your Course Without Sounding Like a Used Car Salesman You've done the hard part."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-04T11:21:28.240Z",
     "lastUpdated": "2026-10-04T11:21:28.240Z",
     "visibleDate": "Oct 4, 2026",

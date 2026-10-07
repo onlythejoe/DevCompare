@@ -7,6 +7,670 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-07T12:05:56.742Z",
+    "lastUpdated": "2026-10-07T12:05:56.742Z",
+    "visibleDate": "Oct 7, 2026",
+    "url": "pages/2026-10-07-120556742-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-07-120556742-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "EU KIDS Act",
+      "I built a",
+      "Shipping JPEG XL"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include EU KIDS Act, I built a, Shipping JPEG XL. Productivity stacks that keep de",
+    "tools": [
+      {
+        "name": "EU KIDS Act",
+        "slug": "eu-kids-act",
+        "description": "The proposal spans online environments where minors may spend time, including social networks, video-sharing platforms, online games, AI-based chat companions, and related stores or service ecosystems. However, its direction is clear: products serving younger users may increasingly be expected to make safety and wellbeing part of their core design rather than an optional setting added later.",
+        "summary": "The proposal spans online environments where minors may spend time, including social networks, video-sharing platforms, online games, AI-based chat companions, and related stores or service ecosystems. However, its direction is clear: products serving younger users may increasingly be expected to make safety and wellbeing part of their core design rather than an optional setting added later.",
+        "link": "https://dev.to/alifar/eu-kids-act-proposal-sets-out-safer-digital-service-rules-for-minors-across-europe-3j9o",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-07T11:30:31.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "However, its direction is clear: products serving younger users may increasingly be expected to make safety and wellbeing part of their core design rather than an optional setting added later.",
+          "Teams operating across EU markets may find value in reviewing: Minor access points, including sign-up flows, guest use, app-store distribution and features that can be reached without an account.",
+          "It builds on earlier Commission work on child online safety and sits alongside the wider Digital Services Act environment.</p> <p>A central idea is <strong>gradual access based on age</strong>."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built a",
+        "slug": "i-built-a",
+        "description": "It totally killed my watching flow.</p> <p>So I built YuzuLingo to solve that exact friction.</p> <p>You just hover your mouse over any hardcoded subtitle or text inside a web video player. I was fed up with trying to watch raw videos on YouTube, Bilibili, and streaming sites, only to realize all the subtitles were burned directly into the video frames.",
+        "summary": "It totally killed my watching flow.</p> <p>So I built YuzuLingo to solve that exact friction.</p> <p>You just hover your mouse over any hardcoded subtitle or text inside a web video player. I was fed up with trying to watch raw videos on YouTube, Bilibili, and streaming sites, only to realize all the subtitles were burned directly into the video frames.",
+        "link": "https://dev.to/jojolingo/i-built-a-free-browser-extension-that-ocrs-hardcoded-subtitles-on-youtube-it-helped-me-read-native-56d2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-07T11:27:56.000Z",
+        "keywords": [
+          "browser",
+          "javascript",
+          "showdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "browser",
+          "javascript",
+          "showdev"
+        ],
+        "pros": [
+          "Great for browser",
+          "javascript-ready automation",
+          "Great for browser"
+        ],
+        "cons": [
+          "Overkill for browser experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for browser experiments"
+        ],
+        "highlights": [
+          "It totally killed my watching flow.</p> <p>So I built YuzuLingo to solve that exact friction.</p> <p>You just hover your mouse over any hardcoded subtitle or text inside a web video player.",
+          "I was fed up with trying to watch raw videos on YouTube, Bilibili, and streaming sites, only to realize all the subtitles were burned directly into the video frames.",
+          "I had to constantly pause the video, open Pleco on my phone, and draw complex Traditional characters by hand just to look up a single word."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Shipping JPEG XL",
+        "slug": "shipping-jpeg-xl",
+        "description": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 23 # Comments: 9",
+        "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 23 # Comments: 9",
+        "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+        "source": "Hacker News",
+        "isoDate": "2026-10-07T11:25:02.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Permanent Daylight Saving",
+        "slug": "permanent-daylight-saving",
+        "description": "Article URL: https://www.sci.news/medicine/permanent-daylight-saving-time-15110.html Comments URL: https://news.ycombinator.com/item?id=49991078 Points: 28 # Comments: 33",
+        "summary": "Article URL: https://www.sci.news/medicine/permanent-daylight-saving-time-15110.html Comments URL: https://news.ycombinator.com/item?id=49991078 Points: 28 # Comments: 33",
+        "link": "https://www.sci.news/medicine/permanent-daylight-saving-time-15110.html",
+        "source": "Hacker News",
+        "isoDate": "2026-10-07T11:08:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I kept wishing there was an “iLovePDF for text”",
+        "slug": "i-kept-wishing-there-was-an-ilovepdf-for-text",
+        "description": "I'd genuinely love to know: Not looking for compliments — I'm more interested in what feels missing, annoying, or unnecessary. https://ilovetext.online It's still a work in progress, and I'm adding things as I use them myself.",
+        "summary": "I'd genuinely love to know: Not looking for compliments — I'm more interested in what feels missing, annoying, or unnecessary. https://ilovetext.online It's still a work in progress, and I'm adding things as I use them myself.",
+        "link": "https://dev.to/developer404/i-kept-wishing-there-was-an-ilovepdf-for-text-so-i-started-building-one-h57",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-07T11:03:37.000Z",
+        "keywords": [
+          "buildinpublic",
+          "productivity",
+          "showdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "buildinpublic",
+          "productivity",
+          "showdev"
+        ],
+        "pros": [
+          "Great for buildinpublic",
+          "productivity-ready automation",
+          "Great for buildinpublic"
+        ],
+        "cons": [
+          "Overkill for buildinpublic experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for buildinpublic experiments"
+        ],
+        "highlights": [
+          "https://ilovetext.online It's still a work in progress, and I'm adding things as I use them myself.",
+          "I'd genuinely love to know: Not looking for compliments — I'm more interested in what feels missing, annoying, or unnecessary.",
+          "I use websites like iLovePDF, Smallpdf, Canva, and iLoveIMG quite often."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-07T12:05:56.742Z",
+    "lastUpdated": "2026-10-07T12:05:56.742Z",
+    "visibleDate": "Oct 7, 2026",
+    "url": "pages/2026-10-07-120556742-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-07-120556742-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "EU KIDS Act",
+      "I built a",
+      "Shipping JPEG XL"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include EU KIDS Act, I built a, Shipping JPEG XL. Reliable remote debuggin",
+    "tools": [
+      {
+        "name": "EU KIDS Act",
+        "slug": "eu-kids-act",
+        "description": "The proposal spans online environments where minors may spend time, including social networks, video-sharing platforms, online games, AI-based chat companions, and related stores or service ecosystems. However, its direction is clear: products serving younger users may increasingly be expected to make safety and wellbeing part of their core design rather than an optional setting added later.",
+        "summary": "The proposal spans online environments where minors may spend time, including social networks, video-sharing platforms, online games, AI-based chat companions, and related stores or service ecosystems. However, its direction is clear: products serving younger users may increasingly be expected to make safety and wellbeing part of their core design rather than an optional setting added later.",
+        "link": "https://dev.to/alifar/eu-kids-act-proposal-sets-out-safer-digital-service-rules-for-minors-across-europe-3j9o",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-07T11:30:31.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "However, its direction is clear: products serving younger users may increasingly be expected to make safety and wellbeing part of their core design rather than an optional setting added later.",
+          "Teams operating across EU markets may find value in reviewing: Minor access points, including sign-up flows, guest use, app-store distribution and features that can be reached without an account.",
+          "It builds on earlier Commission work on child online safety and sits alongside the wider Digital Services Act environment.</p> <p>A central idea is <strong>gradual access based on age</strong>."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built a",
+        "slug": "i-built-a",
+        "description": "It totally killed my watching flow.</p> <p>So I built YuzuLingo to solve that exact friction.</p> <p>You just hover your mouse over any hardcoded subtitle or text inside a web video player. I was fed up with trying to watch raw videos on YouTube, Bilibili, and streaming sites, only to realize all the subtitles were burned directly into the video frames.",
+        "summary": "It totally killed my watching flow.</p> <p>So I built YuzuLingo to solve that exact friction.</p> <p>You just hover your mouse over any hardcoded subtitle or text inside a web video player. I was fed up with trying to watch raw videos on YouTube, Bilibili, and streaming sites, only to realize all the subtitles were burned directly into the video frames.",
+        "link": "https://dev.to/jojolingo/i-built-a-free-browser-extension-that-ocrs-hardcoded-subtitles-on-youtube-it-helped-me-read-native-56d2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-07T11:27:56.000Z",
+        "keywords": [
+          "browser",
+          "javascript",
+          "showdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "browser",
+          "javascript",
+          "showdev"
+        ],
+        "pros": [
+          "Great for browser",
+          "javascript-ready automation",
+          "Great for browser"
+        ],
+        "cons": [
+          "Overkill for browser experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for browser experiments"
+        ],
+        "highlights": [
+          "It totally killed my watching flow.</p> <p>So I built YuzuLingo to solve that exact friction.</p> <p>You just hover your mouse over any hardcoded subtitle or text inside a web video player.",
+          "I was fed up with trying to watch raw videos on YouTube, Bilibili, and streaming sites, only to realize all the subtitles were burned directly into the video frames.",
+          "I had to constantly pause the video, open Pleco on my phone, and draw complex Traditional characters by hand just to look up a single word."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Shipping JPEG XL",
+        "slug": "shipping-jpeg-xl",
+        "description": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 23 # Comments: 9",
+        "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 23 # Comments: 9",
+        "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+        "source": "Hacker News",
+        "isoDate": "2026-10-07T11:25:02.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Permanent Daylight Saving",
+        "slug": "permanent-daylight-saving",
+        "description": "Article URL: https://www.sci.news/medicine/permanent-daylight-saving-time-15110.html Comments URL: https://news.ycombinator.com/item?id=49991078 Points: 28 # Comments: 33",
+        "summary": "Article URL: https://www.sci.news/medicine/permanent-daylight-saving-time-15110.html Comments URL: https://news.ycombinator.com/item?id=49991078 Points: 28 # Comments: 33",
+        "link": "https://www.sci.news/medicine/permanent-daylight-saving-time-15110.html",
+        "source": "Hacker News",
+        "isoDate": "2026-10-07T11:08:08.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-07T12:05:56.742Z",
+    "lastUpdated": "2026-10-07T12:05:56.742Z",
+    "visibleDate": "Oct 7, 2026",
+    "url": "pages/2026-10-07-120556742-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-07-120556742-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "EU KIDS Act",
+      "I built a"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include EU KIDS Act, I built a. Gitpod brings zero-config",
+    "tools": [
+      {
+        "name": "EU KIDS Act",
+        "slug": "eu-kids-act",
+        "description": "The proposal spans online environments where minors may spend time, including social networks, video-sharing platforms, online games, AI-based chat companions, and related stores or service ecosystems. However, its direction is clear: products serving younger users may increasingly be expected to make safety and wellbeing part of their core design rather than an optional setting added later.",
+        "summary": "The proposal spans online environments where minors may spend time, including social networks, video-sharing platforms, online games, AI-based chat companions, and related stores or service ecosystems. However, its direction is clear: products serving younger users may increasingly be expected to make safety and wellbeing part of their core design rather than an optional setting added later.",
+        "link": "https://dev.to/alifar/eu-kids-act-proposal-sets-out-safer-digital-service-rules-for-minors-across-europe-3j9o",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-07T11:30:31.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "However, its direction is clear: products serving younger users may increasingly be expected to make safety and wellbeing part of their core design rather than an optional setting added later.",
+          "Teams operating across EU markets may find value in reviewing: Minor access points, including sign-up flows, guest use, app-store distribution and features that can be reached without an account.",
+          "It builds on earlier Commission work on child online safety and sits alongside the wider Digital Services Act environment.</p> <p>A central idea is <strong>gradual access based on age</strong>."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built a",
+        "slug": "i-built-a",
+        "description": "It totally killed my watching flow.</p> <p>So I built YuzuLingo to solve that exact friction.</p> <p>You just hover your mouse over any hardcoded subtitle or text inside a web video player. I was fed up with trying to watch raw videos on YouTube, Bilibili, and streaming sites, only to realize all the subtitles were burned directly into the video frames.",
+        "summary": "It totally killed my watching flow.</p> <p>So I built YuzuLingo to solve that exact friction.</p> <p>You just hover your mouse over any hardcoded subtitle or text inside a web video player. I was fed up with trying to watch raw videos on YouTube, Bilibili, and streaming sites, only to realize all the subtitles were burned directly into the video frames.",
+        "link": "https://dev.to/jojolingo/i-built-a-free-browser-extension-that-ocrs-hardcoded-subtitles-on-youtube-it-helped-me-read-native-56d2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-07T11:27:56.000Z",
+        "keywords": [
+          "browser",
+          "javascript",
+          "showdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "browser",
+          "javascript",
+          "showdev"
+        ],
+        "pros": [
+          "Great for browser",
+          "javascript-ready automation",
+          "Great for browser"
+        ],
+        "cons": [
+          "Overkill for browser experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for browser experiments"
+        ],
+        "highlights": [
+          "It totally killed my watching flow.</p> <p>So I built YuzuLingo to solve that exact friction.</p> <p>You just hover your mouse over any hardcoded subtitle or text inside a web video player.",
+          "I was fed up with trying to watch raw videos on YouTube, Bilibili, and streaming sites, only to realize all the subtitles were burned directly into the video frames.",
+          "I had to constantly pause the video, open Pleco on my phone, and draw complex Traditional characters by hand just to look up a single word."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-07T12:05:56.742Z",
+    "lastUpdated": "2026-10-07T12:05:56.742Z",
+    "visibleDate": "Oct 7, 2026",
+    "url": "pages/2026-10-07-120556742-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-07-120556742-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "EU KIDS Act",
+      "I built a",
+      "Shipping JPEG XL"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include EU KIDS Act, I built a, Shipping JPEG XL. New launches that are shipping",
+    "tools": [
+      {
+        "name": "EU KIDS Act",
+        "slug": "eu-kids-act",
+        "description": "The proposal spans online environments where minors may spend time, including social networks, video-sharing platforms, online games, AI-based chat companions, and related stores or service ecosystems. However, its direction is clear: products serving younger users may increasingly be expected to make safety and wellbeing part of their core design rather than an optional setting added later.",
+        "summary": "The proposal spans online environments where minors may spend time, including social networks, video-sharing platforms, online games, AI-based chat companions, and related stores or service ecosystems. However, its direction is clear: products serving younger users may increasingly be expected to make safety and wellbeing part of their core design rather than an optional setting added later.",
+        "link": "https://dev.to/alifar/eu-kids-act-proposal-sets-out-safer-digital-service-rules-for-minors-across-europe-3j9o",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-07T11:30:31.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "However, its direction is clear: products serving younger users may increasingly be expected to make safety and wellbeing part of their core design rather than an optional setting added later.",
+          "Teams operating across EU markets may find value in reviewing: Minor access points, including sign-up flows, guest use, app-store distribution and features that can be reached without an account.",
+          "It builds on earlier Commission work on child online safety and sits alongside the wider Digital Services Act environment.</p> <p>A central idea is <strong>gradual access based on age</strong>."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built a",
+        "slug": "i-built-a",
+        "description": "It totally killed my watching flow.</p> <p>So I built YuzuLingo to solve that exact friction.</p> <p>You just hover your mouse over any hardcoded subtitle or text inside a web video player. I was fed up with trying to watch raw videos on YouTube, Bilibili, and streaming sites, only to realize all the subtitles were burned directly into the video frames.",
+        "summary": "It totally killed my watching flow.</p> <p>So I built YuzuLingo to solve that exact friction.</p> <p>You just hover your mouse over any hardcoded subtitle or text inside a web video player. I was fed up with trying to watch raw videos on YouTube, Bilibili, and streaming sites, only to realize all the subtitles were burned directly into the video frames.",
+        "link": "https://dev.to/jojolingo/i-built-a-free-browser-extension-that-ocrs-hardcoded-subtitles-on-youtube-it-helped-me-read-native-56d2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-07T11:27:56.000Z",
+        "keywords": [
+          "browser",
+          "javascript",
+          "showdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "browser",
+          "javascript",
+          "showdev"
+        ],
+        "pros": [
+          "Great for browser",
+          "javascript-ready automation",
+          "Great for browser"
+        ],
+        "cons": [
+          "Overkill for browser experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for browser experiments"
+        ],
+        "highlights": [
+          "It totally killed my watching flow.</p> <p>So I built YuzuLingo to solve that exact friction.</p> <p>You just hover your mouse over any hardcoded subtitle or text inside a web video player.",
+          "I was fed up with trying to watch raw videos on YouTube, Bilibili, and streaming sites, only to realize all the subtitles were burned directly into the video frames.",
+          "I had to constantly pause the video, open Pleco on my phone, and draw complex Traditional characters by hand just to look up a single word."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Shipping JPEG XL",
+        "slug": "shipping-jpeg-xl",
+        "description": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 23 # Comments: 9",
+        "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 23 # Comments: 9",
+        "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+        "source": "Hacker News",
+        "isoDate": "2026-10-07T11:25:02.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-06T12:14:52.771Z",
     "lastUpdated": "2026-10-06T12:14:52.771Z",
     "visibleDate": "Oct 6, 2026",

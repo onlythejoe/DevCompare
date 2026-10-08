@@ -7,6 +7,672 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-08T12:16:11.875Z",
+    "lastUpdated": "2026-10-08T12:16:11.875Z",
+    "visibleDate": "Oct 8, 2026",
+    "url": "pages/2026-10-08-121611875-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-08-121611875-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Billable items checklist",
+      "Anne Carson wins",
+      "Know Your Amazon"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Billable items checklist, Anne Carson wins, Know Your Amazon. Productivity",
+    "tools": [
+      {
+        "name": "Billable items checklist",
+        "slug": "billable-items-checklist",
+        "description": "Grab the ready-made toolkit: Freelance Proposal & Scope Kit: Close Deals in 30 Minutes — skip the setup and start today. А если хотите не изобретать шаблон с нуля — посмотрите «Freelance Proposal & Scope Kit: Close Deals in 30 Minutes»: там уже есть готовый scope-чек-лист, который можно адаптировать под свою нишу за один вечер.",
+        "summary": "Grab the ready-made toolkit: Freelance Proposal & Scope Kit: Close Deals in 30 Minutes — skip the setup and start today. А если хотите не изобретать шаблон с нуля — посмотрите «Freelance Proposal & Scope Kit: Close Deals in 30 Minutes»: там уже есть готовый scope-чек-лист, который можно адаптировать под свою нишу за один вечер.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/billable-items-checklist-1al5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-08T12:15:03.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Grab the ready-made toolkit: Freelance Proposal & Scope Kit: Close Deals in 30 Minutes — skip the setup and start today.",
+          "Для этого и собран «Freelance Proposal & Scope Kit: Close Deals in 30 Minutes» — практичный набор для соло-дизайнеров, разработчиков и копирайтеров.",
+          "Discovery &amp; Research - Kick-off call (1.5 h) .............."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Anne Carson wins",
+        "slug": "anne-carson-wins",
+        "description": "Article URL: https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026 Comments URL: https://news.ycombinator.com/item?id=50004777 Points: 4 # Comments: 0",
+        "summary": "Article URL: https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026 Comments URL: https://news.ycombinator.com/item?id=50004777 Points: 4 # Comments: 0",
+        "link": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+        "source": "Hacker News",
+        "isoDate": "2026-10-08T11:58:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "2026"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Know Your Amazon",
+        "slug": "know-your-amazon",
+        "description": "ecomdune.com EcomDune offers a simple subscription-based pricing model designed for Amazon sellers who want access to comprehensive analytics without complicated pricing structures. The platform starts at $19 per month and provides access to a range of tools for understanding Amazon business performance, profitability, keywords, advertising, and product data.",
+        "summary": "ecomdune.com EcomDune offers a simple subscription-based pricing model designed for Amazon sellers who want access to comprehensive analytics without complicated pricing structures. The platform starts at $19 per month and provides access to a range of tools for understanding Amazon business performance, profitability, keywords, advertising, and product data.",
+        "link": "https://dev.to/nikhil_sharma_4fb39822d9d/know-your-amazon-profit-grow-your-business-o0c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-08T11:33:55.000Z",
+        "keywords": [
+          "seo",
+          "startup",
+          "saas",
+          "tools",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "seo",
+          "startup",
+          "saas"
+        ],
+        "pros": [
+          "Great for seo",
+          "startup-ready automation",
+          "Great for seo"
+        ],
+        "cons": [
+          "Overkill for seo experiments",
+          "Needs extra setup for startup workflows",
+          "Overkill for seo experiments"
+        ],
+        "highlights": [
+          "ecomdune.com EcomDune offers a simple subscription-based pricing model designed for Amazon sellers who want access to comprehensive analytics without complicated pricing structures.",
+          "The platform starts at $19 per month and provides access to a range of tools for understanding Amazon business performance, profitability, keywords, advertising, and product data."
+        ],
+        "pricing": "Paid plans starting at $19",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Treat Burned-In Text as a Build Artifact",
+        "slug": "treat-burned-in-text-as-a-build-artifact",
+        "description": "And the tools that feel primitive — a heal swipe, a rectangle and an Erase button, a box and a replacement string — are faster than a famous paint program precisely because they refuse every job that is not theirs. The imported image stays untouched underneath, which is the only sane way to keep a manual session reversible.</li> <li>For the Clone tool, hold <code>Ctrl</code> and click a clean area with no text.",
+        "summary": "And the tools that feel primitive — a heal swipe, a rectangle and an Erase button, a box and a replacement string — are faster than a famous paint program precisely because they refuse every job that is not theirs. The imported image stays untouched underneath, which is the only sane way to keep a manual session reversible.</li> <li>For the Clone tool, hold <code>Ctrl</code> and click a clean area with no text.",
+        "link": "https://dev.to/baiwei/treat-burned-in-text-as-a-build-artifact-a-2026-developer-workflow-without-photoshop-5ce6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-08T10:52:53.000Z",
+        "keywords": [
+          "productivity",
+          "software",
+          "tools",
+          "dev",
+          "saas",
+          "background"
+        ],
+        "useCases": [
+          "productivity",
+          "software",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "software-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for software workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The imported image stays untouched underneath, which is the only sane way to keep a manual session reversible.</li> <li>For the Clone tool, hold <code>Ctrl</code> and click a clean area with no text.",
+          "If your first move is still “open Photoshop and learn the clone stamp,” you are debugging the binary with a tutorial that can take hours to absorb, then spending dozens of minutes on a single file.",
+          "PhotoWorks is desktop software built to feel foolproof: repair and watermark removal sit under a small interface, with a stack of photo filters behind them if the frame also needs ordinary finishing."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built 59 free browser-based dev tools in vanilla JS",
+        "slug": "i-built-59-free-browser-based-dev-tools-in-vanilla-js",
+        "description": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "summary": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-5a6e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-08T10:51:46.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers.",
+          "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+          "</h2> <p>The main constraint I set for myself: <strong>zero dependencies, zero server, zero telemetry</strong>.</p> <p>When you paste your JWT token into jwt.io, it goes to their server."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-08T12:16:11.875Z",
+    "lastUpdated": "2026-10-08T12:16:11.875Z",
+    "visibleDate": "Oct 8, 2026",
+    "url": "pages/2026-10-08-121611875-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-08-121611875-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Billable items checklist",
+      "Anne Carson wins",
+      "Know Your Amazon"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Billable items checklist, Anne Carson wins, Know Your Amazon. Reli",
+    "tools": [
+      {
+        "name": "Billable items checklist",
+        "slug": "billable-items-checklist",
+        "description": "Grab the ready-made toolkit: Freelance Proposal & Scope Kit: Close Deals in 30 Minutes — skip the setup and start today. А если хотите не изобретать шаблон с нуля — посмотрите «Freelance Proposal & Scope Kit: Close Deals in 30 Minutes»: там уже есть готовый scope-чек-лист, который можно адаптировать под свою нишу за один вечер.",
+        "summary": "Grab the ready-made toolkit: Freelance Proposal & Scope Kit: Close Deals in 30 Minutes — skip the setup and start today. А если хотите не изобретать шаблон с нуля — посмотрите «Freelance Proposal & Scope Kit: Close Deals in 30 Minutes»: там уже есть готовый scope-чек-лист, который можно адаптировать под свою нишу за один вечер.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/billable-items-checklist-1al5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-08T12:15:03.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Grab the ready-made toolkit: Freelance Proposal & Scope Kit: Close Deals in 30 Minutes — skip the setup and start today.",
+          "Для этого и собран «Freelance Proposal & Scope Kit: Close Deals in 30 Minutes» — практичный набор для соло-дизайнеров, разработчиков и копирайтеров.",
+          "Discovery &amp; Research - Kick-off call (1.5 h) .............."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Anne Carson wins",
+        "slug": "anne-carson-wins",
+        "description": "Article URL: https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026 Comments URL: https://news.ycombinator.com/item?id=50004777 Points: 4 # Comments: 0",
+        "summary": "Article URL: https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026 Comments URL: https://news.ycombinator.com/item?id=50004777 Points: 4 # Comments: 0",
+        "link": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+        "source": "Hacker News",
+        "isoDate": "2026-10-08T11:58:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "2026"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Know Your Amazon",
+        "slug": "know-your-amazon",
+        "description": "ecomdune.com EcomDune offers a simple subscription-based pricing model designed for Amazon sellers who want access to comprehensive analytics without complicated pricing structures. The platform starts at $19 per month and provides access to a range of tools for understanding Amazon business performance, profitability, keywords, advertising, and product data.",
+        "summary": "ecomdune.com EcomDune offers a simple subscription-based pricing model designed for Amazon sellers who want access to comprehensive analytics without complicated pricing structures. The platform starts at $19 per month and provides access to a range of tools for understanding Amazon business performance, profitability, keywords, advertising, and product data.",
+        "link": "https://dev.to/nikhil_sharma_4fb39822d9d/know-your-amazon-profit-grow-your-business-o0c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-08T11:33:55.000Z",
+        "keywords": [
+          "seo",
+          "startup",
+          "saas",
+          "tools",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "seo",
+          "startup",
+          "saas"
+        ],
+        "pros": [
+          "Great for seo",
+          "startup-ready automation",
+          "Great for seo"
+        ],
+        "cons": [
+          "Overkill for seo experiments",
+          "Needs extra setup for startup workflows",
+          "Overkill for seo experiments"
+        ],
+        "highlights": [
+          "ecomdune.com EcomDune offers a simple subscription-based pricing model designed for Amazon sellers who want access to comprehensive analytics without complicated pricing structures.",
+          "The platform starts at $19 per month and provides access to a range of tools for understanding Amazon business performance, profitability, keywords, advertising, and product data."
+        ],
+        "pricing": "Paid plans starting at $19",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Treat Burned-In Text as a Build Artifact",
+        "slug": "treat-burned-in-text-as-a-build-artifact",
+        "description": "And the tools that feel primitive — a heal swipe, a rectangle and an Erase button, a box and a replacement string — are faster than a famous paint program precisely because they refuse every job that is not theirs. The imported image stays untouched underneath, which is the only sane way to keep a manual session reversible.</li> <li>For the Clone tool, hold <code>Ctrl</code> and click a clean area with no text.",
+        "summary": "And the tools that feel primitive — a heal swipe, a rectangle and an Erase button, a box and a replacement string — are faster than a famous paint program precisely because they refuse every job that is not theirs. The imported image stays untouched underneath, which is the only sane way to keep a manual session reversible.</li> <li>For the Clone tool, hold <code>Ctrl</code> and click a clean area with no text.",
+        "link": "https://dev.to/baiwei/treat-burned-in-text-as-a-build-artifact-a-2026-developer-workflow-without-photoshop-5ce6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-08T10:52:53.000Z",
+        "keywords": [
+          "productivity",
+          "software",
+          "tools",
+          "dev",
+          "saas",
+          "background"
+        ],
+        "useCases": [
+          "productivity",
+          "software",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "software-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for software workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The imported image stays untouched underneath, which is the only sane way to keep a manual session reversible.</li> <li>For the Clone tool, hold <code>Ctrl</code> and click a clean area with no text.",
+          "If your first move is still “open Photoshop and learn the clone stamp,” you are debugging the binary with a tutorial that can take hours to absorb, then spending dozens of minutes on a single file.",
+          "PhotoWorks is desktop software built to feel foolproof: repair and watermark removal sit under a small interface, with a stack of photo filters behind them if the frame also needs ordinary finishing."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-08T12:16:11.875Z",
+    "lastUpdated": "2026-10-08T12:16:11.875Z",
+    "visibleDate": "Oct 8, 2026",
+    "url": "pages/2026-10-08-121611875-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-08-121611875-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Billable items checklist",
+      "Anne Carson wins"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Billable items checklist, Anne Carson wins. Gitpo",
+    "tools": [
+      {
+        "name": "Billable items checklist",
+        "slug": "billable-items-checklist",
+        "description": "Grab the ready-made toolkit: Freelance Proposal & Scope Kit: Close Deals in 30 Minutes — skip the setup and start today. А если хотите не изобретать шаблон с нуля — посмотрите «Freelance Proposal & Scope Kit: Close Deals in 30 Minutes»: там уже есть готовый scope-чек-лист, который можно адаптировать под свою нишу за один вечер.",
+        "summary": "Grab the ready-made toolkit: Freelance Proposal & Scope Kit: Close Deals in 30 Minutes — skip the setup and start today. А если хотите не изобретать шаблон с нуля — посмотрите «Freelance Proposal & Scope Kit: Close Deals in 30 Minutes»: там уже есть готовый scope-чек-лист, который можно адаптировать под свою нишу за один вечер.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/billable-items-checklist-1al5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-08T12:15:03.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Grab the ready-made toolkit: Freelance Proposal & Scope Kit: Close Deals in 30 Minutes — skip the setup and start today.",
+          "Для этого и собран «Freelance Proposal & Scope Kit: Close Deals in 30 Minutes» — практичный набор для соло-дизайнеров, разработчиков и копирайтеров.",
+          "Discovery &amp; Research - Kick-off call (1.5 h) .............."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Anne Carson wins",
+        "slug": "anne-carson-wins",
+        "description": "Article URL: https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026 Comments URL: https://news.ycombinator.com/item?id=50004777 Points: 4 # Comments: 0",
+        "summary": "Article URL: https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026 Comments URL: https://news.ycombinator.com/item?id=50004777 Points: 4 # Comments: 0",
+        "link": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+        "source": "Hacker News",
+        "isoDate": "2026-10-08T11:58:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "2026"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-08T12:16:11.875Z",
+    "lastUpdated": "2026-10-08T12:16:11.875Z",
+    "visibleDate": "Oct 8, 2026",
+    "url": "pages/2026-10-08-121611875-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-08-121611875-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Billable items checklist",
+      "Anne Carson wins",
+      "Know Your Amazon"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Billable items checklist, Anne Carson wins, Know Your Amazon. New launch",
+    "tools": [
+      {
+        "name": "Billable items checklist",
+        "slug": "billable-items-checklist",
+        "description": "Grab the ready-made toolkit: Freelance Proposal & Scope Kit: Close Deals in 30 Minutes — skip the setup and start today. А если хотите не изобретать шаблон с нуля — посмотрите «Freelance Proposal & Scope Kit: Close Deals in 30 Minutes»: там уже есть готовый scope-чек-лист, который можно адаптировать под свою нишу за один вечер.",
+        "summary": "Grab the ready-made toolkit: Freelance Proposal & Scope Kit: Close Deals in 30 Minutes — skip the setup and start today. А если хотите не изобретать шаблон с нуля — посмотрите «Freelance Proposal & Scope Kit: Close Deals in 30 Minutes»: там уже есть готовый scope-чек-лист, который можно адаптировать под свою нишу за один вечер.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/billable-items-checklist-1al5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-08T12:15:03.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Grab the ready-made toolkit: Freelance Proposal & Scope Kit: Close Deals in 30 Minutes — skip the setup and start today.",
+          "Для этого и собран «Freelance Proposal & Scope Kit: Close Deals in 30 Minutes» — практичный набор для соло-дизайнеров, разработчиков и копирайтеров.",
+          "Discovery &amp; Research - Kick-off call (1.5 h) .............."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Anne Carson wins",
+        "slug": "anne-carson-wins",
+        "description": "Article URL: https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026 Comments URL: https://news.ycombinator.com/item?id=50004777 Points: 4 # Comments: 0",
+        "summary": "Article URL: https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026 Comments URL: https://news.ycombinator.com/item?id=50004777 Points: 4 # Comments: 0",
+        "link": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+        "source": "Hacker News",
+        "isoDate": "2026-10-08T11:58:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "2026"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Know Your Amazon",
+        "slug": "know-your-amazon",
+        "description": "ecomdune.com EcomDune offers a simple subscription-based pricing model designed for Amazon sellers who want access to comprehensive analytics without complicated pricing structures. The platform starts at $19 per month and provides access to a range of tools for understanding Amazon business performance, profitability, keywords, advertising, and product data.",
+        "summary": "ecomdune.com EcomDune offers a simple subscription-based pricing model designed for Amazon sellers who want access to comprehensive analytics without complicated pricing structures. The platform starts at $19 per month and provides access to a range of tools for understanding Amazon business performance, profitability, keywords, advertising, and product data.",
+        "link": "https://dev.to/nikhil_sharma_4fb39822d9d/know-your-amazon-profit-grow-your-business-o0c",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-08T11:33:55.000Z",
+        "keywords": [
+          "seo",
+          "startup",
+          "saas",
+          "tools",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "seo",
+          "startup",
+          "saas"
+        ],
+        "pros": [
+          "Great for seo",
+          "startup-ready automation",
+          "Great for seo"
+        ],
+        "cons": [
+          "Overkill for seo experiments",
+          "Needs extra setup for startup workflows",
+          "Overkill for seo experiments"
+        ],
+        "highlights": [
+          "ecomdune.com EcomDune offers a simple subscription-based pricing model designed for Amazon sellers who want access to comprehensive analytics without complicated pricing structures.",
+          "The platform starts at $19 per month and provides access to a range of tools for understanding Amazon business performance, profitability, keywords, advertising, and product data."
+        ],
+        "pricing": "Paid plans starting at $19",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-07T12:05:56.742Z",
     "lastUpdated": "2026-10-07T12:05:56.742Z",
     "visibleDate": "Oct 7, 2026",

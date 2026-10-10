@@ -7,6 +7,675 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-10T11:25:00.512Z",
+    "lastUpdated": "2026-10-10T11:25:00.512Z",
+    "visibleDate": "Oct 10, 2026",
+    "url": "pages/2026-10-10-112500512-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-10-112500512-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Talorys – A",
+      "Free OSINT Tools That Actually Work",
+      "Best OSINT Tools"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Talorys – A, Free OSINT Tools That Actually Work, Best OSINT Tools. Produc",
+    "tools": [
+      {
+        "name": "Talorys – A",
+        "slug": "talorys-a",
+        "description": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 3 # Comments: 0",
+        "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 3 # Comments: 0",
+        "link": "https://github.com/rociiu/talorys",
+        "source": "Hacker News",
+        "isoDate": "2026-10-10T10:52:09.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Free OSINT Tools That Actually Work",
+        "slug": "free-osint-tools-that-actually-work",
+        "description": "My collector design for it: https://dev.to/yuhehe/telegram-scraping-in-python-without-an-api-key-the-public-preview-collector-that-survives-12ef Shodan (free tier) — internet-wide asset census. The collection-layer playbook — cadence design, ?before= cursor paging, repost-ring flags, wording-diff alerting — is the $5 bundle: https://heyuhe.gumroad.com/l/poddr.",
+        "summary": "My collector design for it: https://dev.to/yuhehe/telegram-scraping-in-python-without-an-api-key-the-public-preview-collector-that-survives-12ef Shodan (free tier) — internet-wide asset census. The collection-layer playbook — cadence design, ?before= cursor paging, repost-ring flags, wording-diff alerting — is the $5 bundle: https://heyuhe.gumroad.com/l/poddr.",
+        "link": "https://dev.to/yuhehe/free-osint-tools-that-actually-work-a-job-by-job-map-free-tiers-real-ceilings-24pe",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-10T10:50:10.000Z",
+        "keywords": [
+          "osint",
+          "security",
+          "devops",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "osint",
+          "security",
+          "devops"
+        ],
+        "pros": [
+          "Great for osint",
+          "security-ready automation",
+          "Great for osint"
+        ],
+        "cons": [
+          "Overkill for osint experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for osint experiments"
+        ],
+        "highlights": [
+          "My collector design for it: https://dev.to/yuhehe/telegram-scraping-in-python-without-an-api-key-the-public-preview-collector-that-survives-12ef Shodan (free tier) — internet-wide asset census.",
+          "The collection-layer playbook — cadence design, ?before= cursor paging, repost-ring flags, wording-diff alerting — is the $5 bundle: https://heyuhe.gumroad.com/l/poddr.",
+          "Collection (free tiers that are real) t.me/s/<channel> web preview — public Telegram channels as plain HTML, zero credentials."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best OSINT Tools",
+        "slug": "best-osint-tools",
+        "description": "I package the collection layer — polling cadence, cursor pagination, repost-ring flags, wording-diff alerting, raw-storage discipline — as a $5 playbook: https://heyuhe.gumroad.com/l/poddr. Data you can't leave with is rent, not ownership.</li> </ol> <p><strong>The path I'd hand a beginner</strong></p> <p>Start with the free layer: pick 10 public sources, poll them unattended, store raw, alert on deltas.",
+        "summary": "I package the collection layer — polling cadence, cursor pagination, repost-ring flags, wording-diff alerting, raw-storage discipline — as a $5 playbook: https://heyuhe.gumroad.com/l/poddr. Data you can't leave with is rent, not ownership.</li> </ol> <p><strong>The path I'd hand a beginner</strong></p> <p>Start with the free layer: pick 10 public sources, poll them unattended, store raw, alert on deltas.",
+        "link": "https://dev.to/yuhehe/best-osint-tools-the-free-stack-that-does-80-percent-of-real-investigations-230",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-10T10:47:22.000Z",
+        "keywords": [
+          "osint",
+          "security",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "osint",
+          "security",
+          "tools"
+        ],
+        "pros": [
+          "Great for osint",
+          "security-ready automation",
+          "Great for osint"
+        ],
+        "cons": [
+          "Overkill for osint experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for osint experiments"
+        ],
+        "highlights": [
+          "I package the collection layer — polling cadence, cursor pagination, repost-ring flags, wording-diff alerting, raw-storage discipline — as a $5 playbook: https://heyuhe.gumroad.com/l/poddr.",
+          "Where paid tools genuinely pay Historical depth (the free layer has no time machine), unified ingestion at scale, alerting you can page on, and audit trails for when a lawyer asks.",
+          "Watchlist, not dump-downloading; the compliance story is \"alert,\" not \"harvest.\" WHOIS/RDNS + historical DNS — registration patterns cluster infrastructure together."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI and Robots in Alzheimer’s Support",
+        "slug": "ai-and-robots-in-alzheimer-s-support",
+        "description": "Details on the systems involved, safeguards, implementation approach and measured outcomes would also be necessary before drawing wider conclusions about adoption in home care or clinical settings. The supplied material says trials in France are exploring whether AI and robots can support people with Alzheimer’s through conversation, cognitive stimulation, personalised interactions and companionship.",
+        "summary": "Details on the systems involved, safeguards, implementation approach and measured outcomes would also be necessary before drawing wider conclusions about adoption in home care or clinical settings. The supplied material says trials in France are exploring whether AI and robots can support people with Alzheimer’s through conversation, cognitive stimulation, personalised interactions and companionship.",
+        "link": "https://dev.to/alifar/ai-and-robots-in-alzheimers-support-what-french-trials-are-exploring-72m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-10T10:30:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "A provider considering this category of technology should define the precise problem it wants to address, such as helping structure an activity or encouraging engagement at a planned time.",
+          "Trials in France are exploring how AI and robots could support people with Alzheimer’s, including through conversation, cognitive stimulation, personalised interactions and companionship.",
+          "Scalevise can help map suitable use cases, define staff handoffs, assess integration needs and set measurable success criteria before resources are committed."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "A Site I",
+        "slug": "a-site-i",
+        "description": "jev001.org <p>I've been following Jev (TypeSafe's System One decision model) and the Laya open-source work for a while now, mostly piecing things together from scattered repos and forum threads. I've been following Jev (TypeSafe's System One decision model) and the Laya open-source work for a while now, mostly piecing things together from scattered repos and forum threads.",
+        "summary": "jev001.org <p>I've been following Jev (TypeSafe's System One decision model) and the Laya open-source work for a while now, mostly piecing things together from scattered repos and forum threads. I've been following Jev (TypeSafe's System One decision model) and the Laya open-source work for a while now, mostly piecing things together from scattered repos and forum threads.",
+        "link": "https://dev.to/fieldnotesdc/a-site-i-keep-coming-back-to-3576",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-10T10:16:16.000Z",
+        "keywords": [
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "webdev",
+          "tools",
+          "productivity"
+        ],
+        "pros": [
+          "Great for webdev",
+          "tools-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "jev001.org <p>I've been following Jev (TypeSafe's System One decision model) and the Laya open-source work for a while now, mostly piecing things together from scattered repos and forum threads.",
+          "I've been following Jev (TypeSafe's System One decision model) and the Laya open-source work for a while now, mostly piecing things together from scattered repos and forum threads.",
+          "There are real benchmark notes comparing the System One decision model against Laya builds, plus comments from people actually running them."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-10T11:25:00.512Z",
+    "lastUpdated": "2026-10-10T11:25:00.512Z",
+    "visibleDate": "Oct 10, 2026",
+    "url": "pages/2026-10-10-112500512-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-10-112500512-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Talorys – A",
+      "Free OSINT Tools That Actually Work",
+      "Best OSINT Tools"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Talorys – A, Free OSINT Tools That Actually Work, Best OSINT Tools",
+    "tools": [
+      {
+        "name": "Talorys – A",
+        "slug": "talorys-a",
+        "description": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 3 # Comments: 0",
+        "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 3 # Comments: 0",
+        "link": "https://github.com/rociiu/talorys",
+        "source": "Hacker News",
+        "isoDate": "2026-10-10T10:52:09.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Free OSINT Tools That Actually Work",
+        "slug": "free-osint-tools-that-actually-work",
+        "description": "My collector design for it: https://dev.to/yuhehe/telegram-scraping-in-python-without-an-api-key-the-public-preview-collector-that-survives-12ef Shodan (free tier) — internet-wide asset census. The collection-layer playbook — cadence design, ?before= cursor paging, repost-ring flags, wording-diff alerting — is the $5 bundle: https://heyuhe.gumroad.com/l/poddr.",
+        "summary": "My collector design for it: https://dev.to/yuhehe/telegram-scraping-in-python-without-an-api-key-the-public-preview-collector-that-survives-12ef Shodan (free tier) — internet-wide asset census. The collection-layer playbook — cadence design, ?before= cursor paging, repost-ring flags, wording-diff alerting — is the $5 bundle: https://heyuhe.gumroad.com/l/poddr.",
+        "link": "https://dev.to/yuhehe/free-osint-tools-that-actually-work-a-job-by-job-map-free-tiers-real-ceilings-24pe",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-10T10:50:10.000Z",
+        "keywords": [
+          "osint",
+          "security",
+          "devops",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "osint",
+          "security",
+          "devops"
+        ],
+        "pros": [
+          "Great for osint",
+          "security-ready automation",
+          "Great for osint"
+        ],
+        "cons": [
+          "Overkill for osint experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for osint experiments"
+        ],
+        "highlights": [
+          "My collector design for it: https://dev.to/yuhehe/telegram-scraping-in-python-without-an-api-key-the-public-preview-collector-that-survives-12ef Shodan (free tier) — internet-wide asset census.",
+          "The collection-layer playbook — cadence design, ?before= cursor paging, repost-ring flags, wording-diff alerting — is the $5 bundle: https://heyuhe.gumroad.com/l/poddr.",
+          "Collection (free tiers that are real) t.me/s/<channel> web preview — public Telegram channels as plain HTML, zero credentials."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best OSINT Tools",
+        "slug": "best-osint-tools",
+        "description": "I package the collection layer — polling cadence, cursor pagination, repost-ring flags, wording-diff alerting, raw-storage discipline — as a $5 playbook: https://heyuhe.gumroad.com/l/poddr. Data you can't leave with is rent, not ownership.</li> </ol> <p><strong>The path I'd hand a beginner</strong></p> <p>Start with the free layer: pick 10 public sources, poll them unattended, store raw, alert on deltas.",
+        "summary": "I package the collection layer — polling cadence, cursor pagination, repost-ring flags, wording-diff alerting, raw-storage discipline — as a $5 playbook: https://heyuhe.gumroad.com/l/poddr. Data you can't leave with is rent, not ownership.</li> </ol> <p><strong>The path I'd hand a beginner</strong></p> <p>Start with the free layer: pick 10 public sources, poll them unattended, store raw, alert on deltas.",
+        "link": "https://dev.to/yuhehe/best-osint-tools-the-free-stack-that-does-80-percent-of-real-investigations-230",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-10T10:47:22.000Z",
+        "keywords": [
+          "osint",
+          "security",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "osint",
+          "security",
+          "tools"
+        ],
+        "pros": [
+          "Great for osint",
+          "security-ready automation",
+          "Great for osint"
+        ],
+        "cons": [
+          "Overkill for osint experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for osint experiments"
+        ],
+        "highlights": [
+          "I package the collection layer — polling cadence, cursor pagination, repost-ring flags, wording-diff alerting, raw-storage discipline — as a $5 playbook: https://heyuhe.gumroad.com/l/poddr.",
+          "Where paid tools genuinely pay Historical depth (the free layer has no time machine), unified ingestion at scale, alerting you can page on, and audit trails for when a lawyer asks.",
+          "Watchlist, not dump-downloading; the compliance story is \"alert,\" not \"harvest.\" WHOIS/RDNS + historical DNS — registration patterns cluster infrastructure together."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI and Robots in Alzheimer’s Support",
+        "slug": "ai-and-robots-in-alzheimer-s-support",
+        "description": "Details on the systems involved, safeguards, implementation approach and measured outcomes would also be necessary before drawing wider conclusions about adoption in home care or clinical settings. The supplied material says trials in France are exploring whether AI and robots can support people with Alzheimer’s through conversation, cognitive stimulation, personalised interactions and companionship.",
+        "summary": "Details on the systems involved, safeguards, implementation approach and measured outcomes would also be necessary before drawing wider conclusions about adoption in home care or clinical settings. The supplied material says trials in France are exploring whether AI and robots can support people with Alzheimer’s through conversation, cognitive stimulation, personalised interactions and companionship.",
+        "link": "https://dev.to/alifar/ai-and-robots-in-alzheimers-support-what-french-trials-are-exploring-72m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-10T10:30:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "A provider considering this category of technology should define the precise problem it wants to address, such as helping structure an activity or encouraging engagement at a planned time.",
+          "Trials in France are exploring how AI and robots could support people with Alzheimer’s, including through conversation, cognitive stimulation, personalised interactions and companionship.",
+          "Scalevise can help map suitable use cases, define staff handoffs, assess integration needs and set measurable success criteria before resources are committed."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-10T11:25:00.512Z",
+    "lastUpdated": "2026-10-10T11:25:00.512Z",
+    "visibleDate": "Oct 10, 2026",
+    "url": "pages/2026-10-10-112500512-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-10-112500512-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Talorys – A",
+      "Free OSINT Tools That Actually Work"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Talorys – A, Free OSINT Tools That Actually Work.",
+    "tools": [
+      {
+        "name": "Talorys – A",
+        "slug": "talorys-a",
+        "description": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 3 # Comments: 0",
+        "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 3 # Comments: 0",
+        "link": "https://github.com/rociiu/talorys",
+        "source": "Hacker News",
+        "isoDate": "2026-10-10T10:52:09.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Free OSINT Tools That Actually Work",
+        "slug": "free-osint-tools-that-actually-work",
+        "description": "My collector design for it: https://dev.to/yuhehe/telegram-scraping-in-python-without-an-api-key-the-public-preview-collector-that-survives-12ef Shodan (free tier) — internet-wide asset census. The collection-layer playbook — cadence design, ?before= cursor paging, repost-ring flags, wording-diff alerting — is the $5 bundle: https://heyuhe.gumroad.com/l/poddr.",
+        "summary": "My collector design for it: https://dev.to/yuhehe/telegram-scraping-in-python-without-an-api-key-the-public-preview-collector-that-survives-12ef Shodan (free tier) — internet-wide asset census. The collection-layer playbook — cadence design, ?before= cursor paging, repost-ring flags, wording-diff alerting — is the $5 bundle: https://heyuhe.gumroad.com/l/poddr.",
+        "link": "https://dev.to/yuhehe/free-osint-tools-that-actually-work-a-job-by-job-map-free-tiers-real-ceilings-24pe",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-10T10:50:10.000Z",
+        "keywords": [
+          "osint",
+          "security",
+          "devops",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "osint",
+          "security",
+          "devops"
+        ],
+        "pros": [
+          "Great for osint",
+          "security-ready automation",
+          "Great for osint"
+        ],
+        "cons": [
+          "Overkill for osint experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for osint experiments"
+        ],
+        "highlights": [
+          "My collector design for it: https://dev.to/yuhehe/telegram-scraping-in-python-without-an-api-key-the-public-preview-collector-that-survives-12ef Shodan (free tier) — internet-wide asset census.",
+          "The collection-layer playbook — cadence design, ?before= cursor paging, repost-ring flags, wording-diff alerting — is the $5 bundle: https://heyuhe.gumroad.com/l/poddr.",
+          "Collection (free tiers that are real) t.me/s/<channel> web preview — public Telegram channels as plain HTML, zero credentials."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-10T11:25:00.512Z",
+    "lastUpdated": "2026-10-10T11:25:00.512Z",
+    "visibleDate": "Oct 10, 2026",
+    "url": "pages/2026-10-10-112500512-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-10-112500512-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Talorys – A",
+      "Free OSINT Tools That Actually Work",
+      "Best OSINT Tools"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Talorys – A, Free OSINT Tools That Actually Work, Best OSINT Tools. New ",
+    "tools": [
+      {
+        "name": "Talorys – A",
+        "slug": "talorys-a",
+        "description": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 3 # Comments: 0",
+        "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 3 # Comments: 0",
+        "link": "https://github.com/rociiu/talorys",
+        "source": "Hacker News",
+        "isoDate": "2026-10-10T10:52:09.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Free OSINT Tools That Actually Work",
+        "slug": "free-osint-tools-that-actually-work",
+        "description": "My collector design for it: https://dev.to/yuhehe/telegram-scraping-in-python-without-an-api-key-the-public-preview-collector-that-survives-12ef Shodan (free tier) — internet-wide asset census. The collection-layer playbook — cadence design, ?before= cursor paging, repost-ring flags, wording-diff alerting — is the $5 bundle: https://heyuhe.gumroad.com/l/poddr.",
+        "summary": "My collector design for it: https://dev.to/yuhehe/telegram-scraping-in-python-without-an-api-key-the-public-preview-collector-that-survives-12ef Shodan (free tier) — internet-wide asset census. The collection-layer playbook — cadence design, ?before= cursor paging, repost-ring flags, wording-diff alerting — is the $5 bundle: https://heyuhe.gumroad.com/l/poddr.",
+        "link": "https://dev.to/yuhehe/free-osint-tools-that-actually-work-a-job-by-job-map-free-tiers-real-ceilings-24pe",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-10T10:50:10.000Z",
+        "keywords": [
+          "osint",
+          "security",
+          "devops",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "osint",
+          "security",
+          "devops"
+        ],
+        "pros": [
+          "Great for osint",
+          "security-ready automation",
+          "Great for osint"
+        ],
+        "cons": [
+          "Overkill for osint experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for osint experiments"
+        ],
+        "highlights": [
+          "My collector design for it: https://dev.to/yuhehe/telegram-scraping-in-python-without-an-api-key-the-public-preview-collector-that-survives-12ef Shodan (free tier) — internet-wide asset census.",
+          "The collection-layer playbook — cadence design, ?before= cursor paging, repost-ring flags, wording-diff alerting — is the $5 bundle: https://heyuhe.gumroad.com/l/poddr.",
+          "Collection (free tiers that are real) t.me/s/<channel> web preview — public Telegram channels as plain HTML, zero credentials."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best OSINT Tools",
+        "slug": "best-osint-tools",
+        "description": "I package the collection layer — polling cadence, cursor pagination, repost-ring flags, wording-diff alerting, raw-storage discipline — as a $5 playbook: https://heyuhe.gumroad.com/l/poddr. Data you can't leave with is rent, not ownership.</li> </ol> <p><strong>The path I'd hand a beginner</strong></p> <p>Start with the free layer: pick 10 public sources, poll them unattended, store raw, alert on deltas.",
+        "summary": "I package the collection layer — polling cadence, cursor pagination, repost-ring flags, wording-diff alerting, raw-storage discipline — as a $5 playbook: https://heyuhe.gumroad.com/l/poddr. Data you can't leave with is rent, not ownership.</li> </ol> <p><strong>The path I'd hand a beginner</strong></p> <p>Start with the free layer: pick 10 public sources, poll them unattended, store raw, alert on deltas.",
+        "link": "https://dev.to/yuhehe/best-osint-tools-the-free-stack-that-does-80-percent-of-real-investigations-230",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-10T10:47:22.000Z",
+        "keywords": [
+          "osint",
+          "security",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "osint",
+          "security",
+          "tools"
+        ],
+        "pros": [
+          "Great for osint",
+          "security-ready automation",
+          "Great for osint"
+        ],
+        "cons": [
+          "Overkill for osint experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for osint experiments"
+        ],
+        "highlights": [
+          "I package the collection layer — polling cadence, cursor pagination, repost-ring flags, wording-diff alerting, raw-storage discipline — as a $5 playbook: https://heyuhe.gumroad.com/l/poddr.",
+          "Where paid tools genuinely pay Historical depth (the free layer has no time machine), unified ingestion at scale, alerting you can page on, and audit trails for when a lawyer asks.",
+          "Watchlist, not dump-downloading; the compliance story is \"alert,\" not \"harvest.\" WHOIS/RDNS + historical DNS — registration patterns cluster infrastructure together."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-09T12:07:35.493Z",
     "lastUpdated": "2026-10-09T12:07:35.493Z",
     "visibleDate": "Oct 9, 2026",

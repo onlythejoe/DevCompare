@@ -7,6 +7,671 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-12T13:34:51.275Z",
+    "lastUpdated": "2026-10-12T13:34:51.275Z",
+    "visibleDate": "Oct 12, 2026",
+    "url": "pages/2026-10-12-133451275-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-12-133451275-best-dev-tools-for-productivity.md",
+    "categories": [],
+    "toolHighlights": [
+      "Your Internet Speed Is More Than a Number",
+      "Building a Simpler",
+      "Use your local"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Your Internet Speed Is More Than a Number, Building a Simpler, Use your lo",
+    "tools": [
+      {
+        "name": "Your Internet Speed Is More Than a Number",
+        "slug": "your-internet-speed-is-more-than-a-number",
+        "description": "Internet Usage Tracker brings real-time network speed monitoring, daily and monthly usage history, connection categories, and a floating desktop meter together in one Windows application. However, it only provides a snapshot of performance during that test.</p> <p>Continuous monitoring serves a different purpose.</p> <p>It lets you observe upload and download speeds while you perform your normal tasks.",
+        "summary": "Internet Usage Tracker brings real-time network speed monitoring, daily and monthly usage history, connection categories, and a floating desktop meter together in one Windows application. However, it only provides a snapshot of performance during that test.</p> <p>Continuous monitoring serves a different purpose.</p> <p>It lets you observe upload and download speeds while you perform your normal tasks.",
+        "link": "https://dev.to/make-with-rs/your-internet-speed-is-more-than-a-number-monitoring-network-activity-on-windows-5ek0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-12T13:32:36.000Z",
+        "keywords": [
+          "monitoring",
+          "networking",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "monitoring",
+          "networking",
+          "tools"
+        ],
+        "pros": [
+          "Great for monitoring",
+          "networking-ready automation",
+          "Great for monitoring"
+        ],
+        "cons": [
+          "Overkill for monitoring experiments",
+          "Needs extra setup for networking workflows",
+          "Overkill for monitoring experiments"
+        ],
+        "highlights": [
+          "Internet Usage Tracker brings real-time network speed monitoring, daily and monthly usage history, connection categories, and a floating desktop meter together in one Windows application.",
+          "Here are some situations where a desktop network monitor can be useful: Downloading development tools: Observe upload and download activity while installing SDKs, packages, or other large tools.",
+          "Others may appreciate having usage history and a floating meter in the same application.</p> <p>The goal isn't to replace every Windows networking feature."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Building a Simpler",
+        "slug": "building-a-simpler",
+        "description": "Internet Usage Tracker brings together live upload and download speeds, daily and monthly usage history, connection categories, and a movable floating meter in one Windows application. Windows provides basic network usage information, but I wanted a more convenient way to keep essential internet statistics visible during everyday computer use.",
+        "summary": "Internet Usage Tracker brings together live upload and download speeds, daily and monthly usage history, connection categories, and a movable floating meter in one Windows application. Windows provides basic network usage information, but I wanted a more convenient way to keep essential internet statistics visible during everyday computer use.",
+        "link": "https://dev.to/robin_hood_991fffecf68062/building-a-simpler-way-to-monitor-internet-usage-on-windows-12bm",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-12T13:31:27.000Z",
+        "keywords": [
+          "monitoring",
+          "networking",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "monitoring",
+          "networking",
+          "tools"
+        ],
+        "pros": [
+          "Great for monitoring",
+          "networking-ready automation",
+          "Great for monitoring"
+        ],
+        "cons": [
+          "Overkill for monitoring experiments",
+          "Needs extra setup for networking workflows",
+          "Overkill for monitoring experiments"
+        ],
+        "highlights": [
+          "Internet Usage Tracker brings together live upload and download speeds, daily and monthly usage history, connection categories, and a movable floating meter in one Windows application.",
+          "Windows provides basic network usage information, but I wanted a more convenient way to keep essential internet statistics visible during everyday computer use.",
+          "The app displays current upload and download speeds, allowing users to observe network activity while browsing, downloading files, streaming content, or working online."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Use your local",
+        "slug": "use-your-local",
+        "description": "I wanted to access the same tools, files, and local MCP servers from my phone or another browser, use whichever AI model I preferred, and avoid uploading my API keys to yet another cloud service. The desktop app, Device Agent, and Linux CLI are open source under the MIT licence: https://github.com/mcptoai/MCPtoAI The hosted web app and relay infrastructure are not open source.",
+        "summary": "I wanted to access the same tools, files, and local MCP servers from my phone or another browser, use whichever AI model I preferred, and avoid uploading my API keys to yet another cloud service. The desktop app, Device Agent, and Linux CLI are open source under the MIT licence: https://github.com/mcptoai/MCPtoAI The hosted web app and relay infrastructure are not open source.",
+        "link": "https://dev.to/abktya/use-your-local-mcp-tools-from-any-browser-or-phone-1kk7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-12T13:26:03.000Z",
+        "keywords": [
+          "agents",
+          "ai",
+          "mcp",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "agents",
+          "ai",
+          "mcp"
+        ],
+        "pros": [
+          "Great for agents",
+          "ai-ready automation",
+          "Great for agents"
+        ],
+        "cons": [
+          "Overkill for agents experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for agents experiments"
+        ],
+        "highlights": [
+          "I wanted to access the same tools, files, and local MCP servers from my phone or another browser, use whichever AI model I preferred, and avoid uploading my API keys to yet another cloud service.",
+          "The desktop app, Device Agent, and Linux CLI are open source under the MIT licence: https://github.com/mcptoai/MCPtoAI The hosted web app and relay infrastructure are not open source.",
+          "How it works: A small agent runs on your computer (macOS or Windows desktop app, Linux CLI via pip install mcptoai, or Docker)."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Pinecone vs Qdrant vs Chroma",
+        "slug": "pinecone-vs-qdrant-vs-chroma",
+        "description": "Chroma has a wrapper as well but requires the Python SDK to be installed locally, which complicates deployment on serverless environments like AWS Lambda or Vercel Edge Functions.</p> <p>LlamaIndex integration. The filtering performance advantage makes a measurable difference for semantic search with metadata filters, which covers most RAG use cases.</p> <p>Chroma fits prototyping and embedded AI applications.",
+        "summary": "Chroma has a wrapper as well but requires the Python SDK to be installed locally, which complicates deployment on serverless environments like AWS Lambda or Vercel Edge Functions.</p> <p>LlamaIndex integration. The filtering performance advantage makes a measurable difference for semantic search with metadata filters, which covers most RAG use cases.</p> <p>Chroma fits prototyping and embedded AI applications.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/pinecone-vs-qdrant-vs-chroma-vector-databases-for-ai-apps-in-2026-ame",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-12T13:11:01.000Z",
+        "keywords": [
+          "devtools",
+          "webdev",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devtools",
+          "webdev",
+          "programming"
+        ],
+        "pros": [
+          "Great for devtools",
+          "webdev-ready automation",
+          "Great for devtools"
+        ],
+        "cons": [
+          "Overkill for devtools experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for devtools experiments"
+        ],
+        "highlights": [
+          "Pinecone's serverless architecture (launched in 2025, matured in 2026) automatically scales compute based on query volume, which eliminates capacity planning for variable workloads.",
+          "Chroma has a wrapper as well but requires the Python SDK to be installed locally, which complicates deployment on serverless environments like AWS Lambda or Vercel Edge Functions.",
+          "For most indie developers shipping a RAG application or semantic search feature, Qdrant (self-hosted or cloud) offers the best balance of cost, performance, and control."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "GitHub Codespaces in 2026",
+        "slug": "github-codespaces-in-2026",
+        "description": "Three pain points keep it from a perfect score: boot times on larger repos (45–90 seconds for a monorepo), limited free tier (60 hours/month for free accounts), and the monthly bill that sneaks up on heavy users. Three pain points keep it from a perfect score: boot times on larger repos (45–90 seconds for a monorepo), limited free tier (60 hours/month for free accounts), and the monthly bill that sneaks up on heavy users.",
+        "summary": "Three pain points keep it from a perfect score: boot times on larger repos (45–90 seconds for a monorepo), limited free tier (60 hours/month for free accounts), and the monthly bill that sneaks up on heavy users. Three pain points keep it from a perfect score: boot times on larger repos (45–90 seconds for a monorepo), limited free tier (60 hours/month for free accounts), and the monthly bill that sneaks up on heavy users.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/github-codespaces-in-2026-cloud-dev-environments-for-remote-teams-5hnb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-12T13:05:40.000Z",
+        "keywords": [
+          "devtools",
+          "webdev",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devtools",
+          "webdev",
+          "programming"
+        ],
+        "pros": [
+          "Great for devtools",
+          "webdev-ready automation",
+          "Great for devtools"
+        ],
+        "cons": [
+          "Overkill for devtools experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for devtools experiments"
+        ],
+        "highlights": [
+          "For solo developers who prefer offline work, local setups still win; for remote teams shipping multiple projects daily, Codespaces reduces friction measurably.",
+          "The seamless repository integration is unmatched: opening a PR triggers a pre-configured environment in under 30 seconds, and every teammate gets identical tooling without manual setup.",
+          "GitHub Codespaces delivers full VS Code instances running directly in your browser, backed by customizable Linux containers and tightly integrated with the GitHub ecosystem."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://github.com?ref=XXXX"
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-12T13:34:51.275Z",
+    "lastUpdated": "2026-10-12T13:34:51.275Z",
+    "visibleDate": "Oct 12, 2026",
+    "url": "pages/2026-10-12-133451275-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-12-133451275-top-software-for-remote-debugging.md",
+    "categories": [],
+    "toolHighlights": [
+      "Your Internet Speed Is More Than a Number",
+      "Building a Simpler",
+      "Use your local"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Your Internet Speed Is More Than a Number, Building a Simpler, Use",
+    "tools": [
+      {
+        "name": "Your Internet Speed Is More Than a Number",
+        "slug": "your-internet-speed-is-more-than-a-number",
+        "description": "Internet Usage Tracker brings real-time network speed monitoring, daily and monthly usage history, connection categories, and a floating desktop meter together in one Windows application. However, it only provides a snapshot of performance during that test.</p> <p>Continuous monitoring serves a different purpose.</p> <p>It lets you observe upload and download speeds while you perform your normal tasks.",
+        "summary": "Internet Usage Tracker brings real-time network speed monitoring, daily and monthly usage history, connection categories, and a floating desktop meter together in one Windows application. However, it only provides a snapshot of performance during that test.</p> <p>Continuous monitoring serves a different purpose.</p> <p>It lets you observe upload and download speeds while you perform your normal tasks.",
+        "link": "https://dev.to/make-with-rs/your-internet-speed-is-more-than-a-number-monitoring-network-activity-on-windows-5ek0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-12T13:32:36.000Z",
+        "keywords": [
+          "monitoring",
+          "networking",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "monitoring",
+          "networking",
+          "tools"
+        ],
+        "pros": [
+          "Great for monitoring",
+          "networking-ready automation",
+          "Great for monitoring"
+        ],
+        "cons": [
+          "Overkill for monitoring experiments",
+          "Needs extra setup for networking workflows",
+          "Overkill for monitoring experiments"
+        ],
+        "highlights": [
+          "Internet Usage Tracker brings real-time network speed monitoring, daily and monthly usage history, connection categories, and a floating desktop meter together in one Windows application.",
+          "Here are some situations where a desktop network monitor can be useful: Downloading development tools: Observe upload and download activity while installing SDKs, packages, or other large tools.",
+          "Others may appreciate having usage history and a floating meter in the same application.</p> <p>The goal isn't to replace every Windows networking feature."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Building a Simpler",
+        "slug": "building-a-simpler",
+        "description": "Internet Usage Tracker brings together live upload and download speeds, daily and monthly usage history, connection categories, and a movable floating meter in one Windows application. Windows provides basic network usage information, but I wanted a more convenient way to keep essential internet statistics visible during everyday computer use.",
+        "summary": "Internet Usage Tracker brings together live upload and download speeds, daily and monthly usage history, connection categories, and a movable floating meter in one Windows application. Windows provides basic network usage information, but I wanted a more convenient way to keep essential internet statistics visible during everyday computer use.",
+        "link": "https://dev.to/robin_hood_991fffecf68062/building-a-simpler-way-to-monitor-internet-usage-on-windows-12bm",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-12T13:31:27.000Z",
+        "keywords": [
+          "monitoring",
+          "networking",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "monitoring",
+          "networking",
+          "tools"
+        ],
+        "pros": [
+          "Great for monitoring",
+          "networking-ready automation",
+          "Great for monitoring"
+        ],
+        "cons": [
+          "Overkill for monitoring experiments",
+          "Needs extra setup for networking workflows",
+          "Overkill for monitoring experiments"
+        ],
+        "highlights": [
+          "Internet Usage Tracker brings together live upload and download speeds, daily and monthly usage history, connection categories, and a movable floating meter in one Windows application.",
+          "Windows provides basic network usage information, but I wanted a more convenient way to keep essential internet statistics visible during everyday computer use.",
+          "The app displays current upload and download speeds, allowing users to observe network activity while browsing, downloading files, streaming content, or working online."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Use your local",
+        "slug": "use-your-local",
+        "description": "I wanted to access the same tools, files, and local MCP servers from my phone or another browser, use whichever AI model I preferred, and avoid uploading my API keys to yet another cloud service. The desktop app, Device Agent, and Linux CLI are open source under the MIT licence: https://github.com/mcptoai/MCPtoAI The hosted web app and relay infrastructure are not open source.",
+        "summary": "I wanted to access the same tools, files, and local MCP servers from my phone or another browser, use whichever AI model I preferred, and avoid uploading my API keys to yet another cloud service. The desktop app, Device Agent, and Linux CLI are open source under the MIT licence: https://github.com/mcptoai/MCPtoAI The hosted web app and relay infrastructure are not open source.",
+        "link": "https://dev.to/abktya/use-your-local-mcp-tools-from-any-browser-or-phone-1kk7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-12T13:26:03.000Z",
+        "keywords": [
+          "agents",
+          "ai",
+          "mcp",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "agents",
+          "ai",
+          "mcp"
+        ],
+        "pros": [
+          "Great for agents",
+          "ai-ready automation",
+          "Great for agents"
+        ],
+        "cons": [
+          "Overkill for agents experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for agents experiments"
+        ],
+        "highlights": [
+          "I wanted to access the same tools, files, and local MCP servers from my phone or another browser, use whichever AI model I preferred, and avoid uploading my API keys to yet another cloud service.",
+          "The desktop app, Device Agent, and Linux CLI are open source under the MIT licence: https://github.com/mcptoai/MCPtoAI The hosted web app and relay infrastructure are not open source.",
+          "How it works: A small agent runs on your computer (macOS or Windows desktop app, Linux CLI via pip install mcptoai, or Docker)."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Pinecone vs Qdrant vs Chroma",
+        "slug": "pinecone-vs-qdrant-vs-chroma",
+        "description": "Chroma has a wrapper as well but requires the Python SDK to be installed locally, which complicates deployment on serverless environments like AWS Lambda or Vercel Edge Functions.</p> <p>LlamaIndex integration. The filtering performance advantage makes a measurable difference for semantic search with metadata filters, which covers most RAG use cases.</p> <p>Chroma fits prototyping and embedded AI applications.",
+        "summary": "Chroma has a wrapper as well but requires the Python SDK to be installed locally, which complicates deployment on serverless environments like AWS Lambda or Vercel Edge Functions.</p> <p>LlamaIndex integration. The filtering performance advantage makes a measurable difference for semantic search with metadata filters, which covers most RAG use cases.</p> <p>Chroma fits prototyping and embedded AI applications.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/pinecone-vs-qdrant-vs-chroma-vector-databases-for-ai-apps-in-2026-ame",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-12T13:11:01.000Z",
+        "keywords": [
+          "devtools",
+          "webdev",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devtools",
+          "webdev",
+          "programming"
+        ],
+        "pros": [
+          "Great for devtools",
+          "webdev-ready automation",
+          "Great for devtools"
+        ],
+        "cons": [
+          "Overkill for devtools experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for devtools experiments"
+        ],
+        "highlights": [
+          "Pinecone's serverless architecture (launched in 2025, matured in 2026) automatically scales compute based on query volume, which eliminates capacity planning for variable workloads.",
+          "Chroma has a wrapper as well but requires the Python SDK to be installed locally, which complicates deployment on serverless environments like AWS Lambda or Vercel Edge Functions.",
+          "For most indie developers shipping a RAG application or semantic search feature, Qdrant (self-hosted or cloud) offers the best balance of cost, performance, and control."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-12T13:34:51.275Z",
+    "lastUpdated": "2026-10-12T13:34:51.275Z",
+    "visibleDate": "Oct 12, 2026",
+    "url": "pages/2026-10-12-133451275-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-12-133451275-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "Your Internet Speed Is More Than a Number",
+      "Building a Simpler"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Your Internet Speed Is More Than a Number, Buildi",
+    "tools": [
+      {
+        "name": "Your Internet Speed Is More Than a Number",
+        "slug": "your-internet-speed-is-more-than-a-number",
+        "description": "Internet Usage Tracker brings real-time network speed monitoring, daily and monthly usage history, connection categories, and a floating desktop meter together in one Windows application. However, it only provides a snapshot of performance during that test.</p> <p>Continuous monitoring serves a different purpose.</p> <p>It lets you observe upload and download speeds while you perform your normal tasks.",
+        "summary": "Internet Usage Tracker brings real-time network speed monitoring, daily and monthly usage history, connection categories, and a floating desktop meter together in one Windows application. However, it only provides a snapshot of performance during that test.</p> <p>Continuous monitoring serves a different purpose.</p> <p>It lets you observe upload and download speeds while you perform your normal tasks.",
+        "link": "https://dev.to/make-with-rs/your-internet-speed-is-more-than-a-number-monitoring-network-activity-on-windows-5ek0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-12T13:32:36.000Z",
+        "keywords": [
+          "monitoring",
+          "networking",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "monitoring",
+          "networking",
+          "tools"
+        ],
+        "pros": [
+          "Great for monitoring",
+          "networking-ready automation",
+          "Great for monitoring"
+        ],
+        "cons": [
+          "Overkill for monitoring experiments",
+          "Needs extra setup for networking workflows",
+          "Overkill for monitoring experiments"
+        ],
+        "highlights": [
+          "Internet Usage Tracker brings real-time network speed monitoring, daily and monthly usage history, connection categories, and a floating desktop meter together in one Windows application.",
+          "Here are some situations where a desktop network monitor can be useful: Downloading development tools: Observe upload and download activity while installing SDKs, packages, or other large tools.",
+          "Others may appreciate having usage history and a floating meter in the same application.</p> <p>The goal isn't to replace every Windows networking feature."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Building a Simpler",
+        "slug": "building-a-simpler",
+        "description": "Internet Usage Tracker brings together live upload and download speeds, daily and monthly usage history, connection categories, and a movable floating meter in one Windows application. Windows provides basic network usage information, but I wanted a more convenient way to keep essential internet statistics visible during everyday computer use.",
+        "summary": "Internet Usage Tracker brings together live upload and download speeds, daily and monthly usage history, connection categories, and a movable floating meter in one Windows application. Windows provides basic network usage information, but I wanted a more convenient way to keep essential internet statistics visible during everyday computer use.",
+        "link": "https://dev.to/robin_hood_991fffecf68062/building-a-simpler-way-to-monitor-internet-usage-on-windows-12bm",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-12T13:31:27.000Z",
+        "keywords": [
+          "monitoring",
+          "networking",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "monitoring",
+          "networking",
+          "tools"
+        ],
+        "pros": [
+          "Great for monitoring",
+          "networking-ready automation",
+          "Great for monitoring"
+        ],
+        "cons": [
+          "Overkill for monitoring experiments",
+          "Needs extra setup for networking workflows",
+          "Overkill for monitoring experiments"
+        ],
+        "highlights": [
+          "Internet Usage Tracker brings together live upload and download speeds, daily and monthly usage history, connection categories, and a movable floating meter in one Windows application.",
+          "Windows provides basic network usage information, but I wanted a more convenient way to keep essential internet statistics visible during everyday computer use.",
+          "The app displays current upload and download speeds, allowing users to observe network activity while browsing, downloading files, streaming content, or working online."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-12T13:34:51.275Z",
+    "lastUpdated": "2026-10-12T13:34:51.275Z",
+    "visibleDate": "Oct 12, 2026",
+    "url": "pages/2026-10-12-133451275-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-12-133451275-new-collections-this-week.md",
+    "categories": [],
+    "toolHighlights": [
+      "Your Internet Speed Is More Than a Number",
+      "Building a Simpler",
+      "Use your local"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Your Internet Speed Is More Than a Number, Building a Simpler, Use your ",
+    "tools": [
+      {
+        "name": "Your Internet Speed Is More Than a Number",
+        "slug": "your-internet-speed-is-more-than-a-number",
+        "description": "Internet Usage Tracker brings real-time network speed monitoring, daily and monthly usage history, connection categories, and a floating desktop meter together in one Windows application. However, it only provides a snapshot of performance during that test.</p> <p>Continuous monitoring serves a different purpose.</p> <p>It lets you observe upload and download speeds while you perform your normal tasks.",
+        "summary": "Internet Usage Tracker brings real-time network speed monitoring, daily and monthly usage history, connection categories, and a floating desktop meter together in one Windows application. However, it only provides a snapshot of performance during that test.</p> <p>Continuous monitoring serves a different purpose.</p> <p>It lets you observe upload and download speeds while you perform your normal tasks.",
+        "link": "https://dev.to/make-with-rs/your-internet-speed-is-more-than-a-number-monitoring-network-activity-on-windows-5ek0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-12T13:32:36.000Z",
+        "keywords": [
+          "monitoring",
+          "networking",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "monitoring",
+          "networking",
+          "tools"
+        ],
+        "pros": [
+          "Great for monitoring",
+          "networking-ready automation",
+          "Great for monitoring"
+        ],
+        "cons": [
+          "Overkill for monitoring experiments",
+          "Needs extra setup for networking workflows",
+          "Overkill for monitoring experiments"
+        ],
+        "highlights": [
+          "Internet Usage Tracker brings real-time network speed monitoring, daily and monthly usage history, connection categories, and a floating desktop meter together in one Windows application.",
+          "Here are some situations where a desktop network monitor can be useful: Downloading development tools: Observe upload and download activity while installing SDKs, packages, or other large tools.",
+          "Others may appreciate having usage history and a floating meter in the same application.</p> <p>The goal isn't to replace every Windows networking feature."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Building a Simpler",
+        "slug": "building-a-simpler",
+        "description": "Internet Usage Tracker brings together live upload and download speeds, daily and monthly usage history, connection categories, and a movable floating meter in one Windows application. Windows provides basic network usage information, but I wanted a more convenient way to keep essential internet statistics visible during everyday computer use.",
+        "summary": "Internet Usage Tracker brings together live upload and download speeds, daily and monthly usage history, connection categories, and a movable floating meter in one Windows application. Windows provides basic network usage information, but I wanted a more convenient way to keep essential internet statistics visible during everyday computer use.",
+        "link": "https://dev.to/robin_hood_991fffecf68062/building-a-simpler-way-to-monitor-internet-usage-on-windows-12bm",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-12T13:31:27.000Z",
+        "keywords": [
+          "monitoring",
+          "networking",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "monitoring",
+          "networking",
+          "tools"
+        ],
+        "pros": [
+          "Great for monitoring",
+          "networking-ready automation",
+          "Great for monitoring"
+        ],
+        "cons": [
+          "Overkill for monitoring experiments",
+          "Needs extra setup for networking workflows",
+          "Overkill for monitoring experiments"
+        ],
+        "highlights": [
+          "Internet Usage Tracker brings together live upload and download speeds, daily and monthly usage history, connection categories, and a movable floating meter in one Windows application.",
+          "Windows provides basic network usage information, but I wanted a more convenient way to keep essential internet statistics visible during everyday computer use.",
+          "The app displays current upload and download speeds, allowing users to observe network activity while browsing, downloading files, streaming content, or working online."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Use your local",
+        "slug": "use-your-local",
+        "description": "I wanted to access the same tools, files, and local MCP servers from my phone or another browser, use whichever AI model I preferred, and avoid uploading my API keys to yet another cloud service. The desktop app, Device Agent, and Linux CLI are open source under the MIT licence: https://github.com/mcptoai/MCPtoAI The hosted web app and relay infrastructure are not open source.",
+        "summary": "I wanted to access the same tools, files, and local MCP servers from my phone or another browser, use whichever AI model I preferred, and avoid uploading my API keys to yet another cloud service. The desktop app, Device Agent, and Linux CLI are open source under the MIT licence: https://github.com/mcptoai/MCPtoAI The hosted web app and relay infrastructure are not open source.",
+        "link": "https://dev.to/abktya/use-your-local-mcp-tools-from-any-browser-or-phone-1kk7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-12T13:26:03.000Z",
+        "keywords": [
+          "agents",
+          "ai",
+          "mcp",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "agents",
+          "ai",
+          "mcp"
+        ],
+        "pros": [
+          "Great for agents",
+          "ai-ready automation",
+          "Great for agents"
+        ],
+        "cons": [
+          "Overkill for agents experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for agents experiments"
+        ],
+        "highlights": [
+          "I wanted to access the same tools, files, and local MCP servers from my phone or another browser, use whichever AI model I preferred, and avoid uploading my API keys to yet another cloud service.",
+          "The desktop app, Device Agent, and Linux CLI are open source under the MIT licence: https://github.com/mcptoai/MCPtoAI The hosted web app and relay infrastructure are not open source.",
+          "How it works: A small agent runs on your computer (macOS or Windows desktop app, Linux CLI via pip install mcptoai, or Docker)."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-11T11:38:29.259Z",
     "lastUpdated": "2026-10-11T11:38:29.259Z",
     "visibleDate": "Oct 11, 2026",

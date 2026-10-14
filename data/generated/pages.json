@@ -7,6 +7,671 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-14T10:39:19.834Z",
+    "lastUpdated": "2026-10-14T10:39:19.834Z",
+    "visibleDate": "Oct 14, 2026",
+    "url": "pages/2026-10-14-103919834-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-14-103919834-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Show HN",
+      "I let an",
+      "I Will Rate"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Show HN, I let an, I Will Rate. Productivity stacks that keep developer te",
+    "tools": [
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Feedback welcome if anything's unclear.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085332\">https://news.ycombinator.com/item?id=50085332</a></p> <p>Points: 4</p> <p># Comments: 0</p> I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript.",
+        "summary": "Feedback welcome if anything's unclear.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085332\">https://news.ycombinator.com/item?id=50085332</a></p> <p>Points: 4</p> <p># Comments: 0</p> I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript.",
+        "link": "https://book.humanexperiences.io/",
+        "source": "Hacker News",
+        "isoDate": "2026-10-14T10:29:56.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "comments"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript.",
+          "I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation.",
+          "I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I let an",
+        "slug": "i-let-an",
+        "description": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 9 # Comments: 0",
+        "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 9 # Comments: 0",
+        "link": "https://daily.tinyprojects.dev/221",
+        "source": "Hacker News",
+        "isoDate": "2026-10-14T10:25:48.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Will Rate",
+        "slug": "i-will-rate",
+        "description": "I have workflows that run while I sleep.</li> <li> <strong>Local LLM using Ollama (Qwen 3.5 9B)</strong> - for quick tasks when I do not want to wait for the cloud. If you do not use it, it is not better for you.</p> <h2> The Mistake Everyone Makes </h2> <p>The biggest mistake I see people make with AI tools is treating them like magic.",
+        "summary": "I have workflows that run while I sleep.</li> <li> <strong>Local LLM using Ollama (Qwen 3.5 9B)</strong> - for quick tasks when I do not want to wait for the cloud. If you do not use it, it is not better for you.</p> <h2> The Mistake Everyone Makes </h2> <p>The biggest mistake I see people make with AI tools is treating them like magic.",
+        "link": "https://dev.to/unfiltered_anshul/i-will-rate-your-ai-tool-stack-drop-it-in-the-comments-13ch",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-14T10:16:01.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "community",
+          "engagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "community"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "I have tried everything from Claude Code to Codex to random open-source tools with 200 stars on GitHub.",
+          "I have built a second brain in obsidian fed by <strong>Hermes Agent</strong>.</li> <li> <strong>n8n &amp; make.com</strong> - for automation.",
+          "I have workflows that run while I sleep.</li> <li> <strong>Local LLM using Ollama (Qwen 3.5 9B)</strong> - for quick tasks when I do not want to wait for the cloud."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "European AI Innovation",
+        "slug": "european-ai-innovation",
+        "description": "The programme brings policy, research and adoption activity into one visible European calendar, while the partner-event framework creates ways for organisations to engage beyond the three main summits. The three flagship summits and wider partner-event network offer businesses a structured way to track relevant developments, learn from the ecosystem and focus their AI plans on concrete operational needs.",
+        "summary": "The programme brings policy, research and adoption activity into one visible European calendar, while the partner-event framework creates ways for organisations to engage beyond the three main summits. The three flagship summits and wider partner-event network offer businesses a structured way to track relevant developments, learn from the ecosystem and focus their AI plans on concrete operational needs.",
+        "link": "https://dev.to/alifar/european-ai-innovation-month-opens-a-2026-summit-series-for-ai-adoption-916",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-14T10:15:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "If your team is using AI events to move from interest to an implementable plan, Scalevise can help identify high-value use cases, assess operational fit and define practical next steps.",
+          "Anchored by three flagship summits and complemented by partner events across Europe, the initiative is intended to spotlight AI innovation and encourage AI uptake across sectors and regions.",
+          "A focused programme of events can help teams follow developments in areas that are often considered separately, including research, AI tools and real-world implementation."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Apple",
+        "slug": "apple",
+        "description": "Article URL: https://www.apple.com/safari/switch/ Comments URL: https://news.ycombinator.com/item?id=50085112 Points: 7 # Comments: 1",
+        "summary": "Article URL: https://www.apple.com/safari/switch/ Comments URL: https://news.ycombinator.com/item?id=50085112 Points: 7 # Comments: 1",
+        "link": "https://www.apple.com/safari/switch/",
+        "source": "Hacker News",
+        "isoDate": "2026-10-14T10:08:57.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-14T10:39:19.834Z",
+    "lastUpdated": "2026-10-14T10:39:19.834Z",
+    "visibleDate": "Oct 14, 2026",
+    "url": "pages/2026-10-14-103919834-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-14-103919834-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Show HN",
+      "I let an",
+      "I Will Rate"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Show HN, I let an, I Will Rate. Reliable remote debugging minimize",
+    "tools": [
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Feedback welcome if anything's unclear.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085332\">https://news.ycombinator.com/item?id=50085332</a></p> <p>Points: 4</p> <p># Comments: 0</p> I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript.",
+        "summary": "Feedback welcome if anything's unclear.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085332\">https://news.ycombinator.com/item?id=50085332</a></p> <p>Points: 4</p> <p># Comments: 0</p> I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript.",
+        "link": "https://book.humanexperiences.io/",
+        "source": "Hacker News",
+        "isoDate": "2026-10-14T10:29:56.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "comments"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript.",
+          "I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation.",
+          "I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I let an",
+        "slug": "i-let-an",
+        "description": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 9 # Comments: 0",
+        "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 9 # Comments: 0",
+        "link": "https://daily.tinyprojects.dev/221",
+        "source": "Hacker News",
+        "isoDate": "2026-10-14T10:25:48.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Will Rate",
+        "slug": "i-will-rate",
+        "description": "I have workflows that run while I sleep.</li> <li> <strong>Local LLM using Ollama (Qwen 3.5 9B)</strong> - for quick tasks when I do not want to wait for the cloud. If you do not use it, it is not better for you.</p> <h2> The Mistake Everyone Makes </h2> <p>The biggest mistake I see people make with AI tools is treating them like magic.",
+        "summary": "I have workflows that run while I sleep.</li> <li> <strong>Local LLM using Ollama (Qwen 3.5 9B)</strong> - for quick tasks when I do not want to wait for the cloud. If you do not use it, it is not better for you.</p> <h2> The Mistake Everyone Makes </h2> <p>The biggest mistake I see people make with AI tools is treating them like magic.",
+        "link": "https://dev.to/unfiltered_anshul/i-will-rate-your-ai-tool-stack-drop-it-in-the-comments-13ch",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-14T10:16:01.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "community",
+          "engagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "community"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "I have tried everything from Claude Code to Codex to random open-source tools with 200 stars on GitHub.",
+          "I have built a second brain in obsidian fed by <strong>Hermes Agent</strong>.</li> <li> <strong>n8n &amp; make.com</strong> - for automation.",
+          "I have workflows that run while I sleep.</li> <li> <strong>Local LLM using Ollama (Qwen 3.5 9B)</strong> - for quick tasks when I do not want to wait for the cloud."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "European AI Innovation",
+        "slug": "european-ai-innovation",
+        "description": "The programme brings policy, research and adoption activity into one visible European calendar, while the partner-event framework creates ways for organisations to engage beyond the three main summits. The three flagship summits and wider partner-event network offer businesses a structured way to track relevant developments, learn from the ecosystem and focus their AI plans on concrete operational needs.",
+        "summary": "The programme brings policy, research and adoption activity into one visible European calendar, while the partner-event framework creates ways for organisations to engage beyond the three main summits. The three flagship summits and wider partner-event network offer businesses a structured way to track relevant developments, learn from the ecosystem and focus their AI plans on concrete operational needs.",
+        "link": "https://dev.to/alifar/european-ai-innovation-month-opens-a-2026-summit-series-for-ai-adoption-916",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-14T10:15:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "If your team is using AI events to move from interest to an implementable plan, Scalevise can help identify high-value use cases, assess operational fit and define practical next steps.",
+          "Anchored by three flagship summits and complemented by partner events across Europe, the initiative is intended to spotlight AI innovation and encourage AI uptake across sectors and regions.",
+          "A focused programme of events can help teams follow developments in areas that are often considered separately, including research, AI tools and real-world implementation."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-14T10:39:19.834Z",
+    "lastUpdated": "2026-10-14T10:39:19.834Z",
+    "visibleDate": "Oct 14, 2026",
+    "url": "pages/2026-10-14-103919834-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-14-103919834-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Show HN",
+      "I let an"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Show HN, I let an. Gitpod brings zero-config work",
+    "tools": [
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Feedback welcome if anything's unclear.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085332\">https://news.ycombinator.com/item?id=50085332</a></p> <p>Points: 4</p> <p># Comments: 0</p> I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript.",
+        "summary": "Feedback welcome if anything's unclear.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085332\">https://news.ycombinator.com/item?id=50085332</a></p> <p>Points: 4</p> <p># Comments: 0</p> I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript.",
+        "link": "https://book.humanexperiences.io/",
+        "source": "Hacker News",
+        "isoDate": "2026-10-14T10:29:56.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "comments"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript.",
+          "I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation.",
+          "I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I let an",
+        "slug": "i-let-an",
+        "description": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 9 # Comments: 0",
+        "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 9 # Comments: 0",
+        "link": "https://daily.tinyprojects.dev/221",
+        "source": "Hacker News",
+        "isoDate": "2026-10-14T10:25:48.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-14T10:39:19.834Z",
+    "lastUpdated": "2026-10-14T10:39:19.834Z",
+    "visibleDate": "Oct 14, 2026",
+    "url": "pages/2026-10-14-103919834-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-14-103919834-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Show HN",
+      "I let an",
+      "I Will Rate"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Show HN, I let an, I Will Rate. New launches that are shipping with auto",
+    "tools": [
+      {
+        "name": "Show HN",
+        "slug": "show-hn",
+        "description": "Feedback welcome if anything's unclear.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085332\">https://news.ycombinator.com/item?id=50085332</a></p> <p>Points: 4</p> <p># Comments: 0</p> I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript.",
+        "summary": "Feedback welcome if anything's unclear.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085332\">https://news.ycombinator.com/item?id=50085332</a></p> <p>Points: 4</p> <p># Comments: 0</p> I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript.",
+        "link": "https://book.humanexperiences.io/",
+        "source": "Hacker News",
+        "isoDate": "2026-10-14T10:29:56.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "comments"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [
+          "I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript.",
+          "I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation.",
+          "I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 3,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I let an",
+        "slug": "i-let-an",
+        "description": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 9 # Comments: 0",
+        "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 9 # Comments: 0",
+        "link": "https://daily.tinyprojects.dev/221",
+        "source": "Hacker News",
+        "isoDate": "2026-10-14T10:25:48.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Will Rate",
+        "slug": "i-will-rate",
+        "description": "I have workflows that run while I sleep.</li> <li> <strong>Local LLM using Ollama (Qwen 3.5 9B)</strong> - for quick tasks when I do not want to wait for the cloud. If you do not use it, it is not better for you.</p> <h2> The Mistake Everyone Makes </h2> <p>The biggest mistake I see people make with AI tools is treating them like magic.",
+        "summary": "I have workflows that run while I sleep.</li> <li> <strong>Local LLM using Ollama (Qwen 3.5 9B)</strong> - for quick tasks when I do not want to wait for the cloud. If you do not use it, it is not better for you.</p> <h2> The Mistake Everyone Makes </h2> <p>The biggest mistake I see people make with AI tools is treating them like magic.",
+        "link": "https://dev.to/unfiltered_anshul/i-will-rate-your-ai-tool-stack-drop-it-in-the-comments-13ch",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-14T10:16:01.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "community",
+          "engagement",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "community"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "I have tried everything from Claude Code to Codex to random open-source tools with 200 stars on GitHub.",
+          "I have built a second brain in obsidian fed by <strong>Hermes Agent</strong>.</li> <li> <strong>n8n &amp; make.com</strong> - for automation.",
+          "I have workflows that run while I sleep.</li> <li> <strong>Local LLM using Ollama (Qwen 3.5 9B)</strong> - for quick tasks when I do not want to wait for the cloud."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-13T12:58:44.233Z",
     "lastUpdated": "2026-10-13T12:58:44.233Z",
     "visibleDate": "Oct 13, 2026",

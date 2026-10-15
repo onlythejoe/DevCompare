@@ -7,6 +7,691 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-15T10:22:52.327Z",
+    "lastUpdated": "2026-10-15T10:22:52.327Z",
+    "visibleDate": "Oct 15, 2026",
+    "url": "pages/2026-10-15-102252327-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-15-102252327-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Browser Text Editor: Free Online Text & Code Editor",
+      "UX & UI",
+      "Dropshipping supplier background"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Browser Text Editor: Free Online Text & Code Editor, UX & UI, Dropshipping",
+    "tools": [
+      {
+        "name": "Browser Text Editor: Free Online Text & Code Editor",
+        "slug": "browser-text-editor-free-online-text-code-editor",
+        "description": "It's a fast browser workspace for snippets, drafts, logs, and handoff files — great for quick work, not a substitute for a full development environment.</p> <p><strong>Do I need an account?</strong><br> No. Paste a log dump to skim and filter it in the editor without uploading anything sensitive to a third-party service — handy for logs with credentials or customer data.",
+        "summary": "It's a fast browser workspace for snippets, drafts, logs, and handoff files — great for quick work, not a substitute for a full development environment.</p> <p><strong>Do I need an account?</strong><br> No. Paste a log dump to skim and filter it in the editor without uploading anything sensitive to a third-party service — handy for logs with credentials or customer data.",
+        "link": "https://dev.to/layoffatlas/browser-text-editor-free-online-text-code-editor-how-to-guide-1h3j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-15T10:14:22.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The workflow is deliberately local-first: editing, previewing, and analysis all happen in your browser, so drafts, snippets, diffs, and logs are never sent to a server.",
+          "Paste a log dump to skim and filter it in the editor without uploading anything sensitive to a third-party service — handy for logs with credentials or customer data.",
+          "A filename field controls the downloaded file's extension — .txt, .md, .html, .log, .env, even robots.txt — so what you download is a real, properly-named file."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "UX & UI",
+        "slug": "ux-ui",
+        "description": "UI (User Interface): The design and features of the software, including buttons, colors, fonts, and layout — everything that makes the product visually appealing and user-friendly. </p> <p>A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience.",
+        "summary": "UI (User Interface): The design and features of the software, including buttons, colors, fonts, and layout — everything that makes the product visually appealing and user-friendly. </p> <p>A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience.",
+        "link": "https://dev.to/alexi17/ux-ui-testing-with-checklists-l2l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-15T10:06:49.000Z",
+        "keywords": [
+          "productivity",
+          "testing",
+          "tools",
+          "software",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "testing",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "testing-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for testing workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "UI (User Interface): The design and features of the software, including buttons, colors, fonts, and layout — everything that makes the product visually appealing and user-friendly.",
+          "A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience.",
+          "</p> <p>A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Dropshipping supplier background",
+        "slug": "dropshipping-supplier-background",
+        "description": "Grab the ready-made toolkit: Dropship Product Research & Supplier Vetting Toolkit — skip the setup and start today. Dropshipping Supplier Background Check Tools Worth Paying For (And What You Can Skip) Если вы запускаете дропшиппинг-магазин, вы быстро узнаёте одну неприятную истину: плохой поставщик стоит дороже, чем плохой товар.",
+        "summary": "Grab the ready-made toolkit: Dropship Product Research & Supplier Vetting Toolkit — skip the setup and start today. Dropshipping Supplier Background Check Tools Worth Paying For (And What You Can Skip) Если вы запускаете дропшиппинг-магазин, вы быстро узнаёте одну неприятную истину: плохой поставщик стоит дороже, чем плохой товар.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/dropshipping-supplier-background-check-tools-worth-paying-for-4jpm",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-15T09:16:18.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Grab the ready-made toolkit: Dropship Product Research & Supplier Vetting Toolkit — skip the setup and start today.",
+          "Именно эту задачу закрывает «Dropship Product Research & Supplier Vetting Toolkit» — разовый набор шаблонов, скоринг-карт и воркфлоу для проверки поставщиков и товаров.",
+          "А чтобы не собирать систему проверки по кускам, начните с готового набора: «Dropship Product Research & Supplier Vetting Toolkit» — $29 разово, без подписок и скрытых платежей."
+        ],
+        "pricing": "Paid plans starting at $99",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best way to",
+        "slug": "best-way-to",
+        "description": "Tag each idea with only three things: Format (blog, video, carousel, newsletter) Theme (your core content pillars — aim for 3–5 max) Status (raw / drafted / published) Anything more complex and you'll stop using it. The best way to organize content ideas and repurpose old blog posts isn't a single hack — it's three connected layers: Capture everything into one Idea Bank with a 3-tag system.",
+        "summary": "Tag each idea with only three things: Format (blog, video, carousel, newsletter) Theme (your core content pillars — aim for 3–5 max) Status (raw / drafted / published) Anything more complex and you'll stop using it. The best way to organize content ideas and repurpose old blog posts isn't a single hack — it's three connected layers: Capture everything into one Idea Bank with a 3-tag system.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/best-way-to-organize-content-ideas-and-repurpose-old-blog-posts-59om",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-15T09:15:02.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The best way to organize content ideas and repurpose old blog posts isn't a single hack — it's three connected layers: Capture everything into one Idea Bank with a 3-tag system.",
+          "This guide breaks down the best way to organize content ideas and repurpose old blog posts into a repeatable workflow — with concrete steps, templates, and checklists you can implement today.",
+          "Quick checklist: [ ] One capture inbox (not five) [ ] 3–5 content pillars defined [ ] 3-tag system max [ ] Weekly 15-minute review to sort new ideas A pile of ideas is not a plan."
+        ],
+        "pricing": "Paid plans starting at $19",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Stop Installing Software for One-Off Tasks",
+        "slug": "stop-installing-software-for-one-off-tasks",
+        "description": "Converting formats: MOV to MP4, MP4 to WebM, and similar jobs are easy to do with a video converter when you don't want to dig up the right FFmpeg command. The browser-based tools I reach for when I need to compress a video, convert a file, trim audio, or shrink an image or PDF without installing anything.",
+        "summary": "Converting formats: MOV to MP4, MP4 to WebM, and similar jobs are easy to do with a video converter when you don't want to dig up the right FFmpeg command. The browser-based tools I reach for when I need to compress a video, convert a file, trim audio, or shrink an image or PDF without installing anything.",
+        "link": "https://dev.to/bill_lee_6a8ae2f8b102b811/stop-installing-software-for-one-off-tasks-a-developers-web-tool-list-l9b",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-15T09:14:04.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "webdev",
+          "discuss",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "The browser-based tools I reach for when I need to compress a video, convert a file, trim audio, or shrink an image or PDF without installing anything.",
+          "Converting formats: MOV to MP4, MP4 to WebM, and similar jobs are easy to do with a video converter when you don't want to dig up the right FFmpeg command.",
+          "Trimming a clip: cutting the first and last few seconds off a screen recording is a perfect web-tool job."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-15T10:22:52.327Z",
+    "lastUpdated": "2026-10-15T10:22:52.327Z",
+    "visibleDate": "Oct 15, 2026",
+    "url": "pages/2026-10-15-102252327-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-15-102252327-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Browser Text Editor: Free Online Text & Code Editor",
+      "UX & UI",
+      "Dropshipping supplier background"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Browser Text Editor: Free Online Text & Code Editor, UX & UI, Drop",
+    "tools": [
+      {
+        "name": "Browser Text Editor: Free Online Text & Code Editor",
+        "slug": "browser-text-editor-free-online-text-code-editor",
+        "description": "It's a fast browser workspace for snippets, drafts, logs, and handoff files — great for quick work, not a substitute for a full development environment.</p> <p><strong>Do I need an account?</strong><br> No. Paste a log dump to skim and filter it in the editor without uploading anything sensitive to a third-party service — handy for logs with credentials or customer data.",
+        "summary": "It's a fast browser workspace for snippets, drafts, logs, and handoff files — great for quick work, not a substitute for a full development environment.</p> <p><strong>Do I need an account?</strong><br> No. Paste a log dump to skim and filter it in the editor without uploading anything sensitive to a third-party service — handy for logs with credentials or customer data.",
+        "link": "https://dev.to/layoffatlas/browser-text-editor-free-online-text-code-editor-how-to-guide-1h3j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-15T10:14:22.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The workflow is deliberately local-first: editing, previewing, and analysis all happen in your browser, so drafts, snippets, diffs, and logs are never sent to a server.",
+          "Paste a log dump to skim and filter it in the editor without uploading anything sensitive to a third-party service — handy for logs with credentials or customer data.",
+          "A filename field controls the downloaded file's extension — .txt, .md, .html, .log, .env, even robots.txt — so what you download is a real, properly-named file."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "UX & UI",
+        "slug": "ux-ui",
+        "description": "UI (User Interface): The design and features of the software, including buttons, colors, fonts, and layout — everything that makes the product visually appealing and user-friendly. </p> <p>A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience.",
+        "summary": "UI (User Interface): The design and features of the software, including buttons, colors, fonts, and layout — everything that makes the product visually appealing and user-friendly. </p> <p>A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience.",
+        "link": "https://dev.to/alexi17/ux-ui-testing-with-checklists-l2l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-15T10:06:49.000Z",
+        "keywords": [
+          "productivity",
+          "testing",
+          "tools",
+          "software",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "testing",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "testing-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for testing workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "UI (User Interface): The design and features of the software, including buttons, colors, fonts, and layout — everything that makes the product visually appealing and user-friendly.",
+          "A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience.",
+          "</p> <p>A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Dropshipping supplier background",
+        "slug": "dropshipping-supplier-background",
+        "description": "Grab the ready-made toolkit: Dropship Product Research & Supplier Vetting Toolkit — skip the setup and start today. Dropshipping Supplier Background Check Tools Worth Paying For (And What You Can Skip) Если вы запускаете дропшиппинг-магазин, вы быстро узнаёте одну неприятную истину: плохой поставщик стоит дороже, чем плохой товар.",
+        "summary": "Grab the ready-made toolkit: Dropship Product Research & Supplier Vetting Toolkit — skip the setup and start today. Dropshipping Supplier Background Check Tools Worth Paying For (And What You Can Skip) Если вы запускаете дропшиппинг-магазин, вы быстро узнаёте одну неприятную истину: плохой поставщик стоит дороже, чем плохой товар.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/dropshipping-supplier-background-check-tools-worth-paying-for-4jpm",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-15T09:16:18.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Grab the ready-made toolkit: Dropship Product Research & Supplier Vetting Toolkit — skip the setup and start today.",
+          "Именно эту задачу закрывает «Dropship Product Research & Supplier Vetting Toolkit» — разовый набор шаблонов, скоринг-карт и воркфлоу для проверки поставщиков и товаров.",
+          "А чтобы не собирать систему проверки по кускам, начните с готового набора: «Dropship Product Research & Supplier Vetting Toolkit» — $29 разово, без подписок и скрытых платежей."
+        ],
+        "pricing": "Paid plans starting at $99",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best way to",
+        "slug": "best-way-to",
+        "description": "Tag each idea with only three things: Format (blog, video, carousel, newsletter) Theme (your core content pillars — aim for 3–5 max) Status (raw / drafted / published) Anything more complex and you'll stop using it. The best way to organize content ideas and repurpose old blog posts isn't a single hack — it's three connected layers: Capture everything into one Idea Bank with a 3-tag system.",
+        "summary": "Tag each idea with only three things: Format (blog, video, carousel, newsletter) Theme (your core content pillars — aim for 3–5 max) Status (raw / drafted / published) Anything more complex and you'll stop using it. The best way to organize content ideas and repurpose old blog posts isn't a single hack — it's three connected layers: Capture everything into one Idea Bank with a 3-tag system.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/best-way-to-organize-content-ideas-and-repurpose-old-blog-posts-59om",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-15T09:15:02.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The best way to organize content ideas and repurpose old blog posts isn't a single hack — it's three connected layers: Capture everything into one Idea Bank with a 3-tag system.",
+          "This guide breaks down the best way to organize content ideas and repurpose old blog posts into a repeatable workflow — with concrete steps, templates, and checklists you can implement today.",
+          "Quick checklist: [ ] One capture inbox (not five) [ ] 3–5 content pillars defined [ ] 3-tag system max [ ] Weekly 15-minute review to sort new ideas A pile of ideas is not a plan."
+        ],
+        "pricing": "Paid plans starting at $19",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-15T10:22:52.327Z",
+    "lastUpdated": "2026-10-15T10:22:52.327Z",
+    "visibleDate": "Oct 15, 2026",
+    "url": "pages/2026-10-15-102252327-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-15-102252327-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Browser Text Editor: Free Online Text & Code Editor",
+      "UX & UI"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Browser Text Editor: Free Online Text & Code Edit",
+    "tools": [
+      {
+        "name": "Browser Text Editor: Free Online Text & Code Editor",
+        "slug": "browser-text-editor-free-online-text-code-editor",
+        "description": "It's a fast browser workspace for snippets, drafts, logs, and handoff files — great for quick work, not a substitute for a full development environment.</p> <p><strong>Do I need an account?</strong><br> No. Paste a log dump to skim and filter it in the editor without uploading anything sensitive to a third-party service — handy for logs with credentials or customer data.",
+        "summary": "It's a fast browser workspace for snippets, drafts, logs, and handoff files — great for quick work, not a substitute for a full development environment.</p> <p><strong>Do I need an account?</strong><br> No. Paste a log dump to skim and filter it in the editor without uploading anything sensitive to a third-party service — handy for logs with credentials or customer data.",
+        "link": "https://dev.to/layoffatlas/browser-text-editor-free-online-text-code-editor-how-to-guide-1h3j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-15T10:14:22.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The workflow is deliberately local-first: editing, previewing, and analysis all happen in your browser, so drafts, snippets, diffs, and logs are never sent to a server.",
+          "Paste a log dump to skim and filter it in the editor without uploading anything sensitive to a third-party service — handy for logs with credentials or customer data.",
+          "A filename field controls the downloaded file's extension — .txt, .md, .html, .log, .env, even robots.txt — so what you download is a real, properly-named file."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "UX & UI",
+        "slug": "ux-ui",
+        "description": "UI (User Interface): The design and features of the software, including buttons, colors, fonts, and layout — everything that makes the product visually appealing and user-friendly. </p> <p>A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience.",
+        "summary": "UI (User Interface): The design and features of the software, including buttons, colors, fonts, and layout — everything that makes the product visually appealing and user-friendly. </p> <p>A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience.",
+        "link": "https://dev.to/alexi17/ux-ui-testing-with-checklists-l2l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-15T10:06:49.000Z",
+        "keywords": [
+          "productivity",
+          "testing",
+          "tools",
+          "software",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "testing",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "testing-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for testing workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "UI (User Interface): The design and features of the software, including buttons, colors, fonts, and layout — everything that makes the product visually appealing and user-friendly.",
+          "A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience.",
+          "</p> <p>A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-15T10:22:52.327Z",
+    "lastUpdated": "2026-10-15T10:22:52.327Z",
+    "visibleDate": "Oct 15, 2026",
+    "url": "pages/2026-10-15-102252327-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-15-102252327-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Browser Text Editor: Free Online Text & Code Editor",
+      "UX & UI",
+      "Dropshipping supplier background"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Browser Text Editor: Free Online Text & Code Editor, UX & UI, Dropshippi",
+    "tools": [
+      {
+        "name": "Browser Text Editor: Free Online Text & Code Editor",
+        "slug": "browser-text-editor-free-online-text-code-editor",
+        "description": "It's a fast browser workspace for snippets, drafts, logs, and handoff files — great for quick work, not a substitute for a full development environment.</p> <p><strong>Do I need an account?</strong><br> No. Paste a log dump to skim and filter it in the editor without uploading anything sensitive to a third-party service — handy for logs with credentials or customer data.",
+        "summary": "It's a fast browser workspace for snippets, drafts, logs, and handoff files — great for quick work, not a substitute for a full development environment.</p> <p><strong>Do I need an account?</strong><br> No. Paste a log dump to skim and filter it in the editor without uploading anything sensitive to a third-party service — handy for logs with credentials or customer data.",
+        "link": "https://dev.to/layoffatlas/browser-text-editor-free-online-text-code-editor-how-to-guide-1h3j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-15T10:14:22.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "webdev",
+          "tutorial",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "webdev"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "The workflow is deliberately local-first: editing, previewing, and analysis all happen in your browser, so drafts, snippets, diffs, and logs are never sent to a server.",
+          "Paste a log dump to skim and filter it in the editor without uploading anything sensitive to a third-party service — handy for logs with credentials or customer data.",
+          "A filename field controls the downloaded file's extension — .txt, .md, .html, .log, .env, even robots.txt — so what you download is a real, properly-named file."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "UX & UI",
+        "slug": "ux-ui",
+        "description": "UI (User Interface): The design and features of the software, including buttons, colors, fonts, and layout — everything that makes the product visually appealing and user-friendly. </p> <p>A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience.",
+        "summary": "UI (User Interface): The design and features of the software, including buttons, colors, fonts, and layout — everything that makes the product visually appealing and user-friendly. </p> <p>A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience.",
+        "link": "https://dev.to/alexi17/ux-ui-testing-with-checklists-l2l",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-15T10:06:49.000Z",
+        "keywords": [
+          "productivity",
+          "testing",
+          "tools",
+          "software",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "testing",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "testing-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for testing workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "UI (User Interface): The design and features of the software, including buttons, colors, fonts, and layout — everything that makes the product visually appealing and user-friendly.",
+          "A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience.",
+          "</p> <p>A well-structured UX/UI testing checklist helps QA teams stay consistent, efficient and focused on delivering a seamless user experience."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Dropshipping supplier background",
+        "slug": "dropshipping-supplier-background",
+        "description": "Grab the ready-made toolkit: Dropship Product Research & Supplier Vetting Toolkit — skip the setup and start today. Dropshipping Supplier Background Check Tools Worth Paying For (And What You Can Skip) Если вы запускаете дропшиппинг-магазин, вы быстро узнаёте одну неприятную истину: плохой поставщик стоит дороже, чем плохой товар.",
+        "summary": "Grab the ready-made toolkit: Dropship Product Research & Supplier Vetting Toolkit — skip the setup and start today. Dropshipping Supplier Background Check Tools Worth Paying For (And What You Can Skip) Если вы запускаете дропшиппинг-магазин, вы быстро узнаёте одну неприятную истину: плохой поставщик стоит дороже, чем плохой товар.",
+        "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/dropshipping-supplier-background-check-tools-worth-paying-for-4jpm",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-15T09:16:18.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Grab the ready-made toolkit: Dropship Product Research & Supplier Vetting Toolkit — skip the setup and start today.",
+          "Именно эту задачу закрывает «Dropship Product Research & Supplier Vetting Toolkit» — разовый набор шаблонов, скоринг-карт и воркфлоу для проверки поставщиков и товаров.",
+          "А чтобы не собирать систему проверки по кускам, начните с готового набора: «Dropship Product Research & Supplier Vetting Toolkit» — $29 разово, без подписок и скрытых платежей."
+        ],
+        "pricing": "Paid plans starting at $99",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-14T10:39:19.834Z",
     "lastUpdated": "2026-10-14T10:39:19.834Z",
     "visibleDate": "Oct 14, 2026",

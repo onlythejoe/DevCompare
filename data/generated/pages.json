@@ -7,6 +7,691 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-16T10:10:21.354Z",
+    "lastUpdated": "2026-10-16T10:10:21.354Z",
+    "visibleDate": "Oct 16, 2026",
+    "url": "pages/2026-10-16-101021354-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-16-101021354-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Firefox Extensions for Developers",
+      "What's new in",
+      "Dynamic vs Static QR Codes"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Best Firefox Extensions for Developers, What's new in, Dynamic vs Static Q",
+    "tools": [
+      {
+        "name": "Best Firefox Extensions for Developers",
+        "slug": "best-firefox-extensions-for-developers",
+        "description": "Occasional visual glitches.</p> <p><strong><a href=\"https://addons.mozilla.org/firefox/addon/nightowl1/\" rel=\"noopener noreferrer\">NightOwl</a></strong>: Uses CSS <code>prefers-color-scheme</code> only. Useful for fixing a site's layout that bothers you, creating a custom reading mode for specific documentation sites, or applying company style guide tweaks.</p> <h3> Redirector </h3> <p>Redirect URLs automatically.",
+        "summary": "Occasional visual glitches.</p> <p><strong><a href=\"https://addons.mozilla.org/firefox/addon/nightowl1/\" rel=\"noopener noreferrer\">NightOwl</a></strong>: Uses CSS <code>prefers-color-scheme</code> only. Useful for fixing a site's layout that bothers you, creating a custom reading mode for specific documentation sites, or applying company style guide tweaks.</p> <h3> Redirector </h3> <p>Redirect URLs automatically.",
+        "link": "https://dev.to/weatherclockdash/best-firefox-extensions-for-developers-what-i-actually-use-1gee",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-16T10:09:11.000Z",
+        "keywords": [
+          "firefox",
+          "webdev",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "firefox",
+          "webdev",
+          "productivity"
+        ],
+        "pros": [
+          "Great for firefox",
+          "webdev-ready automation",
+          "Great for firefox"
+        ],
+        "cons": [
+          "Overkill for firefox experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for firefox experiments"
+        ],
+        "highlights": [
+          "Open source, maintained by Raymond Hill (gorhill), does what it says without any adware-style behavior.</p> <p>Key feature for developers: <strong>Medium Mode</strong> (dynamic filtering).",
+          "Useful for fixing a site's layout that bothers you, creating a custom reading mode for specific documentation sites, or applying company style guide tweaks.",
+          "LastPass/other cloud password managers with unknown server-side access: Bitwarden is the exception — open source, self-hostable, well-audited."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "What's new in",
+        "slug": "what-s-new-in",
+        "description": "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production. Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+        "summary": "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production. Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+        "link": "https://dev.to/nicholasflemmer/whats-new-in-styx-0414-4l1n",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-16T10:03:26.000Z",
+        "keywords": [
+          "ai",
+          "opensource",
+          "software",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "opensource",
+          "software"
+        ],
+        "pros": [
+          "Great for ai",
+          "opensource-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for opensource workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+          "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+          "Free and open source (Apache-2.0); Mac, with Windows and Linux in beta."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Dynamic vs Static QR Codes",
+        "slug": "dynamic-vs-static-qr-codes",
+        "description": "Read the terms before printing.</li> <li> <strong>Losing access to edit.</strong> With any dynamic service, keep your login or owner key somewhere safe. It's also open about what dynamic scans record: time, device category, browser, operating system, and the referring page when the browser sends one.",
+        "summary": "Read the terms before printing.</li> <li> <strong>Losing access to edit.</strong> With any dynamic service, keep your login or owner key somewhere safe. It's also open about what dynamic scans record: time, device category, browser, operating system, and the referring page when the browser sends one.",
+        "link": "https://dev.to/mughalg4228/dynamic-vs-static-qr-codes-which-one-should-you-use-438b",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-16T10:02:04.000Z",
+        "keywords": [
+          "qrcode",
+          "marketing",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "qrcode",
+          "marketing",
+          "tools"
+        ],
+        "pros": [
+          "Great for qrcode",
+          "marketing-ready automation",
+          "Great for qrcode"
+        ],
+        "cons": [
+          "Overkill for qrcode experiments",
+          "Needs extra setup for marketing workflows",
+          "Overkill for qrcode experiments"
+        ],
+        "highlights": [
+          "Most QR generators ask you to choose \"static\" or \"dynamic,\" often without explaining what that means, and sometimes the \"dynamic\" option comes with a monthly fee.",
+          "Read the terms before printing.</li> <li> <strong>Losing access to edit.</strong> With any dynamic service, keep your login or owner key somewhere safe.",
+          "WiFi codes and vCards store the network details or contact info right in the image so phones can use them offline."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Notion Quick Capture CLI",
+        "slug": "notion-quick-capture-cli",
+        "description": "For immediate capture, waiting for an app to initialize can break flow or lead to lost ideas.</p> <p>Notion Quick Capture CLI addresses this by allowing users to add notes directly from their terminal. The primary motivation behind this tool was the common experience of wanting to quickly record a thought or an idea, only to be slowed down by the Notion desktop application's load times.",
+        "summary": "For immediate capture, waiting for an app to initialize can break flow or lead to lost ideas.</p> <p>Notion Quick Capture CLI addresses this by allowing users to add notes directly from their terminal. The primary motivation behind this tool was the common experience of wanting to quickly record a thought or an idea, only to be slowed down by the Notion desktop application's load times.",
+        "link": "https://dev.to/itsevilduck/notion-quick-capture-cli-fast-note-taking-from-the-command-line-2fif",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-16T09:57:21.000Z",
+        "keywords": [
+          "cli",
+          "notion",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "cli",
+          "notion",
+          "productivity"
+        ],
+        "pros": [
+          "Great for cli",
+          "notion-ready automation",
+          "Great for cli"
+        ],
+        "cons": [
+          "Overkill for cli experiments",
+          "Needs extra setup for notion workflows",
+          "Overkill for cli experiments"
+        ],
+        "highlights": [
+          "The primary motivation behind this tool was the common experience of wanting to quickly record a thought or an idea, only to be slowed down by the Notion desktop application's load times.",
+          "It's intended for users who frequently capture ephemeral notes, tasks, or ideas and want to ensure these are logged into their Notion system with minimal friction.",
+          "This setup allows for rapid data entry, making it suitable for developers, writers, or anyone who values speed in their note-taking workflow."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://notion.so/?ref=XXXX"
+      },
+      {
+        "name": "Startup credits, on the record",
+        "slug": "startup-credits-on-the-record",
+        "description": "It is read-only by design, and it says plainly that terms move and a vendor should be confirmed before a person relies on an offer, which is the right posture for anything that ends up in a decision about money. Each release has a sha256, and entries carry revision digests, so the project's own citation convention is sourcey.com - <offer_id> @ <revision_digest>.",
+        "summary": "It is read-only by design, and it says plainly that terms move and a vendor should be confirmed before a person relies on an offer, which is the right posture for anything that ends up in a decision about money. Each release has a sha256, and entries carry revision digests, so the project's own citation convention is sourcey.com - <offer_id> @ <revision_digest>.",
+        "link": "https://dev.to/dosunmu_hassan_46f2ac141d/startup-credits-on-the-record-a-registry-agents-can-cite-55m5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-16T09:54:10.000Z",
+        "keywords": [
+          "ai",
+          "opensource",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "opensource",
+          "webdev"
+        ],
+        "pros": [
+          "Great for ai",
+          "opensource-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for opensource workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Each release has a sha256, and entries carry revision digests, so the project's own citation convention is sourcey.com - <offer_id> @ <revision_digest>.",
+          "A quote of an offer stays meaningful after the vendor rewrites the terms, because the digest says which revision you quoted.",
+          "The startup-credits record carries programs, offers and the policies that govern them, with the source URL attached."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-16T10:10:21.354Z",
+    "lastUpdated": "2026-10-16T10:10:21.354Z",
+    "visibleDate": "Oct 16, 2026",
+    "url": "pages/2026-10-16-101021354-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-16-101021354-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Firefox Extensions for Developers",
+      "What's new in",
+      "Dynamic vs Static QR Codes"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Best Firefox Extensions for Developers, What's new in, Dynamic vs ",
+    "tools": [
+      {
+        "name": "Best Firefox Extensions for Developers",
+        "slug": "best-firefox-extensions-for-developers",
+        "description": "Occasional visual glitches.</p> <p><strong><a href=\"https://addons.mozilla.org/firefox/addon/nightowl1/\" rel=\"noopener noreferrer\">NightOwl</a></strong>: Uses CSS <code>prefers-color-scheme</code> only. Useful for fixing a site's layout that bothers you, creating a custom reading mode for specific documentation sites, or applying company style guide tweaks.</p> <h3> Redirector </h3> <p>Redirect URLs automatically.",
+        "summary": "Occasional visual glitches.</p> <p><strong><a href=\"https://addons.mozilla.org/firefox/addon/nightowl1/\" rel=\"noopener noreferrer\">NightOwl</a></strong>: Uses CSS <code>prefers-color-scheme</code> only. Useful for fixing a site's layout that bothers you, creating a custom reading mode for specific documentation sites, or applying company style guide tweaks.</p> <h3> Redirector </h3> <p>Redirect URLs automatically.",
+        "link": "https://dev.to/weatherclockdash/best-firefox-extensions-for-developers-what-i-actually-use-1gee",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-16T10:09:11.000Z",
+        "keywords": [
+          "firefox",
+          "webdev",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "firefox",
+          "webdev",
+          "productivity"
+        ],
+        "pros": [
+          "Great for firefox",
+          "webdev-ready automation",
+          "Great for firefox"
+        ],
+        "cons": [
+          "Overkill for firefox experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for firefox experiments"
+        ],
+        "highlights": [
+          "Open source, maintained by Raymond Hill (gorhill), does what it says without any adware-style behavior.</p> <p>Key feature for developers: <strong>Medium Mode</strong> (dynamic filtering).",
+          "Useful for fixing a site's layout that bothers you, creating a custom reading mode for specific documentation sites, or applying company style guide tweaks.",
+          "LastPass/other cloud password managers with unknown server-side access: Bitwarden is the exception — open source, self-hostable, well-audited."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "What's new in",
+        "slug": "what-s-new-in",
+        "description": "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production. Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+        "summary": "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production. Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+        "link": "https://dev.to/nicholasflemmer/whats-new-in-styx-0414-4l1n",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-16T10:03:26.000Z",
+        "keywords": [
+          "ai",
+          "opensource",
+          "software",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "opensource",
+          "software"
+        ],
+        "pros": [
+          "Great for ai",
+          "opensource-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for opensource workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+          "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+          "Free and open source (Apache-2.0); Mac, with Windows and Linux in beta."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Dynamic vs Static QR Codes",
+        "slug": "dynamic-vs-static-qr-codes",
+        "description": "Read the terms before printing.</li> <li> <strong>Losing access to edit.</strong> With any dynamic service, keep your login or owner key somewhere safe. It's also open about what dynamic scans record: time, device category, browser, operating system, and the referring page when the browser sends one.",
+        "summary": "Read the terms before printing.</li> <li> <strong>Losing access to edit.</strong> With any dynamic service, keep your login or owner key somewhere safe. It's also open about what dynamic scans record: time, device category, browser, operating system, and the referring page when the browser sends one.",
+        "link": "https://dev.to/mughalg4228/dynamic-vs-static-qr-codes-which-one-should-you-use-438b",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-16T10:02:04.000Z",
+        "keywords": [
+          "qrcode",
+          "marketing",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "qrcode",
+          "marketing",
+          "tools"
+        ],
+        "pros": [
+          "Great for qrcode",
+          "marketing-ready automation",
+          "Great for qrcode"
+        ],
+        "cons": [
+          "Overkill for qrcode experiments",
+          "Needs extra setup for marketing workflows",
+          "Overkill for qrcode experiments"
+        ],
+        "highlights": [
+          "Most QR generators ask you to choose \"static\" or \"dynamic,\" often without explaining what that means, and sometimes the \"dynamic\" option comes with a monthly fee.",
+          "Read the terms before printing.</li> <li> <strong>Losing access to edit.</strong> With any dynamic service, keep your login or owner key somewhere safe.",
+          "WiFi codes and vCards store the network details or contact info right in the image so phones can use them offline."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Notion Quick Capture CLI",
+        "slug": "notion-quick-capture-cli",
+        "description": "For immediate capture, waiting for an app to initialize can break flow or lead to lost ideas.</p> <p>Notion Quick Capture CLI addresses this by allowing users to add notes directly from their terminal. The primary motivation behind this tool was the common experience of wanting to quickly record a thought or an idea, only to be slowed down by the Notion desktop application's load times.",
+        "summary": "For immediate capture, waiting for an app to initialize can break flow or lead to lost ideas.</p> <p>Notion Quick Capture CLI addresses this by allowing users to add notes directly from their terminal. The primary motivation behind this tool was the common experience of wanting to quickly record a thought or an idea, only to be slowed down by the Notion desktop application's load times.",
+        "link": "https://dev.to/itsevilduck/notion-quick-capture-cli-fast-note-taking-from-the-command-line-2fif",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-16T09:57:21.000Z",
+        "keywords": [
+          "cli",
+          "notion",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "cli",
+          "notion",
+          "productivity"
+        ],
+        "pros": [
+          "Great for cli",
+          "notion-ready automation",
+          "Great for cli"
+        ],
+        "cons": [
+          "Overkill for cli experiments",
+          "Needs extra setup for notion workflows",
+          "Overkill for cli experiments"
+        ],
+        "highlights": [
+          "The primary motivation behind this tool was the common experience of wanting to quickly record a thought or an idea, only to be slowed down by the Notion desktop application's load times.",
+          "It's intended for users who frequently capture ephemeral notes, tasks, or ideas and want to ensure these are logged into their Notion system with minimal friction.",
+          "This setup allows for rapid data entry, making it suitable for developers, writers, or anyone who values speed in their note-taking workflow."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://notion.so/?ref=XXXX"
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-16T10:10:21.354Z",
+    "lastUpdated": "2026-10-16T10:10:21.354Z",
+    "visibleDate": "Oct 16, 2026",
+    "url": "pages/2026-10-16-101021354-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-16-101021354-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Firefox Extensions for Developers",
+      "What's new in"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Best Firefox Extensions for Developers, What's ne",
+    "tools": [
+      {
+        "name": "Best Firefox Extensions for Developers",
+        "slug": "best-firefox-extensions-for-developers",
+        "description": "Occasional visual glitches.</p> <p><strong><a href=\"https://addons.mozilla.org/firefox/addon/nightowl1/\" rel=\"noopener noreferrer\">NightOwl</a></strong>: Uses CSS <code>prefers-color-scheme</code> only. Useful for fixing a site's layout that bothers you, creating a custom reading mode for specific documentation sites, or applying company style guide tweaks.</p> <h3> Redirector </h3> <p>Redirect URLs automatically.",
+        "summary": "Occasional visual glitches.</p> <p><strong><a href=\"https://addons.mozilla.org/firefox/addon/nightowl1/\" rel=\"noopener noreferrer\">NightOwl</a></strong>: Uses CSS <code>prefers-color-scheme</code> only. Useful for fixing a site's layout that bothers you, creating a custom reading mode for specific documentation sites, or applying company style guide tweaks.</p> <h3> Redirector </h3> <p>Redirect URLs automatically.",
+        "link": "https://dev.to/weatherclockdash/best-firefox-extensions-for-developers-what-i-actually-use-1gee",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-16T10:09:11.000Z",
+        "keywords": [
+          "firefox",
+          "webdev",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "firefox",
+          "webdev",
+          "productivity"
+        ],
+        "pros": [
+          "Great for firefox",
+          "webdev-ready automation",
+          "Great for firefox"
+        ],
+        "cons": [
+          "Overkill for firefox experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for firefox experiments"
+        ],
+        "highlights": [
+          "Open source, maintained by Raymond Hill (gorhill), does what it says without any adware-style behavior.</p> <p>Key feature for developers: <strong>Medium Mode</strong> (dynamic filtering).",
+          "Useful for fixing a site's layout that bothers you, creating a custom reading mode for specific documentation sites, or applying company style guide tweaks.",
+          "LastPass/other cloud password managers with unknown server-side access: Bitwarden is the exception — open source, self-hostable, well-audited."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "What's new in",
+        "slug": "what-s-new-in",
+        "description": "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production. Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+        "summary": "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production. Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+        "link": "https://dev.to/nicholasflemmer/whats-new-in-styx-0414-4l1n",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-16T10:03:26.000Z",
+        "keywords": [
+          "ai",
+          "opensource",
+          "software",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "opensource",
+          "software"
+        ],
+        "pros": [
+          "Great for ai",
+          "opensource-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for opensource workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+          "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+          "Free and open source (Apache-2.0); Mac, with Windows and Linux in beta."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-16T10:10:21.354Z",
+    "lastUpdated": "2026-10-16T10:10:21.354Z",
+    "visibleDate": "Oct 16, 2026",
+    "url": "pages/2026-10-16-101021354-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-16-101021354-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Best Firefox Extensions for Developers",
+      "What's new in",
+      "Dynamic vs Static QR Codes"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Best Firefox Extensions for Developers, What's new in, Dynamic vs Static",
+    "tools": [
+      {
+        "name": "Best Firefox Extensions for Developers",
+        "slug": "best-firefox-extensions-for-developers",
+        "description": "Occasional visual glitches.</p> <p><strong><a href=\"https://addons.mozilla.org/firefox/addon/nightowl1/\" rel=\"noopener noreferrer\">NightOwl</a></strong>: Uses CSS <code>prefers-color-scheme</code> only. Useful for fixing a site's layout that bothers you, creating a custom reading mode for specific documentation sites, or applying company style guide tweaks.</p> <h3> Redirector </h3> <p>Redirect URLs automatically.",
+        "summary": "Occasional visual glitches.</p> <p><strong><a href=\"https://addons.mozilla.org/firefox/addon/nightowl1/\" rel=\"noopener noreferrer\">NightOwl</a></strong>: Uses CSS <code>prefers-color-scheme</code> only. Useful for fixing a site's layout that bothers you, creating a custom reading mode for specific documentation sites, or applying company style guide tweaks.</p> <h3> Redirector </h3> <p>Redirect URLs automatically.",
+        "link": "https://dev.to/weatherclockdash/best-firefox-extensions-for-developers-what-i-actually-use-1gee",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-16T10:09:11.000Z",
+        "keywords": [
+          "firefox",
+          "webdev",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "firefox",
+          "webdev",
+          "productivity"
+        ],
+        "pros": [
+          "Great for firefox",
+          "webdev-ready automation",
+          "Great for firefox"
+        ],
+        "cons": [
+          "Overkill for firefox experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for firefox experiments"
+        ],
+        "highlights": [
+          "Open source, maintained by Raymond Hill (gorhill), does what it says without any adware-style behavior.</p> <p>Key feature for developers: <strong>Medium Mode</strong> (dynamic filtering).",
+          "Useful for fixing a site's layout that bothers you, creating a custom reading mode for specific documentation sites, or applying company style guide tweaks.",
+          "LastPass/other cloud password managers with unknown server-side access: Bitwarden is the exception — open source, self-hostable, well-audited."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "What's new in",
+        "slug": "what-s-new-in",
+        "description": "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production. Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+        "summary": "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production. Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+        "link": "https://dev.to/nicholasflemmer/whats-new-in-styx-0414-4l1n",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-16T10:03:26.000Z",
+        "keywords": [
+          "ai",
+          "opensource",
+          "software",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "opensource",
+          "software"
+        ],
+        "pros": [
+          "Great for ai",
+          "opensource-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for opensource workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+          "Styx runs Claude Code, Codex, Gemini CLI, Cursor and OpenCode on all your projects in one window, each task on its own branch, and agents ask before they touch production.",
+          "Free and open source (Apache-2.0); Mac, with Windows and Linux in beta."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Dynamic vs Static QR Codes",
+        "slug": "dynamic-vs-static-qr-codes",
+        "description": "Read the terms before printing.</li> <li> <strong>Losing access to edit.</strong> With any dynamic service, keep your login or owner key somewhere safe. It's also open about what dynamic scans record: time, device category, browser, operating system, and the referring page when the browser sends one.",
+        "summary": "Read the terms before printing.</li> <li> <strong>Losing access to edit.</strong> With any dynamic service, keep your login or owner key somewhere safe. It's also open about what dynamic scans record: time, device category, browser, operating system, and the referring page when the browser sends one.",
+        "link": "https://dev.to/mughalg4228/dynamic-vs-static-qr-codes-which-one-should-you-use-438b",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-16T10:02:04.000Z",
+        "keywords": [
+          "qrcode",
+          "marketing",
+          "tools",
+          "beginners",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "qrcode",
+          "marketing",
+          "tools"
+        ],
+        "pros": [
+          "Great for qrcode",
+          "marketing-ready automation",
+          "Great for qrcode"
+        ],
+        "cons": [
+          "Overkill for qrcode experiments",
+          "Needs extra setup for marketing workflows",
+          "Overkill for qrcode experiments"
+        ],
+        "highlights": [
+          "Most QR generators ask you to choose \"static\" or \"dynamic,\" often without explaining what that means, and sometimes the \"dynamic\" option comes with a monthly fee.",
+          "Read the terms before printing.</li> <li> <strong>Losing access to edit.</strong> With any dynamic service, keep your login or owner key somewhere safe.",
+          "WiFi codes and vCards store the network details or contact info right in the image so phones can use them offline."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-15T10:22:52.327Z",
     "lastUpdated": "2026-10-15T10:22:52.327Z",
     "visibleDate": "Oct 15, 2026",

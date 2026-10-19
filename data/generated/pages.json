@@ -7,6 +7,694 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-19T11:18:37.638Z",
+    "lastUpdated": "2026-10-19T11:18:37.638Z",
+    "visibleDate": "Oct 19, 2026",
+    "url": "pages/2026-10-19-111837638-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-19-111837638-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      },
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Perplexity SPACE",
+      "7 Free Browser-Based",
+      "I Built a"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Perplexity SPACE, 7 Free Browser-Based, I Built a. Productivity stacks tha",
+    "tools": [
+      {
+        "name": "Perplexity SPACE",
+        "slug": "perplexity-space",
+        "description": "Perplexity launched it in October 2026 as the infrastructure behind its Computer assistant.</p> <p>The pitch is simple: AI agents need to run code and browse the web. Isolation, reproducibility, Docker-based design - these are not marketing tricks.</p> <p>If you are running AI agents and need to keep them away from your real systems, try SPACE.",
+        "summary": "Perplexity launched it in October 2026 as the infrastructure behind its Computer assistant.</p> <p>The pitch is simple: AI agents need to run code and browse the web. Isolation, reproducibility, Docker-based design - these are not marketing tricks.</p> <p>If you are running AI agents and need to keep them away from your real systems, try SPACE.",
+        "link": "https://dev.to/unfiltered_anshul/perplexity-space-the-open-sourced-sandbox-that-runs-ai-agents-safely-20fb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-19T11:13:10.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "sandbox",
+          "security",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "sandbox"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Perplexity launched it in October 2026 as the infrastructure behind its Computer assistant.</p> <p>The pitch is simple: AI agents need to run code and browse the web.",
+          "Isolation, reproducibility, Docker-based design - these are not marketing tricks.</p> <p>If you are running AI agents and need to keep them away from your real systems, try SPACE.",
+          "Even well-behaved agents can accidentally read sensitive files or access things they should not.</p> <p>I also learned that I am a \"trust-but-verify\" user."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "7 Free Browser-Based",
+        "slug": "7-free-browser-based",
+        "description": "The private key is blurred by default.</p> <p>Between them these two cover the main asymmetric families: RSA for legacy compatibility, and elliptic curves for modern TLS, JWT and code-signing work. We built the Encryption & Keys category on Utility Tools Lab around the opposite assumption: the work should happen in your browser, using the Web Crypto API, and nothing should be transmitted.",
+        "summary": "The private key is blurred by default.</p> <p>Between them these two cover the main asymmetric families: RSA for legacy compatibility, and elliptic curves for modern TLS, JWT and code-signing work. We built the Encryption & Keys category on Utility Tools Lab around the opposite assumption: the work should happen in your browser, using the Web Crypto API, and nothing should be transmitted.",
+        "link": "https://dev.to/md_shohan_102187760726951/7-free-browser-based-encryption-tools-built-on-the-web-crypto-api-nothing-gets-uploaded-15dj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-19T11:01:12.000Z",
+        "keywords": [
+          "javascript",
+          "privacy",
+          "security",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "privacy",
+          "security"
+        ],
+        "pros": [
+          "Great for javascript",
+          "privacy-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "We built the Encryption & Keys category on Utility Tools Lab around the opposite assumption: the work should happen in your browser, using the Web Crypto API, and nothing should be transmitted.",
+          "The private key is blurred by default.</p> <p>Between them these two cover the main asymmetric families: RSA for legacy compatibility, and elliptic curves for modern TLS, JWT and code-signing work.",
+          "For high-stakes or regulated work, use audited, well-established tooling (for example, OpenSSL, GnuPG or your platform's key management service) and follow your organization's policy."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built a",
+        "slug": "i-built-a",
+        "description": "county using GPS, ZIP code, address, or coordinates, you can try the tool here: 👉 https://whatcountyiamin.com/ Building useful software often starts with solving small everyday problems. A ZIP code can: Cross multiple county boundaries Cover different administrative areas Change over time This means a ZIP code lookup may return incorrect county information.",
+        "summary": "county using GPS, ZIP code, address, or coordinates, you can try the tool here: 👉 https://whatcountyiamin.com/ Building useful software often starts with solving small everyday problems. A ZIP code can: Cross multiple county boundaries Cover different administrative areas Change over time This means a ZIP code lookup may return incorrect county information.",
+        "link": "https://dev.to/muzammil_hussain_bc484022/i-built-a-tool-that-answers-what-county-am-i-in-using-gps-and-geospatial-data-49gd",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-19T10:33:05.000Z",
+        "keywords": [
+          "buildinpublic",
+          "softwaredevelopment",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "buildinpublic",
+          "softwaredevelopment",
+          "tools"
+        ],
+        "pros": [
+          "Great for buildinpublic",
+          "softwaredevelopment-ready automation",
+          "Great for buildinpublic"
+        ],
+        "cons": [
+          "Overkill for buildinpublic experiments",
+          "Needs extra setup for softwaredevelopment workflows",
+          "Overkill for buildinpublic experiments"
+        ],
+        "highlights": [
+          "county using GPS, ZIP code, address, or coordinates, you can try the tool here: 👉 https://whatcountyiamin.com/ Building useful software often starts with solving small everyday problems.",
+          "A ZIP code can: Cross multiple county boundaries Cover different administrative areas Change over time This means a ZIP code lookup may return incorrect county information.",
+          "Common geographic data formats include: GeoJSON Shapefiles TopoJSON For web applications, GeoJSON is especially useful because it works well with JavaScript mapping libraries."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Practical AI Tools and Automation",
+        "slug": "practical-ai-tools-and-automation",
+        "description": "Topic idea → Research → AI-assisted outline → Human-written insights → Editing → Fact-checking → Publication Create a Simple AI Workflow for Everyday Work You do not need an advanced technical setup to begin. Professionals such as who works across AI strategy, filmmaking, and content systems, reflect an important shift: the real value of AI comes from combining useful technology with clear thinking and human creativity.",
+        "summary": "Topic idea → Research → AI-assisted outline → Human-written insights → Editing → Fact-checking → Publication Create a Simple AI Workflow for Everyday Work You do not need an advanced technical setup to begin. Professionals such as who works across AI strategy, filmmaking, and content systems, reflect an important shift: the real value of AI comes from combining useful technology with clear thinking and human creativity.",
+        "link": "https://dev.to/vani_31472d925df287535753/practical-ai-tools-and-automation-build-smarter-workflows-without-losing-the-human-touch-h0p",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-19T10:21:10.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Traditional automation follows predefined rules, while AI can help interpret text, summarize information, generate ideas, and classify unstructured data.",
+          "Traditional automation follows predefined rules, while AI can help interpret text, summarize information, generate ideas, and classify unstructured data.",
+          "An AI-assisted workflow could also summarize the request, identify its category, and prepare a draft response for human review.<br> The goal is not to automate everything."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "20 Free Online Tools That Run 100% in Your Browser",
+        "slug": "20-free-online-tools-that-run-100-in-your-browser",
+        "description": "<em>(Image Tools)</em> </li> <li> <strong><a href=\"https://toolpilotpro.com/tools/image-converter/\" rel=\"noopener noreferrer\">Free Image Converter</a></strong> — Convert PNG ↔ JPG ↔ WebP, plus resize in one step. <em>(PDF Tools)</em> </li> <li> <strong><a href=\"https://toolpilotpro.com/tools/pdf-merger/\" rel=\"noopener noreferrer\">Free PDF Merger</a></strong> — Combine multiple PDFs into one file, in any order.",
+        "summary": "<em>(Image Tools)</em> </li> <li> <strong><a href=\"https://toolpilotpro.com/tools/image-converter/\" rel=\"noopener noreferrer\">Free Image Converter</a></strong> — Convert PNG ↔ JPG ↔ WebP, plus resize in one step. <em>(PDF Tools)</em> </li> <li> <strong><a href=\"https://toolpilotpro.com/tools/pdf-merger/\" rel=\"noopener noreferrer\">Free PDF Merger</a></strong> — Combine multiple PDFs into one file, in any order.",
+        "link": "https://dev.to/toolpilotpro/20-free-online-tools-that-run-100-in-your-browser-no-uploads-no-sign-up-2glj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-19T10:17:21.000Z",
+        "keywords": [
+          "tools",
+          "productivity",
+          "privacy",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tools",
+          "productivity",
+          "privacy"
+        ],
+        "pros": [
+          "Great for tools",
+          "productivity-ready automation",
+          "Great for tools"
+        ],
+        "cons": [
+          "Overkill for tools experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for tools experiments"
+        ],
+        "highlights": [
+          "<em>(PDF Tools)</em> </li> <li> <strong><a href=\"https://toolpilotpro.com/tools/pdf-splitter/\" rel=\"noopener noreferrer\">Split PDF</a></strong> — Extract page ranges into separate PDFs.",
+          "<em>(PDF Tools)</em> </li> <li> <strong><a href=\"https://toolpilotpro.com/tools/pdf-compressor/\" rel=\"noopener noreferrer\">Free PDF Compressor</a></strong> — Reduce PDF size for email and uploads.",
+          "Every tool runs 100% in your browser — unlike most free tools, which upload your files to their servers, your files never leave your device here."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-19T11:18:37.638Z",
+    "lastUpdated": "2026-10-19T11:18:37.638Z",
+    "visibleDate": "Oct 19, 2026",
+    "url": "pages/2026-10-19-111837638-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-19-111837638-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      },
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Perplexity SPACE",
+      "7 Free Browser-Based",
+      "I Built a"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Perplexity SPACE, 7 Free Browser-Based, I Built a. Reliable remote",
+    "tools": [
+      {
+        "name": "Perplexity SPACE",
+        "slug": "perplexity-space",
+        "description": "Perplexity launched it in October 2026 as the infrastructure behind its Computer assistant.</p> <p>The pitch is simple: AI agents need to run code and browse the web. Isolation, reproducibility, Docker-based design - these are not marketing tricks.</p> <p>If you are running AI agents and need to keep them away from your real systems, try SPACE.",
+        "summary": "Perplexity launched it in October 2026 as the infrastructure behind its Computer assistant.</p> <p>The pitch is simple: AI agents need to run code and browse the web. Isolation, reproducibility, Docker-based design - these are not marketing tricks.</p> <p>If you are running AI agents and need to keep them away from your real systems, try SPACE.",
+        "link": "https://dev.to/unfiltered_anshul/perplexity-space-the-open-sourced-sandbox-that-runs-ai-agents-safely-20fb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-19T11:13:10.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "sandbox",
+          "security",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "sandbox"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Perplexity launched it in October 2026 as the infrastructure behind its Computer assistant.</p> <p>The pitch is simple: AI agents need to run code and browse the web.",
+          "Isolation, reproducibility, Docker-based design - these are not marketing tricks.</p> <p>If you are running AI agents and need to keep them away from your real systems, try SPACE.",
+          "Even well-behaved agents can accidentally read sensitive files or access things they should not.</p> <p>I also learned that I am a \"trust-but-verify\" user."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "7 Free Browser-Based",
+        "slug": "7-free-browser-based",
+        "description": "The private key is blurred by default.</p> <p>Between them these two cover the main asymmetric families: RSA for legacy compatibility, and elliptic curves for modern TLS, JWT and code-signing work. We built the Encryption & Keys category on Utility Tools Lab around the opposite assumption: the work should happen in your browser, using the Web Crypto API, and nothing should be transmitted.",
+        "summary": "The private key is blurred by default.</p> <p>Between them these two cover the main asymmetric families: RSA for legacy compatibility, and elliptic curves for modern TLS, JWT and code-signing work. We built the Encryption & Keys category on Utility Tools Lab around the opposite assumption: the work should happen in your browser, using the Web Crypto API, and nothing should be transmitted.",
+        "link": "https://dev.to/md_shohan_102187760726951/7-free-browser-based-encryption-tools-built-on-the-web-crypto-api-nothing-gets-uploaded-15dj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-19T11:01:12.000Z",
+        "keywords": [
+          "javascript",
+          "privacy",
+          "security",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "privacy",
+          "security"
+        ],
+        "pros": [
+          "Great for javascript",
+          "privacy-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "We built the Encryption & Keys category on Utility Tools Lab around the opposite assumption: the work should happen in your browser, using the Web Crypto API, and nothing should be transmitted.",
+          "The private key is blurred by default.</p> <p>Between them these two cover the main asymmetric families: RSA for legacy compatibility, and elliptic curves for modern TLS, JWT and code-signing work.",
+          "For high-stakes or regulated work, use audited, well-established tooling (for example, OpenSSL, GnuPG or your platform's key management service) and follow your organization's policy."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built a",
+        "slug": "i-built-a",
+        "description": "county using GPS, ZIP code, address, or coordinates, you can try the tool here: 👉 https://whatcountyiamin.com/ Building useful software often starts with solving small everyday problems. A ZIP code can: Cross multiple county boundaries Cover different administrative areas Change over time This means a ZIP code lookup may return incorrect county information.",
+        "summary": "county using GPS, ZIP code, address, or coordinates, you can try the tool here: 👉 https://whatcountyiamin.com/ Building useful software often starts with solving small everyday problems. A ZIP code can: Cross multiple county boundaries Cover different administrative areas Change over time This means a ZIP code lookup may return incorrect county information.",
+        "link": "https://dev.to/muzammil_hussain_bc484022/i-built-a-tool-that-answers-what-county-am-i-in-using-gps-and-geospatial-data-49gd",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-19T10:33:05.000Z",
+        "keywords": [
+          "buildinpublic",
+          "softwaredevelopment",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "buildinpublic",
+          "softwaredevelopment",
+          "tools"
+        ],
+        "pros": [
+          "Great for buildinpublic",
+          "softwaredevelopment-ready automation",
+          "Great for buildinpublic"
+        ],
+        "cons": [
+          "Overkill for buildinpublic experiments",
+          "Needs extra setup for softwaredevelopment workflows",
+          "Overkill for buildinpublic experiments"
+        ],
+        "highlights": [
+          "county using GPS, ZIP code, address, or coordinates, you can try the tool here: 👉 https://whatcountyiamin.com/ Building useful software often starts with solving small everyday problems.",
+          "A ZIP code can: Cross multiple county boundaries Cover different administrative areas Change over time This means a ZIP code lookup may return incorrect county information.",
+          "Common geographic data formats include: GeoJSON Shapefiles TopoJSON For web applications, GeoJSON is especially useful because it works well with JavaScript mapping libraries."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Practical AI Tools and Automation",
+        "slug": "practical-ai-tools-and-automation",
+        "description": "Topic idea → Research → AI-assisted outline → Human-written insights → Editing → Fact-checking → Publication Create a Simple AI Workflow for Everyday Work You do not need an advanced technical setup to begin. Professionals such as who works across AI strategy, filmmaking, and content systems, reflect an important shift: the real value of AI comes from combining useful technology with clear thinking and human creativity.",
+        "summary": "Topic idea → Research → AI-assisted outline → Human-written insights → Editing → Fact-checking → Publication Create a Simple AI Workflow for Everyday Work You do not need an advanced technical setup to begin. Professionals such as who works across AI strategy, filmmaking, and content systems, reflect an important shift: the real value of AI comes from combining useful technology with clear thinking and human creativity.",
+        "link": "https://dev.to/vani_31472d925df287535753/practical-ai-tools-and-automation-build-smarter-workflows-without-losing-the-human-touch-h0p",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-19T10:21:10.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Traditional automation follows predefined rules, while AI can help interpret text, summarize information, generate ideas, and classify unstructured data.",
+          "Traditional automation follows predefined rules, while AI can help interpret text, summarize information, generate ideas, and classify unstructured data.",
+          "An AI-assisted workflow could also summarize the request, identify its category, and prepare a draft response for human review.<br> The goal is not to automate everything."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-19T11:18:37.638Z",
+    "lastUpdated": "2026-10-19T11:18:37.638Z",
+    "visibleDate": "Oct 19, 2026",
+    "url": "pages/2026-10-19-111837638-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-19-111837638-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "Perplexity SPACE",
+      "7 Free Browser-Based"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Perplexity SPACE, 7 Free Browser-Based. Gitpod br",
+    "tools": [
+      {
+        "name": "Perplexity SPACE",
+        "slug": "perplexity-space",
+        "description": "Perplexity launched it in October 2026 as the infrastructure behind its Computer assistant.</p> <p>The pitch is simple: AI agents need to run code and browse the web. Isolation, reproducibility, Docker-based design - these are not marketing tricks.</p> <p>If you are running AI agents and need to keep them away from your real systems, try SPACE.",
+        "summary": "Perplexity launched it in October 2026 as the infrastructure behind its Computer assistant.</p> <p>The pitch is simple: AI agents need to run code and browse the web. Isolation, reproducibility, Docker-based design - these are not marketing tricks.</p> <p>If you are running AI agents and need to keep them away from your real systems, try SPACE.",
+        "link": "https://dev.to/unfiltered_anshul/perplexity-space-the-open-sourced-sandbox-that-runs-ai-agents-safely-20fb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-19T11:13:10.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "sandbox",
+          "security",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "sandbox"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Perplexity launched it in October 2026 as the infrastructure behind its Computer assistant.</p> <p>The pitch is simple: AI agents need to run code and browse the web.",
+          "Isolation, reproducibility, Docker-based design - these are not marketing tricks.</p> <p>If you are running AI agents and need to keep them away from your real systems, try SPACE.",
+          "Even well-behaved agents can accidentally read sensitive files or access things they should not.</p> <p>I also learned that I am a \"trust-but-verify\" user."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "7 Free Browser-Based",
+        "slug": "7-free-browser-based",
+        "description": "The private key is blurred by default.</p> <p>Between them these two cover the main asymmetric families: RSA for legacy compatibility, and elliptic curves for modern TLS, JWT and code-signing work. We built the Encryption & Keys category on Utility Tools Lab around the opposite assumption: the work should happen in your browser, using the Web Crypto API, and nothing should be transmitted.",
+        "summary": "The private key is blurred by default.</p> <p>Between them these two cover the main asymmetric families: RSA for legacy compatibility, and elliptic curves for modern TLS, JWT and code-signing work. We built the Encryption & Keys category on Utility Tools Lab around the opposite assumption: the work should happen in your browser, using the Web Crypto API, and nothing should be transmitted.",
+        "link": "https://dev.to/md_shohan_102187760726951/7-free-browser-based-encryption-tools-built-on-the-web-crypto-api-nothing-gets-uploaded-15dj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-19T11:01:12.000Z",
+        "keywords": [
+          "javascript",
+          "privacy",
+          "security",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "privacy",
+          "security"
+        ],
+        "pros": [
+          "Great for javascript",
+          "privacy-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "We built the Encryption & Keys category on Utility Tools Lab around the opposite assumption: the work should happen in your browser, using the Web Crypto API, and nothing should be transmitted.",
+          "The private key is blurred by default.</p> <p>Between them these two cover the main asymmetric families: RSA for legacy compatibility, and elliptic curves for modern TLS, JWT and code-signing work.",
+          "For high-stakes or regulated work, use audited, well-established tooling (for example, OpenSSL, GnuPG or your platform's key management service) and follow your organization's policy."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-19T11:18:37.638Z",
+    "lastUpdated": "2026-10-19T11:18:37.638Z",
+    "visibleDate": "Oct 19, 2026",
+    "url": "pages/2026-10-19-111837638-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-19-111837638-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "Perplexity SPACE",
+      "7 Free Browser-Based",
+      "I Built a"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Perplexity SPACE, 7 Free Browser-Based, I Built a. New launches that are",
+    "tools": [
+      {
+        "name": "Perplexity SPACE",
+        "slug": "perplexity-space",
+        "description": "Perplexity launched it in October 2026 as the infrastructure behind its Computer assistant.</p> <p>The pitch is simple: AI agents need to run code and browse the web. Isolation, reproducibility, Docker-based design - these are not marketing tricks.</p> <p>If you are running AI agents and need to keep them away from your real systems, try SPACE.",
+        "summary": "Perplexity launched it in October 2026 as the infrastructure behind its Computer assistant.</p> <p>The pitch is simple: AI agents need to run code and browse the web. Isolation, reproducibility, Docker-based design - these are not marketing tricks.</p> <p>If you are running AI agents and need to keep them away from your real systems, try SPACE.",
+        "link": "https://dev.to/unfiltered_anshul/perplexity-space-the-open-sourced-sandbox-that-runs-ai-agents-safely-20fb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-19T11:13:10.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "sandbox",
+          "security",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "sandbox"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Perplexity launched it in October 2026 as the infrastructure behind its Computer assistant.</p> <p>The pitch is simple: AI agents need to run code and browse the web.",
+          "Isolation, reproducibility, Docker-based design - these are not marketing tricks.</p> <p>If you are running AI agents and need to keep them away from your real systems, try SPACE.",
+          "Even well-behaved agents can accidentally read sensitive files or access things they should not.</p> <p>I also learned that I am a \"trust-but-verify\" user."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "7 Free Browser-Based",
+        "slug": "7-free-browser-based",
+        "description": "The private key is blurred by default.</p> <p>Between them these two cover the main asymmetric families: RSA for legacy compatibility, and elliptic curves for modern TLS, JWT and code-signing work. We built the Encryption & Keys category on Utility Tools Lab around the opposite assumption: the work should happen in your browser, using the Web Crypto API, and nothing should be transmitted.",
+        "summary": "The private key is blurred by default.</p> <p>Between them these two cover the main asymmetric families: RSA for legacy compatibility, and elliptic curves for modern TLS, JWT and code-signing work. We built the Encryption & Keys category on Utility Tools Lab around the opposite assumption: the work should happen in your browser, using the Web Crypto API, and nothing should be transmitted.",
+        "link": "https://dev.to/md_shohan_102187760726951/7-free-browser-based-encryption-tools-built-on-the-web-crypto-api-nothing-gets-uploaded-15dj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-19T11:01:12.000Z",
+        "keywords": [
+          "javascript",
+          "privacy",
+          "security",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "privacy",
+          "security"
+        ],
+        "pros": [
+          "Great for javascript",
+          "privacy-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for privacy workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "We built the Encryption & Keys category on Utility Tools Lab around the opposite assumption: the work should happen in your browser, using the Web Crypto API, and nothing should be transmitted.",
+          "The private key is blurred by default.</p> <p>Between them these two cover the main asymmetric families: RSA for legacy compatibility, and elliptic curves for modern TLS, JWT and code-signing work.",
+          "For high-stakes or regulated work, use audited, well-established tooling (for example, OpenSSL, GnuPG or your platform's key management service) and follow your organization's policy."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I Built a",
+        "slug": "i-built-a",
+        "description": "county using GPS, ZIP code, address, or coordinates, you can try the tool here: 👉 https://whatcountyiamin.com/ Building useful software often starts with solving small everyday problems. A ZIP code can: Cross multiple county boundaries Cover different administrative areas Change over time This means a ZIP code lookup may return incorrect county information.",
+        "summary": "county using GPS, ZIP code, address, or coordinates, you can try the tool here: 👉 https://whatcountyiamin.com/ Building useful software often starts with solving small everyday problems. A ZIP code can: Cross multiple county boundaries Cover different administrative areas Change over time This means a ZIP code lookup may return incorrect county information.",
+        "link": "https://dev.to/muzammil_hussain_bc484022/i-built-a-tool-that-answers-what-county-am-i-in-using-gps-and-geospatial-data-49gd",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-19T10:33:05.000Z",
+        "keywords": [
+          "buildinpublic",
+          "softwaredevelopment",
+          "tools",
+          "webdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "buildinpublic",
+          "softwaredevelopment",
+          "tools"
+        ],
+        "pros": [
+          "Great for buildinpublic",
+          "softwaredevelopment-ready automation",
+          "Great for buildinpublic"
+        ],
+        "cons": [
+          "Overkill for buildinpublic experiments",
+          "Needs extra setup for softwaredevelopment workflows",
+          "Overkill for buildinpublic experiments"
+        ],
+        "highlights": [
+          "county using GPS, ZIP code, address, or coordinates, you can try the tool here: 👉 https://whatcountyiamin.com/ Building useful software often starts with solving small everyday problems.",
+          "A ZIP code can: Cross multiple county boundaries Cover different administrative areas Change over time This means a ZIP code lookup may return incorrect county information.",
+          "Common geographic data formats include: GeoJSON Shapefiles TopoJSON For web applications, GeoJSON is especially useful because it works well with JavaScript mapping libraries."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-18T09:57:26.046Z",
     "lastUpdated": "2026-10-18T09:57:26.046Z",
     "visibleDate": "Oct 18, 2026",

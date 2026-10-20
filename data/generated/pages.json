@@ -7,6 +7,670 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-20T10:27:45.012Z",
+    "lastUpdated": "2026-10-20T10:27:45.012Z",
+    "visibleDate": "Oct 20, 2026",
+    "url": "pages/2026-10-20-102745012-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-20-102745012-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "AI API Docs Tools",
+      "How to Validate",
+      "Revolut down as"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include AI API Docs Tools, How to Validate, Revolut down as. Productivity stacks t",
+    "tools": [
+      {
+        "name": "AI API Docs Tools",
+        "slug": "ai-api-docs-tools",
+        "description": "My position Do not let any tool publish AI-written reference content straight from code. If a tool fails this test on your spec, the likelier fix is the spec, not a different vendor.",
+        "summary": "My position Do not let any tool publish AI-written reference content straight from code. If a tool fails this test on your spec, the likelier fix is the spec, not a different vendor.",
+        "link": "https://dev.to/tom-morgan-261976/ai-api-docs-tools-prose-they-write-behavior-they-miss-21ke",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-20T10:11:26.000Z",
+        "keywords": [
+          "ai",
+          "api",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "api",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "api-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for api workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "My position Do not let any tool publish AI-written reference content straight from code.",
+          "If a tool fails this test on your spec, the likelier fix is the spec, not a different vendor.",
+          "A tool watches merged changes and proposes edits."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Validate",
+        "slug": "how-to-validate",
+        "description": "Try it yourself Visit the tool: 👉 https://uuidtools.online/en/tool/uuid-checker Discussion: Do you prefer validating UUIDs with code in your application or using an online tool while debugging? A UUID checker can be useful when debugging API responses, reviewing database records, checking test identifiers, or investigating UUID-related issues.",
+        "summary": "Try it yourself Visit the tool: 👉 https://uuidtools.online/en/tool/uuid-checker Discussion: Do you prefer validating UUIDs with code in your application or using an online tool while debugging? A UUID checker can be useful when debugging API responses, reviewing database records, checking test identifiers, or investigating UUID-related issues.",
+        "link": "https://dev.to/uuidtools/how-to-validate-and-inspect-uuids-online-4b8m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-20T09:57:27.000Z",
+        "keywords": [
+          "mysql",
+          "database",
+          "tools",
+          "backend",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "mysql",
+          "database",
+          "tools"
+        ],
+        "pros": [
+          "Great for mysql",
+          "database-ready automation",
+          "Great for mysql"
+        ],
+        "cons": [
+          "Overkill for mysql experiments",
+          "Needs extra setup for database workflows",
+          "Overkill for mysql experiments"
+        ],
+        "highlights": [
+          "Try it yourself Visit the tool: 👉 https://uuidtools.online/en/tool/uuid-checker Discussion: Do you prefer validating UUIDs with code in your application or using an online tool while debugging?",
+          "A UUID checker can be useful when debugging API responses, reviewing database records, checking test identifiers, or investigating UUID-related issues.",
+          "During development, you may need to verify a UUID's structure, identify its version, or inspect its format."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Revolut down as",
+        "slug": "revolut-down-as",
+        "description": "Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo Comments URL: https://news.ycombinator.com/item?id=50163625 Points: 16 # Comments: 4",
+        "summary": "Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo Comments URL: https://news.ycombinator.com/item?id=50163625 Points: 16 # Comments: 4",
+        "link": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+        "source": "Hacker News",
+        "isoDate": "2026-10-20T09:54:48.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "What I Learned",
+        "slug": "what-i-learned",
+        "description": "Today, my project, AIExportHub, supports conversations from six AI platforms: ChatGPT Claude Gemini Perplexity Grok Genspark At first glance, exporting a conversation sounds simple. But once you start supporting multiple platforms, long conversation histories, Projects, images, generated files, and different output formats, things become much more interesting.",
+        "summary": "Today, my project, AIExportHub, supports conversations from six AI platforms: ChatGPT Claude Gemini Perplexity Grok Genspark At first glance, exporting a conversation sounds simple. But once you start supporting multiple platforms, long conversation histories, Projects, images, generated files, and different output formats, things become much more interesting.",
+        "link": "https://dev.to/jackaluo/what-i-learned-building-a-chrome-extension-to-export-chats-from-6-ai-platforms-39cl",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-20T09:36:56.000Z",
+        "keywords": [
+          "javascript",
+          "productivity",
+          "softwaredevelopment",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "productivity",
+          "softwaredevelopment"
+        ],
+        "pros": [
+          "Great for javascript",
+          "productivity-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "Today, my project, AIExportHub, supports conversations from six AI platforms: ChatGPT Claude Gemini Perplexity Grok Genspark At first glance, exporting a conversation sounds simple.",
+          "But once you start supporting multiple platforms, long conversation histories, Projects, images, generated files, and different output formats, things become much more interesting.",
+          "Even though ChatGPT, Claude, and Gemini all look like chat applications, the way they represent and expose conversation data can be quite different."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AfD Leak",
+        "slug": "afd-leak",
+        "description": "Article URL: https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/ Comments URL: https://news.ycombinator.com/item?id=50163502 Points: 147 # Comments: 89",
+        "summary": "Article URL: https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/ Comments URL: https://news.ycombinator.com/item?id=50163502 Points: 147 # Comments: 89",
+        "link": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+        "source": "Hacker News",
+        "isoDate": "2026-10-20T09:35:40.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-20T10:27:45.012Z",
+    "lastUpdated": "2026-10-20T10:27:45.012Z",
+    "visibleDate": "Oct 20, 2026",
+    "url": "pages/2026-10-20-102745012-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-20-102745012-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "AI API Docs Tools",
+      "How to Validate",
+      "Revolut down as"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include AI API Docs Tools, How to Validate, Revolut down as. Reliable remo",
+    "tools": [
+      {
+        "name": "AI API Docs Tools",
+        "slug": "ai-api-docs-tools",
+        "description": "My position Do not let any tool publish AI-written reference content straight from code. If a tool fails this test on your spec, the likelier fix is the spec, not a different vendor.",
+        "summary": "My position Do not let any tool publish AI-written reference content straight from code. If a tool fails this test on your spec, the likelier fix is the spec, not a different vendor.",
+        "link": "https://dev.to/tom-morgan-261976/ai-api-docs-tools-prose-they-write-behavior-they-miss-21ke",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-20T10:11:26.000Z",
+        "keywords": [
+          "ai",
+          "api",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "api",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "api-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for api workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "My position Do not let any tool publish AI-written reference content straight from code.",
+          "If a tool fails this test on your spec, the likelier fix is the spec, not a different vendor.",
+          "A tool watches merged changes and proposes edits."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Validate",
+        "slug": "how-to-validate",
+        "description": "Try it yourself Visit the tool: 👉 https://uuidtools.online/en/tool/uuid-checker Discussion: Do you prefer validating UUIDs with code in your application or using an online tool while debugging? A UUID checker can be useful when debugging API responses, reviewing database records, checking test identifiers, or investigating UUID-related issues.",
+        "summary": "Try it yourself Visit the tool: 👉 https://uuidtools.online/en/tool/uuid-checker Discussion: Do you prefer validating UUIDs with code in your application or using an online tool while debugging? A UUID checker can be useful when debugging API responses, reviewing database records, checking test identifiers, or investigating UUID-related issues.",
+        "link": "https://dev.to/uuidtools/how-to-validate-and-inspect-uuids-online-4b8m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-20T09:57:27.000Z",
+        "keywords": [
+          "mysql",
+          "database",
+          "tools",
+          "backend",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "mysql",
+          "database",
+          "tools"
+        ],
+        "pros": [
+          "Great for mysql",
+          "database-ready automation",
+          "Great for mysql"
+        ],
+        "cons": [
+          "Overkill for mysql experiments",
+          "Needs extra setup for database workflows",
+          "Overkill for mysql experiments"
+        ],
+        "highlights": [
+          "Try it yourself Visit the tool: 👉 https://uuidtools.online/en/tool/uuid-checker Discussion: Do you prefer validating UUIDs with code in your application or using an online tool while debugging?",
+          "A UUID checker can be useful when debugging API responses, reviewing database records, checking test identifiers, or investigating UUID-related issues.",
+          "During development, you may need to verify a UUID's structure, identify its version, or inspect its format."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Revolut down as",
+        "slug": "revolut-down-as",
+        "description": "Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo Comments URL: https://news.ycombinator.com/item?id=50163625 Points: 16 # Comments: 4",
+        "summary": "Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo Comments URL: https://news.ycombinator.com/item?id=50163625 Points: 16 # Comments: 4",
+        "link": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+        "source": "Hacker News",
+        "isoDate": "2026-10-20T09:54:48.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "What I Learned",
+        "slug": "what-i-learned",
+        "description": "Today, my project, AIExportHub, supports conversations from six AI platforms: ChatGPT Claude Gemini Perplexity Grok Genspark At first glance, exporting a conversation sounds simple. But once you start supporting multiple platforms, long conversation histories, Projects, images, generated files, and different output formats, things become much more interesting.",
+        "summary": "Today, my project, AIExportHub, supports conversations from six AI platforms: ChatGPT Claude Gemini Perplexity Grok Genspark At first glance, exporting a conversation sounds simple. But once you start supporting multiple platforms, long conversation histories, Projects, images, generated files, and different output formats, things become much more interesting.",
+        "link": "https://dev.to/jackaluo/what-i-learned-building-a-chrome-extension-to-export-chats-from-6-ai-platforms-39cl",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-20T09:36:56.000Z",
+        "keywords": [
+          "javascript",
+          "productivity",
+          "softwaredevelopment",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "javascript",
+          "productivity",
+          "softwaredevelopment"
+        ],
+        "pros": [
+          "Great for javascript",
+          "productivity-ready automation",
+          "Great for javascript"
+        ],
+        "cons": [
+          "Overkill for javascript experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for javascript experiments"
+        ],
+        "highlights": [
+          "Today, my project, AIExportHub, supports conversations from six AI platforms: ChatGPT Claude Gemini Perplexity Grok Genspark At first glance, exporting a conversation sounds simple.",
+          "But once you start supporting multiple platforms, long conversation histories, Projects, images, generated files, and different output formats, things become much more interesting.",
+          "Even though ChatGPT, Claude, and Gemini all look like chat applications, the way they represent and expose conversation data can be quite different."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-20T10:27:45.012Z",
+    "lastUpdated": "2026-10-20T10:27:45.012Z",
+    "visibleDate": "Oct 20, 2026",
+    "url": "pages/2026-10-20-102745012-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-20-102745012-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "AI API Docs Tools",
+      "How to Validate"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include AI API Docs Tools, How to Validate. Gitpod brings",
+    "tools": [
+      {
+        "name": "AI API Docs Tools",
+        "slug": "ai-api-docs-tools",
+        "description": "My position Do not let any tool publish AI-written reference content straight from code. If a tool fails this test on your spec, the likelier fix is the spec, not a different vendor.",
+        "summary": "My position Do not let any tool publish AI-written reference content straight from code. If a tool fails this test on your spec, the likelier fix is the spec, not a different vendor.",
+        "link": "https://dev.to/tom-morgan-261976/ai-api-docs-tools-prose-they-write-behavior-they-miss-21ke",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-20T10:11:26.000Z",
+        "keywords": [
+          "ai",
+          "api",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "api",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "api-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for api workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "My position Do not let any tool publish AI-written reference content straight from code.",
+          "If a tool fails this test on your spec, the likelier fix is the spec, not a different vendor.",
+          "A tool watches merged changes and proposes edits."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Validate",
+        "slug": "how-to-validate",
+        "description": "Try it yourself Visit the tool: 👉 https://uuidtools.online/en/tool/uuid-checker Discussion: Do you prefer validating UUIDs with code in your application or using an online tool while debugging? A UUID checker can be useful when debugging API responses, reviewing database records, checking test identifiers, or investigating UUID-related issues.",
+        "summary": "Try it yourself Visit the tool: 👉 https://uuidtools.online/en/tool/uuid-checker Discussion: Do you prefer validating UUIDs with code in your application or using an online tool while debugging? A UUID checker can be useful when debugging API responses, reviewing database records, checking test identifiers, or investigating UUID-related issues.",
+        "link": "https://dev.to/uuidtools/how-to-validate-and-inspect-uuids-online-4b8m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-20T09:57:27.000Z",
+        "keywords": [
+          "mysql",
+          "database",
+          "tools",
+          "backend",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "mysql",
+          "database",
+          "tools"
+        ],
+        "pros": [
+          "Great for mysql",
+          "database-ready automation",
+          "Great for mysql"
+        ],
+        "cons": [
+          "Overkill for mysql experiments",
+          "Needs extra setup for database workflows",
+          "Overkill for mysql experiments"
+        ],
+        "highlights": [
+          "Try it yourself Visit the tool: 👉 https://uuidtools.online/en/tool/uuid-checker Discussion: Do you prefer validating UUIDs with code in your application or using an online tool while debugging?",
+          "A UUID checker can be useful when debugging API responses, reviewing database records, checking test identifiers, or investigating UUID-related issues.",
+          "During development, you may need to verify a UUID's structure, identify its version, or inspect its format."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-20T10:27:45.012Z",
+    "lastUpdated": "2026-10-20T10:27:45.012Z",
+    "visibleDate": "Oct 20, 2026",
+    "url": "pages/2026-10-20-102745012-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-20-102745012-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "AI API Docs Tools",
+      "How to Validate",
+      "Revolut down as"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include AI API Docs Tools, How to Validate, Revolut down as. New launches that a",
+    "tools": [
+      {
+        "name": "AI API Docs Tools",
+        "slug": "ai-api-docs-tools",
+        "description": "My position Do not let any tool publish AI-written reference content straight from code. If a tool fails this test on your spec, the likelier fix is the spec, not a different vendor.",
+        "summary": "My position Do not let any tool publish AI-written reference content straight from code. If a tool fails this test on your spec, the likelier fix is the spec, not a different vendor.",
+        "link": "https://dev.to/tom-morgan-261976/ai-api-docs-tools-prose-they-write-behavior-they-miss-21ke",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-20T10:11:26.000Z",
+        "keywords": [
+          "ai",
+          "api",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "api",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "api-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for api workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "My position Do not let any tool publish AI-written reference content straight from code.",
+          "If a tool fails this test on your spec, the likelier fix is the spec, not a different vendor.",
+          "A tool watches merged changes and proposes edits."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Validate",
+        "slug": "how-to-validate",
+        "description": "Try it yourself Visit the tool: 👉 https://uuidtools.online/en/tool/uuid-checker Discussion: Do you prefer validating UUIDs with code in your application or using an online tool while debugging? A UUID checker can be useful when debugging API responses, reviewing database records, checking test identifiers, or investigating UUID-related issues.",
+        "summary": "Try it yourself Visit the tool: 👉 https://uuidtools.online/en/tool/uuid-checker Discussion: Do you prefer validating UUIDs with code in your application or using an online tool while debugging? A UUID checker can be useful when debugging API responses, reviewing database records, checking test identifiers, or investigating UUID-related issues.",
+        "link": "https://dev.to/uuidtools/how-to-validate-and-inspect-uuids-online-4b8m",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-20T09:57:27.000Z",
+        "keywords": [
+          "mysql",
+          "database",
+          "tools",
+          "backend",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "mysql",
+          "database",
+          "tools"
+        ],
+        "pros": [
+          "Great for mysql",
+          "database-ready automation",
+          "Great for mysql"
+        ],
+        "cons": [
+          "Overkill for mysql experiments",
+          "Needs extra setup for database workflows",
+          "Overkill for mysql experiments"
+        ],
+        "highlights": [
+          "Try it yourself Visit the tool: 👉 https://uuidtools.online/en/tool/uuid-checker Discussion: Do you prefer validating UUIDs with code in your application or using an online tool while debugging?",
+          "A UUID checker can be useful when debugging API responses, reviewing database records, checking test identifiers, or investigating UUID-related issues.",
+          "During development, you may need to verify a UUID's structure, identify its version, or inspect its format."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Revolut down as",
+        "slug": "revolut-down-as",
+        "description": "Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo Comments URL: https://news.ycombinator.com/item?id=50163625 Points: 16 # Comments: 4",
+        "summary": "Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo Comments URL: https://news.ycombinator.com/item?id=50163625 Points: 16 # Comments: 4",
+        "link": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+        "source": "Hacker News",
+        "isoDate": "2026-10-20T09:54:48.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-19T11:18:37.638Z",
     "lastUpdated": "2026-10-19T11:18:37.638Z",
     "visibleDate": "Oct 19, 2026",

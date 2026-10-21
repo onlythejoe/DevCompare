@@ -7,6 +7,707 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-21T10:38:39.237Z",
+    "lastUpdated": "2026-10-21T10:38:39.237Z",
+    "visibleDate": "Oct 21, 2026",
+    "url": "pages/2026-10-21-103839237-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-21-103839237-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "Why do linked",
+      "From Scan to CAD",
+      "Two artists changed the same sprite PNG"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Why do linked, From Scan to CAD, Two artists changed the same sprite PNG. ",
+    "tools": [
+      {
+        "name": "Why do linked",
+        "slug": "why-do-linked",
+        "description": "Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>Check whether every linked source resolves inside the handoff boundary before sending an art folder. If a private reference cannot travel, state whether it is needed to rebuild or only explains the original design.</p> <p>This guide proposes a path-closure audit and does not report a tested archive.",
+        "summary": "Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>Check whether every linked source resolves inside the handoff boundary before sending an art folder. If a private reference cannot travel, state whether it is needed to rebuild or only explains the original design.</p> <p>This guide proposes a path-closure audit and does not report a tested archive.",
+        "link": "https://dev.to/framesprite-team/why-do-linked-sprite-masters-vanish-when-i-send-the-project-folder-4l5j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-21T10:32:39.000Z",
+        "keywords": [
+          "gamedev",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "gamedev",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for gamedev",
+          "productivity-ready automation",
+          "Great for gamedev"
+        ],
+        "cons": [
+          "Overkill for gamedev experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for gamedev experiments"
+        ],
+        "highlights": [
+          "If a private reference cannot travel, state whether it is needed to rebuild or only explains the original design.</p> <p>This guide proposes a path-closure audit and does not report a tested archive.",
+          "A normalized-looking relative path does not prove the target belongs to the package.</p> <p>Artists may use links to share a master across several action folders.",
+          "The contractor receives the action folders but not the external location, so the project opens with missing source art.</p> <p>Build a release copy from the approved revision."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "From Scan to CAD",
+        "slug": "from-scan-to-cad",
+        "description": "Common Applications in Manufacturing Typical projects include discontinued replacement parts, custom fixtures, prototypes modified by hand, castings, molded housings, and tooling updates. Operators may trim the data, reduce unnecessary detail, and repair appropriate mesh openings.</p> <p>However, filling a hole digitally can invent geometry that was never measured.",
+        "summary": "Common Applications in Manufacturing Typical projects include discontinued replacement parts, custom fixtures, prototypes modified by hand, castings, molded housings, and tooling updates. Operators may trim the data, reduce unnecessary detail, and repair appropriate mesh openings.</p> <p>However, filling a hole digitally can invent geometry that was never measured.",
+        "link": "https://dev.to/dawood_siddiqui10200/from-scan-to-cad-how-3d-scanning-data-becomes-a-usable-3d-model-4b84",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-21T10:24:39.000Z",
+        "keywords": [
+          "design",
+          "hardware",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "design",
+          "hardware",
+          "tools"
+        ],
+        "pros": [
+          "Great for design",
+          "hardware-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for hardware workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "Common Applications in Manufacturing Typical projects include discontinued replacement parts, custom fixtures, prototypes modified by hand, castings, molded housings, and tooling updates.",
+          "Operators may trim the data, reduce unnecessary detail, and repair appropriate mesh openings.</p> <p>However, filling a hole digitally can invent geometry that was never measured.",
+          "A best fit can be useful for general shape comparisons, but a manufacturing model often needs alignment based on mounting planes, datum features, or assembly references."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Two artists changed the same sprite PNG",
+        "slug": "two-artists-changed-the-same-sprite-png",
+        "description": "The <a href=\"https://git-scm.com/docs/git-diff\" rel=\"noopener noreferrer\">Git diff reference</a> explains repository comparisons, but the actual pixel and design review needs an appropriate image viewer or editor. A flattened PNG may not retain the layers needed to combine both changes cleanly.</p> <p>Avoid opening two files with the same display name in an editor and relying on tab position.",
+        "summary": "The <a href=\"https://git-scm.com/docs/git-diff\" rel=\"noopener noreferrer\">Git diff reference</a> explains repository comparisons, but the actual pixel and design review needs an appropriate image viewer or editor. A flattened PNG may not retain the layers needed to combine both changes cleanly.</p> <p>Avoid opening two files with the same display name in an editor and relying on tab position.",
+        "link": "https://dev.to/framesprite-team/two-artists-changed-the-same-sprite-png-how-do-i-retain-both-intentions-3jmj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-21T10:24:04.000Z",
+        "keywords": [
+          "gamedev",
+          "git",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "gamedev",
+          "git",
+          "tools"
+        ],
+        "pros": [
+          "Great for gamedev",
+          "git-ready automation",
+          "Great for gamedev"
+        ],
+        "cons": [
+          "Overkill for gamedev experiments",
+          "Needs extra setup for git workflows",
+          "Overkill for gamedev experiments"
+        ],
+        "highlights": [
+          "A flattened PNG may not retain the layers needed to combine both changes cleanly.</p> <p>Avoid opening two files with the same display name in an editor and relying on tab position.",
+          "Acceptance should include the intended visual changes, unchanged dimensions unless approved, valid frame order, matching sidecars, and a preview generated from the final file.",
+          "If the changes cannot coexist, have the art owner choose and document the tradeoff rather than inventing an automatic blend.</p> <p>Export the reconstructed candidate to a new review location first."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why will Krita",
+        "slug": "why-will-krita",
+        "description": "Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>An imported SVG may contain vector shapes rather than a paintable pixel layer. Krita's <a href=\"https://docs.krita.org/en/reference_manual/layers_and_masks/vector_layers.html\" rel=\"noopener noreferrer\">Vector Layers reference</a> describes SVG import and shape organization.",
+        "summary": "Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>An imported SVG may contain vector shapes rather than a paintable pixel layer. Krita's <a href=\"https://docs.krita.org/en/reference_manual/layers_and_masks/vector_layers.html\" rel=\"noopener noreferrer\">Vector Layers reference</a> describes SVG import and shape organization.",
+        "link": "https://dev.to/framesprite-team/why-will-krita-not-paint-pixel-repairs-onto-my-imported-svg-icon-4dmp",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-21T10:18:47.000Z",
+        "keywords": [
+          "design",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "design",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for design",
+          "productivity-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>An imported SVG may contain vector shapes rather than a paintable pixel layer.",
+          "Krita's <a href=\"https://docs.krita.org/en/reference_manual/layers_and_masks/vector_layers.html\" rel=\"noopener noreferrer\">Vector Layers reference</a> describes SVG import and shape organization.",
+          "Do not promise a pure-vector result after adding raster-only detail.</p> <p>For a game shipping PNGs, preserve the vector master and make a duplicate raster working version at the final size."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Can I repaint",
+        "slug": "can-i-repaint",
+        "description": "Keep track of which thumbnail receives paint.</p> <p>A <a href=\"https://docs.krita.org/en/reference_manual/layers_and_masks/transparency_masks.html\" rel=\"noopener noreferrer\">Transparency Mask</a> controls visibility. Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>Separate color and coverage when an edge needs repainting but its cutout should stay fixed.",
+        "summary": "Keep track of which thumbnail receives paint.</p> <p>A <a href=\"https://docs.krita.org/en/reference_manual/layers_and_masks/transparency_masks.html\" rel=\"noopener noreferrer\">Transparency Mask</a> controls visibility. Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>Separate color and coverage when an edge needs repainting but its cutout should stay fixed.",
+        "link": "https://dev.to/framesprite-team/can-i-repaint-a-krita-sprite-edge-without-destroying-its-cutout-26gk",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-21T10:18:26.000Z",
+        "keywords": [
+          "design",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "design",
+          "tools",
+          "tutorial"
+        ],
+        "pros": [
+          "Great for design",
+          "tools-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>Separate color and coverage when an edge needs repainting but its cutout should stay fixed.",
+          "Note whether the defect already appears in Krita before changing the source.</p> <p>If only the game produces the rim, first compare its import and blending setup.",
+          "Inspect the result over both backgrounds at native size.</p> <p>If the shape changes, check whether paint went into the mask or whether another layer contributed visible pixels."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-21T10:38:39.237Z",
+    "lastUpdated": "2026-10-21T10:38:39.237Z",
+    "visibleDate": "Oct 21, 2026",
+    "url": "pages/2026-10-21-103839237-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-21-103839237-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "Why do linked",
+      "From Scan to CAD",
+      "Two artists changed the same sprite PNG"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Why do linked, From Scan to CAD, Two artists changed the same spri",
+    "tools": [
+      {
+        "name": "Why do linked",
+        "slug": "why-do-linked",
+        "description": "Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>Check whether every linked source resolves inside the handoff boundary before sending an art folder. If a private reference cannot travel, state whether it is needed to rebuild or only explains the original design.</p> <p>This guide proposes a path-closure audit and does not report a tested archive.",
+        "summary": "Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>Check whether every linked source resolves inside the handoff boundary before sending an art folder. If a private reference cannot travel, state whether it is needed to rebuild or only explains the original design.</p> <p>This guide proposes a path-closure audit and does not report a tested archive.",
+        "link": "https://dev.to/framesprite-team/why-do-linked-sprite-masters-vanish-when-i-send-the-project-folder-4l5j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-21T10:32:39.000Z",
+        "keywords": [
+          "gamedev",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "gamedev",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for gamedev",
+          "productivity-ready automation",
+          "Great for gamedev"
+        ],
+        "cons": [
+          "Overkill for gamedev experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for gamedev experiments"
+        ],
+        "highlights": [
+          "If a private reference cannot travel, state whether it is needed to rebuild or only explains the original design.</p> <p>This guide proposes a path-closure audit and does not report a tested archive.",
+          "A normalized-looking relative path does not prove the target belongs to the package.</p> <p>Artists may use links to share a master across several action folders.",
+          "The contractor receives the action folders but not the external location, so the project opens with missing source art.</p> <p>Build a release copy from the approved revision."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "From Scan to CAD",
+        "slug": "from-scan-to-cad",
+        "description": "Common Applications in Manufacturing Typical projects include discontinued replacement parts, custom fixtures, prototypes modified by hand, castings, molded housings, and tooling updates. Operators may trim the data, reduce unnecessary detail, and repair appropriate mesh openings.</p> <p>However, filling a hole digitally can invent geometry that was never measured.",
+        "summary": "Common Applications in Manufacturing Typical projects include discontinued replacement parts, custom fixtures, prototypes modified by hand, castings, molded housings, and tooling updates. Operators may trim the data, reduce unnecessary detail, and repair appropriate mesh openings.</p> <p>However, filling a hole digitally can invent geometry that was never measured.",
+        "link": "https://dev.to/dawood_siddiqui10200/from-scan-to-cad-how-3d-scanning-data-becomes-a-usable-3d-model-4b84",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-21T10:24:39.000Z",
+        "keywords": [
+          "design",
+          "hardware",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "design",
+          "hardware",
+          "tools"
+        ],
+        "pros": [
+          "Great for design",
+          "hardware-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for hardware workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "Common Applications in Manufacturing Typical projects include discontinued replacement parts, custom fixtures, prototypes modified by hand, castings, molded housings, and tooling updates.",
+          "Operators may trim the data, reduce unnecessary detail, and repair appropriate mesh openings.</p> <p>However, filling a hole digitally can invent geometry that was never measured.",
+          "A best fit can be useful for general shape comparisons, but a manufacturing model often needs alignment based on mounting planes, datum features, or assembly references."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Two artists changed the same sprite PNG",
+        "slug": "two-artists-changed-the-same-sprite-png",
+        "description": "The <a href=\"https://git-scm.com/docs/git-diff\" rel=\"noopener noreferrer\">Git diff reference</a> explains repository comparisons, but the actual pixel and design review needs an appropriate image viewer or editor. A flattened PNG may not retain the layers needed to combine both changes cleanly.</p> <p>Avoid opening two files with the same display name in an editor and relying on tab position.",
+        "summary": "The <a href=\"https://git-scm.com/docs/git-diff\" rel=\"noopener noreferrer\">Git diff reference</a> explains repository comparisons, but the actual pixel and design review needs an appropriate image viewer or editor. A flattened PNG may not retain the layers needed to combine both changes cleanly.</p> <p>Avoid opening two files with the same display name in an editor and relying on tab position.",
+        "link": "https://dev.to/framesprite-team/two-artists-changed-the-same-sprite-png-how-do-i-retain-both-intentions-3jmj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-21T10:24:04.000Z",
+        "keywords": [
+          "gamedev",
+          "git",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "gamedev",
+          "git",
+          "tools"
+        ],
+        "pros": [
+          "Great for gamedev",
+          "git-ready automation",
+          "Great for gamedev"
+        ],
+        "cons": [
+          "Overkill for gamedev experiments",
+          "Needs extra setup for git workflows",
+          "Overkill for gamedev experiments"
+        ],
+        "highlights": [
+          "A flattened PNG may not retain the layers needed to combine both changes cleanly.</p> <p>Avoid opening two files with the same display name in an editor and relying on tab position.",
+          "Acceptance should include the intended visual changes, unchanged dimensions unless approved, valid frame order, matching sidecars, and a preview generated from the final file.",
+          "If the changes cannot coexist, have the art owner choose and document the tradeoff rather than inventing an automatic blend.</p> <p>Export the reconstructed candidate to a new review location first."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Why will Krita",
+        "slug": "why-will-krita",
+        "description": "Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>An imported SVG may contain vector shapes rather than a paintable pixel layer. Krita's <a href=\"https://docs.krita.org/en/reference_manual/layers_and_masks/vector_layers.html\" rel=\"noopener noreferrer\">Vector Layers reference</a> describes SVG import and shape organization.",
+        "summary": "Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>An imported SVG may contain vector shapes rather than a paintable pixel layer. Krita's <a href=\"https://docs.krita.org/en/reference_manual/layers_and_masks/vector_layers.html\" rel=\"noopener noreferrer\">Vector Layers reference</a> describes SVG import and shape organization.",
+        "link": "https://dev.to/framesprite-team/why-will-krita-not-paint-pixel-repairs-onto-my-imported-svg-icon-4dmp",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-21T10:18:47.000Z",
+        "keywords": [
+          "design",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "design",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for design",
+          "productivity-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>An imported SVG may contain vector shapes rather than a paintable pixel layer.",
+          "Krita's <a href=\"https://docs.krita.org/en/reference_manual/layers_and_masks/vector_layers.html\" rel=\"noopener noreferrer\">Vector Layers reference</a> describes SVG import and shape organization.",
+          "Do not promise a pure-vector result after adding raster-only detail.</p> <p>For a game shipping PNGs, preserve the vector master and make a duplicate raster working version at the final size."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-21T10:38:39.237Z",
+    "lastUpdated": "2026-10-21T10:38:39.237Z",
+    "visibleDate": "Oct 21, 2026",
+    "url": "pages/2026-10-21-103839237-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-21-103839237-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "Why do linked",
+      "From Scan to CAD"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Why do linked, From Scan to CAD. Gitpod brings ze",
+    "tools": [
+      {
+        "name": "Why do linked",
+        "slug": "why-do-linked",
+        "description": "Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>Check whether every linked source resolves inside the handoff boundary before sending an art folder. If a private reference cannot travel, state whether it is needed to rebuild or only explains the original design.</p> <p>This guide proposes a path-closure audit and does not report a tested archive.",
+        "summary": "Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>Check whether every linked source resolves inside the handoff boundary before sending an art folder. If a private reference cannot travel, state whether it is needed to rebuild or only explains the original design.</p> <p>This guide proposes a path-closure audit and does not report a tested archive.",
+        "link": "https://dev.to/framesprite-team/why-do-linked-sprite-masters-vanish-when-i-send-the-project-folder-4l5j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-21T10:32:39.000Z",
+        "keywords": [
+          "gamedev",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "gamedev",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for gamedev",
+          "productivity-ready automation",
+          "Great for gamedev"
+        ],
+        "cons": [
+          "Overkill for gamedev experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for gamedev experiments"
+        ],
+        "highlights": [
+          "If a private reference cannot travel, state whether it is needed to rebuild or only explains the original design.</p> <p>This guide proposes a path-closure audit and does not report a tested archive.",
+          "A normalized-looking relative path does not prove the target belongs to the package.</p> <p>Artists may use links to share a master across several action folders.",
+          "The contractor receives the action folders but not the external location, so the project opens with missing source art.</p> <p>Build a release copy from the approved revision."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "From Scan to CAD",
+        "slug": "from-scan-to-cad",
+        "description": "Common Applications in Manufacturing Typical projects include discontinued replacement parts, custom fixtures, prototypes modified by hand, castings, molded housings, and tooling updates. Operators may trim the data, reduce unnecessary detail, and repair appropriate mesh openings.</p> <p>However, filling a hole digitally can invent geometry that was never measured.",
+        "summary": "Common Applications in Manufacturing Typical projects include discontinued replacement parts, custom fixtures, prototypes modified by hand, castings, molded housings, and tooling updates. Operators may trim the data, reduce unnecessary detail, and repair appropriate mesh openings.</p> <p>However, filling a hole digitally can invent geometry that was never measured.",
+        "link": "https://dev.to/dawood_siddiqui10200/from-scan-to-cad-how-3d-scanning-data-becomes-a-usable-3d-model-4b84",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-21T10:24:39.000Z",
+        "keywords": [
+          "design",
+          "hardware",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "design",
+          "hardware",
+          "tools"
+        ],
+        "pros": [
+          "Great for design",
+          "hardware-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for hardware workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "Common Applications in Manufacturing Typical projects include discontinued replacement parts, custom fixtures, prototypes modified by hand, castings, molded housings, and tooling updates.",
+          "Operators may trim the data, reduce unnecessary detail, and repair appropriate mesh openings.</p> <p>However, filling a hole digitally can invent geometry that was never measured.",
+          "A best fit can be useful for general shape comparisons, but a manufacturing model often needs alignment based on mounting planes, datum features, or assembly references."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-21T10:38:39.237Z",
+    "lastUpdated": "2026-10-21T10:38:39.237Z",
+    "visibleDate": "Oct 21, 2026",
+    "url": "pages/2026-10-21-103839237-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-21-103839237-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "Why do linked",
+      "From Scan to CAD",
+      "Two artists changed the same sprite PNG"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Why do linked, From Scan to CAD, Two artists changed the same sprite PNG",
+    "tools": [
+      {
+        "name": "Why do linked",
+        "slug": "why-do-linked",
+        "description": "Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>Check whether every linked source resolves inside the handoff boundary before sending an art folder. If a private reference cannot travel, state whether it is needed to rebuild or only explains the original design.</p> <p>This guide proposes a path-closure audit and does not report a tested archive.",
+        "summary": "Proposed examples are not executed tests unless explicitly identified as recorded fixture results.</p> <p>Check whether every linked source resolves inside the handoff boundary before sending an art folder. If a private reference cannot travel, state whether it is needed to rebuild or only explains the original design.</p> <p>This guide proposes a path-closure audit and does not report a tested archive.",
+        "link": "https://dev.to/framesprite-team/why-do-linked-sprite-masters-vanish-when-i-send-the-project-folder-4l5j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-21T10:32:39.000Z",
+        "keywords": [
+          "gamedev",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "gamedev",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for gamedev",
+          "productivity-ready automation",
+          "Great for gamedev"
+        ],
+        "cons": [
+          "Overkill for gamedev experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for gamedev experiments"
+        ],
+        "highlights": [
+          "If a private reference cannot travel, state whether it is needed to rebuild or only explains the original design.</p> <p>This guide proposes a path-closure audit and does not report a tested archive.",
+          "A normalized-looking relative path does not prove the target belongs to the package.</p> <p>Artists may use links to share a master across several action folders.",
+          "The contractor receives the action folders but not the external location, so the project opens with missing source art.</p> <p>Build a release copy from the approved revision."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "From Scan to CAD",
+        "slug": "from-scan-to-cad",
+        "description": "Common Applications in Manufacturing Typical projects include discontinued replacement parts, custom fixtures, prototypes modified by hand, castings, molded housings, and tooling updates. Operators may trim the data, reduce unnecessary detail, and repair appropriate mesh openings.</p> <p>However, filling a hole digitally can invent geometry that was never measured.",
+        "summary": "Common Applications in Manufacturing Typical projects include discontinued replacement parts, custom fixtures, prototypes modified by hand, castings, molded housings, and tooling updates. Operators may trim the data, reduce unnecessary detail, and repair appropriate mesh openings.</p> <p>However, filling a hole digitally can invent geometry that was never measured.",
+        "link": "https://dev.to/dawood_siddiqui10200/from-scan-to-cad-how-3d-scanning-data-becomes-a-usable-3d-model-4b84",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-21T10:24:39.000Z",
+        "keywords": [
+          "design",
+          "hardware",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "design",
+          "hardware",
+          "tools"
+        ],
+        "pros": [
+          "Great for design",
+          "hardware-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for hardware workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "Common Applications in Manufacturing Typical projects include discontinued replacement parts, custom fixtures, prototypes modified by hand, castings, molded housings, and tooling updates.",
+          "Operators may trim the data, reduce unnecessary detail, and repair appropriate mesh openings.</p> <p>However, filling a hole digitally can invent geometry that was never measured.",
+          "A best fit can be useful for general shape comparisons, but a manufacturing model often needs alignment based on mounting planes, datum features, or assembly references."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Two artists changed the same sprite PNG",
+        "slug": "two-artists-changed-the-same-sprite-png",
+        "description": "The <a href=\"https://git-scm.com/docs/git-diff\" rel=\"noopener noreferrer\">Git diff reference</a> explains repository comparisons, but the actual pixel and design review needs an appropriate image viewer or editor. A flattened PNG may not retain the layers needed to combine both changes cleanly.</p> <p>Avoid opening two files with the same display name in an editor and relying on tab position.",
+        "summary": "The <a href=\"https://git-scm.com/docs/git-diff\" rel=\"noopener noreferrer\">Git diff reference</a> explains repository comparisons, but the actual pixel and design review needs an appropriate image viewer or editor. A flattened PNG may not retain the layers needed to combine both changes cleanly.</p> <p>Avoid opening two files with the same display name in an editor and relying on tab position.",
+        "link": "https://dev.to/framesprite-team/two-artists-changed-the-same-sprite-png-how-do-i-retain-both-intentions-3jmj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-21T10:24:04.000Z",
+        "keywords": [
+          "gamedev",
+          "git",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "gamedev",
+          "git",
+          "tools"
+        ],
+        "pros": [
+          "Great for gamedev",
+          "git-ready automation",
+          "Great for gamedev"
+        ],
+        "cons": [
+          "Overkill for gamedev experiments",
+          "Needs extra setup for git workflows",
+          "Overkill for gamedev experiments"
+        ],
+        "highlights": [
+          "A flattened PNG may not retain the layers needed to combine both changes cleanly.</p> <p>Avoid opening two files with the same display name in an editor and relying on tab position.",
+          "Acceptance should include the intended visual changes, unchanged dimensions unless approved, valid frame order, matching sidecars, and a preview generated from the final file.",
+          "If the changes cannot coexist, have the art owner choose and document the tradeoff rather than inventing an automatic blend.</p> <p>Export the reconstructed candidate to a new review location first."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-20T10:27:45.012Z",
     "lastUpdated": "2026-10-20T10:27:45.012Z",
     "visibleDate": "Oct 20, 2026",

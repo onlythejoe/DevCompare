@@ -7,6 +7,695 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-22T10:41:28.943Z",
+    "lastUpdated": "2026-10-22T10:41:28.943Z",
+    "visibleDate": "Oct 22, 2026",
+    "url": "pages/2026-10-22-104128943-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-22-104128943-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "Why I switched",
+      "Tax Planning for Physicians Edison NJ",
+      "Black Friday 2026"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Why I switched, Tax Planning for Physicians Edison NJ, Black Friday 2026. ",
+    "tools": [
+      {
+        "name": "Why I switched",
+        "slug": "why-i-switched",
+        "description": "<h2> Ease of import </h2> <p>AFFiNE allows for .md, pdf and images to be imported.<br> This allows obsidian notes to be imported.</p> <h2> Price </h2> <p>Self hosting AFFiNE comes at no cost as well as basic cloud sync. Self hosting a AFFiNE server is low difficulty, low maintnance, low resource consumption and allows for access controll and other cool features.",
+        "summary": "<h2> Ease of import </h2> <p>AFFiNE allows for .md, pdf and images to be imported.<br> This allows obsidian notes to be imported.</p> <h2> Price </h2> <p>Self hosting AFFiNE comes at no cost as well as basic cloud sync. Self hosting a AFFiNE server is low difficulty, low maintnance, low resource consumption and allows for access controll and other cool features.",
+        "link": "https://dev.to/dev2023-op/why-i-switched-to-affine-for-my-notes-j20",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-22T10:31:44.000Z",
+        "keywords": [
+          "docker",
+          "opensource",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "docker",
+          "opensource",
+          "productivity"
+        ],
+        "pros": [
+          "Great for docker",
+          "opensource-ready automation",
+          "Great for docker"
+        ],
+        "cons": [
+          "Overkill for docker experiments",
+          "Needs extra setup for opensource workflows",
+          "Overkill for docker experiments"
+        ],
+        "highlights": [
+          "Self hosting a AFFiNE server is low difficulty, low maintnance, low resource consumption and allows for access controll and other cool features.",
+          "Self hosting AFFiNE comes at no cost as well as basic cloud sync.",
+          "The setup is fairly intuitive and only requires 5 steps when installing with docker compose."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Tax Planning for Physicians Edison NJ",
+        "slug": "tax-planning-for-physicians-edison-nj",
+        "description": "For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year. For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year.</p> <h2> 4.",
+        "summary": "For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year. For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year.</p> <h2> 4.",
+        "link": "https://dev.to/tkgaccounting/tax-planning-for-physicians-edison-nj-what-practice-owners-often-overlook-11mk",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-22T10:26:58.000Z",
+        "keywords": [
+          "devops",
+          "discuss",
+          "news",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devops",
+          "discuss",
+          "news"
+        ],
+        "pros": [
+          "Great for devops",
+          "discuss-ready automation",
+          "Great for devops"
+        ],
+        "cons": [
+          "Overkill for devops experiments",
+          "Needs extra setup for discuss workflows",
+          "Overkill for devops experiments"
+        ],
+        "highlights": [
+          "For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year.",
+          "An Edison dermatology practice buying a $180,000 laser can often deduct the full cost on its federal return in year one.</p> <p>Many owners miss that New Jersey doesn't follow these federal rules.",
+          "The best strategies include maximizing retirement plans, choosing the right business entity, electing New Jersey BAIT, timing equipment purchases, and managing estimated taxes carefully."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Black Friday 2026",
+        "slug": "black-friday-2026",
+        "description": "🙂 <p>Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need. Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need.",
+        "summary": "🙂 <p>Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need. Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need.",
+        "link": "https://dev.to/tushargugnani/black-friday-2026-whats-on-your-wishlist-3n9e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-22T10:08:46.000Z",
+        "keywords": [
+          "discuss",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "discuss",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for discuss",
+          "productivity-ready automation",
+          "Great for discuss"
+        ],
+        "cons": [
+          "Overkill for discuss experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for discuss experiments"
+        ],
+        "highlights": [
+          "Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need.",
+          "🙂 <p>Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need.",
+          "👇 I run blackfridaydeals.dev, where I collect dev tool Black Friday deals each year, so whatever you mention in the comments will probably end up there too."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Distribute Music Online in 2026",
+        "slug": "how-to-distribute-music-online-in-2026",
+        "description": "DistroKid prices extra artists on higher plans, and Madverse offers a Label tier, so costs scale with your roster.<br> Mistakes That Cost Artists Money<br> The most expensive mistake is picking on the first-year price. Madverse's Trustpilot page shows a split picture: some artists describe smooth releases on Spotify and Apple Music, while others raise complaints about payments, and the company has posted public replies.",
+        "summary": "DistroKid prices extra artists on higher plans, and Madverse offers a Label tier, so costs scale with your roster.<br> Mistakes That Cost Artists Money<br> The most expensive mistake is picking on the first-year price. Madverse's Trustpilot page shows a split picture: some artists describe smooth releases on Spotify and Apple Music, while others raise complaints about payments, and the company has posted public replies.",
+        "link": "https://dev.to/tune_fry_241904d7796248c8/how-to-distribute-music-online-in-2026-pick-the-right-music-distribution-company-4ma9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-22T09:48:02.000Z",
+        "keywords": [
+          "independent",
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "independent",
+          "tools",
+          "dev"
+        ],
+        "pros": [
+          "Great for independent",
+          "tools-ready automation",
+          "Great for independent"
+        ],
+        "cons": [
+          "Overkill for independent experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for independent experiments"
+        ],
+        "highlights": [
+          "List every writer and producer with their correct legal names, since these credits drive publishing royalties.<br> Next, choose a release date at least three to four weeks away.",
+          "One 2026 calculation puts 100,000 qualifying Spotify streams at roughly $300 to $500 before the distributor takes its share, so a commission of 15 percent would cost you $45 to $75 on that volume.",
+          "It is a reasonable choice if you prefer managing releases from a phone and want a low-cost subscription, but it no longer works as a free starting point despite appearing on many older roundups."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "GenAnywhere vs. halfmaps",
+        "slug": "genanywhere-vs-halfmaps",
+        "description": "Models age; the reasons behind them are the actual deliverable.</li> </ul> <p>The failure pattern is predictable: a team tries to encode design changes as map restyles, or tries to author context in the design tool. Record the transform you applied so the design can be re-registered against a newer export.</li> <li> <strong>Extent discipline.</strong> Export the study area plus a believable margin, not the whole municipality.",
+        "summary": "Models age; the reasons behind them are the actual deliverable.</li> </ul> <p>The failure pattern is predictable: a team tries to encode design changes as map restyles, or tries to author context in the design tool. Record the transform you applied so the design can be re-registered against a newer export.</li> <li> <strong>Extent discipline.</strong> Export the study area plus a believable margin, not the whole municipality.",
+        "link": "https://dev.to/maptomodel/genanywhere-vs-halfmaps-a-technical-workflow-guide-to-context-meshes-export-formats-and-design-51k1",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-22T09:34:34.000Z",
+        "keywords": [
+          "3d",
+          "design",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "3d",
+          "design",
+          "tools"
+        ],
+        "pros": [
+          "Great for 3d",
+          "design-ready automation",
+          "Great for 3d"
+        ],
+        "cons": [
+          "Overkill for 3d experiments",
+          "Needs extra setup for design workflows",
+          "Overkill for 3d experiments"
+        ],
+        "highlights": [
+          "halfmaps: existing-conditions models, feasibility context, shadow and view studies, competition bases, printable site models, quick environment for render tests.",
+          "A richly styled base against a schematic proposal (or the reverse) biases judgment toward finish, not quality.</li> </ol> <p>Treat the exported context as a versioned dependency.",
+          "halfmaps is an extractor: it converts OpenStreetMap features and Mapzen terrain into a styled city mesh and exports it to the modeling tool of your choice."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-22T10:41:28.943Z",
+    "lastUpdated": "2026-10-22T10:41:28.943Z",
+    "visibleDate": "Oct 22, 2026",
+    "url": "pages/2026-10-22-104128943-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-22-104128943-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why I switched",
+      "Tax Planning for Physicians Edison NJ",
+      "Black Friday 2026"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Why I switched, Tax Planning for Physicians Edison NJ, Black Frida",
+    "tools": [
+      {
+        "name": "Why I switched",
+        "slug": "why-i-switched",
+        "description": "<h2> Ease of import </h2> <p>AFFiNE allows for .md, pdf and images to be imported.<br> This allows obsidian notes to be imported.</p> <h2> Price </h2> <p>Self hosting AFFiNE comes at no cost as well as basic cloud sync. Self hosting a AFFiNE server is low difficulty, low maintnance, low resource consumption and allows for access controll and other cool features.",
+        "summary": "<h2> Ease of import </h2> <p>AFFiNE allows for .md, pdf and images to be imported.<br> This allows obsidian notes to be imported.</p> <h2> Price </h2> <p>Self hosting AFFiNE comes at no cost as well as basic cloud sync. Self hosting a AFFiNE server is low difficulty, low maintnance, low resource consumption and allows for access controll and other cool features.",
+        "link": "https://dev.to/dev2023-op/why-i-switched-to-affine-for-my-notes-j20",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-22T10:31:44.000Z",
+        "keywords": [
+          "docker",
+          "opensource",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "docker",
+          "opensource",
+          "productivity"
+        ],
+        "pros": [
+          "Great for docker",
+          "opensource-ready automation",
+          "Great for docker"
+        ],
+        "cons": [
+          "Overkill for docker experiments",
+          "Needs extra setup for opensource workflows",
+          "Overkill for docker experiments"
+        ],
+        "highlights": [
+          "Self hosting a AFFiNE server is low difficulty, low maintnance, low resource consumption and allows for access controll and other cool features.",
+          "Self hosting AFFiNE comes at no cost as well as basic cloud sync.",
+          "The setup is fairly intuitive and only requires 5 steps when installing with docker compose."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Tax Planning for Physicians Edison NJ",
+        "slug": "tax-planning-for-physicians-edison-nj",
+        "description": "For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year. For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year.</p> <h2> 4.",
+        "summary": "For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year. For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year.</p> <h2> 4.",
+        "link": "https://dev.to/tkgaccounting/tax-planning-for-physicians-edison-nj-what-practice-owners-often-overlook-11mk",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-22T10:26:58.000Z",
+        "keywords": [
+          "devops",
+          "discuss",
+          "news",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devops",
+          "discuss",
+          "news"
+        ],
+        "pros": [
+          "Great for devops",
+          "discuss-ready automation",
+          "Great for devops"
+        ],
+        "cons": [
+          "Overkill for devops experiments",
+          "Needs extra setup for discuss workflows",
+          "Overkill for devops experiments"
+        ],
+        "highlights": [
+          "For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year.",
+          "An Edison dermatology practice buying a $180,000 laser can often deduct the full cost on its federal return in year one.</p> <p>Many owners miss that New Jersey doesn't follow these federal rules.",
+          "The best strategies include maximizing retirement plans, choosing the right business entity, electing New Jersey BAIT, timing equipment purchases, and managing estimated taxes carefully."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Black Friday 2026",
+        "slug": "black-friday-2026",
+        "description": "🙂 <p>Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need. Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need.",
+        "summary": "🙂 <p>Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need. Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need.",
+        "link": "https://dev.to/tushargugnani/black-friday-2026-whats-on-your-wishlist-3n9e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-22T10:08:46.000Z",
+        "keywords": [
+          "discuss",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "discuss",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for discuss",
+          "productivity-ready automation",
+          "Great for discuss"
+        ],
+        "cons": [
+          "Overkill for discuss experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for discuss experiments"
+        ],
+        "highlights": [
+          "Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need.",
+          "🙂 <p>Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need.",
+          "👇 I run blackfridaydeals.dev, where I collect dev tool Black Friday deals each year, so whatever you mention in the comments will probably end up there too."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Distribute Music Online in 2026",
+        "slug": "how-to-distribute-music-online-in-2026",
+        "description": "DistroKid prices extra artists on higher plans, and Madverse offers a Label tier, so costs scale with your roster.<br> Mistakes That Cost Artists Money<br> The most expensive mistake is picking on the first-year price. Madverse's Trustpilot page shows a split picture: some artists describe smooth releases on Spotify and Apple Music, while others raise complaints about payments, and the company has posted public replies.",
+        "summary": "DistroKid prices extra artists on higher plans, and Madverse offers a Label tier, so costs scale with your roster.<br> Mistakes That Cost Artists Money<br> The most expensive mistake is picking on the first-year price. Madverse's Trustpilot page shows a split picture: some artists describe smooth releases on Spotify and Apple Music, while others raise complaints about payments, and the company has posted public replies.",
+        "link": "https://dev.to/tune_fry_241904d7796248c8/how-to-distribute-music-online-in-2026-pick-the-right-music-distribution-company-4ma9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-22T09:48:02.000Z",
+        "keywords": [
+          "independent",
+          "tools",
+          "dev",
+          "saas",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "independent",
+          "tools",
+          "dev"
+        ],
+        "pros": [
+          "Great for independent",
+          "tools-ready automation",
+          "Great for independent"
+        ],
+        "cons": [
+          "Overkill for independent experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for independent experiments"
+        ],
+        "highlights": [
+          "List every writer and producer with their correct legal names, since these credits drive publishing royalties.<br> Next, choose a release date at least three to four weeks away.",
+          "One 2026 calculation puts 100,000 qualifying Spotify streams at roughly $300 to $500 before the distributor takes its share, so a commission of 15 percent would cost you $45 to $75 on that volume.",
+          "It is a reasonable choice if you prefer managing releases from a phone and want a low-cost subscription, but it no longer works as a free starting point despite appearing on many older roundups."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-22T10:41:28.943Z",
+    "lastUpdated": "2026-10-22T10:41:28.943Z",
+    "visibleDate": "Oct 22, 2026",
+    "url": "pages/2026-10-22-104128943-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-22-104128943-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why I switched",
+      "Tax Planning for Physicians Edison NJ"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Why I switched, Tax Planning for Physicians Ediso",
+    "tools": [
+      {
+        "name": "Why I switched",
+        "slug": "why-i-switched",
+        "description": "<h2> Ease of import </h2> <p>AFFiNE allows for .md, pdf and images to be imported.<br> This allows obsidian notes to be imported.</p> <h2> Price </h2> <p>Self hosting AFFiNE comes at no cost as well as basic cloud sync. Self hosting a AFFiNE server is low difficulty, low maintnance, low resource consumption and allows for access controll and other cool features.",
+        "summary": "<h2> Ease of import </h2> <p>AFFiNE allows for .md, pdf and images to be imported.<br> This allows obsidian notes to be imported.</p> <h2> Price </h2> <p>Self hosting AFFiNE comes at no cost as well as basic cloud sync. Self hosting a AFFiNE server is low difficulty, low maintnance, low resource consumption and allows for access controll and other cool features.",
+        "link": "https://dev.to/dev2023-op/why-i-switched-to-affine-for-my-notes-j20",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-22T10:31:44.000Z",
+        "keywords": [
+          "docker",
+          "opensource",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "docker",
+          "opensource",
+          "productivity"
+        ],
+        "pros": [
+          "Great for docker",
+          "opensource-ready automation",
+          "Great for docker"
+        ],
+        "cons": [
+          "Overkill for docker experiments",
+          "Needs extra setup for opensource workflows",
+          "Overkill for docker experiments"
+        ],
+        "highlights": [
+          "Self hosting a AFFiNE server is low difficulty, low maintnance, low resource consumption and allows for access controll and other cool features.",
+          "Self hosting AFFiNE comes at no cost as well as basic cloud sync.",
+          "The setup is fairly intuitive and only requires 5 steps when installing with docker compose."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Tax Planning for Physicians Edison NJ",
+        "slug": "tax-planning-for-physicians-edison-nj",
+        "description": "For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year. For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year.</p> <h2> 4.",
+        "summary": "For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year. For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year.</p> <h2> 4.",
+        "link": "https://dev.to/tkgaccounting/tax-planning-for-physicians-edison-nj-what-practice-owners-often-overlook-11mk",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-22T10:26:58.000Z",
+        "keywords": [
+          "devops",
+          "discuss",
+          "news",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devops",
+          "discuss",
+          "news"
+        ],
+        "pros": [
+          "Great for devops",
+          "discuss-ready automation",
+          "Great for devops"
+        ],
+        "cons": [
+          "Overkill for devops experiments",
+          "Needs extra setup for discuss workflows",
+          "Overkill for devops experiments"
+        ],
+        "highlights": [
+          "For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year.",
+          "An Edison dermatology practice buying a $180,000 laser can often deduct the full cost on its federal return in year one.</p> <p>Many owners miss that New Jersey doesn't follow these federal rules.",
+          "The best strategies include maximizing retirement plans, choosing the right business entity, electing New Jersey BAIT, timing equipment purchases, and managing estimated taxes carefully."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-22T10:41:28.943Z",
+    "lastUpdated": "2026-10-22T10:41:28.943Z",
+    "visibleDate": "Oct 22, 2026",
+    "url": "pages/2026-10-22-104128943-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-22-104128943-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Why I switched",
+      "Tax Planning for Physicians Edison NJ",
+      "Black Friday 2026"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Why I switched, Tax Planning for Physicians Edison NJ, Black Friday 2026",
+    "tools": [
+      {
+        "name": "Why I switched",
+        "slug": "why-i-switched",
+        "description": "<h2> Ease of import </h2> <p>AFFiNE allows for .md, pdf and images to be imported.<br> This allows obsidian notes to be imported.</p> <h2> Price </h2> <p>Self hosting AFFiNE comes at no cost as well as basic cloud sync. Self hosting a AFFiNE server is low difficulty, low maintnance, low resource consumption and allows for access controll and other cool features.",
+        "summary": "<h2> Ease of import </h2> <p>AFFiNE allows for .md, pdf and images to be imported.<br> This allows obsidian notes to be imported.</p> <h2> Price </h2> <p>Self hosting AFFiNE comes at no cost as well as basic cloud sync. Self hosting a AFFiNE server is low difficulty, low maintnance, low resource consumption and allows for access controll and other cool features.",
+        "link": "https://dev.to/dev2023-op/why-i-switched-to-affine-for-my-notes-j20",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-22T10:31:44.000Z",
+        "keywords": [
+          "docker",
+          "opensource",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "docker",
+          "opensource",
+          "productivity"
+        ],
+        "pros": [
+          "Great for docker",
+          "opensource-ready automation",
+          "Great for docker"
+        ],
+        "cons": [
+          "Overkill for docker experiments",
+          "Needs extra setup for opensource workflows",
+          "Overkill for docker experiments"
+        ],
+        "highlights": [
+          "Self hosting a AFFiNE server is low difficulty, low maintnance, low resource consumption and allows for access controll and other cool features.",
+          "Self hosting AFFiNE comes at no cost as well as basic cloud sync.",
+          "The setup is fairly intuitive and only requires 5 steps when installing with docker compose."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Tax Planning for Physicians Edison NJ",
+        "slug": "tax-planning-for-physicians-edison-nj",
+        "description": "For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year. For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year.</p> <h2> 4.",
+        "summary": "For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year. For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year.</p> <h2> 4.",
+        "link": "https://dev.to/tkgaccounting/tax-planning-for-physicians-edison-nj-what-practice-owners-often-overlook-11mk",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-22T10:26:58.000Z",
+        "keywords": [
+          "devops",
+          "discuss",
+          "news",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devops",
+          "discuss",
+          "news"
+        ],
+        "pros": [
+          "Great for devops",
+          "discuss-ready automation",
+          "Great for devops"
+        ],
+        "cons": [
+          "Overkill for devops experiments",
+          "Needs extra setup for discuss workflows",
+          "Overkill for devops experiments"
+        ],
+        "highlights": [
+          "For older physicians with steady profits, a cash balance plan can add six-figure deductions, though it requires mandatory annual funding and admin fees that typically run $2,000 to $4,000 a year.",
+          "An Edison dermatology practice buying a $180,000 laser can often deduct the full cost on its federal return in year one.</p> <p>Many owners miss that New Jersey doesn't follow these federal rules.",
+          "The best strategies include maximizing retirement plans, choosing the right business entity, electing New Jersey BAIT, timing equipment purchases, and managing estimated taxes carefully."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Black Friday 2026",
+        "slug": "black-friday-2026",
+        "description": "🙂 <p>Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need. Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need.",
+        "summary": "🙂 <p>Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need. Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need.",
+        "link": "https://dev.to/tushargugnani/black-friday-2026-whats-on-your-wishlist-3n9e",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-22T10:08:46.000Z",
+        "keywords": [
+          "discuss",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "discuss",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for discuss",
+          "productivity-ready automation",
+          "Great for discuss"
+        ],
+        "cons": [
+          "Overkill for discuss experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for discuss experiments"
+        ],
+        "highlights": [
+          "Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need.",
+          "🙂 <p>Black Friday is about five weeks away, and every year I promise myself I'll stop buying tools on impulse and only pick up the ones I actually need.",
+          "👇 I run blackfridaydeals.dev, where I collect dev tool Black Friday deals each year, so whatever you mention in the comments will probably end up there too."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-21T10:38:39.237Z",
     "lastUpdated": "2026-10-21T10:38:39.237Z",
     "visibleDate": "Oct 21, 2026",

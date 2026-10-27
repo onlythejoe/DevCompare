@@ -7,6 +7,674 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-27T11:05:43.048Z",
+    "lastUpdated": "2026-10-27T11:05:43.048Z",
+    "visibleDate": "Oct 27, 2026",
+    "url": "pages/2026-10-27-110543048-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-27-110543048-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Build Your Own",
+      "How to Find",
+      "Roblox downloaded 145GB"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Build Your Own, How to Find, Roblox downloaded 145GB. Productivity stacks ",
+    "tools": [
+      {
+        "name": "Build Your Own",
+        "slug": "build-your-own",
+        "description": "Add a few prompts in the words of Melbourne buyers specifically, such as \"resource planning software for agencies in Melbourne\", so you can see whether local relevance improves alongside national visibility. If you'd like a second opinion on your setup, Kiyado's Melbourne team offers a free audit: SEO and GEO for Melbourne businesses → <p>Look, there are a lot of GEO tools appearing right now.",
+        "summary": "Add a few prompts in the words of Melbourne buyers specifically, such as \"resource planning software for agencies in Melbourne\", so you can see whether local relevance improves alongside national visibility. If you'd like a second opinion on your setup, Kiyado's Melbourne team offers a free audit: SEO and GEO for Melbourne businesses → <p>Look, there are a lot of GEO tools appearing right now.",
+        "link": "https://dev.to/riyaamir/build-your-own-ai-visibility-tracker-before-you-buy-a-geo-tool-3jh9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-27T10:59:08.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "tutorial",
+          "analytics"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "If you'd like a second opinion on your setup, Kiyado's Melbourne team offers a free audit: SEO and GEO for Melbourne businesses → <p>Look, there are a lot of GEO tools appearing right now.",
+          "Then compare tools against real requirements, not demos.<br> Example monthly report<br> Here's what a one-page report from this pipeline might look like for a Melbourne SaaS team.",
+          "Changing prompts every month destroys your trend line.<br> Step 2: Collect answers<br> You can do this manually (honestly fine for 20 prompts × 3 engines) or via official APIs where available."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Find",
+        "slug": "how-to-find",
+        "description": "You can try it for free here: https://apify.com/kazaz_organization/my-actor-1 <p>What a company's website runs on is one of the most useful pieces of sales intelligence you can get for free. Here is how to find the tech stack of a website, manually and automatically.<br> Manual methods<br> Right-click a page and choose View Source, then search for telltale strings.",
+        "summary": "You can try it for free here: https://apify.com/kazaz_organization/my-actor-1 <p>What a company's website runs on is one of the most useful pieces of sales intelligence you can get for free. Here is how to find the tech stack of a website, manually and automatically.<br> Manual methods<br> Right-click a page and choose View Source, then search for telltale strings.",
+        "link": "https://dev.to/astrologer83/how-to-find-the-tech-stack-of-any-website-and-why-sales-teams-care-9on",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-27T10:30:50.000Z",
+        "keywords": [
+          "showdev",
+          "webdev",
+          "marketing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "showdev",
+          "webdev",
+          "marketing"
+        ],
+        "pros": [
+          "Great for showdev",
+          "webdev-ready automation",
+          "Great for showdev"
+        ],
+        "cons": [
+          "Overkill for showdev experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for showdev experiments"
+        ],
+        "highlights": [
+          "You can try it for free here: https://apify.com/kazaz_organization/my-actor-1 <p>What a company's website runs on is one of the most useful pieces of sales intelligence you can get for free.",
+          "Here is how to find the tech stack of a website, manually and automatically.<br> Manual methods<br> Right-click a page and choose View Source, then search for telltale strings.",
+          "It detects what is visible in the page and its headers, using signature matching across roughly 40 technologies.<br> Limits to know<br> Detection only sees what the page exposes."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Roblox downloaded 145GB",
+        "slug": "roblox-downloaded-145gb",
+        "description": "Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/ Comments URL: https://news.ycombinator.com/item?id=50256985 Points: 30 # Comments: 5",
+        "summary": "Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/ Comments URL: https://news.ycombinator.com/item?id=50256985 Points: 30 # Comments: 5",
+        "link": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+        "source": "Hacker News",
+        "isoDate": "2026-10-27T10:27:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Your Next.js server",
+        "slug": "your-next-js-server",
+        "description": "So I built qaisdebugs, a free, open-source dev tool that shows every one of those calls, with headers, bodies, timing and the exact file and line that made it, nested under the page request that caused it. Feedback and ideas are very welcome!</p> <p>👉 <a href=\"https://www.npmjs.com/package/qaisdebugs\" rel=\"noopener noreferrer\">https://www.npmjs.com/package/qaisdebugs</a></p>",
+        "summary": "So I built qaisdebugs, a free, open-source dev tool that shows every one of those calls, with headers, bodies, timing and the exact file and line that made it, nested under the page request that caused it. Feedback and ideas are very welcome!</p> <p>👉 <a href=\"https://www.npmjs.com/package/qaisdebugs\" rel=\"noopener noreferrer\">https://www.npmjs.com/package/qaisdebugs</a></p>",
+        "link": "https://dev.to/themdkaish/your-nextjs-server-makes-requests-you-cant-see-i-built-a-tool-that-shows-them-58m0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-27T10:21:38.000Z",
+        "keywords": [
+          "debugging",
+          "nextjs",
+          "react",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "debugging",
+          "nextjs",
+          "react"
+        ],
+        "pros": [
+          "Great for debugging",
+          "nextjs-ready automation",
+          "Great for debugging"
+        ],
+        "cons": [
+          "Overkill for debugging experiments",
+          "Needs extra setup for nextjs workflows",
+          "Overkill for debugging experiments"
+        ],
+        "highlights": [
+          "Feedback and ideas are very welcome!</p> <p>👉 <a href=\"https://www.npmjs.com/package/qaisdebugs\" rel=\"noopener noreferrer\">https://www.npmjs.com/package/qaisdebugs</a></p>",
+          "It also puts server and browser logs in one timeline, and lets you set breakpoints in Server and Client Components from the same inspector.",
+          "Try it in any Next.js app: npm install -g qaisdebugs qaisdebugs dev Then open http://127.0.0.1:4983 and load a page."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I will no",
+        "slug": "i-will-no",
+        "description": "Article URL: https://lists.debian.org/debian-devel/2026/10/msg00263.html Comments URL: https://news.ycombinator.com/item?id=50256738 Points: 49 # Comments: 6",
+        "summary": "Article URL: https://lists.debian.org/debian-devel/2026/10/msg00263.html Comments URL: https://news.ycombinator.com/item?id=50256738 Points: 49 # Comments: 6",
+        "link": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+        "source": "Hacker News",
+        "isoDate": "2026-10-27T09:59:05.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-27T11:05:43.048Z",
+    "lastUpdated": "2026-10-27T11:05:43.048Z",
+    "visibleDate": "Oct 27, 2026",
+    "url": "pages/2026-10-27-110543048-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-27-110543048-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Build Your Own",
+      "How to Find",
+      "Roblox downloaded 145GB"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Build Your Own, How to Find, Roblox downloaded 145GB. Reliable rem",
+    "tools": [
+      {
+        "name": "Build Your Own",
+        "slug": "build-your-own",
+        "description": "Add a few prompts in the words of Melbourne buyers specifically, such as \"resource planning software for agencies in Melbourne\", so you can see whether local relevance improves alongside national visibility. If you'd like a second opinion on your setup, Kiyado's Melbourne team offers a free audit: SEO and GEO for Melbourne businesses → <p>Look, there are a lot of GEO tools appearing right now.",
+        "summary": "Add a few prompts in the words of Melbourne buyers specifically, such as \"resource planning software for agencies in Melbourne\", so you can see whether local relevance improves alongside national visibility. If you'd like a second opinion on your setup, Kiyado's Melbourne team offers a free audit: SEO and GEO for Melbourne businesses → <p>Look, there are a lot of GEO tools appearing right now.",
+        "link": "https://dev.to/riyaamir/build-your-own-ai-visibility-tracker-before-you-buy-a-geo-tool-3jh9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-27T10:59:08.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "tutorial",
+          "analytics"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "If you'd like a second opinion on your setup, Kiyado's Melbourne team offers a free audit: SEO and GEO for Melbourne businesses → <p>Look, there are a lot of GEO tools appearing right now.",
+          "Then compare tools against real requirements, not demos.<br> Example monthly report<br> Here's what a one-page report from this pipeline might look like for a Melbourne SaaS team.",
+          "Changing prompts every month destroys your trend line.<br> Step 2: Collect answers<br> You can do this manually (honestly fine for 20 prompts × 3 engines) or via official APIs where available."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Find",
+        "slug": "how-to-find",
+        "description": "You can try it for free here: https://apify.com/kazaz_organization/my-actor-1 <p>What a company's website runs on is one of the most useful pieces of sales intelligence you can get for free. Here is how to find the tech stack of a website, manually and automatically.<br> Manual methods<br> Right-click a page and choose View Source, then search for telltale strings.",
+        "summary": "You can try it for free here: https://apify.com/kazaz_organization/my-actor-1 <p>What a company's website runs on is one of the most useful pieces of sales intelligence you can get for free. Here is how to find the tech stack of a website, manually and automatically.<br> Manual methods<br> Right-click a page and choose View Source, then search for telltale strings.",
+        "link": "https://dev.to/astrologer83/how-to-find-the-tech-stack-of-any-website-and-why-sales-teams-care-9on",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-27T10:30:50.000Z",
+        "keywords": [
+          "showdev",
+          "webdev",
+          "marketing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "showdev",
+          "webdev",
+          "marketing"
+        ],
+        "pros": [
+          "Great for showdev",
+          "webdev-ready automation",
+          "Great for showdev"
+        ],
+        "cons": [
+          "Overkill for showdev experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for showdev experiments"
+        ],
+        "highlights": [
+          "You can try it for free here: https://apify.com/kazaz_organization/my-actor-1 <p>What a company's website runs on is one of the most useful pieces of sales intelligence you can get for free.",
+          "Here is how to find the tech stack of a website, manually and automatically.<br> Manual methods<br> Right-click a page and choose View Source, then search for telltale strings.",
+          "It detects what is visible in the page and its headers, using signature matching across roughly 40 technologies.<br> Limits to know<br> Detection only sees what the page exposes."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Roblox downloaded 145GB",
+        "slug": "roblox-downloaded-145gb",
+        "description": "Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/ Comments URL: https://news.ycombinator.com/item?id=50256985 Points: 30 # Comments: 5",
+        "summary": "Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/ Comments URL: https://news.ycombinator.com/item?id=50256985 Points: 30 # Comments: 5",
+        "link": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+        "source": "Hacker News",
+        "isoDate": "2026-10-27T10:27:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Your Next.js server",
+        "slug": "your-next-js-server",
+        "description": "So I built qaisdebugs, a free, open-source dev tool that shows every one of those calls, with headers, bodies, timing and the exact file and line that made it, nested under the page request that caused it. Feedback and ideas are very welcome!</p> <p>👉 <a href=\"https://www.npmjs.com/package/qaisdebugs\" rel=\"noopener noreferrer\">https://www.npmjs.com/package/qaisdebugs</a></p>",
+        "summary": "So I built qaisdebugs, a free, open-source dev tool that shows every one of those calls, with headers, bodies, timing and the exact file and line that made it, nested under the page request that caused it. Feedback and ideas are very welcome!</p> <p>👉 <a href=\"https://www.npmjs.com/package/qaisdebugs\" rel=\"noopener noreferrer\">https://www.npmjs.com/package/qaisdebugs</a></p>",
+        "link": "https://dev.to/themdkaish/your-nextjs-server-makes-requests-you-cant-see-i-built-a-tool-that-shows-them-58m0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-27T10:21:38.000Z",
+        "keywords": [
+          "debugging",
+          "nextjs",
+          "react",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "debugging",
+          "nextjs",
+          "react"
+        ],
+        "pros": [
+          "Great for debugging",
+          "nextjs-ready automation",
+          "Great for debugging"
+        ],
+        "cons": [
+          "Overkill for debugging experiments",
+          "Needs extra setup for nextjs workflows",
+          "Overkill for debugging experiments"
+        ],
+        "highlights": [
+          "Feedback and ideas are very welcome!</p> <p>👉 <a href=\"https://www.npmjs.com/package/qaisdebugs\" rel=\"noopener noreferrer\">https://www.npmjs.com/package/qaisdebugs</a></p>",
+          "It also puts server and browser logs in one timeline, and lets you set breakpoints in Server and Client Components from the same inspector.",
+          "Try it in any Next.js app: npm install -g qaisdebugs qaisdebugs dev Then open http://127.0.0.1:4983 and load a page."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-27T11:05:43.048Z",
+    "lastUpdated": "2026-10-27T11:05:43.048Z",
+    "visibleDate": "Oct 27, 2026",
+    "url": "pages/2026-10-27-110543048-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-27-110543048-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "Build Your Own",
+      "How to Find"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Build Your Own, How to Find. Gitpod brings zero-c",
+    "tools": [
+      {
+        "name": "Build Your Own",
+        "slug": "build-your-own",
+        "description": "Add a few prompts in the words of Melbourne buyers specifically, such as \"resource planning software for agencies in Melbourne\", so you can see whether local relevance improves alongside national visibility. If you'd like a second opinion on your setup, Kiyado's Melbourne team offers a free audit: SEO and GEO for Melbourne businesses → <p>Look, there are a lot of GEO tools appearing right now.",
+        "summary": "Add a few prompts in the words of Melbourne buyers specifically, such as \"resource planning software for agencies in Melbourne\", so you can see whether local relevance improves alongside national visibility. If you'd like a second opinion on your setup, Kiyado's Melbourne team offers a free audit: SEO and GEO for Melbourne businesses → <p>Look, there are a lot of GEO tools appearing right now.",
+        "link": "https://dev.to/riyaamir/build-your-own-ai-visibility-tracker-before-you-buy-a-geo-tool-3jh9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-27T10:59:08.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "tutorial",
+          "analytics"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "If you'd like a second opinion on your setup, Kiyado's Melbourne team offers a free audit: SEO and GEO for Melbourne businesses → <p>Look, there are a lot of GEO tools appearing right now.",
+          "Then compare tools against real requirements, not demos.<br> Example monthly report<br> Here's what a one-page report from this pipeline might look like for a Melbourne SaaS team.",
+          "Changing prompts every month destroys your trend line.<br> Step 2: Collect answers<br> You can do this manually (honestly fine for 20 prompts × 3 engines) or via official APIs where available."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Find",
+        "slug": "how-to-find",
+        "description": "You can try it for free here: https://apify.com/kazaz_organization/my-actor-1 <p>What a company's website runs on is one of the most useful pieces of sales intelligence you can get for free. Here is how to find the tech stack of a website, manually and automatically.<br> Manual methods<br> Right-click a page and choose View Source, then search for telltale strings.",
+        "summary": "You can try it for free here: https://apify.com/kazaz_organization/my-actor-1 <p>What a company's website runs on is one of the most useful pieces of sales intelligence you can get for free. Here is how to find the tech stack of a website, manually and automatically.<br> Manual methods<br> Right-click a page and choose View Source, then search for telltale strings.",
+        "link": "https://dev.to/astrologer83/how-to-find-the-tech-stack-of-any-website-and-why-sales-teams-care-9on",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-27T10:30:50.000Z",
+        "keywords": [
+          "showdev",
+          "webdev",
+          "marketing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "showdev",
+          "webdev",
+          "marketing"
+        ],
+        "pros": [
+          "Great for showdev",
+          "webdev-ready automation",
+          "Great for showdev"
+        ],
+        "cons": [
+          "Overkill for showdev experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for showdev experiments"
+        ],
+        "highlights": [
+          "You can try it for free here: https://apify.com/kazaz_organization/my-actor-1 <p>What a company's website runs on is one of the most useful pieces of sales intelligence you can get for free.",
+          "Here is how to find the tech stack of a website, manually and automatically.<br> Manual methods<br> Right-click a page and choose View Source, then search for telltale strings.",
+          "It detects what is visible in the page and its headers, using signature matching across roughly 40 technologies.<br> Limits to know<br> Detection only sees what the page exposes."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-27T11:05:43.048Z",
+    "lastUpdated": "2026-10-27T11:05:43.048Z",
+    "visibleDate": "Oct 27, 2026",
+    "url": "pages/2026-10-27-110543048-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-27-110543048-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Build Your Own",
+      "How to Find",
+      "Roblox downloaded 145GB"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Build Your Own, How to Find, Roblox downloaded 145GB. New launches that ",
+    "tools": [
+      {
+        "name": "Build Your Own",
+        "slug": "build-your-own",
+        "description": "Add a few prompts in the words of Melbourne buyers specifically, such as \"resource planning software for agencies in Melbourne\", so you can see whether local relevance improves alongside national visibility. If you'd like a second opinion on your setup, Kiyado's Melbourne team offers a free audit: SEO and GEO for Melbourne businesses → <p>Look, there are a lot of GEO tools appearing right now.",
+        "summary": "Add a few prompts in the words of Melbourne buyers specifically, such as \"resource planning software for agencies in Melbourne\", so you can see whether local relevance improves alongside national visibility. If you'd like a second opinion on your setup, Kiyado's Melbourne team offers a free audit: SEO and GEO for Melbourne businesses → <p>Look, there are a lot of GEO tools appearing right now.",
+        "link": "https://dev.to/riyaamir/build-your-own-ai-visibility-tracker-before-you-buy-a-geo-tool-3jh9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-27T10:59:08.000Z",
+        "keywords": [
+          "ai",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "ai",
+          "tools",
+          "tutorial",
+          "analytics"
+        ],
+        "pros": [
+          "Great for ai",
+          "tools-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "If you'd like a second opinion on your setup, Kiyado's Melbourne team offers a free audit: SEO and GEO for Melbourne businesses → <p>Look, there are a lot of GEO tools appearing right now.",
+          "Then compare tools against real requirements, not demos.<br> Example monthly report<br> Here's what a one-page report from this pipeline might look like for a Melbourne SaaS team.",
+          "Changing prompts every month destroys your trend line.<br> Step 2: Collect answers<br> You can do this manually (honestly fine for 20 prompts × 3 engines) or via official APIs where available."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 2,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How to Find",
+        "slug": "how-to-find",
+        "description": "You can try it for free here: https://apify.com/kazaz_organization/my-actor-1 <p>What a company's website runs on is one of the most useful pieces of sales intelligence you can get for free. Here is how to find the tech stack of a website, manually and automatically.<br> Manual methods<br> Right-click a page and choose View Source, then search for telltale strings.",
+        "summary": "You can try it for free here: https://apify.com/kazaz_organization/my-actor-1 <p>What a company's website runs on is one of the most useful pieces of sales intelligence you can get for free. Here is how to find the tech stack of a website, manually and automatically.<br> Manual methods<br> Right-click a page and choose View Source, then search for telltale strings.",
+        "link": "https://dev.to/astrologer83/how-to-find-the-tech-stack-of-any-website-and-why-sales-teams-care-9on",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-27T10:30:50.000Z",
+        "keywords": [
+          "showdev",
+          "webdev",
+          "marketing",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "showdev",
+          "webdev",
+          "marketing"
+        ],
+        "pros": [
+          "Great for showdev",
+          "webdev-ready automation",
+          "Great for showdev"
+        ],
+        "cons": [
+          "Overkill for showdev experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for showdev experiments"
+        ],
+        "highlights": [
+          "You can try it for free here: https://apify.com/kazaz_organization/my-actor-1 <p>What a company's website runs on is one of the most useful pieces of sales intelligence you can get for free.",
+          "Here is how to find the tech stack of a website, manually and automatically.<br> Manual methods<br> Right-click a page and choose View Source, then search for telltale strings.",
+          "It detects what is visible in the page and its headers, using signature matching across roughly 40 technologies.<br> Limits to know<br> Detection only sees what the page exposes."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Roblox downloaded 145GB",
+        "slug": "roblox-downloaded-145gb",
+        "description": "Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/ Comments URL: https://news.ycombinator.com/item?id=50256985 Points: 30 # Comments: 5",
+        "summary": "Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/ Comments URL: https://news.ycombinator.com/item?id=50256985 Points: 30 # Comments: 5",
+        "link": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+        "source": "Hacker News",
+        "isoDate": "2026-10-27T10:27:50.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-26T11:34:54.562Z",
     "lastUpdated": "2026-10-26T11:34:54.562Z",
     "visibleDate": "Oct 26, 2026",

@@ -7,6 +7,675 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-10-31T11:15:46.521Z",
+    "lastUpdated": "2026-10-31T11:15:46.521Z",
+    "visibleDate": "Oct 31, 2026",
+    "url": "pages/2026-10-31-111546521-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-10-31-111546521-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Serbia just elected",
+      "Show a PDF",
+      "I built 59 free browser-based dev tools in vanilla JS"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Serbia just elected, Show a PDF, I built 59 free browser-based dev tools i",
+    "tools": [
+      {
+        "name": "Serbia just elected",
+        "slug": "serbia-just-elected",
+        "description": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 104 # Comments: 67",
+        "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 104 # Comments: 67",
+        "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+        "source": "Hacker News",
+        "isoDate": "2026-10-31T10:21:30.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "article"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show a PDF",
+        "slug": "show-a-pdf",
+        "description": "The TV needs the internet to open <a href=\"https://vuthis.com\" rel=\"noopener noreferrer\">vuthis.com</a>, and your phone can use mobile data.</p> <p>Can I show a PowerPoint or Google Slides file directly? Only PDF documents can be shown, so do this once and keep the file on your phone.</p> <p>Leave the TV on the same input during the meeting, so nobody switches away from the slides by accident.",
+        "summary": "The TV needs the internet to open <a href=\"https://vuthis.com\" rel=\"noopener noreferrer\">vuthis.com</a>, and your phone can use mobile data.</p> <p>Can I show a PowerPoint or Google Slides file directly? Only PDF documents can be shown, so do this once and keep the file on your phone.</p> <p>Leave the TV on the same input during the meeting, so nobody switches away from the slides by accident.",
+        "link": "https://dev.to/vuthis/show-a-pdf-on-the-meeting-room-tv-without-hdmi-or-casting-2l7k",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-31T10:19:00.000Z",
+        "keywords": [
+          "productivity",
+          "agile",
+          "meetings",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "agile",
+          "meetings"
+        ],
+        "pros": [
+          "Great for productivity",
+          "agile-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for agile workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Only PDF documents can be shown, so do this once and keep the file on your phone.</p> <p>Leave the TV on the same input during the meeting, so nobody switches away from the slides by accident.",
+          "To show a PDF on the meeting room TV without HDMI or casting, open vuthis.com in the TV's web browser, connect your phone with the code that appears, and pick the PDF.",
+          "On a laptop, PC, MacBook or Chromebook, open <a href=\"https://vuthis.com/r\" rel=\"noopener noreferrer\">vuthis.com/r</a> in the browser, type the code and press Connect.</p> <p>Step 3."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built 59 free browser-based dev tools in vanilla JS",
+        "slug": "i-built-59-free-browser-based-dev-tools-in-vanilla-js",
+        "description": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "summary": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-53lj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-31T09:53:41.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers.",
+          "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+          "</h2> <p>The main constraint I set for myself: <strong>zero dependencies, zero server, zero telemetry</strong>.</p> <p>When you paste your JWT token into jwt.io, it goes to their server."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Follow Fast-Paced Academic",
+        "slug": "follow-fast-paced-academic",
+        "description": "In cavernous lecture halls with pronounced reverberation, speakers often deliver unscripted presentations at a breakneck pace, advancing slides far faster than attendees can digest complex formulas and derivations. Because specialized workshop tracks rarely offer dedicated human interpreters, keeping up with dense, fast-moving technical talks from the middle or back rows requires a practical strategy.",
+        "summary": "In cavernous lecture halls with pronounced reverberation, speakers often deliver unscripted presentations at a breakneck pace, advancing slides far faster than attendees can digest complex formulas and derivations. Because specialized workshop tracks rarely offer dedicated human interpreters, keeping up with dense, fast-moving technical talks from the middle or back rows requires a practical strategy.",
+        "link": "https://dev.to/equalangai/follow-fast-paced-academic-talks-with-live-translation-4nke",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-31T09:24:14.000Z",
+        "keywords": [
+          "productivity",
+          "conference",
+          "translation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "conference",
+          "translation"
+        ],
+        "pros": [
+          "Great for productivity",
+          "conference-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for conference workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Because specialized workshop tracks rarely offer dedicated human interpreters, keeping up with dense, fast-moving technical talks from the middle or back rows requires a practical strategy.",
+          "For zero-install, friction-free assistance in conference rooms, opening a web browser on your laptop, tablet, or smartphone to capture live audio is a much lighter approach.",
+          "Choosing a seat in the front rows or directly adjacent to wall-mounted speakers allows your device's microphone to pick up direct vocal sound, substantially reducing room echo."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "How I Built",
+        "slug": "how-i-built",
+        "description": "Traditional photo management tools are useful for organizing files, but searching across large collections of photos and videos for a specific person can still be challenging. Instead of manually browsing every file, you can select a face and let the system search for matching faces throughout your media collection.",
+        "summary": "Traditional photo management tools are useful for organizing files, but searching across large collections of photos and videos for a specific person can still be challenging. Instead of manually browsing every file, you can select a face and let the system search for matching faces throughout your media collection.",
+        "link": "https://dev.to/xiaohong_deng_a9bccab739b/how-i-built-an-ai-powered-tool-to-find-people-across-thousands-of-photos-and-videos-24e8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-31T08:51:25.000Z",
+        "keywords": [
+          "sideprojects",
+          "ai",
+          "machinelearning",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "sideprojects",
+          "ai",
+          "machinelearning"
+        ],
+        "pros": [
+          "Great for sideprojects",
+          "ai-ready automation",
+          "Great for sideprojects"
+        ],
+        "cons": [
+          "Overkill for sideprojects experiments",
+          "Needs extra setup for ai workflows",
+          "Overkill for sideprojects experiments"
+        ],
+        "highlights": [
+          "Instead of manually browsing every file, you can select a face and let the system search for matching faces throughout your media collection.",
+          "Traditional photo management tools are useful for organizing files, but searching across large collections of photos and videos for a specific person can still be challenging.",
+          "SnapByFace is an AI-powered face search tool that helps you find a specific person across large collections of photos and videos."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-10-31T11:15:46.521Z",
+    "lastUpdated": "2026-10-31T11:15:46.521Z",
+    "visibleDate": "Oct 31, 2026",
+    "url": "pages/2026-10-31-111546521-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-10-31-111546521-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Serbia just elected",
+      "Show a PDF",
+      "I built 59 free browser-based dev tools in vanilla JS"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Serbia just elected, Show a PDF, I built 59 free browser-based dev",
+    "tools": [
+      {
+        "name": "Serbia just elected",
+        "slug": "serbia-just-elected",
+        "description": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 104 # Comments: 67",
+        "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 104 # Comments: 67",
+        "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+        "source": "Hacker News",
+        "isoDate": "2026-10-31T10:21:30.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "article"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show a PDF",
+        "slug": "show-a-pdf",
+        "description": "The TV needs the internet to open <a href=\"https://vuthis.com\" rel=\"noopener noreferrer\">vuthis.com</a>, and your phone can use mobile data.</p> <p>Can I show a PowerPoint or Google Slides file directly? Only PDF documents can be shown, so do this once and keep the file on your phone.</p> <p>Leave the TV on the same input during the meeting, so nobody switches away from the slides by accident.",
+        "summary": "The TV needs the internet to open <a href=\"https://vuthis.com\" rel=\"noopener noreferrer\">vuthis.com</a>, and your phone can use mobile data.</p> <p>Can I show a PowerPoint or Google Slides file directly? Only PDF documents can be shown, so do this once and keep the file on your phone.</p> <p>Leave the TV on the same input during the meeting, so nobody switches away from the slides by accident.",
+        "link": "https://dev.to/vuthis/show-a-pdf-on-the-meeting-room-tv-without-hdmi-or-casting-2l7k",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-31T10:19:00.000Z",
+        "keywords": [
+          "productivity",
+          "agile",
+          "meetings",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "agile",
+          "meetings"
+        ],
+        "pros": [
+          "Great for productivity",
+          "agile-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for agile workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Only PDF documents can be shown, so do this once and keep the file on your phone.</p> <p>Leave the TV on the same input during the meeting, so nobody switches away from the slides by accident.",
+          "To show a PDF on the meeting room TV without HDMI or casting, open vuthis.com in the TV's web browser, connect your phone with the code that appears, and pick the PDF.",
+          "On a laptop, PC, MacBook or Chromebook, open <a href=\"https://vuthis.com/r\" rel=\"noopener noreferrer\">vuthis.com/r</a> in the browser, type the code and press Connect.</p> <p>Step 3."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built 59 free browser-based dev tools in vanilla JS",
+        "slug": "i-built-59-free-browser-based-dev-tools-in-vanilla-js",
+        "description": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "summary": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-53lj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-31T09:53:41.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers.",
+          "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+          "</h2> <p>The main constraint I set for myself: <strong>zero dependencies, zero server, zero telemetry</strong>.</p> <p>When you paste your JWT token into jwt.io, it goes to their server."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Follow Fast-Paced Academic",
+        "slug": "follow-fast-paced-academic",
+        "description": "In cavernous lecture halls with pronounced reverberation, speakers often deliver unscripted presentations at a breakneck pace, advancing slides far faster than attendees can digest complex formulas and derivations. Because specialized workshop tracks rarely offer dedicated human interpreters, keeping up with dense, fast-moving technical talks from the middle or back rows requires a practical strategy.",
+        "summary": "In cavernous lecture halls with pronounced reverberation, speakers often deliver unscripted presentations at a breakneck pace, advancing slides far faster than attendees can digest complex formulas and derivations. Because specialized workshop tracks rarely offer dedicated human interpreters, keeping up with dense, fast-moving technical talks from the middle or back rows requires a practical strategy.",
+        "link": "https://dev.to/equalangai/follow-fast-paced-academic-talks-with-live-translation-4nke",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-31T09:24:14.000Z",
+        "keywords": [
+          "productivity",
+          "conference",
+          "translation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "conference",
+          "translation"
+        ],
+        "pros": [
+          "Great for productivity",
+          "conference-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for conference workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Because specialized workshop tracks rarely offer dedicated human interpreters, keeping up with dense, fast-moving technical talks from the middle or back rows requires a practical strategy.",
+          "For zero-install, friction-free assistance in conference rooms, opening a web browser on your laptop, tablet, or smartphone to capture live audio is a much lighter approach.",
+          "Choosing a seat in the front rows or directly adjacent to wall-mounted speakers allows your device's microphone to pick up direct vocal sound, substantially reducing room echo."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-10-31T11:15:46.521Z",
+    "lastUpdated": "2026-10-31T11:15:46.521Z",
+    "visibleDate": "Oct 31, 2026",
+    "url": "pages/2026-10-31-111546521-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-10-31-111546521-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Serbia just elected",
+      "Show a PDF"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Serbia just elected, Show a PDF. Gitpod brings ze",
+    "tools": [
+      {
+        "name": "Serbia just elected",
+        "slug": "serbia-just-elected",
+        "description": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 104 # Comments: 67",
+        "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 104 # Comments: 67",
+        "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+        "source": "Hacker News",
+        "isoDate": "2026-10-31T10:21:30.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "article"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show a PDF",
+        "slug": "show-a-pdf",
+        "description": "The TV needs the internet to open <a href=\"https://vuthis.com\" rel=\"noopener noreferrer\">vuthis.com</a>, and your phone can use mobile data.</p> <p>Can I show a PowerPoint or Google Slides file directly? Only PDF documents can be shown, so do this once and keep the file on your phone.</p> <p>Leave the TV on the same input during the meeting, so nobody switches away from the slides by accident.",
+        "summary": "The TV needs the internet to open <a href=\"https://vuthis.com\" rel=\"noopener noreferrer\">vuthis.com</a>, and your phone can use mobile data.</p> <p>Can I show a PowerPoint or Google Slides file directly? Only PDF documents can be shown, so do this once and keep the file on your phone.</p> <p>Leave the TV on the same input during the meeting, so nobody switches away from the slides by accident.",
+        "link": "https://dev.to/vuthis/show-a-pdf-on-the-meeting-room-tv-without-hdmi-or-casting-2l7k",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-31T10:19:00.000Z",
+        "keywords": [
+          "productivity",
+          "agile",
+          "meetings",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "agile",
+          "meetings"
+        ],
+        "pros": [
+          "Great for productivity",
+          "agile-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for agile workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Only PDF documents can be shown, so do this once and keep the file on your phone.</p> <p>Leave the TV on the same input during the meeting, so nobody switches away from the slides by accident.",
+          "To show a PDF on the meeting room TV without HDMI or casting, open vuthis.com in the TV's web browser, connect your phone with the code that appears, and pick the PDF.",
+          "On a laptop, PC, MacBook or Chromebook, open <a href=\"https://vuthis.com/r\" rel=\"noopener noreferrer\">vuthis.com/r</a> in the browser, type the code and press Connect.</p> <p>Step 3."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-10-31T11:15:46.521Z",
+    "lastUpdated": "2026-10-31T11:15:46.521Z",
+    "visibleDate": "Oct 31, 2026",
+    "url": "pages/2026-10-31-111546521-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-10-31-111546521-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Serbia just elected",
+      "Show a PDF",
+      "I built 59 free browser-based dev tools in vanilla JS"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Serbia just elected, Show a PDF, I built 59 free browser-based dev tools",
+    "tools": [
+      {
+        "name": "Serbia just elected",
+        "slug": "serbia-just-elected",
+        "description": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 104 # Comments: 67",
+        "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 104 # Comments: 67",
+        "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+        "source": "Hacker News",
+        "isoDate": "2026-10-31T10:21:30.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "article"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Show a PDF",
+        "slug": "show-a-pdf",
+        "description": "The TV needs the internet to open <a href=\"https://vuthis.com\" rel=\"noopener noreferrer\">vuthis.com</a>, and your phone can use mobile data.</p> <p>Can I show a PowerPoint or Google Slides file directly? Only PDF documents can be shown, so do this once and keep the file on your phone.</p> <p>Leave the TV on the same input during the meeting, so nobody switches away from the slides by accident.",
+        "summary": "The TV needs the internet to open <a href=\"https://vuthis.com\" rel=\"noopener noreferrer\">vuthis.com</a>, and your phone can use mobile data.</p> <p>Can I show a PowerPoint or Google Slides file directly? Only PDF documents can be shown, so do this once and keep the file on your phone.</p> <p>Leave the TV on the same input during the meeting, so nobody switches away from the slides by accident.",
+        "link": "https://dev.to/vuthis/show-a-pdf-on-the-meeting-room-tv-without-hdmi-or-casting-2l7k",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-31T10:19:00.000Z",
+        "keywords": [
+          "productivity",
+          "agile",
+          "meetings",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "agile",
+          "meetings"
+        ],
+        "pros": [
+          "Great for productivity",
+          "agile-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for agile workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "Only PDF documents can be shown, so do this once and keep the file on your phone.</p> <p>Leave the TV on the same input during the meeting, so nobody switches away from the slides by accident.",
+          "To show a PDF on the meeting room TV without HDMI or casting, open vuthis.com in the TV's web browser, connect your phone with the code that appears, and pick the PDF.",
+          "On a laptop, PC, MacBook or Chromebook, open <a href=\"https://vuthis.com/r\" rel=\"noopener noreferrer\">vuthis.com/r</a> in the browser, type the code and press Connect.</p> <p>Step 3."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "I built 59 free browser-based dev tools in vanilla JS",
+        "slug": "i-built-59-free-browser-based-dev-tools-in-vanilla-js",
+        "description": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "summary": "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers. I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-53lj",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-10-31T09:53:41.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "tools",
+          "programming",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "tools"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "No Node.js backend No npm packages No webpack/vite/parcel No Google Analytics No cookies Everything runs on Web Crypto API, Canvas API, Web Audio API, and IndexedDB — all native to modern browsers.",
+          "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned.",
+          "</h2> <p>The main constraint I set for myself: <strong>zero dependencies, zero server, zero telemetry</strong>.</p> <p>When you paste your JWT token into jwt.io, it goes to their server."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-10-30T11:42:15.966Z",
     "lastUpdated": "2026-10-30T11:42:15.966Z",
     "visibleDate": "Oct 30, 2026",

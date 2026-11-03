@@ -7,6 +7,691 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-11-03T13:01:32.508Z",
+    "lastUpdated": "2026-11-03T13:01:32.508Z",
+    "visibleDate": "Nov 3, 2026",
+    "url": "pages/2026-11-03-130132508-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-11-03-130132508-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Creating customizable and",
+      "Best AI Developer & Creative Subscriptions in 2026",
+      "EU Age Verification"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Creating customizable and, Best AI Developer & Creative Subscriptions in 2",
+    "tools": [
+      {
+        "name": "Creating customizable and",
+        "slug": "creating-customizable-and",
+        "description": "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards. You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+        "summary": "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards. You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+        "link": "https://dev.to/lucastonelli/creating-customizable-and-reusable-project-templates-with-node-5ae2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-03T13:00:00.000Z",
+        "keywords": [
+          "node",
+          "productivity",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "node",
+          "productivity",
+          "automation"
+        ],
+        "pros": [
+          "Great for node",
+          "productivity-ready automation",
+          "Great for node"
+        ],
+        "cons": [
+          "Overkill for node experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for node experiments"
+        ],
+        "highlights": [
+          "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+          "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+          "Then a new project shows up, you clone the base template and spend the next twenty minutes doing find-and-replace on the project name, ids, the domain name and whatever else is hardcoded in there."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best AI Developer & Creative Subscriptions in 2026",
+        "slug": "best-ai-developer-creative-subscriptions-in-2026",
+        "description": "Best AI Developer & Creative Subscriptions in 2026: CapCut Pro, Gemini Pro & Notion Guide In modern software development and digital content workflows, relying on standard free tiers significantly slows down production. Here is a breakdown of essential tools and how creators in Southeast Asia are accessing official licenses without cross-border credit card friction.",
+        "summary": "Best AI Developer & Creative Subscriptions in 2026: CapCut Pro, Gemini Pro & Notion Guide In modern software development and digital content workflows, relying on standard free tiers significantly slows down production. Here is a breakdown of essential tools and how creators in Southeast Asia are accessing official licenses without cross-border credit card friction.",
+        "link": "https://dev.to/bizstrom01/best-ai-developer-creative-subscriptions-in-2026-capcut-pro-gemini-pro-notion-guide-5gjf",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-03T12:37:08.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Here is a breakdown of essential tools and how creators in Southeast Asia are accessing official licenses without cross-border credit card friction.",
+          "CapCut Pro: Word-by-word dynamic subtitle generator (ideal for TikTok/Reels marketing).",
+          "Ideal for large codebase refactoring, parsing full documentation, and architectural planning."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "EU Age Verification",
+        "slug": "eu-age-verification",
+        "description": "The Commission's current initiative does not mean every business must build its own verification system, but it does make age-related design, data handling, and platform policies more important to monitor. For businesses integrating an age assurance provider in the future, the technical work may involve registration flows, consent handling, APIs, identity or account systems, and secure data exchange.",
+        "summary": "The Commission's current initiative does not mean every business must build its own verification system, but it does make age-related design, data handling, and platform policies more important to monitor. For businesses integrating an age assurance provider in the future, the technical work may involve registration flows, consent handling, APIs, identity or account systems, and secure data exchange.",
+        "link": "https://dev.to/alifar/eu-age-verification-app-rollout-signals-a-new-child-safety-focus-for-online-platforms-5dam",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-03T12:30:31.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Businesses that operate online services, collect user data, advertise to younger audiences, or depend on social channels for customer acquisition should follow how age assurance develops.",
+          "For businesses integrating an age assurance provider in the future, the technical work may involve registration flows, consent handling, APIs, identity or account systems, and secure data exchange.",
+          "Scalevise can help businesses turn those moving parts into a practical age-verification and API integration plan, from mapping data flows to connecting systems without adding needless manual work."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "EmuDeck",
+        "slug": "emudeck",
+        "description": "</h2> <p><a href=\"https://emudecks.com/\" rel=\"noopener noreferrer\">EmuDeck</a> is a tool designed to help users configure emulators for playing compatible games on supported devices. Test your setup with compatible games and consult troubleshooting resources if problems occur.</p> <h2> Safety and Legal Considerations </h2> <p>Always download EmuDeck from its official website or a trusted source.",
+        "summary": "</h2> <p><a href=\"https://emudecks.com/\" rel=\"noopener noreferrer\">EmuDeck</a> is a tool designed to help users configure emulators for playing compatible games on supported devices. Test your setup with compatible games and consult troubleshooting resources if problems occur.</p> <h2> Safety and Legal Considerations </h2> <p>Always download EmuDeck from its official website or a trusted source.",
+        "link": "https://dev.to/david1234516/emudeck-a-complete-guide-to-retro-gaming-678",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-03T12:25:11.000Z",
+        "keywords": [
+          "beginners",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "beginners",
+          "tools",
+          "tutorial"
+        ],
+        "pros": [
+          "Great for beginners",
+          "tools-ready automation",
+          "Great for beginners"
+        ],
+        "cons": [
+          "Overkill for beginners experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for beginners experiments"
+        ],
+        "highlights": [
+          "</h2> <p><a href=\"https://emudecks.com/\" rel=\"noopener noreferrer\">EmuDeck</a> is a tool designed to help users configure emulators for playing compatible games on supported devices.",
+          "By checking compatibility, following reliable instructions, and using legally obtained game files, users can build a more convenient and organized retro gaming experience.",
+          "EmuDeck is a popular tool among gaming enthusiasts because it helps simplify emulator setup and configuration on supported devices."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "The error is",
+        "slug": "the-error-is",
+        "description": "The useful clue may be three lines earlier: a retry, a connection message, or a request that never reached the next stage.</p> <p>This walkthrough uses Flik to keep surrounding events visible while narrowing a log file. Check request identifiers and timestamps before drawing a conclusion.</p> <p>Flik covers interactive filtering, context and following; keep jq for arbitrary JSON transformations and scripted pipelines.",
+        "summary": "The useful clue may be three lines earlier: a retry, a connection message, or a request that never reached the next stage.</p> <p>This walkthrough uses Flik to keep surrounding events visible while narrowing a log file. Check request identifiers and timestamps before drawing a conclusion.</p> <p>Flik covers interactive filtering, context and following; keep jq for arbitrary JSON transformations and scripted pipelines.",
+        "link": "https://dev.to/torxx666/the-error-is-one-line-investigate-the-five-lines-around-it-10ka",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-03T12:23:31.000Z",
+        "keywords": [
+          "cli",
+          "debugging",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "cli",
+          "debugging",
+          "tools"
+        ],
+        "pros": [
+          "Great for cli",
+          "debugging-ready automation",
+          "Great for cli"
+        ],
+        "cons": [
+          "Overkill for cli experiments",
+          "Needs extra setup for debugging workflows",
+          "Overkill for cli experiments"
+        ],
+        "highlights": [
+          "For a live stream, the starting point can be: docker logs -f demo-api | flik - The service name in that example needs to match your own container.",
+          "The useful clue may be three lines earlier: a retry, a connection message, or a request that never reached the next stage.",
+          "Enter the following smart-find expression, then press Enter: //3,2:error This retains three original lines before each match and two after it."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-11-03T13:01:32.508Z",
+    "lastUpdated": "2026-11-03T13:01:32.508Z",
+    "visibleDate": "Nov 3, 2026",
+    "url": "pages/2026-11-03-130132508-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-11-03-130132508-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Creating customizable and",
+      "Best AI Developer & Creative Subscriptions in 2026",
+      "EU Age Verification"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Creating customizable and, Best AI Developer & Creative Subscripti",
+    "tools": [
+      {
+        "name": "Creating customizable and",
+        "slug": "creating-customizable-and",
+        "description": "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards. You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+        "summary": "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards. You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+        "link": "https://dev.to/lucastonelli/creating-customizable-and-reusable-project-templates-with-node-5ae2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-03T13:00:00.000Z",
+        "keywords": [
+          "node",
+          "productivity",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "node",
+          "productivity",
+          "automation"
+        ],
+        "pros": [
+          "Great for node",
+          "productivity-ready automation",
+          "Great for node"
+        ],
+        "cons": [
+          "Overkill for node experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for node experiments"
+        ],
+        "highlights": [
+          "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+          "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+          "Then a new project shows up, you clone the base template and spend the next twenty minutes doing find-and-replace on the project name, ids, the domain name and whatever else is hardcoded in there."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best AI Developer & Creative Subscriptions in 2026",
+        "slug": "best-ai-developer-creative-subscriptions-in-2026",
+        "description": "Best AI Developer & Creative Subscriptions in 2026: CapCut Pro, Gemini Pro & Notion Guide In modern software development and digital content workflows, relying on standard free tiers significantly slows down production. Here is a breakdown of essential tools and how creators in Southeast Asia are accessing official licenses without cross-border credit card friction.",
+        "summary": "Best AI Developer & Creative Subscriptions in 2026: CapCut Pro, Gemini Pro & Notion Guide In modern software development and digital content workflows, relying on standard free tiers significantly slows down production. Here is a breakdown of essential tools and how creators in Southeast Asia are accessing official licenses without cross-border credit card friction.",
+        "link": "https://dev.to/bizstrom01/best-ai-developer-creative-subscriptions-in-2026-capcut-pro-gemini-pro-notion-guide-5gjf",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-03T12:37:08.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Here is a breakdown of essential tools and how creators in Southeast Asia are accessing official licenses without cross-border credit card friction.",
+          "CapCut Pro: Word-by-word dynamic subtitle generator (ideal for TikTok/Reels marketing).",
+          "Ideal for large codebase refactoring, parsing full documentation, and architectural planning."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "EU Age Verification",
+        "slug": "eu-age-verification",
+        "description": "The Commission's current initiative does not mean every business must build its own verification system, but it does make age-related design, data handling, and platform policies more important to monitor. For businesses integrating an age assurance provider in the future, the technical work may involve registration flows, consent handling, APIs, identity or account systems, and secure data exchange.",
+        "summary": "The Commission's current initiative does not mean every business must build its own verification system, but it does make age-related design, data handling, and platform policies more important to monitor. For businesses integrating an age assurance provider in the future, the technical work may involve registration flows, consent handling, APIs, identity or account systems, and secure data exchange.",
+        "link": "https://dev.to/alifar/eu-age-verification-app-rollout-signals-a-new-child-safety-focus-for-online-platforms-5dam",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-03T12:30:31.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Businesses that operate online services, collect user data, advertise to younger audiences, or depend on social channels for customer acquisition should follow how age assurance develops.",
+          "For businesses integrating an age assurance provider in the future, the technical work may involve registration flows, consent handling, APIs, identity or account systems, and secure data exchange.",
+          "Scalevise can help businesses turn those moving parts into a practical age-verification and API integration plan, from mapping data flows to connecting systems without adding needless manual work."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "EmuDeck",
+        "slug": "emudeck",
+        "description": "</h2> <p><a href=\"https://emudecks.com/\" rel=\"noopener noreferrer\">EmuDeck</a> is a tool designed to help users configure emulators for playing compatible games on supported devices. Test your setup with compatible games and consult troubleshooting resources if problems occur.</p> <h2> Safety and Legal Considerations </h2> <p>Always download EmuDeck from its official website or a trusted source.",
+        "summary": "</h2> <p><a href=\"https://emudecks.com/\" rel=\"noopener noreferrer\">EmuDeck</a> is a tool designed to help users configure emulators for playing compatible games on supported devices. Test your setup with compatible games and consult troubleshooting resources if problems occur.</p> <h2> Safety and Legal Considerations </h2> <p>Always download EmuDeck from its official website or a trusted source.",
+        "link": "https://dev.to/david1234516/emudeck-a-complete-guide-to-retro-gaming-678",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-03T12:25:11.000Z",
+        "keywords": [
+          "beginners",
+          "tools",
+          "tutorial",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "beginners",
+          "tools",
+          "tutorial"
+        ],
+        "pros": [
+          "Great for beginners",
+          "tools-ready automation",
+          "Great for beginners"
+        ],
+        "cons": [
+          "Overkill for beginners experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for beginners experiments"
+        ],
+        "highlights": [
+          "</h2> <p><a href=\"https://emudecks.com/\" rel=\"noopener noreferrer\">EmuDeck</a> is a tool designed to help users configure emulators for playing compatible games on supported devices.",
+          "By checking compatibility, following reliable instructions, and using legally obtained game files, users can build a more convenient and organized retro gaming experience.",
+          "EmuDeck is a popular tool among gaming enthusiasts because it helps simplify emulator setup and configuration on supported devices."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-11-03T13:01:32.508Z",
+    "lastUpdated": "2026-11-03T13:01:32.508Z",
+    "visibleDate": "Nov 3, 2026",
+    "url": "pages/2026-11-03-130132508-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-11-03-130132508-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Creating customizable and",
+      "Best AI Developer & Creative Subscriptions in 2026"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Creating customizable and, Best AI Developer & Cr",
+    "tools": [
+      {
+        "name": "Creating customizable and",
+        "slug": "creating-customizable-and",
+        "description": "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards. You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+        "summary": "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards. You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+        "link": "https://dev.to/lucastonelli/creating-customizable-and-reusable-project-templates-with-node-5ae2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-03T13:00:00.000Z",
+        "keywords": [
+          "node",
+          "productivity",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "node",
+          "productivity",
+          "automation"
+        ],
+        "pros": [
+          "Great for node",
+          "productivity-ready automation",
+          "Great for node"
+        ],
+        "cons": [
+          "Overkill for node experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for node experiments"
+        ],
+        "highlights": [
+          "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+          "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+          "Then a new project shows up, you clone the base template and spend the next twenty minutes doing find-and-replace on the project name, ids, the domain name and whatever else is hardcoded in there."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best AI Developer & Creative Subscriptions in 2026",
+        "slug": "best-ai-developer-creative-subscriptions-in-2026",
+        "description": "Best AI Developer & Creative Subscriptions in 2026: CapCut Pro, Gemini Pro & Notion Guide In modern software development and digital content workflows, relying on standard free tiers significantly slows down production. Here is a breakdown of essential tools and how creators in Southeast Asia are accessing official licenses without cross-border credit card friction.",
+        "summary": "Best AI Developer & Creative Subscriptions in 2026: CapCut Pro, Gemini Pro & Notion Guide In modern software development and digital content workflows, relying on standard free tiers significantly slows down production. Here is a breakdown of essential tools and how creators in Southeast Asia are accessing official licenses without cross-border credit card friction.",
+        "link": "https://dev.to/bizstrom01/best-ai-developer-creative-subscriptions-in-2026-capcut-pro-gemini-pro-notion-guide-5gjf",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-03T12:37:08.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Here is a breakdown of essential tools and how creators in Southeast Asia are accessing official licenses without cross-border credit card friction.",
+          "CapCut Pro: Word-by-word dynamic subtitle generator (ideal for TikTok/Reels marketing).",
+          "Ideal for large codebase refactoring, parsing full documentation, and architectural planning."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-11-03T13:01:32.508Z",
+    "lastUpdated": "2026-11-03T13:01:32.508Z",
+    "visibleDate": "Nov 3, 2026",
+    "url": "pages/2026-11-03-130132508-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-11-03-130132508-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Creating customizable and",
+      "Best AI Developer & Creative Subscriptions in 2026",
+      "EU Age Verification"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Creating customizable and, Best AI Developer & Creative Subscriptions in",
+    "tools": [
+      {
+        "name": "Creating customizable and",
+        "slug": "creating-customizable-and",
+        "description": "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards. You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+        "summary": "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards. You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+        "link": "https://dev.to/lucastonelli/creating-customizable-and-reusable-project-templates-with-node-5ae2",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-03T13:00:00.000Z",
+        "keywords": [
+          "node",
+          "productivity",
+          "automation",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "node",
+          "productivity",
+          "automation"
+        ],
+        "pros": [
+          "Great for node",
+          "productivity-ready automation",
+          "Great for node"
+        ],
+        "cons": [
+          "Overkill for node experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for node experiments"
+        ],
+        "highlights": [
+          "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+          "You write a generator as a separate package, it renders templates through EJS, handles conflict resolution when files already exist, composes generators together and can run install steps afterwards.",
+          "Then a new project shows up, you clone the base template and spend the next twenty minutes doing find-and-replace on the project name, ids, the domain name and whatever else is hardcoded in there."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best AI Developer & Creative Subscriptions in 2026",
+        "slug": "best-ai-developer-creative-subscriptions-in-2026",
+        "description": "Best AI Developer & Creative Subscriptions in 2026: CapCut Pro, Gemini Pro & Notion Guide In modern software development and digital content workflows, relying on standard free tiers significantly slows down production. Here is a breakdown of essential tools and how creators in Southeast Asia are accessing official licenses without cross-border credit card friction.",
+        "summary": "Best AI Developer & Creative Subscriptions in 2026: CapCut Pro, Gemini Pro & Notion Guide In modern software development and digital content workflows, relying on standard free tiers significantly slows down production. Here is a breakdown of essential tools and how creators in Southeast Asia are accessing official licenses without cross-border credit card friction.",
+        "link": "https://dev.to/bizstrom01/best-ai-developer-creative-subscriptions-in-2026-capcut-pro-gemini-pro-notion-guide-5gjf",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-03T12:37:08.000Z",
+        "keywords": [
+          "ai",
+          "productivity",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "productivity",
+          "webdev"
+        ],
+        "pros": [
+          "Great for ai",
+          "productivity-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Here is a breakdown of essential tools and how creators in Southeast Asia are accessing official licenses without cross-border credit card friction.",
+          "CapCut Pro: Word-by-word dynamic subtitle generator (ideal for TikTok/Reels marketing).",
+          "Ideal for large codebase refactoring, parsing full documentation, and architectural planning."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "EU Age Verification",
+        "slug": "eu-age-verification",
+        "description": "The Commission's current initiative does not mean every business must build its own verification system, but it does make age-related design, data handling, and platform policies more important to monitor. For businesses integrating an age assurance provider in the future, the technical work may involve registration flows, consent handling, APIs, identity or account systems, and secure data exchange.",
+        "summary": "The Commission's current initiative does not mean every business must build its own verification system, but it does make age-related design, data handling, and platform policies more important to monitor. For businesses integrating an age assurance provider in the future, the technical work may involve registration flows, consent handling, APIs, identity or account systems, and secure data exchange.",
+        "link": "https://dev.to/alifar/eu-age-verification-app-rollout-signals-a-new-child-safety-focus-for-online-platforms-5dam",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-03T12:30:31.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Businesses that operate online services, collect user data, advertise to younger audiences, or depend on social channels for customer acquisition should follow how age assurance develops.",
+          "For businesses integrating an age assurance provider in the future, the technical work may involve registration flows, consent handling, APIs, identity or account systems, and secure data exchange.",
+          "Scalevise can help businesses turn those moving parts into a practical age-verification and API integration plan, from mapping data flows to connecting systems without adding needless manual work."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-11-02T13:53:46.240Z",
     "lastUpdated": "2026-11-02T13:53:46.240Z",
     "visibleDate": "Nov 2, 2026",

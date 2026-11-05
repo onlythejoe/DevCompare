@@ -7,6 +7,691 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-11-05T13:31:00.220Z",
+    "lastUpdated": "2026-11-05T13:31:00.220Z",
+    "visibleDate": "Nov 5, 2026",
+    "url": "pages/2026-11-05-133100220-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-11-05-133100220-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Free browser image tools that don't upload your files",
+      "5 AI Code",
+      "Supabase in Production"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Free browser image tools that don't upload your files, 5 AI Code, Supabase",
+    "tools": [
+      {
+        "name": "Free browser image tools that don't upload your files",
+        "slug": "free-browser-image-tools-that-don-t-upload-your-files",
+        "description": "AI features are the exception that needs a server, a named provider, and a deletion window — state all three, per tool, instead of hiding them behind a site-wide \"private\" badge. Client-side Canvas processing is enough for convert, compress, resize and crop — no server, no storage, no upload latency, and a privacy story you can actually defend.",
+        "summary": "AI features are the exception that needs a server, a named provider, and a deletion window — state all three, per tool, instead of hiding them behind a site-wide \"private\" badge. Client-side Canvas processing is enough for convert, compress, resize and crop — no server, no storage, no upload latency, and a privacy story you can actually defend.",
+        "link": "https://dev.to/imagemagixonline/free-browser-image-tools-that-dont-upload-your-files-except-the-ai-ones-and-heres-which-l6a",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-05T13:29:36.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "privacy",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "privacy"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "AI features are the exception that needs a server, a named provider, and a deletion window — state all three, per tool, instead of hiding them behind a site-wide \"private\" badge.",
+          "Client-side Canvas processing is enough for convert, compress, resize and crop — no server, no storage, no upload latency, and a privacy story you can actually defend.",
+          "Try it free, no login: ImageMagixOnline — the JPEG compressor, PNG/JPG converters, Instagram resizer and passport-photo maker for India are the ones to start with."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 AI Code",
+        "slug": "5-ai-code",
+        "description": "Never rely solely on AI for code review, but using one of these tools catches 70-80% of issues that would otherwise reach production—an easy win for any team shipping code. Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production.",
+        "summary": "Never rely solely on AI for code review, but using one of these tools catches 70-80% of issues that would otherwise reach production—an easy win for any team shipping code. Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/5-ai-code-review-tools-that-actually-catch-real-bugs-ii",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-05T13:16:14.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production.",
+          "Never rely solely on AI for code review, but using one of these tools catches 70-80% of issues that would otherwise reach production—an easy win for any team shipping code.",
+          "Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Supabase in Production",
+        "slug": "supabase-in-production",
+        "description": "The managed platform saves weeks of backend setup time, but the real magic is the local development workflow—you can run the entire Supabase stack locally, develop offline, and deploy with confidence. The managed platform saves weeks of backend setup time, but the real magic is the local development workflow—you can run the entire Supabase stack locally, develop offline, and deploy with confidence.",
+        "summary": "The managed platform saves weeks of backend setup time, but the real magic is the local development workflow—you can run the entire Supabase stack locally, develop offline, and deploy with confidence. The managed platform saves weeks of backend setup time, but the real magic is the local development workflow—you can run the entire Supabase stack locally, develop offline, and deploy with confidence.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/supabase-in-production-what-building-a-real-app-reveals-4lb3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-05T13:10:53.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Three production shapes cover most of what Supabase has to handle: a real-time multiplayer tool, a SaaS dashboard with row-level security, and an API backend for a mobile app.",
+          "Ideal for: Indie SaaS founders building MVPs who want Postgres without DevOps overhead, teams that need RLS for multi-tenant apps, and developers who prefer SQL over NoSQL.",
+          "Model your own workload.</td> <td></td> <td></td> </tr> </tbody> </table></div> <h2> Pricing and Limits </h2> <p>Free tier: 1GB database, 5GB bandwidth, 50K monthly active users, 2GB storage."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Mem AI vs Reflect vs Notion AI",
+        "slug": "mem-ai-vs-reflect-vs-notion-ai",
+        "description": "Best AI Note-Taking Apps for Students in 2026: Which One Actually Retains Inform Originally published at pikvue.com — independent 2026 reviews and comparisons of developer tools, AI products, and SaaS platforms. 🏆 Reflect is the best AI note-taking tool for individual knowledge workers — it balances AI features with privacy (local-first/end-to-end encrypted) and offers the smoothest capture experience on Apple devices.",
+        "summary": "Best AI Note-Taking Apps for Students in 2026: Which One Actually Retains Inform Originally published at pikvue.com — independent 2026 reviews and comparisons of developer tools, AI products, and SaaS platforms. 🏆 Reflect is the best AI note-taking tool for individual knowledge workers — it balances AI features with privacy (local-first/end-to-end encrypted) and offers the smoothest capture experience on Apple devices.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/mem-ai-vs-reflect-vs-notion-ai-note-taking-for-knowledge-workers-2no0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-05T13:05:33.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "But in 2026, three tools approach this problem very differently: Mem AI (auto-organization-first), Reflect (privacy-first, Apple-focused), and Notion AI (all-in-one workspace with AI on the side).",
+          "The underlying format is accessible even if Reflect goes out of business — a concern with all cloud-first tools like Mem and Notion.</p> <h2> Limitations </h2> <p>No AI note-taking tool is perfect.",
+          "None of these tools are cheap, but a good AI note-taking tool can eliminate hours of manual organization per week — making the subscription cost negligible compared to the time saved."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://notion.so/?ref=XXXX"
+      },
+      {
+        "name": "GPU Cloud for AI",
+        "slug": "gpu-cloud-for-ai",
+        "description": "Now you need to deploy it — and you discover that the major cloud providers (AWS, GCP, Azure) charge enterprise prices for GPU instances that would bankrupt your indie SaaS before it gets its first paying customer. Now you need to deploy it — and you discover that the major cloud providers (AWS, GCP, Azure) charge enterprise prices for GPU instances that would bankrupt your indie SaaS before it gets its first paying customer.",
+        "summary": "Now you need to deploy it — and you discover that the major cloud providers (AWS, GCP, Azure) charge enterprise prices for GPU instances that would bankrupt your indie SaaS before it gets its first paying customer. Now you need to deploy it — and you discover that the major cloud providers (AWS, GCP, Azure) charge enterprise prices for GPU instances that would bankrupt your indie SaaS before it gets its first paying customer.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/gpu-cloud-for-ai-runpod-vs-vastai-vs-lambda-labs-priced-1hpe",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-05T13:00:12.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "A typical chatbot app on RunPod's serverless tier costs $3-8/month for light usage (500-2000 requests/day).</p> <p>Batch processing (training, data prep): Vast.ai.",
+          "A 12-hour fine-tuning session on a 4090 costs about $1 on Vast.ai vs $1.44 on RunPod spot — not a huge difference for one run, but over 20 runs it saves $8+.</p> <p>Multi-node training: Lambda Labs.",
+          "The serverless tier charges per second of GPU time plus a small memory fee — a typical Llama 70B inference request costs about $0.001-0.003."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-11-05T13:31:00.220Z",
+    "lastUpdated": "2026-11-05T13:31:00.220Z",
+    "visibleDate": "Nov 5, 2026",
+    "url": "pages/2026-11-05-133100220-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-11-05-133100220-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Free browser image tools that don't upload your files",
+      "5 AI Code",
+      "Supabase in Production"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Free browser image tools that don't upload your files, 5 AI Code, ",
+    "tools": [
+      {
+        "name": "Free browser image tools that don't upload your files",
+        "slug": "free-browser-image-tools-that-don-t-upload-your-files",
+        "description": "AI features are the exception that needs a server, a named provider, and a deletion window — state all three, per tool, instead of hiding them behind a site-wide \"private\" badge. Client-side Canvas processing is enough for convert, compress, resize and crop — no server, no storage, no upload latency, and a privacy story you can actually defend.",
+        "summary": "AI features are the exception that needs a server, a named provider, and a deletion window — state all three, per tool, instead of hiding them behind a site-wide \"private\" badge. Client-side Canvas processing is enough for convert, compress, resize and crop — no server, no storage, no upload latency, and a privacy story you can actually defend.",
+        "link": "https://dev.to/imagemagixonline/free-browser-image-tools-that-dont-upload-your-files-except-the-ai-ones-and-heres-which-l6a",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-05T13:29:36.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "privacy",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "privacy"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "AI features are the exception that needs a server, a named provider, and a deletion window — state all three, per tool, instead of hiding them behind a site-wide \"private\" badge.",
+          "Client-side Canvas processing is enough for convert, compress, resize and crop — no server, no storage, no upload latency, and a privacy story you can actually defend.",
+          "Try it free, no login: ImageMagixOnline — the JPEG compressor, PNG/JPG converters, Instagram resizer and passport-photo maker for India are the ones to start with."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 AI Code",
+        "slug": "5-ai-code",
+        "description": "Never rely solely on AI for code review, but using one of these tools catches 70-80% of issues that would otherwise reach production—an easy win for any team shipping code. Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production.",
+        "summary": "Never rely solely on AI for code review, but using one of these tools catches 70-80% of issues that would otherwise reach production—an easy win for any team shipping code. Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/5-ai-code-review-tools-that-actually-catch-real-bugs-ii",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-05T13:16:14.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production.",
+          "Never rely solely on AI for code review, but using one of these tools catches 70-80% of issues that would otherwise reach production—an easy win for any team shipping code.",
+          "Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Supabase in Production",
+        "slug": "supabase-in-production",
+        "description": "The managed platform saves weeks of backend setup time, but the real magic is the local development workflow—you can run the entire Supabase stack locally, develop offline, and deploy with confidence. The managed platform saves weeks of backend setup time, but the real magic is the local development workflow—you can run the entire Supabase stack locally, develop offline, and deploy with confidence.",
+        "summary": "The managed platform saves weeks of backend setup time, but the real magic is the local development workflow—you can run the entire Supabase stack locally, develop offline, and deploy with confidence. The managed platform saves weeks of backend setup time, but the real magic is the local development workflow—you can run the entire Supabase stack locally, develop offline, and deploy with confidence.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/supabase-in-production-what-building-a-real-app-reveals-4lb3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-05T13:10:53.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Three production shapes cover most of what Supabase has to handle: a real-time multiplayer tool, a SaaS dashboard with row-level security, and an API backend for a mobile app.",
+          "Ideal for: Indie SaaS founders building MVPs who want Postgres without DevOps overhead, teams that need RLS for multi-tenant apps, and developers who prefer SQL over NoSQL.",
+          "Model your own workload.</td> <td></td> <td></td> </tr> </tbody> </table></div> <h2> Pricing and Limits </h2> <p>Free tier: 1GB database, 5GB bandwidth, 50K monthly active users, 2GB storage."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Mem AI vs Reflect vs Notion AI",
+        "slug": "mem-ai-vs-reflect-vs-notion-ai",
+        "description": "Best AI Note-Taking Apps for Students in 2026: Which One Actually Retains Inform Originally published at pikvue.com — independent 2026 reviews and comparisons of developer tools, AI products, and SaaS platforms. 🏆 Reflect is the best AI note-taking tool for individual knowledge workers — it balances AI features with privacy (local-first/end-to-end encrypted) and offers the smoothest capture experience on Apple devices.",
+        "summary": "Best AI Note-Taking Apps for Students in 2026: Which One Actually Retains Inform Originally published at pikvue.com — independent 2026 reviews and comparisons of developer tools, AI products, and SaaS platforms. 🏆 Reflect is the best AI note-taking tool for individual knowledge workers — it balances AI features with privacy (local-first/end-to-end encrypted) and offers the smoothest capture experience on Apple devices.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/mem-ai-vs-reflect-vs-notion-ai-note-taking-for-knowledge-workers-2no0",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-05T13:05:33.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "But in 2026, three tools approach this problem very differently: Mem AI (auto-organization-first), Reflect (privacy-first, Apple-focused), and Notion AI (all-in-one workspace with AI on the side).",
+          "The underlying format is accessible even if Reflect goes out of business — a concern with all cloud-first tools like Mem and Notion.</p> <h2> Limitations </h2> <p>No AI note-taking tool is perfect.",
+          "None of these tools are cheap, but a good AI note-taking tool can eliminate hours of manual organization per week — making the subscription cost negligible compared to the time saved."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": "https://notion.so/?ref=XXXX"
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-11-05T13:31:00.220Z",
+    "lastUpdated": "2026-11-05T13:31:00.220Z",
+    "visibleDate": "Nov 5, 2026",
+    "url": "pages/2026-11-05-133100220-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-11-05-133100220-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Free browser image tools that don't upload your files",
+      "5 AI Code"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Free browser image tools that don't upload your f",
+    "tools": [
+      {
+        "name": "Free browser image tools that don't upload your files",
+        "slug": "free-browser-image-tools-that-don-t-upload-your-files",
+        "description": "AI features are the exception that needs a server, a named provider, and a deletion window — state all three, per tool, instead of hiding them behind a site-wide \"private\" badge. Client-side Canvas processing is enough for convert, compress, resize and crop — no server, no storage, no upload latency, and a privacy story you can actually defend.",
+        "summary": "AI features are the exception that needs a server, a named provider, and a deletion window — state all three, per tool, instead of hiding them behind a site-wide \"private\" badge. Client-side Canvas processing is enough for convert, compress, resize and crop — no server, no storage, no upload latency, and a privacy story you can actually defend.",
+        "link": "https://dev.to/imagemagixonline/free-browser-image-tools-that-dont-upload-your-files-except-the-ai-ones-and-heres-which-l6a",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-05T13:29:36.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "privacy",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "privacy"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "AI features are the exception that needs a server, a named provider, and a deletion window — state all three, per tool, instead of hiding them behind a site-wide \"private\" badge.",
+          "Client-side Canvas processing is enough for convert, compress, resize and crop — no server, no storage, no upload latency, and a privacy story you can actually defend.",
+          "Try it free, no login: ImageMagixOnline — the JPEG compressor, PNG/JPG converters, Instagram resizer and passport-photo maker for India are the ones to start with."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 AI Code",
+        "slug": "5-ai-code",
+        "description": "Never rely solely on AI for code review, but using one of these tools catches 70-80% of issues that would otherwise reach production—an easy win for any team shipping code. Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production.",
+        "summary": "Never rely solely on AI for code review, but using one of these tools catches 70-80% of issues that would otherwise reach production—an easy win for any team shipping code. Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/5-ai-code-review-tools-that-actually-catch-real-bugs-ii",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-05T13:16:14.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production.",
+          "Never rely solely on AI for code review, but using one of these tools catches 70-80% of issues that would otherwise reach production—an easy win for any team shipping code.",
+          "Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-11-05T13:31:00.220Z",
+    "lastUpdated": "2026-11-05T13:31:00.220Z",
+    "visibleDate": "Nov 5, 2026",
+    "url": "pages/2026-11-05-133100220-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-11-05-133100220-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Free browser image tools that don't upload your files",
+      "5 AI Code",
+      "Supabase in Production"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Free browser image tools that don't upload your files, 5 AI Code, Supaba",
+    "tools": [
+      {
+        "name": "Free browser image tools that don't upload your files",
+        "slug": "free-browser-image-tools-that-don-t-upload-your-files",
+        "description": "AI features are the exception that needs a server, a named provider, and a deletion window — state all three, per tool, instead of hiding them behind a site-wide \"private\" badge. Client-side Canvas processing is enough for convert, compress, resize and crop — no server, no storage, no upload latency, and a privacy story you can actually defend.",
+        "summary": "AI features are the exception that needs a server, a named provider, and a deletion window — state all three, per tool, instead of hiding them behind a site-wide \"private\" badge. Client-side Canvas processing is enough for convert, compress, resize and crop — no server, no storage, no upload latency, and a privacy story you can actually defend.",
+        "link": "https://dev.to/imagemagixonline/free-browser-image-tools-that-dont-upload-your-files-except-the-ai-ones-and-heres-which-l6a",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-05T13:29:36.000Z",
+        "keywords": [
+          "webdev",
+          "javascript",
+          "privacy",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "webdev",
+          "javascript",
+          "privacy"
+        ],
+        "pros": [
+          "Great for webdev",
+          "javascript-ready automation",
+          "Great for webdev"
+        ],
+        "cons": [
+          "Overkill for webdev experiments",
+          "Needs extra setup for javascript workflows",
+          "Overkill for webdev experiments"
+        ],
+        "highlights": [
+          "AI features are the exception that needs a server, a named provider, and a deletion window — state all three, per tool, instead of hiding them behind a site-wide \"private\" badge.",
+          "Client-side Canvas processing is enough for convert, compress, resize and crop — no server, no storage, no upload latency, and a privacy story you can actually defend.",
+          "Try it free, no login: ImageMagixOnline — the JPEG compressor, PNG/JPG converters, Instagram resizer and passport-photo maker for India are the ones to start with."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "5 AI Code",
+        "slug": "5-ai-code",
+        "description": "Never rely solely on AI for code review, but using one of these tools catches 70-80% of issues that would otherwise reach production—an easy win for any team shipping code. Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production.",
+        "summary": "Never rely solely on AI for code review, but using one of these tools catches 70-80% of issues that would otherwise reach production—an easy win for any team shipping code. Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/5-ai-code-review-tools-that-actually-catch-real-bugs-ii",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-05T13:16:14.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production.",
+          "Never rely solely on AI for code review, but using one of these tools catches 70-80% of issues that would otherwise reach production—an easy win for any team shipping code.",
+          "Its free tier (unlimited public repos, 250 private reviews/month) catches bugs, style issues, and architectural problems before they reach production."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Supabase in Production",
+        "slug": "supabase-in-production",
+        "description": "The managed platform saves weeks of backend setup time, but the real magic is the local development workflow—you can run the entire Supabase stack locally, develop offline, and deploy with confidence. The managed platform saves weeks of backend setup time, but the real magic is the local development workflow—you can run the entire Supabase stack locally, develop offline, and deploy with confidence.",
+        "summary": "The managed platform saves weeks of backend setup time, but the real magic is the local development workflow—you can run the entire Supabase stack locally, develop offline, and deploy with confidence. The managed platform saves weeks of backend setup time, but the real magic is the local development workflow—you can run the entire Supabase stack locally, develop offline, and deploy with confidence.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/supabase-in-production-what-building-a-real-app-reveals-4lb3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-05T13:10:53.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Three production shapes cover most of what Supabase has to handle: a real-time multiplayer tool, a SaaS dashboard with row-level security, and an API backend for a mobile app.",
+          "Ideal for: Indie SaaS founders building MVPs who want Postgres without DevOps overhead, teams that need RLS for multi-tenant apps, and developers who prefer SQL over NoSQL.",
+          "Model your own workload.</td> <td></td> <td></td> </tr> </tbody> </table></div> <h2> Pricing and Limits </h2> <p>Free tier: 1GB database, 5GB bandwidth, 50K monthly active users, 2GB storage."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-11-04T13:18:15.974Z",
     "lastUpdated": "2026-11-04T13:18:15.974Z",
     "visibleDate": "Nov 4, 2026",

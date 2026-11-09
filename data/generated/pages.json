@@ -7,6 +7,687 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-11-09T14:24:42.318Z",
+    "lastUpdated": "2026-11-09T14:24:42.318Z",
+    "visibleDate": "Nov 9, 2026",
+    "url": "pages/2026-11-09-142442318-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-11-09-142442318-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "We built Signature Maker",
+      "TikTok Keyword Research",
+      "End-to-end download testing with curl"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include We built Signature Maker, TikTok Keyword Research, End-to-end download tes",
+    "tools": [
+      {
+        "name": "We built Signature Maker",
+        "slug": "we-built-signature-maker",
+        "description": "Change the slant, thickness, closing flourish, letter spacing, tilt and ink.</li> <li> <strong>Draw it.</strong> A pad for finger, mouse or stylus, with three pen widths, undo and a smoothing slider. The optional natural-hand effect nudges each letter from a seeded random pattern, so the preview and the download match exactly.</p> <h2> What's next </h2> <p>More form sizes, and more ways to shape a signature.",
+        "summary": "Change the slant, thickness, closing flourish, letter spacing, tilt and ink.</li> <li> <strong>Draw it.</strong> A pad for finger, mouse or stylus, with three pen widths, undo and a smoothing slider. The optional natural-hand effect nudges each letter from a seeded random pattern, so the preview and the download match exactly.</p> <h2> What's next </h2> <p>More form sizes, and more ways to shape a signature.",
+        "link": "https://dev.to/pyxl/we-built-signature-maker-type-draw-or-upload-a-signature-and-save-a-clean-file-3bb6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-09T14:22:28.000Z",
+        "keywords": [
+          "showdev",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "showdev",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for showdev",
+          "webdev-ready automation",
+          "Great for showdev"
+        ],
+        "cons": [
+          "Overkill for showdev experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for showdev experiments"
+        ],
+        "highlights": [
+          "Change the slant, thickness, closing flourish, letter spacing, tilt and ink.</li> <li> <strong>Draw it.</strong> A pad for finger, mouse or stylus, with three pen widths, undo and a smoothing slider.",
+          "If you don't know what you want, the Randomize button picks a new font, name format and settings in one press, and Back returns to a look you liked.",
+          "The optional natural-hand effect nudges each letter from a seeded random pattern, so the preview and the download match exactly."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "TikTok Keyword Research",
+        "slug": "tiktok-keyword-research",
+        "description": "The <a href=\"https://tokviewer.app/blog/compare-tiktok-comment-exports-over-time/\" rel=\"noopener noreferrer\">export comparison workflow</a> helps distinguish a new question from a changed sample. The second phrase gives you a filming task: demonstrate dilution and explain a practical solution.</p> <p>Collect questions from your content, customer conversations, or relevant public discussions.",
+        "summary": "The <a href=\"https://tokviewer.app/blog/compare-tiktok-comment-exports-over-time/\" rel=\"noopener noreferrer\">export comparison workflow</a> helps distinguish a new question from a changed sample. The second phrase gives you a filming task: demonstrate dilution and explain a practical solution.</p> <p>Collect questions from your content, customer conversations, or relevant public discussions.",
+        "link": "https://dev.to/tokviewerapp/tiktok-keyword-research-turn-viewer-questions-into-video-ideas-112f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-09T14:14:17.000Z",
+        "keywords": [
+          "tiktok",
+          "tutorial",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tiktok",
+          "tutorial",
+          "productivity"
+        ],
+        "pros": [
+          "Great for tiktok",
+          "tutorial-ready automation",
+          "Great for tiktok"
+        ],
+        "cons": [
+          "Overkill for tiktok experiments",
+          "Needs extra setup for tutorial workflows",
+          "Overkill for tiktok experiments"
+        ],
+        "highlights": [
+          "The <a href=\"https://tokviewer.app/blog/compare-tiktok-comment-exports-over-time/\" rel=\"noopener noreferrer\">export comparison workflow</a> helps distinguish a new question from a changed sample.",
+          "The second phrase gives you a filming task: demonstrate dilution and explain a practical solution.</p> <p>Collect questions from your content, customer conversations, or relevant public discussions.",
+          "Keyword metrics can help estimate demand, but a large number does not tell you what to film.</p> <p>This workflow connects audience language with a concrete video brief."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "End-to-end download testing with curl",
+        "slug": "end-to-end-download-testing-with-curl",
+        "description": "Then I download the first few kilobytes and look at them: curl -s -r 0-1023 -o /tmp/test.mp4 \"https://provider-cdn.example/video.mp4\" file /tmp/test.mp4 file should say something like ISO Media file. Nothing is live until the whole chain works from the terminal: the page loads, resolve returns real options, the file URL serves a real MP4, the proxy path works, and the failures fail politely.",
+        "summary": "Then I download the first few kilobytes and look at them: curl -s -r 0-1023 -o /tmp/test.mp4 \"https://provider-cdn.example/video.mp4\" file /tmp/test.mp4 file should say something like ISO Media file. Nothing is live until the whole chain works from the terminal: the page loads, resolve returns real options, the file URL serves a real MP4, the proxy path works, and the failures fail politely.",
+        "link": "https://dev.to/mobeenahmedgondal/end-to-end-download-testing-with-curl-my-checklist-before-calling-a-feature-live-4ndl",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-09T13:50:27.000Z",
+        "keywords": [
+          "php",
+          "webdev",
+          "showdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "php",
+          "webdev",
+          "showdev"
+        ],
+        "pros": [
+          "Great for php",
+          "webdev-ready automation",
+          "Great for php"
+        ],
+        "cons": [
+          "Overkill for php experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for php experiments"
+        ],
+        "highlights": [
+          "Then I download the first few kilobytes and look at them: curl -s -r 0-1023 -o /tmp/test.mp4 \"https://provider-cdn.example/video.mp4\" file /tmp/test.mp4 file should say something like ISO Media file.",
+          "Nothing is live until the whole chain works from the terminal: the page loads, resolve returns real options, the file URL serves a real MP4, the proxy path works, and the failures fail politely.",
+          "I start with the tool page, not the API: curl -s -o /dev/null -w \"%{http_code} %{time_total}s\\n\" https://ramrom.io/tiktok-downloader.html I want a 200 and a fast answer."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Coulisses 02 synthiz",
+        "slug": "coulisses-02-synthiz",
+        "description": "Des articles, des vidéos, des podcasts, des documents : des formats différents, sur des sujets très variés.</p> <p>Pour ne pas tout perdre, j'ai essayé de m'organiser.</p> <p>Obsidian accueillait mes notes. »</p> <p>Et plus j'utilisais d'outils pour m'organiser, plus je créais de nouveaux endroits dans lesquels chercher.</p> <p>Le problème n'était pas de conserver</p> <p>Mes sources n'étaient pas perdues.",
+        "summary": "Des articles, des vidéos, des podcasts, des documents : des formats différents, sur des sujets très variés.</p> <p>Pour ne pas tout perdre, j'ai essayé de m'organiser.</p> <p>Obsidian accueillait mes notes. »</p> <p>Et plus j'utilisais d'outils pour m'organiser, plus je créais de nouveaux endroits dans lesquels chercher.</p> <p>Le problème n'était pas de conserver</p> <p>Mes sources n'étaient pas perdues.",
+        "link": "https://dev.to/sylvainlapart/coulisses-02-synthiz-tout-etait-conserve-3b4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-09T13:30:15.000Z",
+        "keywords": [
+          "learning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "learning",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for learning",
+          "productivity-ready automation",
+          "Great for learning"
+        ],
+        "cons": [
+          "Overkill for learning experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for learning experiments"
+        ],
+        "highlights": [
+          "L'histoire complète, avec Obsidian, le Zettelkasten et des heures de configuration, est racontée dans Obsidian, Reader, Readwise : j'avais tout rangé, je ne retrouvais rien.",
+          "Il est né parce qu'aucun des outils que j'utilisais ne me permettait de retrouver mes connaissances indépendamment de l'endroit où elles avaient été rangées.",
+          "Il est de pouvoir remettre la main sur ce que l'on a déjà appris.</p> <p>Une synthèse doit conduire aux sources qui l'ont nourrie."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Children of Men",
+        "slug": "children-of-men",
+        "description": "Article URL: https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/ Comments URL: https://news.ycombinator.com/item?id=50425303 Points: 35 # Comments: 7",
+        "summary": "Article URL: https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/ Comments URL: https://news.ycombinator.com/item?id=50425303 Points: 35 # Comments: 7",
+        "link": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
+        "source": "Hacker News",
+        "isoDate": "2026-11-09T13:27:01.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "url"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-11-09T14:24:42.318Z",
+    "lastUpdated": "2026-11-09T14:24:42.318Z",
+    "visibleDate": "Nov 9, 2026",
+    "url": "pages/2026-11-09-142442318-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-11-09-142442318-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "We built Signature Maker",
+      "TikTok Keyword Research",
+      "End-to-end download testing with curl"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include We built Signature Maker, TikTok Keyword Research, End-to-end down",
+    "tools": [
+      {
+        "name": "We built Signature Maker",
+        "slug": "we-built-signature-maker",
+        "description": "Change the slant, thickness, closing flourish, letter spacing, tilt and ink.</li> <li> <strong>Draw it.</strong> A pad for finger, mouse or stylus, with three pen widths, undo and a smoothing slider. The optional natural-hand effect nudges each letter from a seeded random pattern, so the preview and the download match exactly.</p> <h2> What's next </h2> <p>More form sizes, and more ways to shape a signature.",
+        "summary": "Change the slant, thickness, closing flourish, letter spacing, tilt and ink.</li> <li> <strong>Draw it.</strong> A pad for finger, mouse or stylus, with three pen widths, undo and a smoothing slider. The optional natural-hand effect nudges each letter from a seeded random pattern, so the preview and the download match exactly.</p> <h2> What's next </h2> <p>More form sizes, and more ways to shape a signature.",
+        "link": "https://dev.to/pyxl/we-built-signature-maker-type-draw-or-upload-a-signature-and-save-a-clean-file-3bb6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-09T14:22:28.000Z",
+        "keywords": [
+          "showdev",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "showdev",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for showdev",
+          "webdev-ready automation",
+          "Great for showdev"
+        ],
+        "cons": [
+          "Overkill for showdev experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for showdev experiments"
+        ],
+        "highlights": [
+          "Change the slant, thickness, closing flourish, letter spacing, tilt and ink.</li> <li> <strong>Draw it.</strong> A pad for finger, mouse or stylus, with three pen widths, undo and a smoothing slider.",
+          "If you don't know what you want, the Randomize button picks a new font, name format and settings in one press, and Back returns to a look you liked.",
+          "The optional natural-hand effect nudges each letter from a seeded random pattern, so the preview and the download match exactly."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "TikTok Keyword Research",
+        "slug": "tiktok-keyword-research",
+        "description": "The <a href=\"https://tokviewer.app/blog/compare-tiktok-comment-exports-over-time/\" rel=\"noopener noreferrer\">export comparison workflow</a> helps distinguish a new question from a changed sample. The second phrase gives you a filming task: demonstrate dilution and explain a practical solution.</p> <p>Collect questions from your content, customer conversations, or relevant public discussions.",
+        "summary": "The <a href=\"https://tokviewer.app/blog/compare-tiktok-comment-exports-over-time/\" rel=\"noopener noreferrer\">export comparison workflow</a> helps distinguish a new question from a changed sample. The second phrase gives you a filming task: demonstrate dilution and explain a practical solution.</p> <p>Collect questions from your content, customer conversations, or relevant public discussions.",
+        "link": "https://dev.to/tokviewerapp/tiktok-keyword-research-turn-viewer-questions-into-video-ideas-112f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-09T14:14:17.000Z",
+        "keywords": [
+          "tiktok",
+          "tutorial",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tiktok",
+          "tutorial",
+          "productivity"
+        ],
+        "pros": [
+          "Great for tiktok",
+          "tutorial-ready automation",
+          "Great for tiktok"
+        ],
+        "cons": [
+          "Overkill for tiktok experiments",
+          "Needs extra setup for tutorial workflows",
+          "Overkill for tiktok experiments"
+        ],
+        "highlights": [
+          "The <a href=\"https://tokviewer.app/blog/compare-tiktok-comment-exports-over-time/\" rel=\"noopener noreferrer\">export comparison workflow</a> helps distinguish a new question from a changed sample.",
+          "The second phrase gives you a filming task: demonstrate dilution and explain a practical solution.</p> <p>Collect questions from your content, customer conversations, or relevant public discussions.",
+          "Keyword metrics can help estimate demand, but a large number does not tell you what to film.</p> <p>This workflow connects audience language with a concrete video brief."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "End-to-end download testing with curl",
+        "slug": "end-to-end-download-testing-with-curl",
+        "description": "Then I download the first few kilobytes and look at them: curl -s -r 0-1023 -o /tmp/test.mp4 \"https://provider-cdn.example/video.mp4\" file /tmp/test.mp4 file should say something like ISO Media file. Nothing is live until the whole chain works from the terminal: the page loads, resolve returns real options, the file URL serves a real MP4, the proxy path works, and the failures fail politely.",
+        "summary": "Then I download the first few kilobytes and look at them: curl -s -r 0-1023 -o /tmp/test.mp4 \"https://provider-cdn.example/video.mp4\" file /tmp/test.mp4 file should say something like ISO Media file. Nothing is live until the whole chain works from the terminal: the page loads, resolve returns real options, the file URL serves a real MP4, the proxy path works, and the failures fail politely.",
+        "link": "https://dev.to/mobeenahmedgondal/end-to-end-download-testing-with-curl-my-checklist-before-calling-a-feature-live-4ndl",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-09T13:50:27.000Z",
+        "keywords": [
+          "php",
+          "webdev",
+          "showdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "php",
+          "webdev",
+          "showdev"
+        ],
+        "pros": [
+          "Great for php",
+          "webdev-ready automation",
+          "Great for php"
+        ],
+        "cons": [
+          "Overkill for php experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for php experiments"
+        ],
+        "highlights": [
+          "Then I download the first few kilobytes and look at them: curl -s -r 0-1023 -o /tmp/test.mp4 \"https://provider-cdn.example/video.mp4\" file /tmp/test.mp4 file should say something like ISO Media file.",
+          "Nothing is live until the whole chain works from the terminal: the page loads, resolve returns real options, the file URL serves a real MP4, the proxy path works, and the failures fail politely.",
+          "I start with the tool page, not the API: curl -s -o /dev/null -w \"%{http_code} %{time_total}s\\n\" https://ramrom.io/tiktok-downloader.html I want a 200 and a fast answer."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Coulisses 02 synthiz",
+        "slug": "coulisses-02-synthiz",
+        "description": "Des articles, des vidéos, des podcasts, des documents : des formats différents, sur des sujets très variés.</p> <p>Pour ne pas tout perdre, j'ai essayé de m'organiser.</p> <p>Obsidian accueillait mes notes. »</p> <p>Et plus j'utilisais d'outils pour m'organiser, plus je créais de nouveaux endroits dans lesquels chercher.</p> <p>Le problème n'était pas de conserver</p> <p>Mes sources n'étaient pas perdues.",
+        "summary": "Des articles, des vidéos, des podcasts, des documents : des formats différents, sur des sujets très variés.</p> <p>Pour ne pas tout perdre, j'ai essayé de m'organiser.</p> <p>Obsidian accueillait mes notes. »</p> <p>Et plus j'utilisais d'outils pour m'organiser, plus je créais de nouveaux endroits dans lesquels chercher.</p> <p>Le problème n'était pas de conserver</p> <p>Mes sources n'étaient pas perdues.",
+        "link": "https://dev.to/sylvainlapart/coulisses-02-synthiz-tout-etait-conserve-3b4",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-09T13:30:15.000Z",
+        "keywords": [
+          "learning",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "learning",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for learning",
+          "productivity-ready automation",
+          "Great for learning"
+        ],
+        "cons": [
+          "Overkill for learning experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for learning experiments"
+        ],
+        "highlights": [
+          "L'histoire complète, avec Obsidian, le Zettelkasten et des heures de configuration, est racontée dans Obsidian, Reader, Readwise : j'avais tout rangé, je ne retrouvais rien.",
+          "Il est né parce qu'aucun des outils que j'utilisais ne me permettait de retrouver mes connaissances indépendamment de l'endroit où elles avaient été rangées.",
+          "Il est de pouvoir remettre la main sur ce que l'on a déjà appris.</p> <p>Une synthèse doit conduire aux sources qui l'ont nourrie."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-11-09T14:24:42.318Z",
+    "lastUpdated": "2026-11-09T14:24:42.318Z",
+    "visibleDate": "Nov 9, 2026",
+    "url": "pages/2026-11-09-142442318-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-11-09-142442318-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "We built Signature Maker",
+      "TikTok Keyword Research"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include We built Signature Maker, TikTok Keyword Research",
+    "tools": [
+      {
+        "name": "We built Signature Maker",
+        "slug": "we-built-signature-maker",
+        "description": "Change the slant, thickness, closing flourish, letter spacing, tilt and ink.</li> <li> <strong>Draw it.</strong> A pad for finger, mouse or stylus, with three pen widths, undo and a smoothing slider. The optional natural-hand effect nudges each letter from a seeded random pattern, so the preview and the download match exactly.</p> <h2> What's next </h2> <p>More form sizes, and more ways to shape a signature.",
+        "summary": "Change the slant, thickness, closing flourish, letter spacing, tilt and ink.</li> <li> <strong>Draw it.</strong> A pad for finger, mouse or stylus, with three pen widths, undo and a smoothing slider. The optional natural-hand effect nudges each letter from a seeded random pattern, so the preview and the download match exactly.</p> <h2> What's next </h2> <p>More form sizes, and more ways to shape a signature.",
+        "link": "https://dev.to/pyxl/we-built-signature-maker-type-draw-or-upload-a-signature-and-save-a-clean-file-3bb6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-09T14:22:28.000Z",
+        "keywords": [
+          "showdev",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "showdev",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for showdev",
+          "webdev-ready automation",
+          "Great for showdev"
+        ],
+        "cons": [
+          "Overkill for showdev experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for showdev experiments"
+        ],
+        "highlights": [
+          "Change the slant, thickness, closing flourish, letter spacing, tilt and ink.</li> <li> <strong>Draw it.</strong> A pad for finger, mouse or stylus, with three pen widths, undo and a smoothing slider.",
+          "If you don't know what you want, the Randomize button picks a new font, name format and settings in one press, and Back returns to a look you liked.",
+          "The optional natural-hand effect nudges each letter from a seeded random pattern, so the preview and the download match exactly."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "TikTok Keyword Research",
+        "slug": "tiktok-keyword-research",
+        "description": "The <a href=\"https://tokviewer.app/blog/compare-tiktok-comment-exports-over-time/\" rel=\"noopener noreferrer\">export comparison workflow</a> helps distinguish a new question from a changed sample. The second phrase gives you a filming task: demonstrate dilution and explain a practical solution.</p> <p>Collect questions from your content, customer conversations, or relevant public discussions.",
+        "summary": "The <a href=\"https://tokviewer.app/blog/compare-tiktok-comment-exports-over-time/\" rel=\"noopener noreferrer\">export comparison workflow</a> helps distinguish a new question from a changed sample. The second phrase gives you a filming task: demonstrate dilution and explain a practical solution.</p> <p>Collect questions from your content, customer conversations, or relevant public discussions.",
+        "link": "https://dev.to/tokviewerapp/tiktok-keyword-research-turn-viewer-questions-into-video-ideas-112f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-09T14:14:17.000Z",
+        "keywords": [
+          "tiktok",
+          "tutorial",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tiktok",
+          "tutorial",
+          "productivity"
+        ],
+        "pros": [
+          "Great for tiktok",
+          "tutorial-ready automation",
+          "Great for tiktok"
+        ],
+        "cons": [
+          "Overkill for tiktok experiments",
+          "Needs extra setup for tutorial workflows",
+          "Overkill for tiktok experiments"
+        ],
+        "highlights": [
+          "The <a href=\"https://tokviewer.app/blog/compare-tiktok-comment-exports-over-time/\" rel=\"noopener noreferrer\">export comparison workflow</a> helps distinguish a new question from a changed sample.",
+          "The second phrase gives you a filming task: demonstrate dilution and explain a practical solution.</p> <p>Collect questions from your content, customer conversations, or relevant public discussions.",
+          "Keyword metrics can help estimate demand, but a large number does not tell you what to film.</p> <p>This workflow connects audience language with a concrete video brief."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-11-09T14:24:42.318Z",
+    "lastUpdated": "2026-11-09T14:24:42.318Z",
+    "visibleDate": "Nov 9, 2026",
+    "url": "pages/2026-11-09-142442318-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-11-09-142442318-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "We built Signature Maker",
+      "TikTok Keyword Research",
+      "End-to-end download testing with curl"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include We built Signature Maker, TikTok Keyword Research, End-to-end download t",
+    "tools": [
+      {
+        "name": "We built Signature Maker",
+        "slug": "we-built-signature-maker",
+        "description": "Change the slant, thickness, closing flourish, letter spacing, tilt and ink.</li> <li> <strong>Draw it.</strong> A pad for finger, mouse or stylus, with three pen widths, undo and a smoothing slider. The optional natural-hand effect nudges each letter from a seeded random pattern, so the preview and the download match exactly.</p> <h2> What's next </h2> <p>More form sizes, and more ways to shape a signature.",
+        "summary": "Change the slant, thickness, closing flourish, letter spacing, tilt and ink.</li> <li> <strong>Draw it.</strong> A pad for finger, mouse or stylus, with three pen widths, undo and a smoothing slider. The optional natural-hand effect nudges each letter from a seeded random pattern, so the preview and the download match exactly.</p> <h2> What's next </h2> <p>More form sizes, and more ways to shape a signature.",
+        "link": "https://dev.to/pyxl/we-built-signature-maker-type-draw-or-upload-a-signature-and-save-a-clean-file-3bb6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-09T14:22:28.000Z",
+        "keywords": [
+          "showdev",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "showdev",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for showdev",
+          "webdev-ready automation",
+          "Great for showdev"
+        ],
+        "cons": [
+          "Overkill for showdev experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for showdev experiments"
+        ],
+        "highlights": [
+          "Change the slant, thickness, closing flourish, letter spacing, tilt and ink.</li> <li> <strong>Draw it.</strong> A pad for finger, mouse or stylus, with three pen widths, undo and a smoothing slider.",
+          "If you don't know what you want, the Randomize button picks a new font, name format and settings in one press, and Back returns to a look you liked.",
+          "The optional natural-hand effect nudges each letter from a seeded random pattern, so the preview and the download match exactly."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "TikTok Keyword Research",
+        "slug": "tiktok-keyword-research",
+        "description": "The <a href=\"https://tokviewer.app/blog/compare-tiktok-comment-exports-over-time/\" rel=\"noopener noreferrer\">export comparison workflow</a> helps distinguish a new question from a changed sample. The second phrase gives you a filming task: demonstrate dilution and explain a practical solution.</p> <p>Collect questions from your content, customer conversations, or relevant public discussions.",
+        "summary": "The <a href=\"https://tokviewer.app/blog/compare-tiktok-comment-exports-over-time/\" rel=\"noopener noreferrer\">export comparison workflow</a> helps distinguish a new question from a changed sample. The second phrase gives you a filming task: demonstrate dilution and explain a practical solution.</p> <p>Collect questions from your content, customer conversations, or relevant public discussions.",
+        "link": "https://dev.to/tokviewerapp/tiktok-keyword-research-turn-viewer-questions-into-video-ideas-112f",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-09T14:14:17.000Z",
+        "keywords": [
+          "tiktok",
+          "tutorial",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "tiktok",
+          "tutorial",
+          "productivity"
+        ],
+        "pros": [
+          "Great for tiktok",
+          "tutorial-ready automation",
+          "Great for tiktok"
+        ],
+        "cons": [
+          "Overkill for tiktok experiments",
+          "Needs extra setup for tutorial workflows",
+          "Overkill for tiktok experiments"
+        ],
+        "highlights": [
+          "The <a href=\"https://tokviewer.app/blog/compare-tiktok-comment-exports-over-time/\" rel=\"noopener noreferrer\">export comparison workflow</a> helps distinguish a new question from a changed sample.",
+          "The second phrase gives you a filming task: demonstrate dilution and explain a practical solution.</p> <p>Collect questions from your content, customer conversations, or relevant public discussions.",
+          "Keyword metrics can help estimate demand, but a large number does not tell you what to film.</p> <p>This workflow connects audience language with a concrete video brief."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "End-to-end download testing with curl",
+        "slug": "end-to-end-download-testing-with-curl",
+        "description": "Then I download the first few kilobytes and look at them: curl -s -r 0-1023 -o /tmp/test.mp4 \"https://provider-cdn.example/video.mp4\" file /tmp/test.mp4 file should say something like ISO Media file. Nothing is live until the whole chain works from the terminal: the page loads, resolve returns real options, the file URL serves a real MP4, the proxy path works, and the failures fail politely.",
+        "summary": "Then I download the first few kilobytes and look at them: curl -s -r 0-1023 -o /tmp/test.mp4 \"https://provider-cdn.example/video.mp4\" file /tmp/test.mp4 file should say something like ISO Media file. Nothing is live until the whole chain works from the terminal: the page loads, resolve returns real options, the file URL serves a real MP4, the proxy path works, and the failures fail politely.",
+        "link": "https://dev.to/mobeenahmedgondal/end-to-end-download-testing-with-curl-my-checklist-before-calling-a-feature-live-4ndl",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-09T13:50:27.000Z",
+        "keywords": [
+          "php",
+          "webdev",
+          "showdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "php",
+          "webdev",
+          "showdev"
+        ],
+        "pros": [
+          "Great for php",
+          "webdev-ready automation",
+          "Great for php"
+        ],
+        "cons": [
+          "Overkill for php experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for php experiments"
+        ],
+        "highlights": [
+          "Then I download the first few kilobytes and look at them: curl -s -r 0-1023 -o /tmp/test.mp4 \"https://provider-cdn.example/video.mp4\" file /tmp/test.mp4 file should say something like ISO Media file.",
+          "Nothing is live until the whole chain works from the terminal: the page loads, resolve returns real options, the file URL serves a real MP4, the proxy path works, and the failures fail politely.",
+          "I start with the tool page, not the API: curl -s -o /dev/null -w \"%{http_code} %{time_total}s\\n\" https://ramrom.io/tiktok-downloader.html I want a 200 and a fast answer."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-11-08T12:15:10.498Z",
     "lastUpdated": "2026-11-08T12:15:10.498Z",
     "visibleDate": "Nov 8, 2026",

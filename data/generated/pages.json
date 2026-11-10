@@ -7,6 +7,691 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-11-10T13:48:13.940Z",
+    "lastUpdated": "2026-11-10T13:48:13.940Z",
+    "visibleDate": "Nov 10, 2026",
+    "url": "pages/2026-11-10-134813940-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-11-10-134813940-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Anthropic’s IPO Filing",
+      "Gamma vs Tome vs Beautiful.ai",
+      "Auth0 vs Clerk vs Supabase Auth"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Anthropic’s IPO Filing, Gamma vs Tome vs Beautiful.ai, Auth0 vs Clerk vs S",
+    "tools": [
+      {
+        "name": "Anthropic’s IPO Filing",
+        "slug": "anthropic-s-ipo-filing",
+        "description": "A completed offering would add a major public-market reference point for investors evaluating AI companies, infrastructure providers, and businesses built around large language models. It does, however, support a broader observation: the company’s move toward public markets may influence competitive positioning and capital-access expectations across AI services and infrastructure.",
+        "summary": "A completed offering would add a major public-market reference point for investors evaluating AI companies, infrastructure providers, and businesses built around large language models. It does, however, support a broader observation: the company’s move toward public markets may influence competitive positioning and capital-access expectations across AI services and infrastructure.",
+        "link": "https://dev.to/alifar/anthropics-ipo-filing-is-confirmed-but-its-roadshow-timing-remains-unclear-3kcf",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-10T13:45:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "claude",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "A completed offering would add a major public-market reference point for investors evaluating AI companies, infrastructure providers, and businesses built around large language models.",
+          "An S-1 filing puts the company on the regulatory path to a public offering, but it does not mean shares are available to buy or that final pricing, valuation, or a public trading date has been set.",
+          "It does, however, support a broader observation: the company’s move toward public markets may influence competitive positioning and capital-access expectations across AI services and infrastructure."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Gamma vs Tome vs Beautiful.ai",
+        "slug": "gamma-vs-tome-vs-beautiful-ai",
+        "description": "This makes Gamma best for digital-first sharing (email links, Slack posts, virtual meetings).</li> <li>Analytics: View counts, time per slide, click-through rates on embedded elements. For financial reviews, KPI dashboards, and data-heavy presentations, nothing else comes close.</li> <li>PowerPoint compatibility: Import .pptx files, edit in Beautiful.ai, and export back to .pptx with high fidelity.",
+        "summary": "This makes Gamma best for digital-first sharing (email links, Slack posts, virtual meetings).</li> <li>Analytics: View counts, time per slide, click-through rates on embedded elements. For financial reviews, KPI dashboards, and data-heavy presentations, nothing else comes close.</li> <li>PowerPoint compatibility: Import .pptx files, edit in Beautiful.ai, and export back to .pptx with high fidelity.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/gamma-vs-tome-vs-beautifulai-ai-decks-that-dont-look-like-ai-decks-52e5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-10T13:21:37.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "This makes Gamma best for digital-first sharing (email links, Slack posts, virtual meetings).</li> <li>Analytics: View counts, time per slide, click-through rates on embedded elements.",
+          "Business: $20/user/month (team features, SSO, brand controls).</p> <h2> Tome: The Storyteller </h2> <p>Tome focuses on narrative flow — presentations that tell a story, not just display information.",
+          "Give it a prompt like \"pitch deck for a Series A HRtech startup\" and you get a 12-slide deck with realistic market data, competitive positioning, and team slides."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Auth0 vs Clerk vs Supabase Auth",
+        "slug": "auth0-vs-clerk-vs-supabase-auth",
+        "description": "Documentation gaps: Supabase's auth documentation covers the basics well but gets thin on advanced topics (custom claims, token refresh strategies, multi-factor enrollment flows). Auth0, Clerk, and Supabase Auth are the three most popular solutions — but they serve very different needs, and picking the wrong one can cost you weeks of rework.</p> <p>All three are production-viable in 2026.",
+        "summary": "Documentation gaps: Supabase's auth documentation covers the basics well but gets thin on advanced topics (custom claims, token refresh strategies, multi-factor enrollment flows). Auth0, Clerk, and Supabase Auth are the three most popular solutions — but they serve very different needs, and picking the wrong one can cost you weeks of rework.</p> <p>All three are production-viable in 2026.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/auth0-vs-clerk-vs-supabase-auth-auth-pricing-at-scale-in-2026-1d7o",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-10T13:16:17.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Documentation gaps: Supabase's auth documentation covers the basics well but gets thin on advanced topics (custom claims, token refresh strategies, multi-factor enrollment flows).",
+          "Instead of separate RBAC systems, you write PostgreSQL policies like <code>CREATE POLICY \"users_see_own_data\" ON table FOR SELECT USING (user_id = auth.uid())</code>.",
+          "Documentation gaps: Supabase's auth documentation covers the basics well but gets thin on advanced topics (custom claims, token refresh strategies, multi-factor enrollment flows)."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "EU Opens DSA",
+        "slug": "eu-opens-dsa",
+        "description": "EU measure Main focus Relevance to online content DSA election guidelines, April 2024 Systemic electoral risks for VLOPs and VLOSEs Addresses risks such as foreign interference and generative AI concerns. It is a targeted public consultation on the European Commission's draft guidelines for the DSA trusted flagger mechanism, including status criteria, accountability and the processing of notices of illegal content.",
+        "summary": "EU measure Main focus Relevance to online content DSA election guidelines, April 2024 Systemic electoral risks for VLOPs and VLOSEs Addresses risks such as foreign interference and generative AI concerns. It is a targeted public consultation on the European Commission's draft guidelines for the DSA trusted flagger mechanism, including status criteria, accountability and the processing of notices of illegal content.",
+        "link": "https://dev.to/alifar/eu-opens-dsa-trusted-flagger-consultation-with-implications-for-election-safeguards-1g6k",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-10T13:16:06.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "In April 2024, the EU issued election guidelines for Very Large Online Platforms and Very Large Online Search Engines, focused on mitigating systemic risks to electoral processes.",
+          "That could mean documenting who can report potentially problematic material, how reports are assessed, and where human review is needed when automated tools surface risk signals.",
+          "In April 2024, the EU issued election guidelines for Very Large Online Platforms and Very Large Online Search Engines, focused on mitigating systemic risks to electoral processes."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "v0 vs Bolt.new vs Lovable",
+        "slug": "v0-vs-bolt-new-vs-lovable",
+        "description": "The split: v0 focuses on UI components Bolt.new aims for full-stack apps Lovable targets startup MVPs The three tools map onto different build scopes, and that difference decides most projects. Lovable has the steepest learning curve because its success depends heavily on prompt engineering skill: you need to describe your app architecture clearly for the AI to generate a working result.",
+        "summary": "The split: v0 focuses on UI components Bolt.new aims for full-stack apps Lovable targets startup MVPs The three tools map onto different build scopes, and that difference decides most projects. Lovable has the steepest learning curve because its success depends heavily on prompt engineering skill: you need to describe your app architecture clearly for the AI to generate a working result.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/v0-vs-boltnew-vs-lovable-which-ai-app-builder-survives-real-users-5fp9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-10T13:10:57.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "The split: v0 focuses on UI components Bolt.new aims for full-stack apps Lovable targets startup MVPs The three tools map onto different build scopes, and that difference decides most projects.",
+          "Lovable has the steepest learning curve because its success depends heavily on prompt engineering skill: you need to describe your app architecture clearly for the AI to generate a working result.",
+          "A developer who pays for v0 Plus, Bolt Pro, and Lovable Pro is looking at roughly $80/month in subscriptions before any credit top-ups, and all three meter usage beyond the plan allowance."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-11-10T13:48:13.940Z",
+    "lastUpdated": "2026-11-10T13:48:13.940Z",
+    "visibleDate": "Nov 10, 2026",
+    "url": "pages/2026-11-10-134813940-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-11-10-134813940-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Anthropic’s IPO Filing",
+      "Gamma vs Tome vs Beautiful.ai",
+      "Auth0 vs Clerk vs Supabase Auth"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Anthropic’s IPO Filing, Gamma vs Tome vs Beautiful.ai, Auth0 vs Cl",
+    "tools": [
+      {
+        "name": "Anthropic’s IPO Filing",
+        "slug": "anthropic-s-ipo-filing",
+        "description": "A completed offering would add a major public-market reference point for investors evaluating AI companies, infrastructure providers, and businesses built around large language models. It does, however, support a broader observation: the company’s move toward public markets may influence competitive positioning and capital-access expectations across AI services and infrastructure.",
+        "summary": "A completed offering would add a major public-market reference point for investors evaluating AI companies, infrastructure providers, and businesses built around large language models. It does, however, support a broader observation: the company’s move toward public markets may influence competitive positioning and capital-access expectations across AI services and infrastructure.",
+        "link": "https://dev.to/alifar/anthropics-ipo-filing-is-confirmed-but-its-roadshow-timing-remains-unclear-3kcf",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-10T13:45:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "claude",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "A completed offering would add a major public-market reference point for investors evaluating AI companies, infrastructure providers, and businesses built around large language models.",
+          "An S-1 filing puts the company on the regulatory path to a public offering, but it does not mean shares are available to buy or that final pricing, valuation, or a public trading date has been set.",
+          "It does, however, support a broader observation: the company’s move toward public markets may influence competitive positioning and capital-access expectations across AI services and infrastructure."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Gamma vs Tome vs Beautiful.ai",
+        "slug": "gamma-vs-tome-vs-beautiful-ai",
+        "description": "This makes Gamma best for digital-first sharing (email links, Slack posts, virtual meetings).</li> <li>Analytics: View counts, time per slide, click-through rates on embedded elements. For financial reviews, KPI dashboards, and data-heavy presentations, nothing else comes close.</li> <li>PowerPoint compatibility: Import .pptx files, edit in Beautiful.ai, and export back to .pptx with high fidelity.",
+        "summary": "This makes Gamma best for digital-first sharing (email links, Slack posts, virtual meetings).</li> <li>Analytics: View counts, time per slide, click-through rates on embedded elements. For financial reviews, KPI dashboards, and data-heavy presentations, nothing else comes close.</li> <li>PowerPoint compatibility: Import .pptx files, edit in Beautiful.ai, and export back to .pptx with high fidelity.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/gamma-vs-tome-vs-beautifulai-ai-decks-that-dont-look-like-ai-decks-52e5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-10T13:21:37.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "This makes Gamma best for digital-first sharing (email links, Slack posts, virtual meetings).</li> <li>Analytics: View counts, time per slide, click-through rates on embedded elements.",
+          "Business: $20/user/month (team features, SSO, brand controls).</p> <h2> Tome: The Storyteller </h2> <p>Tome focuses on narrative flow — presentations that tell a story, not just display information.",
+          "Give it a prompt like \"pitch deck for a Series A HRtech startup\" and you get a 12-slide deck with realistic market data, competitive positioning, and team slides."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Auth0 vs Clerk vs Supabase Auth",
+        "slug": "auth0-vs-clerk-vs-supabase-auth",
+        "description": "Documentation gaps: Supabase's auth documentation covers the basics well but gets thin on advanced topics (custom claims, token refresh strategies, multi-factor enrollment flows). Auth0, Clerk, and Supabase Auth are the three most popular solutions — but they serve very different needs, and picking the wrong one can cost you weeks of rework.</p> <p>All three are production-viable in 2026.",
+        "summary": "Documentation gaps: Supabase's auth documentation covers the basics well but gets thin on advanced topics (custom claims, token refresh strategies, multi-factor enrollment flows). Auth0, Clerk, and Supabase Auth are the three most popular solutions — but they serve very different needs, and picking the wrong one can cost you weeks of rework.</p> <p>All three are production-viable in 2026.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/auth0-vs-clerk-vs-supabase-auth-auth-pricing-at-scale-in-2026-1d7o",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-10T13:16:17.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Documentation gaps: Supabase's auth documentation covers the basics well but gets thin on advanced topics (custom claims, token refresh strategies, multi-factor enrollment flows).",
+          "Instead of separate RBAC systems, you write PostgreSQL policies like <code>CREATE POLICY \"users_see_own_data\" ON table FOR SELECT USING (user_id = auth.uid())</code>.",
+          "Documentation gaps: Supabase's auth documentation covers the basics well but gets thin on advanced topics (custom claims, token refresh strategies, multi-factor enrollment flows)."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "EU Opens DSA",
+        "slug": "eu-opens-dsa",
+        "description": "EU measure Main focus Relevance to online content DSA election guidelines, April 2024 Systemic electoral risks for VLOPs and VLOSEs Addresses risks such as foreign interference and generative AI concerns. It is a targeted public consultation on the European Commission's draft guidelines for the DSA trusted flagger mechanism, including status criteria, accountability and the processing of notices of illegal content.",
+        "summary": "EU measure Main focus Relevance to online content DSA election guidelines, April 2024 Systemic electoral risks for VLOPs and VLOSEs Addresses risks such as foreign interference and generative AI concerns. It is a targeted public consultation on the European Commission's draft guidelines for the DSA trusted flagger mechanism, including status criteria, accountability and the processing of notices of illegal content.",
+        "link": "https://dev.to/alifar/eu-opens-dsa-trusted-flagger-consultation-with-implications-for-election-safeguards-1g6k",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-10T13:16:06.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "governance",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "In April 2024, the EU issued election guidelines for Very Large Online Platforms and Very Large Online Search Engines, focused on mitigating systemic risks to electoral processes.",
+          "That could mean documenting who can report potentially problematic material, how reports are assessed, and where human review is needed when automated tools surface risk signals.",
+          "In April 2024, the EU issued election guidelines for Very Large Online Platforms and Very Large Online Search Engines, focused on mitigating systemic risks to electoral processes."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-11-10T13:48:13.940Z",
+    "lastUpdated": "2026-11-10T13:48:13.940Z",
+    "visibleDate": "Nov 10, 2026",
+    "url": "pages/2026-11-10-134813940-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-11-10-134813940-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Anthropic’s IPO Filing",
+      "Gamma vs Tome vs Beautiful.ai"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Anthropic’s IPO Filing, Gamma vs Tome vs Beautifu",
+    "tools": [
+      {
+        "name": "Anthropic’s IPO Filing",
+        "slug": "anthropic-s-ipo-filing",
+        "description": "A completed offering would add a major public-market reference point for investors evaluating AI companies, infrastructure providers, and businesses built around large language models. It does, however, support a broader observation: the company’s move toward public markets may influence competitive positioning and capital-access expectations across AI services and infrastructure.",
+        "summary": "A completed offering would add a major public-market reference point for investors evaluating AI companies, infrastructure providers, and businesses built around large language models. It does, however, support a broader observation: the company’s move toward public markets may influence competitive positioning and capital-access expectations across AI services and infrastructure.",
+        "link": "https://dev.to/alifar/anthropics-ipo-filing-is-confirmed-but-its-roadshow-timing-remains-unclear-3kcf",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-10T13:45:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "claude",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "A completed offering would add a major public-market reference point for investors evaluating AI companies, infrastructure providers, and businesses built around large language models.",
+          "An S-1 filing puts the company on the regulatory path to a public offering, but it does not mean shares are available to buy or that final pricing, valuation, or a public trading date has been set.",
+          "It does, however, support a broader observation: the company’s move toward public markets may influence competitive positioning and capital-access expectations across AI services and infrastructure."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Gamma vs Tome vs Beautiful.ai",
+        "slug": "gamma-vs-tome-vs-beautiful-ai",
+        "description": "This makes Gamma best for digital-first sharing (email links, Slack posts, virtual meetings).</li> <li>Analytics: View counts, time per slide, click-through rates on embedded elements. For financial reviews, KPI dashboards, and data-heavy presentations, nothing else comes close.</li> <li>PowerPoint compatibility: Import .pptx files, edit in Beautiful.ai, and export back to .pptx with high fidelity.",
+        "summary": "This makes Gamma best for digital-first sharing (email links, Slack posts, virtual meetings).</li> <li>Analytics: View counts, time per slide, click-through rates on embedded elements. For financial reviews, KPI dashboards, and data-heavy presentations, nothing else comes close.</li> <li>PowerPoint compatibility: Import .pptx files, edit in Beautiful.ai, and export back to .pptx with high fidelity.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/gamma-vs-tome-vs-beautifulai-ai-decks-that-dont-look-like-ai-decks-52e5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-10T13:21:37.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "This makes Gamma best for digital-first sharing (email links, Slack posts, virtual meetings).</li> <li>Analytics: View counts, time per slide, click-through rates on embedded elements.",
+          "Business: $20/user/month (team features, SSO, brand controls).</p> <h2> Tome: The Storyteller </h2> <p>Tome focuses on narrative flow — presentations that tell a story, not just display information.",
+          "Give it a prompt like \"pitch deck for a Series A HRtech startup\" and you get a 12-slide deck with realistic market data, competitive positioning, and team slides."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-11-10T13:48:13.940Z",
+    "lastUpdated": "2026-11-10T13:48:13.940Z",
+    "visibleDate": "Nov 10, 2026",
+    "url": "pages/2026-11-10-134813940-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-11-10-134813940-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Anthropic’s IPO Filing",
+      "Gamma vs Tome vs Beautiful.ai",
+      "Auth0 vs Clerk vs Supabase Auth"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Anthropic’s IPO Filing, Gamma vs Tome vs Beautiful.ai, Auth0 vs Clerk vs",
+    "tools": [
+      {
+        "name": "Anthropic’s IPO Filing",
+        "slug": "anthropic-s-ipo-filing",
+        "description": "A completed offering would add a major public-market reference point for investors evaluating AI companies, infrastructure providers, and businesses built around large language models. It does, however, support a broader observation: the company’s move toward public markets may influence competitive positioning and capital-access expectations across AI services and infrastructure.",
+        "summary": "A completed offering would add a major public-market reference point for investors evaluating AI companies, infrastructure providers, and businesses built around large language models. It does, however, support a broader observation: the company’s move toward public markets may influence competitive positioning and capital-access expectations across AI services and infrastructure.",
+        "link": "https://dev.to/alifar/anthropics-ipo-filing-is-confirmed-but-its-roadshow-timing-remains-unclear-3kcf",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-10T13:45:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "claude",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "A completed offering would add a major public-market reference point for investors evaluating AI companies, infrastructure providers, and businesses built around large language models.",
+          "An S-1 filing puts the company on the regulatory path to a public offering, but it does not mean shares are available to buy or that final pricing, valuation, or a public trading date has been set.",
+          "It does, however, support a broader observation: the company’s move toward public markets may influence competitive positioning and capital-access expectations across AI services and infrastructure."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Gamma vs Tome vs Beautiful.ai",
+        "slug": "gamma-vs-tome-vs-beautiful-ai",
+        "description": "This makes Gamma best for digital-first sharing (email links, Slack posts, virtual meetings).</li> <li>Analytics: View counts, time per slide, click-through rates on embedded elements. For financial reviews, KPI dashboards, and data-heavy presentations, nothing else comes close.</li> <li>PowerPoint compatibility: Import .pptx files, edit in Beautiful.ai, and export back to .pptx with high fidelity.",
+        "summary": "This makes Gamma best for digital-first sharing (email links, Slack posts, virtual meetings).</li> <li>Analytics: View counts, time per slide, click-through rates on embedded elements. For financial reviews, KPI dashboards, and data-heavy presentations, nothing else comes close.</li> <li>PowerPoint compatibility: Import .pptx files, edit in Beautiful.ai, and export back to .pptx with high fidelity.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/gamma-vs-tome-vs-beautifulai-ai-decks-that-dont-look-like-ai-decks-52e5",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-10T13:21:37.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "This makes Gamma best for digital-first sharing (email links, Slack posts, virtual meetings).</li> <li>Analytics: View counts, time per slide, click-through rates on embedded elements.",
+          "Business: $20/user/month (team features, SSO, brand controls).</p> <h2> Tome: The Storyteller </h2> <p>Tome focuses on narrative flow — presentations that tell a story, not just display information.",
+          "Give it a prompt like \"pitch deck for a Series A HRtech startup\" and you get a 12-slide deck with realistic market data, competitive positioning, and team slides."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Auth0 vs Clerk vs Supabase Auth",
+        "slug": "auth0-vs-clerk-vs-supabase-auth",
+        "description": "Documentation gaps: Supabase's auth documentation covers the basics well but gets thin on advanced topics (custom claims, token refresh strategies, multi-factor enrollment flows). Auth0, Clerk, and Supabase Auth are the three most popular solutions — but they serve very different needs, and picking the wrong one can cost you weeks of rework.</p> <p>All three are production-viable in 2026.",
+        "summary": "Documentation gaps: Supabase's auth documentation covers the basics well but gets thin on advanced topics (custom claims, token refresh strategies, multi-factor enrollment flows). Auth0, Clerk, and Supabase Auth are the three most popular solutions — but they serve very different needs, and picking the wrong one can cost you weeks of rework.</p> <p>All three are production-viable in 2026.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/auth0-vs-clerk-vs-supabase-auth-auth-pricing-at-scale-in-2026-1d7o",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-10T13:16:17.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Documentation gaps: Supabase's auth documentation covers the basics well but gets thin on advanced topics (custom claims, token refresh strategies, multi-factor enrollment flows).",
+          "Instead of separate RBAC systems, you write PostgreSQL policies like <code>CREATE POLICY \"users_see_own_data\" ON table FOR SELECT USING (user_id = auth.uid())</code>.",
+          "Documentation gaps: Supabase's auth documentation covers the basics well but gets thin on advanced topics (custom claims, token refresh strategies, multi-factor enrollment flows)."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-11-09T14:24:42.318Z",
     "lastUpdated": "2026-11-09T14:24:42.318Z",
     "visibleDate": "Nov 9, 2026",

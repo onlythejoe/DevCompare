@@ -7,6 +7,690 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-11-12T14:00:38.875Z",
+    "lastUpdated": "2026-11-12T14:00:38.875Z",
+    "visibleDate": "Nov 12, 2026",
+    "url": "pages/2026-11-12-140038875-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-11-12-140038875-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "How I turn",
+      "Anthropic Announces IPO",
+      "Discord Fonts Explained"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include How I turn, Anthropic Announces IPO, Discord Fonts Explained. Productivity",
+    "tools": [
+      {
+        "name": "How I turn",
+        "slug": "how-i-turn",
+        "description": "That sounds simple until you see what video titles actually look like in the wild.</p> <p>A title can contain slashes, colons, question marks, quotes, emoji, and characters from half a dozen alphabets. I cut on a character boundary, never mid-character, and trim again so the name does not end on a dash.</p> <h2> Step four: the extension is mine, not theirs </h2> <p>The last rule is the one I care about most.",
+        "summary": "That sounds simple until you see what video titles actually look like in the wild.</p> <p>A title can contain slashes, colons, question marks, quotes, emoji, and characters from half a dozen alphabets. I cut on a character boundary, never mid-character, and trim again so the name does not end on a dash.</p> <h2> Step four: the extension is mine, not theirs </h2> <p>The last rule is the one I care about most.",
+        "link": "https://dev.to/mobeenahmedgondal/how-i-turn-messy-video-titles-into-safe-download-filenames-including-non-ascii-ones-4j4i",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-12T13:51:20.000Z",
+        "keywords": [
+          "php",
+          "webdev",
+          "tools",
+          "showdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "php",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for php",
+          "webdev-ready automation",
+          "Great for php"
+        ],
+        "cons": [
+          "Overkill for php experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for php experiments"
+        ],
+        "highlights": [
+          "Titles arrive from provider APIs as JSON strings, so the first job is to make sure I am working with real UTF-8 text, not double-encoded junk.",
+          "A bad title must never break a good download.</p> <h2> Step two: keep the language, drop the clutter </h2> <p>Here is where a lot of sanitisers go wrong.",
+          "It is a disaster if the title is in Urdu, Arabic, Chinese, or Russian, because the whole title disappears and the user gets a file called video.mp4."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Anthropic Announces IPO",
+        "slug": "anthropic-announces-ipo",
+        "description": "Businesses should not infer such changes from the filing alone.</p> <p>Still, the development is relevant because Anthropic is an AI company whose tools are used through products and developer services. The appropriate response is measured: keep production plans focused on current documented products and contracts, while monitoring official disclosures for material commercial or service changes.",
+        "summary": "Businesses should not infer such changes from the filing alone.</p> <p>Still, the development is relevant because Anthropic is an AI company whose tools are used through products and developer services. The appropriate response is measured: keep production plans focused on current documented products and contracts, while monitoring official disclosures for material commercial or service changes.",
+        "link": "https://dev.to/alifar/anthropic-announces-ipo-filing-with-key-offering-details-still-to-come-a6j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-12T13:45:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "claude",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The announcement confirms the company is pursuing a public offering, but it does not disclose the number of shares, expected price, proposed timing, exchange, or ticker symbol.",
+          "The appropriate response is measured: keep production plans focused on current documented products and contracts, while monitoring official disclosures for material commercial or service changes.",
+          "Decisions about model selection, workflow design, and supplier dependence should continue to rest on present requirements rather than assumptions about a prospective offering."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Discord Fonts Explained",
+        "slug": "discord-fonts-explained",
+        "description": "Unicode character support depends on the operating system, application, and available fonts on a device.</p> <p>Some decorative characters may appear as empty squares or display differently. <p><a href=\"https://discordfont.app/\" rel=\"noopener noreferrer\">Discord Font</a> is widely used for gaming communities, group conversations, and online collaboration.",
+        "summary": "Unicode character support depends on the operating system, application, and available fonts on a device.</p> <p>Some decorative characters may appear as empty squares or display differently. <p><a href=\"https://discordfont.app/\" rel=\"noopener noreferrer\">Discord Font</a> is widely used for gaming communities, group conversations, and online collaboration.",
+        "link": "https://dev.to/gilgit_baltistan_530d3bd1/discord-fonts-explained-how-to-customize-text-styles-using-unicode-characters-2mjl",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-12T13:36:07.000Z",
+        "keywords": [
+          "software",
+          "tools",
+          "dev",
+          "saas",
+          "productivity",
+          "discord"
+        ],
+        "useCases": [
+          "software",
+          "tools",
+          "dev"
+        ],
+        "pros": [
+          "Great for software",
+          "tools-ready automation",
+          "Great for software"
+        ],
+        "cons": [
+          "Overkill for software experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for software experiments"
+        ],
+        "highlights": [
+          "Unicode character support depends on the operating system, application, and available fonts on a device.</p> <p>Some decorative characters may appear as empty squares or display differently.",
+          "<p><a href=\"https://discordfont.app/\" rel=\"noopener noreferrer\">Discord Font</a> is widely used for gaming communities, group conversations, and online collaboration.",
+          "</h3> <p>Unicode is a standard that assigns unique codes to characters used across digital devices and platforms.</p> <p>Some Unicode characters look similar to letters in alternative font styles."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "RecToText: Free browser-based audio & video transcription",
+        "slug": "rectotext-free-browser-based-audio-video-transcription",
+        "description": "I built RecToText, a free online tool that converts audio and video recordings into text transcripts and subtitle files — entirely in the browser.",
+        "summary": "I built RecToText, a free online tool that converts audio and video recordings into text transcripts and subtitle files — entirely in the browser.",
+        "link": "https://dev.to/rectotext/rectotext-free-browser-based-audio-video-transcription-mp3mp4wavm4a-to-txtsrt-in-seconds-3pn7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-12T13:34:44.000Z",
+        "keywords": [
+          "ai",
+          "buildinpublic",
+          "showdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "buildinpublic",
+          "showdev"
+        ],
+        "pros": [
+          "Great for ai",
+          "buildinpublic-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for buildinpublic workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "I built RecToText, a free online tool that converts audio and video recordings into text transcripts and subtitle files — entirely in the browser."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Choosing an AI Model for Your SaaS",
+        "slug": "choosing-an-ai-model-for-your-saas",
+        "description": "For user-facing real-time features, latency matters as much as quality: measure time-to-first-token, not just total generation time.</li> <li>Vendor lock-in risk — Fine-tuned models cannot be migrated between providers. Ten-plus AI models evaluated for production use across four SaaS products, measuring accuracy, latency, cost, and reliability, produce a decision framework for choosing the right model for your specific use case.",
+        "summary": "For user-facing real-time features, latency matters as much as quality: measure time-to-first-token, not just total generation time.</li> <li>Vendor lock-in risk — Fine-tuned models cannot be migrated between providers. Ten-plus AI models evaluated for production use across four SaaS products, measuring accuracy, latency, cost, and reliability, produce a decision framework for choosing the right model for your specific use case.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/choosing-an-ai-model-for-your-saas-a-cost-first-framework-21j9",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-12T13:16:39.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "For internal automation tools (data extraction, report generation, email classification), use GPT-5.4 Mini or Claude Sonnet 4—they are fast and cheap enough for batched processing.",
+          "For internal automation tools (data extraction, report generation, email classification), use GPT-5.4 Mini or Claude Sonnet 4—they are fast and cheap enough for batched processing.",
+          "For chat applications, use conversation routing—simple queries use the cheap model, while complex multi-turn conversations escalate to the flagship model after the third user message."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-11-12T14:00:38.875Z",
+    "lastUpdated": "2026-11-12T14:00:38.875Z",
+    "visibleDate": "Nov 12, 2026",
+    "url": "pages/2026-11-12-140038875-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-11-12-140038875-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "How I turn",
+      "Anthropic Announces IPO",
+      "Discord Fonts Explained"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include How I turn, Anthropic Announces IPO, Discord Fonts Explained. Reli",
+    "tools": [
+      {
+        "name": "How I turn",
+        "slug": "how-i-turn",
+        "description": "That sounds simple until you see what video titles actually look like in the wild.</p> <p>A title can contain slashes, colons, question marks, quotes, emoji, and characters from half a dozen alphabets. I cut on a character boundary, never mid-character, and trim again so the name does not end on a dash.</p> <h2> Step four: the extension is mine, not theirs </h2> <p>The last rule is the one I care about most.",
+        "summary": "That sounds simple until you see what video titles actually look like in the wild.</p> <p>A title can contain slashes, colons, question marks, quotes, emoji, and characters from half a dozen alphabets. I cut on a character boundary, never mid-character, and trim again so the name does not end on a dash.</p> <h2> Step four: the extension is mine, not theirs </h2> <p>The last rule is the one I care about most.",
+        "link": "https://dev.to/mobeenahmedgondal/how-i-turn-messy-video-titles-into-safe-download-filenames-including-non-ascii-ones-4j4i",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-12T13:51:20.000Z",
+        "keywords": [
+          "php",
+          "webdev",
+          "tools",
+          "showdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "php",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for php",
+          "webdev-ready automation",
+          "Great for php"
+        ],
+        "cons": [
+          "Overkill for php experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for php experiments"
+        ],
+        "highlights": [
+          "Titles arrive from provider APIs as JSON strings, so the first job is to make sure I am working with real UTF-8 text, not double-encoded junk.",
+          "A bad title must never break a good download.</p> <h2> Step two: keep the language, drop the clutter </h2> <p>Here is where a lot of sanitisers go wrong.",
+          "It is a disaster if the title is in Urdu, Arabic, Chinese, or Russian, because the whole title disappears and the user gets a file called video.mp4."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Anthropic Announces IPO",
+        "slug": "anthropic-announces-ipo",
+        "description": "Businesses should not infer such changes from the filing alone.</p> <p>Still, the development is relevant because Anthropic is an AI company whose tools are used through products and developer services. The appropriate response is measured: keep production plans focused on current documented products and contracts, while monitoring official disclosures for material commercial or service changes.",
+        "summary": "Businesses should not infer such changes from the filing alone.</p> <p>Still, the development is relevant because Anthropic is an AI company whose tools are used through products and developer services. The appropriate response is measured: keep production plans focused on current documented products and contracts, while monitoring official disclosures for material commercial or service changes.",
+        "link": "https://dev.to/alifar/anthropic-announces-ipo-filing-with-key-offering-details-still-to-come-a6j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-12T13:45:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "claude",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The announcement confirms the company is pursuing a public offering, but it does not disclose the number of shares, expected price, proposed timing, exchange, or ticker symbol.",
+          "The appropriate response is measured: keep production plans focused on current documented products and contracts, while monitoring official disclosures for material commercial or service changes.",
+          "Decisions about model selection, workflow design, and supplier dependence should continue to rest on present requirements rather than assumptions about a prospective offering."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Discord Fonts Explained",
+        "slug": "discord-fonts-explained",
+        "description": "Unicode character support depends on the operating system, application, and available fonts on a device.</p> <p>Some decorative characters may appear as empty squares or display differently. <p><a href=\"https://discordfont.app/\" rel=\"noopener noreferrer\">Discord Font</a> is widely used for gaming communities, group conversations, and online collaboration.",
+        "summary": "Unicode character support depends on the operating system, application, and available fonts on a device.</p> <p>Some decorative characters may appear as empty squares or display differently. <p><a href=\"https://discordfont.app/\" rel=\"noopener noreferrer\">Discord Font</a> is widely used for gaming communities, group conversations, and online collaboration.",
+        "link": "https://dev.to/gilgit_baltistan_530d3bd1/discord-fonts-explained-how-to-customize-text-styles-using-unicode-characters-2mjl",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-12T13:36:07.000Z",
+        "keywords": [
+          "software",
+          "tools",
+          "dev",
+          "saas",
+          "productivity",
+          "discord"
+        ],
+        "useCases": [
+          "software",
+          "tools",
+          "dev"
+        ],
+        "pros": [
+          "Great for software",
+          "tools-ready automation",
+          "Great for software"
+        ],
+        "cons": [
+          "Overkill for software experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for software experiments"
+        ],
+        "highlights": [
+          "Unicode character support depends on the operating system, application, and available fonts on a device.</p> <p>Some decorative characters may appear as empty squares or display differently.",
+          "<p><a href=\"https://discordfont.app/\" rel=\"noopener noreferrer\">Discord Font</a> is widely used for gaming communities, group conversations, and online collaboration.",
+          "</h3> <p>Unicode is a standard that assigns unique codes to characters used across digital devices and platforms.</p> <p>Some Unicode characters look similar to letters in alternative font styles."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "RecToText: Free browser-based audio & video transcription",
+        "slug": "rectotext-free-browser-based-audio-video-transcription",
+        "description": "I built RecToText, a free online tool that converts audio and video recordings into text transcripts and subtitle files — entirely in the browser.",
+        "summary": "I built RecToText, a free online tool that converts audio and video recordings into text transcripts and subtitle files — entirely in the browser.",
+        "link": "https://dev.to/rectotext/rectotext-free-browser-based-audio-video-transcription-mp3mp4wavm4a-to-txtsrt-in-seconds-3pn7",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-12T13:34:44.000Z",
+        "keywords": [
+          "ai",
+          "buildinpublic",
+          "showdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "buildinpublic",
+          "showdev"
+        ],
+        "pros": [
+          "Great for ai",
+          "buildinpublic-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for buildinpublic workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "I built RecToText, a free online tool that converts audio and video recordings into text transcripts and subtitle files — entirely in the browser."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-11-12T14:00:38.875Z",
+    "lastUpdated": "2026-11-12T14:00:38.875Z",
+    "visibleDate": "Nov 12, 2026",
+    "url": "pages/2026-11-12-140038875-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-11-12-140038875-gitpod-vscode-comparison.md",
+    "categories": [],
+    "toolHighlights": [
+      "How I turn",
+      "Anthropic Announces IPO"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include How I turn, Anthropic Announces IPO. Gitpod bring",
+    "tools": [
+      {
+        "name": "How I turn",
+        "slug": "how-i-turn",
+        "description": "That sounds simple until you see what video titles actually look like in the wild.</p> <p>A title can contain slashes, colons, question marks, quotes, emoji, and characters from half a dozen alphabets. I cut on a character boundary, never mid-character, and trim again so the name does not end on a dash.</p> <h2> Step four: the extension is mine, not theirs </h2> <p>The last rule is the one I care about most.",
+        "summary": "That sounds simple until you see what video titles actually look like in the wild.</p> <p>A title can contain slashes, colons, question marks, quotes, emoji, and characters from half a dozen alphabets. I cut on a character boundary, never mid-character, and trim again so the name does not end on a dash.</p> <h2> Step four: the extension is mine, not theirs </h2> <p>The last rule is the one I care about most.",
+        "link": "https://dev.to/mobeenahmedgondal/how-i-turn-messy-video-titles-into-safe-download-filenames-including-non-ascii-ones-4j4i",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-12T13:51:20.000Z",
+        "keywords": [
+          "php",
+          "webdev",
+          "tools",
+          "showdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "php",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for php",
+          "webdev-ready automation",
+          "Great for php"
+        ],
+        "cons": [
+          "Overkill for php experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for php experiments"
+        ],
+        "highlights": [
+          "Titles arrive from provider APIs as JSON strings, so the first job is to make sure I am working with real UTF-8 text, not double-encoded junk.",
+          "A bad title must never break a good download.</p> <h2> Step two: keep the language, drop the clutter </h2> <p>Here is where a lot of sanitisers go wrong.",
+          "It is a disaster if the title is in Urdu, Arabic, Chinese, or Russian, because the whole title disappears and the user gets a file called video.mp4."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Anthropic Announces IPO",
+        "slug": "anthropic-announces-ipo",
+        "description": "Businesses should not infer such changes from the filing alone.</p> <p>Still, the development is relevant because Anthropic is an AI company whose tools are used through products and developer services. The appropriate response is measured: keep production plans focused on current documented products and contracts, while monitoring official disclosures for material commercial or service changes.",
+        "summary": "Businesses should not infer such changes from the filing alone.</p> <p>Still, the development is relevant because Anthropic is an AI company whose tools are used through products and developer services. The appropriate response is measured: keep production plans focused on current documented products and contracts, while monitoring official disclosures for material commercial or service changes.",
+        "link": "https://dev.to/alifar/anthropic-announces-ipo-filing-with-key-offering-details-still-to-come-a6j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-12T13:45:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "claude",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The announcement confirms the company is pursuing a public offering, but it does not disclose the number of shares, expected price, proposed timing, exchange, or ticker symbol.",
+          "The appropriate response is measured: keep production plans focused on current documented products and contracts, while monitoring official disclosures for material commercial or service changes.",
+          "Decisions about model selection, workflow design, and supplier dependence should continue to rest on present requirements rather than assumptions about a prospective offering."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-11-12T14:00:38.875Z",
+    "lastUpdated": "2026-11-12T14:00:38.875Z",
+    "visibleDate": "Nov 12, 2026",
+    "url": "pages/2026-11-12-140038875-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-11-12-140038875-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "How I turn",
+      "Anthropic Announces IPO",
+      "Discord Fonts Explained"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include How I turn, Anthropic Announces IPO, Discord Fonts Explained. New launch",
+    "tools": [
+      {
+        "name": "How I turn",
+        "slug": "how-i-turn",
+        "description": "That sounds simple until you see what video titles actually look like in the wild.</p> <p>A title can contain slashes, colons, question marks, quotes, emoji, and characters from half a dozen alphabets. I cut on a character boundary, never mid-character, and trim again so the name does not end on a dash.</p> <h2> Step four: the extension is mine, not theirs </h2> <p>The last rule is the one I care about most.",
+        "summary": "That sounds simple until you see what video titles actually look like in the wild.</p> <p>A title can contain slashes, colons, question marks, quotes, emoji, and characters from half a dozen alphabets. I cut on a character boundary, never mid-character, and trim again so the name does not end on a dash.</p> <h2> Step four: the extension is mine, not theirs </h2> <p>The last rule is the one I care about most.",
+        "link": "https://dev.to/mobeenahmedgondal/how-i-turn-messy-video-titles-into-safe-download-filenames-including-non-ascii-ones-4j4i",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-12T13:51:20.000Z",
+        "keywords": [
+          "php",
+          "webdev",
+          "tools",
+          "showdev",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "php",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for php",
+          "webdev-ready automation",
+          "Great for php"
+        ],
+        "cons": [
+          "Overkill for php experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for php experiments"
+        ],
+        "highlights": [
+          "Titles arrive from provider APIs as JSON strings, so the first job is to make sure I am working with real UTF-8 text, not double-encoded junk.",
+          "A bad title must never break a good download.</p> <h2> Step two: keep the language, drop the clutter </h2> <p>Here is where a lot of sanitisers go wrong.",
+          "It is a disaster if the title is in Urdu, Arabic, Chinese, or Russian, because the whole title disappears and the user gets a file called video.mp4."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Anthropic Announces IPO",
+        "slug": "anthropic-announces-ipo",
+        "description": "Businesses should not infer such changes from the filing alone.</p> <p>Still, the development is relevant because Anthropic is an AI company whose tools are used through products and developer services. The appropriate response is measured: keep production plans focused on current documented products and contracts, while monitoring official disclosures for material commercial or service changes.",
+        "summary": "Businesses should not infer such changes from the filing alone.</p> <p>Still, the development is relevant because Anthropic is an AI company whose tools are used through products and developer services. The appropriate response is measured: keep production plans focused on current documented products and contracts, while monitoring official disclosures for material commercial or service changes.",
+        "link": "https://dev.to/alifar/anthropic-announces-ipo-filing-with-key-offering-details-still-to-come-a6j",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-12T13:45:30.000Z",
+        "keywords": [
+          "ai",
+          "automation",
+          "tools",
+          "claude",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "automation",
+          "tools"
+        ],
+        "pros": [
+          "Great for ai",
+          "automation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for automation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "The announcement confirms the company is pursuing a public offering, but it does not disclose the number of shares, expected price, proposed timing, exchange, or ticker symbol.",
+          "The appropriate response is measured: keep production plans focused on current documented products and contracts, while monitoring official disclosures for material commercial or service changes.",
+          "Decisions about model selection, workflow design, and supplier dependence should continue to rest on present requirements rather than assumptions about a prospective offering."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Discord Fonts Explained",
+        "slug": "discord-fonts-explained",
+        "description": "Unicode character support depends on the operating system, application, and available fonts on a device.</p> <p>Some decorative characters may appear as empty squares or display differently. <p><a href=\"https://discordfont.app/\" rel=\"noopener noreferrer\">Discord Font</a> is widely used for gaming communities, group conversations, and online collaboration.",
+        "summary": "Unicode character support depends on the operating system, application, and available fonts on a device.</p> <p>Some decorative characters may appear as empty squares or display differently. <p><a href=\"https://discordfont.app/\" rel=\"noopener noreferrer\">Discord Font</a> is widely used for gaming communities, group conversations, and online collaboration.",
+        "link": "https://dev.to/gilgit_baltistan_530d3bd1/discord-fonts-explained-how-to-customize-text-styles-using-unicode-characters-2mjl",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-12T13:36:07.000Z",
+        "keywords": [
+          "software",
+          "tools",
+          "dev",
+          "saas",
+          "productivity",
+          "discord"
+        ],
+        "useCases": [
+          "software",
+          "tools",
+          "dev"
+        ],
+        "pros": [
+          "Great for software",
+          "tools-ready automation",
+          "Great for software"
+        ],
+        "cons": [
+          "Overkill for software experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for software experiments"
+        ],
+        "highlights": [
+          "Unicode character support depends on the operating system, application, and available fonts on a device.</p> <p>Some decorative characters may appear as empty squares or display differently.",
+          "<p><a href=\"https://discordfont.app/\" rel=\"noopener noreferrer\">Discord Font</a> is widely used for gaming communities, group conversations, and online collaboration.",
+          "</h3> <p>Unicode is a standard that assigns unique codes to characters used across digital devices and platforms.</p> <p>Some Unicode characters look similar to letters in alternative font styles."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-11-11T12:59:25.984Z",
     "lastUpdated": "2026-11-11T12:59:25.984Z",
     "visibleDate": "Nov 11, 2026",

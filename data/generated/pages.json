@@ -7,6 +7,703 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-11-13T13:27:51.268Z",
+    "lastUpdated": "2026-11-13T13:27:51.268Z",
+    "visibleDate": "Nov 13, 2026",
+    "url": "pages/2026-11-13-132751268-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-11-13-132751268-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "HyperDX Review 2026",
+      "Next.js vs Nuxt",
+      "Where did my"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include HyperDX Review 2026, Next.js vs Nuxt, Where did my. Productivity stacks th",
+    "tools": [
+      {
+        "name": "HyperDX Review 2026",
+        "slug": "hyperdx-review-2026",
+        "description": "A representative self-hosted deployment for a small team: a ~$60/month dedicated server (32GB RAM, 8 cores, 500GB NVMe), handling roughly 5GB of logs per day from two services plus frontend session recordings. You're paying for the server it runs on (a decent VM costs $50-100/month) and your own time maintaining it.</p> <p>Feature-wise, Datadog has more integrations, better APM, and a more mature alerting system.",
+        "summary": "A representative self-hosted deployment for a small team: a ~$60/month dedicated server (32GB RAM, 8 cores, 500GB NVMe), handling roughly 5GB of logs per day from two services plus frontend session recordings. You're paying for the server it runs on (a decent VM costs $50-100/month) and your own time maintaining it.</p> <p>Feature-wise, Datadog has more integrations, better APM, and a more mature alerting system.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/hyperdx-review-2026-open-source-observability-270g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-13T13:11:09.000Z",
+        "keywords": [
+          "devops",
+          "webdev",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devops",
+          "webdev",
+          "programming"
+        ],
+        "pros": [
+          "Great for devops",
+          "webdev-ready automation",
+          "Great for devops"
+        ],
+        "cons": [
+          "Overkill for devops experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for devops experiments"
+        ],
+        "highlights": [
+          "No Helm charts, no Kubernetes operator, no \"please configure your fleet of 14 microservices first.\" You pull the repo, run docker compose up, and you've got a working observability stack.",
+          "Open source observability tools have a track record of being either half-baked or requiring a PhD in YAML to configure, so skepticism was warranted.",
+          "HyperDX's alerting is basic — you can set up threshold alerts on log patterns and metrics, but don't expect the ML-powered anomaly detection Datadog offers."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Next.js vs Nuxt",
+        "slug": "next-js-vs-nuxt",
+        "description": "Project Type Recommended Why E-commerce / Marketplace Next.js Largest plugin ecosystem, mature payment integrations, best SEO tooling Content Site / Blog Next.js or Nuxt Both have excellent SSG/ISR. Hire later, ship now Enterprise / Large Team Next.js Best hiring pool, TypeScript ecosystem, Vercel support SLAs Vue-competent Team Nuxt Why switch?",
+        "summary": "Project Type Recommended Why E-commerce / Marketplace Next.js Largest plugin ecosystem, mature payment integrations, best SEO tooling Content Site / Blog Next.js or Nuxt Both have excellent SSG/ISR. Hire later, ship now Enterprise / Large Team Next.js Best hiring pool, TypeScript ecosystem, Vercel support SLAs Vue-competent Team Nuxt Why switch?",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/nextjs-vs-nuxt-vs-sveltekit-in-2026-4eie",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-13T13:05:49.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Project Type Recommended Why E-commerce / Marketplace Next.js Largest plugin ecosystem, mature payment integrations, best SEO tooling Content Site / Blog Next.js or Nuxt Both have excellent SSG/ISR.",
+          "Hire later, ship now Enterprise / Large Team Next.js Best hiring pool, TypeScript ecosystem, Vercel support SLAs Vue-competent Team Nuxt Why switch?",
+          "Runes reactivity (Svelte 5) replaces the old $: labels with a more explicit signal-based system, making SvelteKit even more approachable for developers coming from React or Vue."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Where did my",
+        "slug": "where-did-my",
+        "description": "Ask a Page admin to check yours.</li> <li> <strong>Another scheduler holds it.</strong> Tools that keep posts in their own queue hand them to Facebook only at publish time, so Meta shows nothing until then. That works for feed posts only (not Reels or Stories) and up to 30 days ahead.</p> <p>With several Pages, run the same two requests per client team to list and move each queue without opening Business Suite.",
+        "summary": "Ask a Page admin to check yours.</li> <li> <strong>Another scheduler holds it.</strong> Tools that keep posts in their own queue hand them to Facebook only at publish time, so Meta shows nothing until then. That works for feed posts only (not Reels or Stories) and up to 30 days ahead.</p> <p>With several Pages, run the same two requests per client team to list and move each queue without opening Business Suite.",
+        "link": "https://dev.to/marcel-bundle/where-did-my-scheduled-facebook-post-go-finding-and-editing-scheduled-posts-in-meta-b1b",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-13T13:03:12.000Z",
+        "keywords": [
+          "productivity",
+          "socialmedia",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "productivity",
+          "socialmedia",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "socialmedia-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for socialmedia workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "This post covers both cases: the Meta Business Suite and Facebook app UI for posts Meta holds, and the API side for posts that wait in a scheduler's queue until publish time.",
+          "Open the post from Content > Scheduled or from the Planner, then use its menu: New time: choose the reschedule option, pick a date and time, confirm.",
+          "And Meta's help center documents scheduling only for Pages and for profiles in professional mode, with profile scheduling described as a mobile feature."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "SendGrid ended its free plan",
+        "slug": "sendgrid-ended-its-free-plan",
+        "description": "On the Email API pricing page, checked Nov 2, 2026, there is a 60-day free trial with 100 emails per day, no card, and the first paid plan, Essentials, starts at $19.95/month. On the Email API pricing page, checked Nov 2, 2026, there is a 60-day free trial with 100 emails per day, no card, and the first paid plan, Essentials, starts at $19.95/month.",
+        "summary": "On the Email API pricing page, checked Nov 2, 2026, there is a 60-day free trial with 100 emails per day, no card, and the first paid plan, Essentials, starts at $19.95/month. On the Email API pricing page, checked Nov 2, 2026, there is a 60-day free trial with 100 emails per day, no card, and the first paid plan, Essentials, starts at $19.95/month.",
+        "link": "https://dev.to/cendyandreoli/sendgrid-ended-its-free-plan-free-email-api-alternatives-with-real-limits-2026-1be",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-13T13:02:47.000Z",
+        "keywords": [
+          "api",
+          "saas",
+          "tools",
+          "webdev",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "api",
+          "saas",
+          "tools"
+        ],
+        "pros": [
+          "Great for api",
+          "saas-ready automation",
+          "Great for api"
+        ],
+        "cons": [
+          "Overkill for api experiments",
+          "Needs extra setup for saas workflows",
+          "Overkill for api experiments"
+        ],
+        "highlights": [
+          "On the Email API pricing page, checked Nov 2, 2026, there is a 60-day free trial with 100 emails per day, no card, and the first paid plan, Essentials, starts at $19.95/month.",
+          "On the Email API pricing page, checked Nov 2, 2026, there is a 60-day free trial with 100 emails per day, no card, and the first paid plan, Essentials, starts at $19.95/month.",
+          "If your app uses SMTP, you change host, user and password and keep your sending code: Create the account and verify your sending domain (publish the SPF and DKIM records)."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "OpenClaw Review 2026",
+        "slug": "openclaw-review-2026",
+        "description": "You connect it to messaging platforms (Signal, Telegram, Discord, Feishu), give it access to tools (web search, file system, calendar, shell commands), and it acts as your always-on assistant. A self-hosted deployment runs on a ~$10/month VPS with Ubuntu 24.04, connects to Telegram and Discord, and is configured with built-in tools plus custom skills for project management and code reviews.",
+        "summary": "You connect it to messaging platforms (Signal, Telegram, Discord, Feishu), give it access to tools (web search, file system, calendar, shell commands), and it acts as your always-on assistant. A self-hosted deployment runs on a ~$10/month VPS with Ubuntu 24.04, connects to Telegram and Discord, and is configured with built-in tools plus custom skills for project management and code reviews.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/openclaw-review-2026-a-cross-platform-ai-assistant-3723",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-13T13:00:29.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "You connect it to messaging platforms (Signal, Telegram, Discord, Feishu), give it access to tools (web search, file system, calendar, shell commands), and it acts as your always-on assistant.",
+          "Claude Code vs Cursor vs Windsurf 2026: Best AI Coding Agent Compared Claude vs ChatGPT vs Gemini vs Perplexity: Best AI Chatbot 2026 Related reading on PikVue: Why Do Long-Running AI Agents Forget?",
+          "You connect it to messaging platforms (Signal, Telegram, Discord, Feishu), give it access to tools (web search, file system, calendar, shell commands), and it acts as your always-on assistant."
+        ],
+        "pricing": "Open source / self-hosted",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-11-13T13:27:51.268Z",
+    "lastUpdated": "2026-11-13T13:27:51.268Z",
+    "visibleDate": "Nov 13, 2026",
+    "url": "pages/2026-11-13-132751268-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-11-13-132751268-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "HyperDX Review 2026",
+      "Next.js vs Nuxt",
+      "Where did my"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include HyperDX Review 2026, Next.js vs Nuxt, Where did my. Reliable remot",
+    "tools": [
+      {
+        "name": "HyperDX Review 2026",
+        "slug": "hyperdx-review-2026",
+        "description": "A representative self-hosted deployment for a small team: a ~$60/month dedicated server (32GB RAM, 8 cores, 500GB NVMe), handling roughly 5GB of logs per day from two services plus frontend session recordings. You're paying for the server it runs on (a decent VM costs $50-100/month) and your own time maintaining it.</p> <p>Feature-wise, Datadog has more integrations, better APM, and a more mature alerting system.",
+        "summary": "A representative self-hosted deployment for a small team: a ~$60/month dedicated server (32GB RAM, 8 cores, 500GB NVMe), handling roughly 5GB of logs per day from two services plus frontend session recordings. You're paying for the server it runs on (a decent VM costs $50-100/month) and your own time maintaining it.</p> <p>Feature-wise, Datadog has more integrations, better APM, and a more mature alerting system.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/hyperdx-review-2026-open-source-observability-270g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-13T13:11:09.000Z",
+        "keywords": [
+          "devops",
+          "webdev",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devops",
+          "webdev",
+          "programming"
+        ],
+        "pros": [
+          "Great for devops",
+          "webdev-ready automation",
+          "Great for devops"
+        ],
+        "cons": [
+          "Overkill for devops experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for devops experiments"
+        ],
+        "highlights": [
+          "No Helm charts, no Kubernetes operator, no \"please configure your fleet of 14 microservices first.\" You pull the repo, run docker compose up, and you've got a working observability stack.",
+          "Open source observability tools have a track record of being either half-baked or requiring a PhD in YAML to configure, so skepticism was warranted.",
+          "HyperDX's alerting is basic — you can set up threshold alerts on log patterns and metrics, but don't expect the ML-powered anomaly detection Datadog offers."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Next.js vs Nuxt",
+        "slug": "next-js-vs-nuxt",
+        "description": "Project Type Recommended Why E-commerce / Marketplace Next.js Largest plugin ecosystem, mature payment integrations, best SEO tooling Content Site / Blog Next.js or Nuxt Both have excellent SSG/ISR. Hire later, ship now Enterprise / Large Team Next.js Best hiring pool, TypeScript ecosystem, Vercel support SLAs Vue-competent Team Nuxt Why switch?",
+        "summary": "Project Type Recommended Why E-commerce / Marketplace Next.js Largest plugin ecosystem, mature payment integrations, best SEO tooling Content Site / Blog Next.js or Nuxt Both have excellent SSG/ISR. Hire later, ship now Enterprise / Large Team Next.js Best hiring pool, TypeScript ecosystem, Vercel support SLAs Vue-competent Team Nuxt Why switch?",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/nextjs-vs-nuxt-vs-sveltekit-in-2026-4eie",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-13T13:05:49.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Project Type Recommended Why E-commerce / Marketplace Next.js Largest plugin ecosystem, mature payment integrations, best SEO tooling Content Site / Blog Next.js or Nuxt Both have excellent SSG/ISR.",
+          "Hire later, ship now Enterprise / Large Team Next.js Best hiring pool, TypeScript ecosystem, Vercel support SLAs Vue-competent Team Nuxt Why switch?",
+          "Runes reactivity (Svelte 5) replaces the old $: labels with a more explicit signal-based system, making SvelteKit even more approachable for developers coming from React or Vue."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Where did my",
+        "slug": "where-did-my",
+        "description": "Ask a Page admin to check yours.</li> <li> <strong>Another scheduler holds it.</strong> Tools that keep posts in their own queue hand them to Facebook only at publish time, so Meta shows nothing until then. That works for feed posts only (not Reels or Stories) and up to 30 days ahead.</p> <p>With several Pages, run the same two requests per client team to list and move each queue without opening Business Suite.",
+        "summary": "Ask a Page admin to check yours.</li> <li> <strong>Another scheduler holds it.</strong> Tools that keep posts in their own queue hand them to Facebook only at publish time, so Meta shows nothing until then. That works for feed posts only (not Reels or Stories) and up to 30 days ahead.</p> <p>With several Pages, run the same two requests per client team to list and move each queue without opening Business Suite.",
+        "link": "https://dev.to/marcel-bundle/where-did-my-scheduled-facebook-post-go-finding-and-editing-scheduled-posts-in-meta-b1b",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-13T13:03:12.000Z",
+        "keywords": [
+          "productivity",
+          "socialmedia",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "productivity",
+          "socialmedia",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "socialmedia-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for socialmedia workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "This post covers both cases: the Meta Business Suite and Facebook app UI for posts Meta holds, and the API side for posts that wait in a scheduler's queue until publish time.",
+          "Open the post from Content > Scheduled or from the Planner, then use its menu: New time: choose the reschedule option, pick a date and time, confirm.",
+          "And Meta's help center documents scheduling only for Pages and for profiles in professional mode, with profile scheduling described as a mobile feature."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "SendGrid ended its free plan",
+        "slug": "sendgrid-ended-its-free-plan",
+        "description": "On the Email API pricing page, checked Nov 2, 2026, there is a 60-day free trial with 100 emails per day, no card, and the first paid plan, Essentials, starts at $19.95/month. On the Email API pricing page, checked Nov 2, 2026, there is a 60-day free trial with 100 emails per day, no card, and the first paid plan, Essentials, starts at $19.95/month.",
+        "summary": "On the Email API pricing page, checked Nov 2, 2026, there is a 60-day free trial with 100 emails per day, no card, and the first paid plan, Essentials, starts at $19.95/month. On the Email API pricing page, checked Nov 2, 2026, there is a 60-day free trial with 100 emails per day, no card, and the first paid plan, Essentials, starts at $19.95/month.",
+        "link": "https://dev.to/cendyandreoli/sendgrid-ended-its-free-plan-free-email-api-alternatives-with-real-limits-2026-1be",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-13T13:02:47.000Z",
+        "keywords": [
+          "api",
+          "saas",
+          "tools",
+          "webdev",
+          "dev",
+          "software"
+        ],
+        "useCases": [
+          "api",
+          "saas",
+          "tools"
+        ],
+        "pros": [
+          "Great for api",
+          "saas-ready automation",
+          "Great for api"
+        ],
+        "cons": [
+          "Overkill for api experiments",
+          "Needs extra setup for saas workflows",
+          "Overkill for api experiments"
+        ],
+        "highlights": [
+          "On the Email API pricing page, checked Nov 2, 2026, there is a 60-day free trial with 100 emails per day, no card, and the first paid plan, Essentials, starts at $19.95/month.",
+          "On the Email API pricing page, checked Nov 2, 2026, there is a 60-day free trial with 100 emails per day, no card, and the first paid plan, Essentials, starts at $19.95/month.",
+          "If your app uses SMTP, you change host, user and password and keep your sending code: Create the account and verify your sending domain (publish the SPF and DKIM records)."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-11-13T13:27:51.268Z",
+    "lastUpdated": "2026-11-13T13:27:51.268Z",
+    "visibleDate": "Nov 13, 2026",
+    "url": "pages/2026-11-13-132751268-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-11-13-132751268-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "HyperDX Review 2026",
+      "Next.js vs Nuxt"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include HyperDX Review 2026, Next.js vs Nuxt. Gitpod brin",
+    "tools": [
+      {
+        "name": "HyperDX Review 2026",
+        "slug": "hyperdx-review-2026",
+        "description": "A representative self-hosted deployment for a small team: a ~$60/month dedicated server (32GB RAM, 8 cores, 500GB NVMe), handling roughly 5GB of logs per day from two services plus frontend session recordings. You're paying for the server it runs on (a decent VM costs $50-100/month) and your own time maintaining it.</p> <p>Feature-wise, Datadog has more integrations, better APM, and a more mature alerting system.",
+        "summary": "A representative self-hosted deployment for a small team: a ~$60/month dedicated server (32GB RAM, 8 cores, 500GB NVMe), handling roughly 5GB of logs per day from two services plus frontend session recordings. You're paying for the server it runs on (a decent VM costs $50-100/month) and your own time maintaining it.</p> <p>Feature-wise, Datadog has more integrations, better APM, and a more mature alerting system.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/hyperdx-review-2026-open-source-observability-270g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-13T13:11:09.000Z",
+        "keywords": [
+          "devops",
+          "webdev",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devops",
+          "webdev",
+          "programming"
+        ],
+        "pros": [
+          "Great for devops",
+          "webdev-ready automation",
+          "Great for devops"
+        ],
+        "cons": [
+          "Overkill for devops experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for devops experiments"
+        ],
+        "highlights": [
+          "No Helm charts, no Kubernetes operator, no \"please configure your fleet of 14 microservices first.\" You pull the repo, run docker compose up, and you've got a working observability stack.",
+          "Open source observability tools have a track record of being either half-baked or requiring a PhD in YAML to configure, so skepticism was warranted.",
+          "HyperDX's alerting is basic — you can set up threshold alerts on log patterns and metrics, but don't expect the ML-powered anomaly detection Datadog offers."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Next.js vs Nuxt",
+        "slug": "next-js-vs-nuxt",
+        "description": "Project Type Recommended Why E-commerce / Marketplace Next.js Largest plugin ecosystem, mature payment integrations, best SEO tooling Content Site / Blog Next.js or Nuxt Both have excellent SSG/ISR. Hire later, ship now Enterprise / Large Team Next.js Best hiring pool, TypeScript ecosystem, Vercel support SLAs Vue-competent Team Nuxt Why switch?",
+        "summary": "Project Type Recommended Why E-commerce / Marketplace Next.js Largest plugin ecosystem, mature payment integrations, best SEO tooling Content Site / Blog Next.js or Nuxt Both have excellent SSG/ISR. Hire later, ship now Enterprise / Large Team Next.js Best hiring pool, TypeScript ecosystem, Vercel support SLAs Vue-competent Team Nuxt Why switch?",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/nextjs-vs-nuxt-vs-sveltekit-in-2026-4eie",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-13T13:05:49.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Project Type Recommended Why E-commerce / Marketplace Next.js Largest plugin ecosystem, mature payment integrations, best SEO tooling Content Site / Blog Next.js or Nuxt Both have excellent SSG/ISR.",
+          "Hire later, ship now Enterprise / Large Team Next.js Best hiring pool, TypeScript ecosystem, Vercel support SLAs Vue-competent Team Nuxt Why switch?",
+          "Runes reactivity (Svelte 5) replaces the old $: labels with a more explicit signal-based system, making SvelteKit even more approachable for developers coming from React or Vue."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-11-13T13:27:51.268Z",
+    "lastUpdated": "2026-11-13T13:27:51.268Z",
+    "visibleDate": "Nov 13, 2026",
+    "url": "pages/2026-11-13-132751268-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-11-13-132751268-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      },
+      {
+        "slug": "ci-cd",
+        "name": "CI/CD"
+      }
+    ],
+    "toolHighlights": [
+      "HyperDX Review 2026",
+      "Next.js vs Nuxt",
+      "Where did my"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include HyperDX Review 2026, Next.js vs Nuxt, Where did my. New launches that ar",
+    "tools": [
+      {
+        "name": "HyperDX Review 2026",
+        "slug": "hyperdx-review-2026",
+        "description": "A representative self-hosted deployment for a small team: a ~$60/month dedicated server (32GB RAM, 8 cores, 500GB NVMe), handling roughly 5GB of logs per day from two services plus frontend session recordings. You're paying for the server it runs on (a decent VM costs $50-100/month) and your own time maintaining it.</p> <p>Feature-wise, Datadog has more integrations, better APM, and a more mature alerting system.",
+        "summary": "A representative self-hosted deployment for a small team: a ~$60/month dedicated server (32GB RAM, 8 cores, 500GB NVMe), handling roughly 5GB of logs per day from two services plus frontend session recordings. You're paying for the server it runs on (a decent VM costs $50-100/month) and your own time maintaining it.</p> <p>Feature-wise, Datadog has more integrations, better APM, and a more mature alerting system.",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/hyperdx-review-2026-open-source-observability-270g",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-13T13:11:09.000Z",
+        "keywords": [
+          "devops",
+          "webdev",
+          "programming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "devops",
+          "webdev",
+          "programming"
+        ],
+        "pros": [
+          "Great for devops",
+          "webdev-ready automation",
+          "Great for devops"
+        ],
+        "cons": [
+          "Overkill for devops experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for devops experiments"
+        ],
+        "highlights": [
+          "No Helm charts, no Kubernetes operator, no \"please configure your fleet of 14 microservices first.\" You pull the repo, run docker compose up, and you've got a working observability stack.",
+          "Open source observability tools have a track record of being either half-baked or requiring a PhD in YAML to configure, so skepticism was warranted.",
+          "HyperDX's alerting is basic — you can set up threshold alerts on log patterns and metrics, but don't expect the ML-powered anomaly detection Datadog offers."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Next.js vs Nuxt",
+        "slug": "next-js-vs-nuxt",
+        "description": "Project Type Recommended Why E-commerce / Marketplace Next.js Largest plugin ecosystem, mature payment integrations, best SEO tooling Content Site / Blog Next.js or Nuxt Both have excellent SSG/ISR. Hire later, ship now Enterprise / Large Team Next.js Best hiring pool, TypeScript ecosystem, Vercel support SLAs Vue-competent Team Nuxt Why switch?",
+        "summary": "Project Type Recommended Why E-commerce / Marketplace Next.js Largest plugin ecosystem, mature payment integrations, best SEO tooling Content Site / Blog Next.js or Nuxt Both have excellent SSG/ISR. Hire later, ship now Enterprise / Large Team Next.js Best hiring pool, TypeScript ecosystem, Vercel support SLAs Vue-competent Team Nuxt Why switch?",
+        "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/nextjs-vs-nuxt-vs-sveltekit-in-2026-4eie",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-13T13:05:49.000Z",
+        "keywords": [
+          "programming",
+          "webdev",
+          "tools",
+          "productivity",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "programming",
+          "webdev",
+          "tools"
+        ],
+        "pros": [
+          "Great for programming",
+          "webdev-ready automation",
+          "Great for programming"
+        ],
+        "cons": [
+          "Overkill for programming experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for programming experiments"
+        ],
+        "highlights": [
+          "Project Type Recommended Why E-commerce / Marketplace Next.js Largest plugin ecosystem, mature payment integrations, best SEO tooling Content Site / Blog Next.js or Nuxt Both have excellent SSG/ISR.",
+          "Hire later, ship now Enterprise / Large Team Next.js Best hiring pool, TypeScript ecosystem, Vercel support SLAs Vue-competent Team Nuxt Why switch?",
+          "Runes reactivity (Svelte 5) replaces the old $: labels with a more explicit signal-based system, making SvelteKit even more approachable for developers coming from React or Vue."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Where did my",
+        "slug": "where-did-my",
+        "description": "Ask a Page admin to check yours.</li> <li> <strong>Another scheduler holds it.</strong> Tools that keep posts in their own queue hand them to Facebook only at publish time, so Meta shows nothing until then. That works for feed posts only (not Reels or Stories) and up to 30 days ahead.</p> <p>With several Pages, run the same two requests per client team to list and move each queue without opening Business Suite.",
+        "summary": "Ask a Page admin to check yours.</li> <li> <strong>Another scheduler holds it.</strong> Tools that keep posts in their own queue hand them to Facebook only at publish time, so Meta shows nothing until then. That works for feed posts only (not Reels or Stories) and up to 30 days ahead.</p> <p>With several Pages, run the same two requests per client team to list and move each queue without opening Business Suite.",
+        "link": "https://dev.to/marcel-bundle/where-did-my-scheduled-facebook-post-go-finding-and-editing-scheduled-posts-in-meta-b1b",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-13T13:03:12.000Z",
+        "keywords": [
+          "productivity",
+          "socialmedia",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "productivity",
+          "socialmedia",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "socialmedia-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for socialmedia workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "This post covers both cases: the Meta Business Suite and Facebook app UI for posts Meta holds, and the API side for posts that wait in a scheduler's queue until publish time.",
+          "Open the post from Content > Scheduled or from the Planner, then use its menu: New time: choose the reschedule option, pick a date and time, confirm.",
+          "And Meta's help center documents scheduling only for Pages and for profiles in professional mode, with profile scheduling described as a mobile feature."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-11-12T14:00:38.875Z",
     "lastUpdated": "2026-11-12T14:00:38.875Z",
     "visibleDate": "Nov 12, 2026",

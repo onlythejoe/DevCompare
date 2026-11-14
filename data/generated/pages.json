@@ -7,6 +7,683 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-11-14T12:32:26.753Z",
+    "lastUpdated": "2026-11-14T12:32:26.753Z",
+    "visibleDate": "Nov 14, 2026",
+    "url": "pages/2026-11-14-123226753-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-11-14-123226753-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "3PL Invoice Check",
+      "A Tiny CSV",
+      "Best Customer Vault Tokenization Software in 2026"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include 3PL Invoice Check, A Tiny CSV, Best Customer Vault Tokenization Software i",
+    "tools": [
+      {
+        "name": "3PL Invoice Check",
+        "slug": "3pl-invoice-check",
+        "description": "100% in-browser, nothing uploaded or stored.</p> <p><a href=\"https://3pl-invoice-check.pages.dev/?src=devto_reconcile\" rel=\"noopener noreferrer\">Try it</a></p> Try it <p>Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines.",
+        "summary": "100% in-browser, nothing uploaded or stored.</p> <p><a href=\"https://3pl-invoice-check.pages.dev/?src=devto_reconcile\" rel=\"noopener noreferrer\">Try it</a></p> Try it <p>Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines.",
+        "link": "https://dev.to/smalltoolsstudio/3pl-invoice-check-2io3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-14T12:12:34.000Z",
+        "keywords": [
+          "productivity",
+          "software",
+          "tools",
+          "dev",
+          "saas",
+          "shopify"
+        ],
+        "useCases": [
+          "productivity",
+          "software",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "software-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for software workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "100% in-browser, nothing uploaded or stored.</p> <p><a href=\"https://3pl-invoice-check.pages.dev/?src=devto_reconcile\" rel=\"noopener noreferrer\">Try it</a></p>",
+          "Try it <p>Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines.",
+          "Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "A Tiny CSV",
+        "slug": "a-tiny-csv",
+        "description": "For a business writer, those details become expensive when they surface halfway through a draft.</p> <p>I would start with a small CSV file rather than a complicated research system. Otherwise, the same warning can appear every week without improving the underlying research.</p> <p>I would keep private interview details in a separate protected record.",
+        "summary": "For a business writer, those details become expensive when they surface halfway through a draft.</p> <p>I would start with a small CSV file rather than a complicated research system. Otherwise, the same warning can appear every week without improving the underlying research.</p> <p>I would keep private interview details in a separate protected record.",
+        "link": "https://dev.to/calpurniapassmore/a-tiny-csv-check-before-drafting-a-business-explainer-9l6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-14T12:03:48.000Z",
+        "keywords": [
+          "automation",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "automation",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for automation",
+          "productivity-ready automation",
+          "Great for automation"
+        ],
+        "cons": [
+          "Overkill for automation experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for automation experiments"
+        ],
+        "highlights": [
+          "For a business writer, those details become expensive when they surface halfway through a draft.</p> <p>I would start with a small CSV file rather than a complicated research system.",
+          "Otherwise, the same warning can appear every week without improving the underlying research.</p> <p>I would keep private interview details in a separate protected record.",
+          "A short list of incomplete rows is less impressive, but it gives a writer a clear next action.</p> <p>The useful result is a calmer start to drafting."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best Customer Vault Tokenization Software in 2026",
+        "slug": "best-customer-vault-tokenization-software-in-2026",
+        "description": "Transparent pricing, a free tier, API-first design, and a documentation quality that engineering teams notice immediately.</li> <li>Evervault: Best for payments-native developer teams. Twenty customer vault and tokenization platforms tested across PCI DSS scope reduction, PII isolation, key management, and developer experience.",
+        "summary": "Transparent pricing, a free tier, API-first design, and a documentation quality that engineering teams notice immediately.</li> <li>Evervault: Best for payments-native developer teams. Twenty customer vault and tokenization platforms tested across PCI DSS scope reduction, PII isolation, key management, and developer experience.",
+        "link": "https://dev.to/topickz/best-customer-vault-tokenization-software-in-2026-20-tools-tested-for-product-and-engineering-teams-435h",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-14T11:55:48.000Z",
+        "keywords": [
+          "security",
+          "saas",
+          "tools",
+          "dev",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "security",
+          "saas",
+          "tools"
+        ],
+        "pros": [
+          "Great for security",
+          "saas-ready automation",
+          "Great for security"
+        ],
+        "cons": [
+          "Overkill for security experiments",
+          "Needs extra setup for saas workflows",
+          "Overkill for security experiments"
+        ],
+        "highlights": [
+          "Transparent pricing, a free tier, API-first design, and a documentation quality that engineering teams notice immediately.</li> <li>Evervault: Best for payments-native developer teams.",
+          "Twenty customer vault and tokenization platforms tested across PCI DSS scope reduction, PII isolation, key management, and developer experience.",
+          "What actually de-scopes you, what costs $300K before you've shipped a single token, and the pick for your stack, team size, and compliance regime."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "网盘搜索的进阶用法：五个让结果变准的词组技巧",
+        "slug": "",
+        "description": "大多数搜索失败，不是资源不存在，而是搜索词没写对。用口语化的整句去搜文件，等于让搜索引擎猜你想要的到底是什么。把需求翻译成「文件被命名的方式」，命中率会立刻不一样。 下面五个技巧不需要记语法，只要在搜索框里换一种写法。 如果书名、课程名、软件名有固定写法，用双引号把它包起来，可以避免被拆成单个字分别匹配。 比如搜「新概念英语」会同时出现各种无关内容，搜「\"新概念英语\"」则更集中在完整名称上。对于长标题，先搜完整词组，搜不到再把引号去掉放宽范围。 搜索结果里经常混进大量无关类型，比如教程、招聘、广告、新闻。把最常出现的干扰词排除掉，剩下的结果会干净很多。 例如搜「雅思 真题」，结果里可能大量是培训机构页面，可以写成「雅思 真题 -培训 -课程」。排除词不需要多，两三个就够，写太多反而会把有效结果一起删掉。 同一个东西往往有好几种叫法：安装包、客户端、程序；讲义、笔记、资料；合集、全套、打包。你脑子里想的那个词，未必是上传者命名时用的词。 做法是准备三组关键词，分别搜一遍： 主体 + 类型：如「PPT 模板」 主体 + 格式：如「PPT pptx」 主体 + 同义词：如「PPT 演示文稿」 三组都试过，仍然找不到，再考虑换来源，而不是继续在同一个结果页里翻页。 文件类型常常是区分「真资源」和「引流页」的关键。加上格式后缀，可以把结果收窄到真正的文件分享。 常用的后缀有：pdf、epub、mp4、zip、rar、pptx、xlsx。搜索「会计 教材 pdf」通常比「会计 教材」更接近你要的东西。 如果对清晰度有要求，视频类还可以加上 1080p、4K 这类限定词。 网盘分享有有效期，很多结果看起来匹配，点进去却发现已经失效。搜索完成后，先按更新时间排序，优先看最近发布或最近更新的条目。 这一条能省下的时间，往往比任何一个搜索技巧都多。 实际使用时，这几个技巧是叠加的。一个完整的搜索词可能是这样的： 「\"雅思写作\" 讲义 pdf -培训 -广告」 它同时锁定了完整名称、限定了格式、排除了两类干扰。写起来不复杂，但比「有没有好的雅思写作资料」有效得多。 像网盘搜索这类聚合入口，会把你的关键词同时丢到多个来源里匹配，再按相关度和更新时间排序。理解它的逻辑，你就能用更少的尝试找到更准的结果。 这些技巧没有一条需要天赋，它们只是把你模糊的需求，翻译成文件系统能听懂的语言。每次搜完，把有效的关键词组合记下来，下次遇到同类需求直接复用。 久而久之，你会发现「搜不到」的情况越来越少，真正的原因往往只是：词还没写对。",
+        "summary": "大多数搜索失败，不是资源不存在，而是搜索词没写对。用口语化的整句去搜文件，等于让搜索引擎猜你想要的到底是什么。把需求翻译成「文件被命名的方式」，命中率会立刻不一样。 下面五个技巧不需要记语法，只要在搜索框里换一种写法。 如果书名、课程名、软件名有固定写法，用双引号把它包起来，可以避免被拆成单个字分别匹配。 比如搜「新概念英语」会同时出现各种无关内容，搜「\"新概念英语\"」则更集中在完整名称上。对于长标题，先搜完整词组，搜不到再把引号去掉放宽范围。 搜索结果里经常混进大量无关类型，比如教程、招聘、广告、新闻。把最常出现的干扰词排除掉，剩下的结果会干净很多。 例如搜「雅思 真题」，结果里可能大量是培训机构页面，可以写成「雅思 真题 -培训 -课程」。排除词不需要多，两三个就够，写太多反而会把有效结果一起删掉。 同一个东西往往有好几种叫法：安装包、客户端、程序；讲义、笔记、资料；合集、全套、打包。你脑子里想的那个词，未必是上传者命名时用的词。 做法是准备三组关键词，分别搜一遍： 主体 + 类型：如「PPT 模板」 主体 + 格式：如「PPT pptx」 主体 + 同义词：如「PPT 演示文稿」 三组都试过，仍然找不到，再考虑换来源，而不是继续在同一个结果页里翻页。 文件类型常常是区分「真资源」和「引流页」的关键。加上格式后缀，可以把结果收窄到真正的文件分享。 常用的后缀有：pdf、epub、mp4、zip、rar、pptx、xlsx。搜索「会计 教材 pdf」通常比「会计 教材」更接近你要的东西。 如果对清晰度有要求，视频类还可以加上 1080p、4K 这类限定词。 网盘分享有有效期，很多结果看起来匹配，点进去却发现已经失效。搜索完成后，先按更新时间排序，优先看最近发布或最近更新的条目。 这一条能省下的时间，往往比任何一个搜索技巧都多。 实际使用时，这几个技巧是叠加的。一个完整的搜索词可能是这样的： 「\"雅思写作\" 讲义 pdf -培训 -广告」 它同时锁定了完整名称、限定了格式、排除了两类干扰。写起来不复杂，但比「有没有好的雅思写作资料」有效得多。 像网盘搜索这类聚合入口，会把你的关键词同时丢到多个来源里匹配，再按相关度和更新时间排序。理解它的逻辑，你就能用更少的尝试找到更准的结果。 这些技巧没有一条需要天赋，它们只是把你模糊的需求，翻译成文件系统能听懂的语言。每次搜完，把有效的关键词组合记下来，下次遇到同类需求直接复用。 久而久之，你会发现「搜不到」的情况越来越少，真正的原因往往只是：词还没写对。",
+        "link": "https://dev.to/datingguide/wang-pan-sou-suo-de-jin-jie-yong-fa-wu-ge-rang-jie-guo-bian-zhun-de-ci-zu-ji-qiao-5312",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-14T10:54:01.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "search",
+          "chinese",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "search"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Telling \"video deleted or private\" apart from \"provider is down\"",
+        "slug": "telling-video-deleted-or-private-apart-from-provider-is-down",
+        "description": "That rule alone stopped the most unfair outcome: telling someone their video was deleted when it was actually fine and the API had just gone quiet.</p> <p>The third thing is checking the easy answer first. That sounds trivial, but it cut a whole class of \"deleted video\" reports that were really just a link copied with a missing character.</p> <p>The wording matters as much as the logic.",
+        "summary": "That rule alone stopped the most unfair outcome: telling someone their video was deleted when it was actually fine and the API had just gone quiet.</p> <p>The third thing is checking the easy answer first. That sounds trivial, but it cut a whole class of \"deleted video\" reports that were really just a link copied with a missing character.</p> <p>The wording matters as much as the logic.",
+        "link": "https://dev.to/mobeenahmedgondal/telling-video-deleted-or-private-apart-from-provider-is-down-and-saying-so-plainly-2f37",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-14T10:49:21.000Z",
+        "keywords": [
+          "php",
+          "webdev",
+          "api",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "php",
+          "webdev",
+          "api"
+        ],
+        "pros": [
+          "Great for php",
+          "webdev-ready automation",
+          "Great for php"
+        ],
+        "cons": [
+          "Overkill for php experiments",
+          "Needs extra setup for webdev workflows",
+          "Overkill for php experiments"
+        ],
+        "highlights": [
+          "So when something goes wrong, there are two completely different causes hiding behind the same blank result: the video itself is gone, or the middleman is down.",
+          "That sounds trivial, but it cut a whole class of \"deleted video\" reports that were really just a link copied with a missing character.</p> <p>The wording matters as much as the logic.",
+          "A third returns a generic \"something went wrong\" string for both cases, and the only clue is a numeric code buried two levels deep."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-11-14T12:32:26.753Z",
+    "lastUpdated": "2026-11-14T12:32:26.753Z",
+    "visibleDate": "Nov 14, 2026",
+    "url": "pages/2026-11-14-123226753-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-11-14-123226753-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "3PL Invoice Check",
+      "A Tiny CSV",
+      "Best Customer Vault Tokenization Software in 2026"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include 3PL Invoice Check, A Tiny CSV, Best Customer Vault Tokenization So",
+    "tools": [
+      {
+        "name": "3PL Invoice Check",
+        "slug": "3pl-invoice-check",
+        "description": "100% in-browser, nothing uploaded or stored.</p> <p><a href=\"https://3pl-invoice-check.pages.dev/?src=devto_reconcile\" rel=\"noopener noreferrer\">Try it</a></p> Try it <p>Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines.",
+        "summary": "100% in-browser, nothing uploaded or stored.</p> <p><a href=\"https://3pl-invoice-check.pages.dev/?src=devto_reconcile\" rel=\"noopener noreferrer\">Try it</a></p> Try it <p>Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines.",
+        "link": "https://dev.to/smalltoolsstudio/3pl-invoice-check-2io3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-14T12:12:34.000Z",
+        "keywords": [
+          "productivity",
+          "software",
+          "tools",
+          "dev",
+          "saas",
+          "shopify"
+        ],
+        "useCases": [
+          "productivity",
+          "software",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "software-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for software workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "100% in-browser, nothing uploaded or stored.</p> <p><a href=\"https://3pl-invoice-check.pages.dev/?src=devto_reconcile\" rel=\"noopener noreferrer\">Try it</a></p>",
+          "Try it <p>Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines.",
+          "Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "A Tiny CSV",
+        "slug": "a-tiny-csv",
+        "description": "For a business writer, those details become expensive when they surface halfway through a draft.</p> <p>I would start with a small CSV file rather than a complicated research system. Otherwise, the same warning can appear every week without improving the underlying research.</p> <p>I would keep private interview details in a separate protected record.",
+        "summary": "For a business writer, those details become expensive when they surface halfway through a draft.</p> <p>I would start with a small CSV file rather than a complicated research system. Otherwise, the same warning can appear every week without improving the underlying research.</p> <p>I would keep private interview details in a separate protected record.",
+        "link": "https://dev.to/calpurniapassmore/a-tiny-csv-check-before-drafting-a-business-explainer-9l6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-14T12:03:48.000Z",
+        "keywords": [
+          "automation",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "automation",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for automation",
+          "productivity-ready automation",
+          "Great for automation"
+        ],
+        "cons": [
+          "Overkill for automation experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for automation experiments"
+        ],
+        "highlights": [
+          "For a business writer, those details become expensive when they surface halfway through a draft.</p> <p>I would start with a small CSV file rather than a complicated research system.",
+          "Otherwise, the same warning can appear every week without improving the underlying research.</p> <p>I would keep private interview details in a separate protected record.",
+          "A short list of incomplete rows is less impressive, but it gives a writer a clear next action.</p> <p>The useful result is a calmer start to drafting."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best Customer Vault Tokenization Software in 2026",
+        "slug": "best-customer-vault-tokenization-software-in-2026",
+        "description": "Transparent pricing, a free tier, API-first design, and a documentation quality that engineering teams notice immediately.</li> <li>Evervault: Best for payments-native developer teams. Twenty customer vault and tokenization platforms tested across PCI DSS scope reduction, PII isolation, key management, and developer experience.",
+        "summary": "Transparent pricing, a free tier, API-first design, and a documentation quality that engineering teams notice immediately.</li> <li>Evervault: Best for payments-native developer teams. Twenty customer vault and tokenization platforms tested across PCI DSS scope reduction, PII isolation, key management, and developer experience.",
+        "link": "https://dev.to/topickz/best-customer-vault-tokenization-software-in-2026-20-tools-tested-for-product-and-engineering-teams-435h",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-14T11:55:48.000Z",
+        "keywords": [
+          "security",
+          "saas",
+          "tools",
+          "dev",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "security",
+          "saas",
+          "tools"
+        ],
+        "pros": [
+          "Great for security",
+          "saas-ready automation",
+          "Great for security"
+        ],
+        "cons": [
+          "Overkill for security experiments",
+          "Needs extra setup for saas workflows",
+          "Overkill for security experiments"
+        ],
+        "highlights": [
+          "Transparent pricing, a free tier, API-first design, and a documentation quality that engineering teams notice immediately.</li> <li>Evervault: Best for payments-native developer teams.",
+          "Twenty customer vault and tokenization platforms tested across PCI DSS scope reduction, PII isolation, key management, and developer experience.",
+          "What actually de-scopes you, what costs $300K before you've shipped a single token, and the pick for your stack, team size, and compliance regime."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "网盘搜索的进阶用法：五个让结果变准的词组技巧",
+        "slug": "",
+        "description": "大多数搜索失败，不是资源不存在，而是搜索词没写对。用口语化的整句去搜文件，等于让搜索引擎猜你想要的到底是什么。把需求翻译成「文件被命名的方式」，命中率会立刻不一样。 下面五个技巧不需要记语法，只要在搜索框里换一种写法。 如果书名、课程名、软件名有固定写法，用双引号把它包起来，可以避免被拆成单个字分别匹配。 比如搜「新概念英语」会同时出现各种无关内容，搜「\"新概念英语\"」则更集中在完整名称上。对于长标题，先搜完整词组，搜不到再把引号去掉放宽范围。 搜索结果里经常混进大量无关类型，比如教程、招聘、广告、新闻。把最常出现的干扰词排除掉，剩下的结果会干净很多。 例如搜「雅思 真题」，结果里可能大量是培训机构页面，可以写成「雅思 真题 -培训 -课程」。排除词不需要多，两三个就够，写太多反而会把有效结果一起删掉。 同一个东西往往有好几种叫法：安装包、客户端、程序；讲义、笔记、资料；合集、全套、打包。你脑子里想的那个词，未必是上传者命名时用的词。 做法是准备三组关键词，分别搜一遍： 主体 + 类型：如「PPT 模板」 主体 + 格式：如「PPT pptx」 主体 + 同义词：如「PPT 演示文稿」 三组都试过，仍然找不到，再考虑换来源，而不是继续在同一个结果页里翻页。 文件类型常常是区分「真资源」和「引流页」的关键。加上格式后缀，可以把结果收窄到真正的文件分享。 常用的后缀有：pdf、epub、mp4、zip、rar、pptx、xlsx。搜索「会计 教材 pdf」通常比「会计 教材」更接近你要的东西。 如果对清晰度有要求，视频类还可以加上 1080p、4K 这类限定词。 网盘分享有有效期，很多结果看起来匹配，点进去却发现已经失效。搜索完成后，先按更新时间排序，优先看最近发布或最近更新的条目。 这一条能省下的时间，往往比任何一个搜索技巧都多。 实际使用时，这几个技巧是叠加的。一个完整的搜索词可能是这样的： 「\"雅思写作\" 讲义 pdf -培训 -广告」 它同时锁定了完整名称、限定了格式、排除了两类干扰。写起来不复杂，但比「有没有好的雅思写作资料」有效得多。 像网盘搜索这类聚合入口，会把你的关键词同时丢到多个来源里匹配，再按相关度和更新时间排序。理解它的逻辑，你就能用更少的尝试找到更准的结果。 这些技巧没有一条需要天赋，它们只是把你模糊的需求，翻译成文件系统能听懂的语言。每次搜完，把有效的关键词组合记下来，下次遇到同类需求直接复用。 久而久之，你会发现「搜不到」的情况越来越少，真正的原因往往只是：词还没写对。",
+        "summary": "大多数搜索失败，不是资源不存在，而是搜索词没写对。用口语化的整句去搜文件，等于让搜索引擎猜你想要的到底是什么。把需求翻译成「文件被命名的方式」，命中率会立刻不一样。 下面五个技巧不需要记语法，只要在搜索框里换一种写法。 如果书名、课程名、软件名有固定写法，用双引号把它包起来，可以避免被拆成单个字分别匹配。 比如搜「新概念英语」会同时出现各种无关内容，搜「\"新概念英语\"」则更集中在完整名称上。对于长标题，先搜完整词组，搜不到再把引号去掉放宽范围。 搜索结果里经常混进大量无关类型，比如教程、招聘、广告、新闻。把最常出现的干扰词排除掉，剩下的结果会干净很多。 例如搜「雅思 真题」，结果里可能大量是培训机构页面，可以写成「雅思 真题 -培训 -课程」。排除词不需要多，两三个就够，写太多反而会把有效结果一起删掉。 同一个东西往往有好几种叫法：安装包、客户端、程序；讲义、笔记、资料；合集、全套、打包。你脑子里想的那个词，未必是上传者命名时用的词。 做法是准备三组关键词，分别搜一遍： 主体 + 类型：如「PPT 模板」 主体 + 格式：如「PPT pptx」 主体 + 同义词：如「PPT 演示文稿」 三组都试过，仍然找不到，再考虑换来源，而不是继续在同一个结果页里翻页。 文件类型常常是区分「真资源」和「引流页」的关键。加上格式后缀，可以把结果收窄到真正的文件分享。 常用的后缀有：pdf、epub、mp4、zip、rar、pptx、xlsx。搜索「会计 教材 pdf」通常比「会计 教材」更接近你要的东西。 如果对清晰度有要求，视频类还可以加上 1080p、4K 这类限定词。 网盘分享有有效期，很多结果看起来匹配，点进去却发现已经失效。搜索完成后，先按更新时间排序，优先看最近发布或最近更新的条目。 这一条能省下的时间，往往比任何一个搜索技巧都多。 实际使用时，这几个技巧是叠加的。一个完整的搜索词可能是这样的： 「\"雅思写作\" 讲义 pdf -培训 -广告」 它同时锁定了完整名称、限定了格式、排除了两类干扰。写起来不复杂，但比「有没有好的雅思写作资料」有效得多。 像网盘搜索这类聚合入口，会把你的关键词同时丢到多个来源里匹配，再按相关度和更新时间排序。理解它的逻辑，你就能用更少的尝试找到更准的结果。 这些技巧没有一条需要天赋，它们只是把你模糊的需求，翻译成文件系统能听懂的语言。每次搜完，把有效的关键词组合记下来，下次遇到同类需求直接复用。 久而久之，你会发现「搜不到」的情况越来越少，真正的原因往往只是：词还没写对。",
+        "link": "https://dev.to/datingguide/wang-pan-sou-suo-de-jin-jie-yong-fa-wu-ge-rang-jie-guo-bian-zhun-de-ci-zu-ji-qiao-5312",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-14T10:54:01.000Z",
+        "keywords": [
+          "productivity",
+          "tools",
+          "search",
+          "chinese",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "productivity",
+          "tools",
+          "search"
+        ],
+        "pros": [
+          "Great for productivity",
+          "tools-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-11-14T12:32:26.753Z",
+    "lastUpdated": "2026-11-14T12:32:26.753Z",
+    "visibleDate": "Nov 14, 2026",
+    "url": "pages/2026-11-14-123226753-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-11-14-123226753-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "3PL Invoice Check",
+      "A Tiny CSV"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include 3PL Invoice Check, A Tiny CSV. Gitpod brings zero",
+    "tools": [
+      {
+        "name": "3PL Invoice Check",
+        "slug": "3pl-invoice-check",
+        "description": "100% in-browser, nothing uploaded or stored.</p> <p><a href=\"https://3pl-invoice-check.pages.dev/?src=devto_reconcile\" rel=\"noopener noreferrer\">Try it</a></p> Try it <p>Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines.",
+        "summary": "100% in-browser, nothing uploaded or stored.</p> <p><a href=\"https://3pl-invoice-check.pages.dev/?src=devto_reconcile\" rel=\"noopener noreferrer\">Try it</a></p> Try it <p>Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines.",
+        "link": "https://dev.to/smalltoolsstudio/3pl-invoice-check-2io3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-14T12:12:34.000Z",
+        "keywords": [
+          "productivity",
+          "software",
+          "tools",
+          "dev",
+          "saas",
+          "shopify"
+        ],
+        "useCases": [
+          "productivity",
+          "software",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "software-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for software workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "100% in-browser, nothing uploaded or stored.</p> <p><a href=\"https://3pl-invoice-check.pages.dev/?src=devto_reconcile\" rel=\"noopener noreferrer\">Try it</a></p>",
+          "Try it <p>Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines.",
+          "Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "A Tiny CSV",
+        "slug": "a-tiny-csv",
+        "description": "For a business writer, those details become expensive when they surface halfway through a draft.</p> <p>I would start with a small CSV file rather than a complicated research system. Otherwise, the same warning can appear every week without improving the underlying research.</p> <p>I would keep private interview details in a separate protected record.",
+        "summary": "For a business writer, those details become expensive when they surface halfway through a draft.</p> <p>I would start with a small CSV file rather than a complicated research system. Otherwise, the same warning can appear every week without improving the underlying research.</p> <p>I would keep private interview details in a separate protected record.",
+        "link": "https://dev.to/calpurniapassmore/a-tiny-csv-check-before-drafting-a-business-explainer-9l6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-14T12:03:48.000Z",
+        "keywords": [
+          "automation",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "automation",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for automation",
+          "productivity-ready automation",
+          "Great for automation"
+        ],
+        "cons": [
+          "Overkill for automation experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for automation experiments"
+        ],
+        "highlights": [
+          "For a business writer, those details become expensive when they surface halfway through a draft.</p> <p>I would start with a small CSV file rather than a complicated research system.",
+          "Otherwise, the same warning can appear every week without improving the underlying research.</p> <p>I would keep private interview details in a separate protected record.",
+          "A short list of incomplete rows is less impressive, but it gives a writer a clear next action.</p> <p>The useful result is a calmer start to drafting."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-11-14T12:32:26.753Z",
+    "lastUpdated": "2026-11-14T12:32:26.753Z",
+    "visibleDate": "Nov 14, 2026",
+    "url": "pages/2026-11-14-123226753-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-11-14-123226753-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "3PL Invoice Check",
+      "A Tiny CSV",
+      "Best Customer Vault Tokenization Software in 2026"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include 3PL Invoice Check, A Tiny CSV, Best Customer Vault Tokenization Software",
+    "tools": [
+      {
+        "name": "3PL Invoice Check",
+        "slug": "3pl-invoice-check",
+        "description": "100% in-browser, nothing uploaded or stored.</p> <p><a href=\"https://3pl-invoice-check.pages.dev/?src=devto_reconcile\" rel=\"noopener noreferrer\">Try it</a></p> Try it <p>Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines.",
+        "summary": "100% in-browser, nothing uploaded or stored.</p> <p><a href=\"https://3pl-invoice-check.pages.dev/?src=devto_reconcile\" rel=\"noopener noreferrer\">Try it</a></p> Try it <p>Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines.",
+        "link": "https://dev.to/smalltoolsstudio/3pl-invoice-check-2io3",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-14T12:12:34.000Z",
+        "keywords": [
+          "productivity",
+          "software",
+          "tools",
+          "dev",
+          "saas",
+          "shopify"
+        ],
+        "useCases": [
+          "productivity",
+          "software",
+          "tools"
+        ],
+        "pros": [
+          "Great for productivity",
+          "software-ready automation",
+          "Great for productivity"
+        ],
+        "cons": [
+          "Overkill for productivity experiments",
+          "Needs extra setup for software workflows",
+          "Overkill for productivity experiments"
+        ],
+        "highlights": [
+          "100% in-browser, nothing uploaded or stored.</p> <p><a href=\"https://3pl-invoice-check.pages.dev/?src=devto_reconcile\" rel=\"noopener noreferrer\">Try it</a></p>",
+          "Try it <p>Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines.",
+          "Shopify merchants outsourcing fulfillment to 3PLs (ShipBob, ShipMonk, ShipHero) receive monthly invoices with pick, pack, postage and storage lines."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "A Tiny CSV",
+        "slug": "a-tiny-csv",
+        "description": "For a business writer, those details become expensive when they surface halfway through a draft.</p> <p>I would start with a small CSV file rather than a complicated research system. Otherwise, the same warning can appear every week without improving the underlying research.</p> <p>I would keep private interview details in a separate protected record.",
+        "summary": "For a business writer, those details become expensive when they surface halfway through a draft.</p> <p>I would start with a small CSV file rather than a complicated research system. Otherwise, the same warning can appear every week without improving the underlying research.</p> <p>I would keep private interview details in a separate protected record.",
+        "link": "https://dev.to/calpurniapassmore/a-tiny-csv-check-before-drafting-a-business-explainer-9l6",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-14T12:03:48.000Z",
+        "keywords": [
+          "automation",
+          "productivity",
+          "tools",
+          "dev",
+          "saas",
+          "software"
+        ],
+        "useCases": [
+          "automation",
+          "productivity",
+          "tools"
+        ],
+        "pros": [
+          "Great for automation",
+          "productivity-ready automation",
+          "Great for automation"
+        ],
+        "cons": [
+          "Overkill for automation experiments",
+          "Needs extra setup for productivity workflows",
+          "Overkill for automation experiments"
+        ],
+        "highlights": [
+          "For a business writer, those details become expensive when they surface halfway through a draft.</p> <p>I would start with a small CSV file rather than a complicated research system.",
+          "Otherwise, the same warning can appear every week without improving the underlying research.</p> <p>I would keep private interview details in a separate protected record.",
+          "A short list of incomplete rows is less impressive, but it gives a writer a clear next action.</p> <p>The useful result is a calmer start to drafting."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best Customer Vault Tokenization Software in 2026",
+        "slug": "best-customer-vault-tokenization-software-in-2026",
+        "description": "Transparent pricing, a free tier, API-first design, and a documentation quality that engineering teams notice immediately.</li> <li>Evervault: Best for payments-native developer teams. Twenty customer vault and tokenization platforms tested across PCI DSS scope reduction, PII isolation, key management, and developer experience.",
+        "summary": "Transparent pricing, a free tier, API-first design, and a documentation quality that engineering teams notice immediately.</li> <li>Evervault: Best for payments-native developer teams. Twenty customer vault and tokenization platforms tested across PCI DSS scope reduction, PII isolation, key management, and developer experience.",
+        "link": "https://dev.to/topickz/best-customer-vault-tokenization-software-in-2026-20-tools-tested-for-product-and-engineering-teams-435h",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-14T11:55:48.000Z",
+        "keywords": [
+          "security",
+          "saas",
+          "tools",
+          "dev",
+          "software",
+          "productivity"
+        ],
+        "useCases": [
+          "security",
+          "saas",
+          "tools"
+        ],
+        "pros": [
+          "Great for security",
+          "saas-ready automation",
+          "Great for security"
+        ],
+        "cons": [
+          "Overkill for security experiments",
+          "Needs extra setup for saas workflows",
+          "Overkill for security experiments"
+        ],
+        "highlights": [
+          "Transparent pricing, a free tier, API-first design, and a documentation quality that engineering teams notice immediately.</li> <li>Evervault: Best for payments-native developer teams.",
+          "Twenty customer vault and tokenization platforms tested across PCI DSS scope reduction, PII isolation, key management, and developer experience.",
+          "What actually de-scopes you, what costs $300K before you've shipped a single token, and the pick for your stack, team size, and compliance regime."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-11-13T13:27:51.268Z",
     "lastUpdated": "2026-11-13T13:27:51.268Z",
     "visibleDate": "Nov 13, 2026",

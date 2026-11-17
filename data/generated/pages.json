@@ -7,6 +7,687 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-11-17T14:56:35.113Z",
+    "lastUpdated": "2026-11-17T14:56:35.113Z",
+    "visibleDate": "Nov 17, 2026",
+    "url": "pages/2026-11-17-145635113-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-11-17-145635113-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      },
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "10 Privacy Tasks",
+      "Edit Inline SVG Visually",
+      "Best AI Translation Tools in 2027"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include 10 Privacy Tasks, Edit Inline SVG Visually, Best AI Translation Tools in 2",
+    "tools": [
+      {
+        "name": "10 Privacy Tasks",
+        "slug": "10-privacy-tasks",
+        "description": "Encrypt a note or file with a password.</strong> The <a href=\"https://privacykit-kappa.vercel.app/tools/encryptor/\" rel=\"noopener noreferrer\">AES-256-GCM encryptor</a> uses the browser's Web Crypto API. It is a bad idea for a signed contract, a photo taken at home, or a customer email.</p> <p>A growing number of tools instead do the work <strong>inside your browser</strong>, so the file never leaves your device.",
+        "summary": "Encrypt a note or file with a password.</strong> The <a href=\"https://privacykit-kappa.vercel.app/tools/encryptor/\" rel=\"noopener noreferrer\">AES-256-GCM encryptor</a> uses the browser's Web Crypto API. It is a bad idea for a signed contract, a photo taken at home, or a customer email.</p> <p>A growing number of tools instead do the work <strong>inside your browser</strong>, so the file never leaves your device.",
+        "link": "https://dev.to/bhutto_sahab_95fe7b5d5581/10-privacy-tasks-you-can-do-in-your-browser-without-uploading-a-file-2gmb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-17T14:49:53.000Z",
+        "keywords": [
+          "privacy",
+          "security",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "privacy",
+          "security",
+          "webdev"
+        ],
+        "pros": [
+          "Great for privacy",
+          "security-ready automation",
+          "Great for privacy"
+        ],
+        "cons": [
+          "Overkill for privacy experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for privacy experiments"
+        ],
+        "highlights": [
+          "Blur faces and license plates.</strong> The <a href=\"https://privacykit-kappa.vercel.app/tools/blur-image/\" rel=\"noopener noreferrer\">image blur tool</a> pixelates or blurs areas you select.",
+          "Mask names and secrets before pasting into an AI chat.</strong> Cloud AI services may keep your prompts, so it is safer not to paste real names, client details or API keys.",
+          "The <a href=\"https://privacykit-kappa.vercel.app/tools/image-exif-remover/\" rel=\"noopener noreferrer\">EXIF &amp; GPS remover</a> shows what is inside and strips it."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Edit Inline SVG Visually",
+        "slug": "edit-inline-svg-visually",
+        "description": "It is not continuous synchronization of every drawing operation.</p> <h2> Undo restores the source—and pauses the link </h2> <p>With the imported edit as your latest change, press <strong>Ctrl+Z in VS Code</strong>. Select its complete <code>&lt;svg&gt;…&lt;/svg&gt;</code> block, or place your cursor inside it, and run <strong>Edit Inline SVG in IconVectors</strong>.</p> <p>The artwork opens in a separate IconVectors window.",
+        "summary": "It is not continuous synchronization of every drawing operation.</p> <h2> Undo restores the source—and pauses the link </h2> <p>With the imported edit as your latest change, press <strong>Ctrl+Z in VS Code</strong>. Select its complete <code>&lt;svg&gt;…&lt;/svg&gt;</code> block, or place your cursor inside it, and run <strong>Edit Inline SVG in IconVectors</strong>.</p> <p>The artwork opens in a separate IconVectors window.",
+        "link": "https://dev.to/axialisteam/edit-inline-svg-visually-and-keep-undo-in-vs-code-5a7p",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-17T14:48:44.000Z",
+        "keywords": [
+          "design",
+          "frontend",
+          "tools",
+          "vscode",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "design",
+          "frontend",
+          "tools"
+        ],
+        "pros": [
+          "Great for design",
+          "frontend-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for frontend workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "The awkward part is bringing the result back: copying the right block, leaving the surrounding HTML alone, and knowing what happens when you press Undo.",
+          "The purpose of using a simple color change here is to make the round trip easy to verify—not to suggest that every color edit needs a visual editor.",
+          "Otherwise, a later save from the visual editor could put back the change you just rejected.</p> <p>Redo restores the imported edit."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best AI Translation Tools in 2027",
+        "slug": "best-ai-translation-tools-in-2027",
+        "description": "<h1> Best AI Translation Tools in 2027: 7 Compared (DeepL, Google Translate, ChatGPT &amp; More) </h1> <p>Machine translation has quietly become one of the most useful everyday AI skills. Now powered by Gemini models, it covers 130+ languages and handles text, speech, images, and whole web pages, with offline mode on mobile.",
+        "summary": "<h1> Best AI Translation Tools in 2027: 7 Compared (DeepL, Google Translate, ChatGPT &amp; More) </h1> <p>Machine translation has quietly become one of the most useful everyday AI skills. Now powered by Gemini models, it covers 130+ languages and handles text, speech, images, and whole web pages, with offline mode on mobile.",
+        "link": "https://dev.to/neuraitool/best-ai-translation-tools-in-2027-7-compared-deepl-google-translate-chatgpt-more-4hcc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-17T14:21:41.000Z",
+        "keywords": [
+          "ai",
+          "translation",
+          "deepl",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "translation",
+          "deepl"
+        ],
+        "pros": [
+          "Great for ai",
+          "translation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for translation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Now powered by Gemini models, it covers 130+ languages and handles text, speech, images, and whole web pages, with offline mode on mobile.",
+          "Best AI Translation Tools in 2027: 7 Compared (DeepL, Google Translate, ChatGPT & More) Machine translation has quietly become one of the most useful everyday AI skills.",
+          "<h1> Best AI Translation Tools in 2027: 7 Compared (DeepL, Google Translate, ChatGPT &amp; More) </h1> <p>Machine translation has quietly become one of the most useful everyday AI skills."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Baidu, Xiaomi CEOs",
+        "slug": "baidu-xiaomi-ceos",
+        "description": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 14 # Comments: 1",
+        "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 14 # Comments: 1",
+        "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+        "source": "Hacker News",
+        "isoDate": "2026-11-17T14:19:59.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "article"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "S. Korea to",
+        "slug": "s-korea-to",
+        "description": "Article URL: https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e Comments URL: https://news.ycombinator.com/item?id=50531484 Points: 21 # Comments: 16",
+        "summary": "Article URL: https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e Comments URL: https://news.ycombinator.com/item?id=50531484 Points: 21 # Comments: 16",
+        "link": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
+        "source": "Hacker News",
+        "isoDate": "2026-11-17T14:00:47.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "article"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-11-17T14:56:35.113Z",
+    "lastUpdated": "2026-11-17T14:56:35.113Z",
+    "visibleDate": "Nov 17, 2026",
+    "url": "pages/2026-11-17-145635113-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-11-17-145635113-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      },
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "10 Privacy Tasks",
+      "Edit Inline SVG Visually",
+      "Best AI Translation Tools in 2027"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include 10 Privacy Tasks, Edit Inline SVG Visually, Best AI Translation To",
+    "tools": [
+      {
+        "name": "10 Privacy Tasks",
+        "slug": "10-privacy-tasks",
+        "description": "Encrypt a note or file with a password.</strong> The <a href=\"https://privacykit-kappa.vercel.app/tools/encryptor/\" rel=\"noopener noreferrer\">AES-256-GCM encryptor</a> uses the browser's Web Crypto API. It is a bad idea for a signed contract, a photo taken at home, or a customer email.</p> <p>A growing number of tools instead do the work <strong>inside your browser</strong>, so the file never leaves your device.",
+        "summary": "Encrypt a note or file with a password.</strong> The <a href=\"https://privacykit-kappa.vercel.app/tools/encryptor/\" rel=\"noopener noreferrer\">AES-256-GCM encryptor</a> uses the browser's Web Crypto API. It is a bad idea for a signed contract, a photo taken at home, or a customer email.</p> <p>A growing number of tools instead do the work <strong>inside your browser</strong>, so the file never leaves your device.",
+        "link": "https://dev.to/bhutto_sahab_95fe7b5d5581/10-privacy-tasks-you-can-do-in-your-browser-without-uploading-a-file-2gmb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-17T14:49:53.000Z",
+        "keywords": [
+          "privacy",
+          "security",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "privacy",
+          "security",
+          "webdev"
+        ],
+        "pros": [
+          "Great for privacy",
+          "security-ready automation",
+          "Great for privacy"
+        ],
+        "cons": [
+          "Overkill for privacy experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for privacy experiments"
+        ],
+        "highlights": [
+          "Blur faces and license plates.</strong> The <a href=\"https://privacykit-kappa.vercel.app/tools/blur-image/\" rel=\"noopener noreferrer\">image blur tool</a> pixelates or blurs areas you select.",
+          "Mask names and secrets before pasting into an AI chat.</strong> Cloud AI services may keep your prompts, so it is safer not to paste real names, client details or API keys.",
+          "The <a href=\"https://privacykit-kappa.vercel.app/tools/image-exif-remover/\" rel=\"noopener noreferrer\">EXIF &amp; GPS remover</a> shows what is inside and strips it."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Edit Inline SVG Visually",
+        "slug": "edit-inline-svg-visually",
+        "description": "It is not continuous synchronization of every drawing operation.</p> <h2> Undo restores the source—and pauses the link </h2> <p>With the imported edit as your latest change, press <strong>Ctrl+Z in VS Code</strong>. Select its complete <code>&lt;svg&gt;…&lt;/svg&gt;</code> block, or place your cursor inside it, and run <strong>Edit Inline SVG in IconVectors</strong>.</p> <p>The artwork opens in a separate IconVectors window.",
+        "summary": "It is not continuous synchronization of every drawing operation.</p> <h2> Undo restores the source—and pauses the link </h2> <p>With the imported edit as your latest change, press <strong>Ctrl+Z in VS Code</strong>. Select its complete <code>&lt;svg&gt;…&lt;/svg&gt;</code> block, or place your cursor inside it, and run <strong>Edit Inline SVG in IconVectors</strong>.</p> <p>The artwork opens in a separate IconVectors window.",
+        "link": "https://dev.to/axialisteam/edit-inline-svg-visually-and-keep-undo-in-vs-code-5a7p",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-17T14:48:44.000Z",
+        "keywords": [
+          "design",
+          "frontend",
+          "tools",
+          "vscode",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "design",
+          "frontend",
+          "tools"
+        ],
+        "pros": [
+          "Great for design",
+          "frontend-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for frontend workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "The awkward part is bringing the result back: copying the right block, leaving the surrounding HTML alone, and knowing what happens when you press Undo.",
+          "The purpose of using a simple color change here is to make the round trip easy to verify—not to suggest that every color edit needs a visual editor.",
+          "Otherwise, a later save from the visual editor could put back the change you just rejected.</p> <p>Redo restores the imported edit."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best AI Translation Tools in 2027",
+        "slug": "best-ai-translation-tools-in-2027",
+        "description": "<h1> Best AI Translation Tools in 2027: 7 Compared (DeepL, Google Translate, ChatGPT &amp; More) </h1> <p>Machine translation has quietly become one of the most useful everyday AI skills. Now powered by Gemini models, it covers 130+ languages and handles text, speech, images, and whole web pages, with offline mode on mobile.",
+        "summary": "<h1> Best AI Translation Tools in 2027: 7 Compared (DeepL, Google Translate, ChatGPT &amp; More) </h1> <p>Machine translation has quietly become one of the most useful everyday AI skills. Now powered by Gemini models, it covers 130+ languages and handles text, speech, images, and whole web pages, with offline mode on mobile.",
+        "link": "https://dev.to/neuraitool/best-ai-translation-tools-in-2027-7-compared-deepl-google-translate-chatgpt-more-4hcc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-17T14:21:41.000Z",
+        "keywords": [
+          "ai",
+          "translation",
+          "deepl",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "translation",
+          "deepl"
+        ],
+        "pros": [
+          "Great for ai",
+          "translation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for translation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Now powered by Gemini models, it covers 130+ languages and handles text, speech, images, and whole web pages, with offline mode on mobile.",
+          "Best AI Translation Tools in 2027: 7 Compared (DeepL, Google Translate, ChatGPT & More) Machine translation has quietly become one of the most useful everyday AI skills.",
+          "<h1> Best AI Translation Tools in 2027: 7 Compared (DeepL, Google Translate, ChatGPT &amp; More) </h1> <p>Machine translation has quietly become one of the most useful everyday AI skills."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Baidu, Xiaomi CEOs",
+        "slug": "baidu-xiaomi-ceos",
+        "description": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 14 # Comments: 1",
+        "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 14 # Comments: 1",
+        "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+        "source": "Hacker News",
+        "isoDate": "2026-11-17T14:19:59.000Z",
+        "keywords": [
+          "dev",
+          "tools",
+          "saas",
+          "software",
+          "productivity",
+          "article"
+        ],
+        "useCases": [
+          "dev",
+          "tools",
+          "saas"
+        ],
+        "pros": [
+          "Great for dev",
+          "tools-ready automation",
+          "Great for dev"
+        ],
+        "cons": [
+          "Overkill for dev experiments",
+          "Needs extra setup for tools workflows",
+          "Overkill for dev experiments"
+        ],
+        "highlights": [],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-11-17T14:56:35.113Z",
+    "lastUpdated": "2026-11-17T14:56:35.113Z",
+    "visibleDate": "Nov 17, 2026",
+    "url": "pages/2026-11-17-145635113-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-11-17-145635113-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "10 Privacy Tasks",
+      "Edit Inline SVG Visually"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include 10 Privacy Tasks, Edit Inline SVG Visually. Gitpo",
+    "tools": [
+      {
+        "name": "10 Privacy Tasks",
+        "slug": "10-privacy-tasks",
+        "description": "Encrypt a note or file with a password.</strong> The <a href=\"https://privacykit-kappa.vercel.app/tools/encryptor/\" rel=\"noopener noreferrer\">AES-256-GCM encryptor</a> uses the browser's Web Crypto API. It is a bad idea for a signed contract, a photo taken at home, or a customer email.</p> <p>A growing number of tools instead do the work <strong>inside your browser</strong>, so the file never leaves your device.",
+        "summary": "Encrypt a note or file with a password.</strong> The <a href=\"https://privacykit-kappa.vercel.app/tools/encryptor/\" rel=\"noopener noreferrer\">AES-256-GCM encryptor</a> uses the browser's Web Crypto API. It is a bad idea for a signed contract, a photo taken at home, or a customer email.</p> <p>A growing number of tools instead do the work <strong>inside your browser</strong>, so the file never leaves your device.",
+        "link": "https://dev.to/bhutto_sahab_95fe7b5d5581/10-privacy-tasks-you-can-do-in-your-browser-without-uploading-a-file-2gmb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-17T14:49:53.000Z",
+        "keywords": [
+          "privacy",
+          "security",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "privacy",
+          "security",
+          "webdev"
+        ],
+        "pros": [
+          "Great for privacy",
+          "security-ready automation",
+          "Great for privacy"
+        ],
+        "cons": [
+          "Overkill for privacy experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for privacy experiments"
+        ],
+        "highlights": [
+          "Blur faces and license plates.</strong> The <a href=\"https://privacykit-kappa.vercel.app/tools/blur-image/\" rel=\"noopener noreferrer\">image blur tool</a> pixelates or blurs areas you select.",
+          "Mask names and secrets before pasting into an AI chat.</strong> Cloud AI services may keep your prompts, so it is safer not to paste real names, client details or API keys.",
+          "The <a href=\"https://privacykit-kappa.vercel.app/tools/image-exif-remover/\" rel=\"noopener noreferrer\">EXIF &amp; GPS remover</a> shows what is inside and strips it."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Edit Inline SVG Visually",
+        "slug": "edit-inline-svg-visually",
+        "description": "It is not continuous synchronization of every drawing operation.</p> <h2> Undo restores the source—and pauses the link </h2> <p>With the imported edit as your latest change, press <strong>Ctrl+Z in VS Code</strong>. Select its complete <code>&lt;svg&gt;…&lt;/svg&gt;</code> block, or place your cursor inside it, and run <strong>Edit Inline SVG in IconVectors</strong>.</p> <p>The artwork opens in a separate IconVectors window.",
+        "summary": "It is not continuous synchronization of every drawing operation.</p> <h2> Undo restores the source—and pauses the link </h2> <p>With the imported edit as your latest change, press <strong>Ctrl+Z in VS Code</strong>. Select its complete <code>&lt;svg&gt;…&lt;/svg&gt;</code> block, or place your cursor inside it, and run <strong>Edit Inline SVG in IconVectors</strong>.</p> <p>The artwork opens in a separate IconVectors window.",
+        "link": "https://dev.to/axialisteam/edit-inline-svg-visually-and-keep-undo-in-vs-code-5a7p",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-17T14:48:44.000Z",
+        "keywords": [
+          "design",
+          "frontend",
+          "tools",
+          "vscode",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "design",
+          "frontend",
+          "tools"
+        ],
+        "pros": [
+          "Great for design",
+          "frontend-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for frontend workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "The awkward part is bringing the result back: copying the right block, leaving the surrounding HTML alone, and knowing what happens when you press Undo.",
+          "The purpose of using a simple color change here is to make the round trip easy to verify—not to suggest that every color edit needs a visual editor.",
+          "Otherwise, a later save from the visual editor could put back the change you just rejected.</p> <p>Redo restores the imported edit."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-11-17T14:56:35.113Z",
+    "lastUpdated": "2026-11-17T14:56:35.113Z",
+    "visibleDate": "Nov 17, 2026",
+    "url": "pages/2026-11-17-145635113-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-11-17-145635113-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "design-prototyping",
+        "name": "Design & Prototyping"
+      }
+    ],
+    "toolHighlights": [
+      "10 Privacy Tasks",
+      "Edit Inline SVG Visually",
+      "Best AI Translation Tools in 2027"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include 10 Privacy Tasks, Edit Inline SVG Visually, Best AI Translation Tools in",
+    "tools": [
+      {
+        "name": "10 Privacy Tasks",
+        "slug": "10-privacy-tasks",
+        "description": "Encrypt a note or file with a password.</strong> The <a href=\"https://privacykit-kappa.vercel.app/tools/encryptor/\" rel=\"noopener noreferrer\">AES-256-GCM encryptor</a> uses the browser's Web Crypto API. It is a bad idea for a signed contract, a photo taken at home, or a customer email.</p> <p>A growing number of tools instead do the work <strong>inside your browser</strong>, so the file never leaves your device.",
+        "summary": "Encrypt a note or file with a password.</strong> The <a href=\"https://privacykit-kappa.vercel.app/tools/encryptor/\" rel=\"noopener noreferrer\">AES-256-GCM encryptor</a> uses the browser's Web Crypto API. It is a bad idea for a signed contract, a photo taken at home, or a customer email.</p> <p>A growing number of tools instead do the work <strong>inside your browser</strong>, so the file never leaves your device.",
+        "link": "https://dev.to/bhutto_sahab_95fe7b5d5581/10-privacy-tasks-you-can-do-in-your-browser-without-uploading-a-file-2gmb",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-17T14:49:53.000Z",
+        "keywords": [
+          "privacy",
+          "security",
+          "webdev",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "privacy",
+          "security",
+          "webdev"
+        ],
+        "pros": [
+          "Great for privacy",
+          "security-ready automation",
+          "Great for privacy"
+        ],
+        "cons": [
+          "Overkill for privacy experiments",
+          "Needs extra setup for security workflows",
+          "Overkill for privacy experiments"
+        ],
+        "highlights": [
+          "Blur faces and license plates.</strong> The <a href=\"https://privacykit-kappa.vercel.app/tools/blur-image/\" rel=\"noopener noreferrer\">image blur tool</a> pixelates or blurs areas you select.",
+          "Mask names and secrets before pasting into an AI chat.</strong> Cloud AI services may keep your prompts, so it is safer not to paste real names, client details or API keys.",
+          "The <a href=\"https://privacykit-kappa.vercel.app/tools/image-exif-remover/\" rel=\"noopener noreferrer\">EXIF &amp; GPS remover</a> shows what is inside and strips it."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Edit Inline SVG Visually",
+        "slug": "edit-inline-svg-visually",
+        "description": "It is not continuous synchronization of every drawing operation.</p> <h2> Undo restores the source—and pauses the link </h2> <p>With the imported edit as your latest change, press <strong>Ctrl+Z in VS Code</strong>. Select its complete <code>&lt;svg&gt;…&lt;/svg&gt;</code> block, or place your cursor inside it, and run <strong>Edit Inline SVG in IconVectors</strong>.</p> <p>The artwork opens in a separate IconVectors window.",
+        "summary": "It is not continuous synchronization of every drawing operation.</p> <h2> Undo restores the source—and pauses the link </h2> <p>With the imported edit as your latest change, press <strong>Ctrl+Z in VS Code</strong>. Select its complete <code>&lt;svg&gt;…&lt;/svg&gt;</code> block, or place your cursor inside it, and run <strong>Edit Inline SVG in IconVectors</strong>.</p> <p>The artwork opens in a separate IconVectors window.",
+        "link": "https://dev.to/axialisteam/edit-inline-svg-visually-and-keep-undo-in-vs-code-5a7p",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-17T14:48:44.000Z",
+        "keywords": [
+          "design",
+          "frontend",
+          "tools",
+          "vscode",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "design",
+          "frontend",
+          "tools"
+        ],
+        "pros": [
+          "Great for design",
+          "frontend-ready automation",
+          "Great for design"
+        ],
+        "cons": [
+          "Overkill for design experiments",
+          "Needs extra setup for frontend workflows",
+          "Overkill for design experiments"
+        ],
+        "highlights": [
+          "The awkward part is bringing the result back: copying the right block, leaving the surrounding HTML alone, and knowing what happens when you press Undo.",
+          "The purpose of using a simple color change here is to make the round trip easy to verify—not to suggest that every color edit needs a visual editor.",
+          "Otherwise, a later save from the visual editor could put back the change you just rejected.</p> <p>Redo restores the imported edit."
+        ],
+        "pricing": "Pricing varies; check vendor site",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best AI Translation Tools in 2027",
+        "slug": "best-ai-translation-tools-in-2027",
+        "description": "<h1> Best AI Translation Tools in 2027: 7 Compared (DeepL, Google Translate, ChatGPT &amp; More) </h1> <p>Machine translation has quietly become one of the most useful everyday AI skills. Now powered by Gemini models, it covers 130+ languages and handles text, speech, images, and whole web pages, with offline mode on mobile.",
+        "summary": "<h1> Best AI Translation Tools in 2027: 7 Compared (DeepL, Google Translate, ChatGPT &amp; More) </h1> <p>Machine translation has quietly become one of the most useful everyday AI skills. Now powered by Gemini models, it covers 130+ languages and handles text, speech, images, and whole web pages, with offline mode on mobile.",
+        "link": "https://dev.to/neuraitool/best-ai-translation-tools-in-2027-7-compared-deepl-google-translate-chatgpt-more-4hcc",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-17T14:21:41.000Z",
+        "keywords": [
+          "ai",
+          "translation",
+          "deepl",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "translation",
+          "deepl"
+        ],
+        "pros": [
+          "Great for ai",
+          "translation-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for translation workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Now powered by Gemini models, it covers 130+ languages and handles text, speech, images, and whole web pages, with offline mode on mobile.",
+          "Best AI Translation Tools in 2027: 7 Compared (DeepL, Google Translate, ChatGPT & More) Machine translation has quietly become one of the most useful everyday AI skills.",
+          "<h1> Best AI Translation Tools in 2027: 7 Compared (DeepL, Google Translate, ChatGPT &amp; More) </h1> <p>Machine translation has quietly become one of the most useful everyday AI skills."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-11-16T14:02:16.224Z",
     "lastUpdated": "2026-11-16T14:02:16.224Z",
     "visibleDate": "Nov 16, 2026",

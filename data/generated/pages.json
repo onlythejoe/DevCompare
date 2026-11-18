@@ -7,6 +7,671 @@
     "description": "Daily curated picks for developer tools that accelerate workflows.",
     "summary": "Productivity stacks that keep developer teams in sync.",
     "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
+    "publishedDate": "2026-11-18T14:36:36.031Z",
+    "lastUpdated": "2026-11-18T14:36:36.031Z",
+    "visibleDate": "Nov 18, 2026",
+    "url": "pages/2026-11-18-143636031-best-dev-tools-for-productivity.html",
+    "markdownPath": "data/generated/markdown/2026-11-18-143636031-best-dev-tools-for-productivity.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Test devto",
+      "AI Productivity Hacks",
+      "Auto Clicker .exe 3.0"
+    ],
+    "metaDescription": "Daily curated picks for developer tools that accelerate workflows. Highlights include Test devto, AI Productivity Hacks, Auto Clicker .exe 3.0. Productivity sta",
+    "tools": [
+      {
+        "name": "Test devto",
+        "slug": "test-devto",
+        "description": "test preview content for verification Price: $5.00 USD Published by AIWILLBERICH <p>test preview content for verification</p> <h2> Get It </h2> <p>Price: $5.00 USD</p> <p><em>Published by AIWILLBERICH</em></p>",
+        "summary": "test preview content for verification Price: $5.00 USD Published by AIWILLBERICH <p>test preview content for verification</p> <h2> Get It </h2> <p>Price: $5.00 USD</p> <p><em>Published by AIWILLBERICH</em></p>",
+        "link": "https://dev.to/gynius_lot_84/test-devto-5704",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-18T14:26:13.000Z",
+        "keywords": [
+          "ai",
+          "coding",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "coding",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "coding-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for coding workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [],
+        "pricing": "Paid plans starting at $5",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Productivity Hacks",
+        "slug": "ai-productivity-hacks",
+        "description": "Price: $9.99 USD Published by AIWILLBERICH <p>A comprehensive guide to AI productivity tools for developers.</p> <h2> Get It </h2> <p>Price: $9.99 USD</p> <p><em>Published by AIWILLBERICH</em></p> A comprehensive guide to AI productivity tools for developers.",
+        "summary": "Price: $9.99 USD Published by AIWILLBERICH <p>A comprehensive guide to AI productivity tools for developers.</p> <h2> Get It </h2> <p>Price: $9.99 USD</p> <p><em>Published by AIWILLBERICH</em></p> A comprehensive guide to AI productivity tools for developers.",
+        "link": "https://dev.to/gynius_lot_84/ai-productivity-hacks-ebook-18ai",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-18T14:25:44.000Z",
+        "keywords": [
+          "ai",
+          "coding",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "coding",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "coding-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for coding workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Price: $9.99 USD Published by AIWILLBERICH <p>A comprehensive guide to AI productivity tools for developers.</p> <h2> Get It </h2> <p>Price: $9.99 USD</p> <p><em>Published by AIWILLBERICH</em></p>",
+          "A comprehensive guide to AI productivity tools for developers."
+        ],
+        "pricing": "Paid plans starting at $9",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Auto Clicker .exe 3.0",
+        "slug": "auto-clicker-exe-3-0",
+        "description": "Here's what you need to know: the current version is 4.0, it's still free, and you can get it safely from the <a href=\"https://www.opauto-clicker.com/\" rel=\"noopener noreferrer\">official OP Auto Clicker site</a>. The 3.0 tutorials still apply: the core settings (interval, button, position, hotkey) work exactly the same way.</p> <h2> Frequently Asked Questions </h2> <h3> Is auto clicker.exe a virus?",
+        "summary": "Here's what you need to know: the current version is 4.0, it's still free, and you can get it safely from the <a href=\"https://www.opauto-clicker.com/\" rel=\"noopener noreferrer\">official OP Auto Clicker site</a>. The 3.0 tutorials still apply: the core settings (interval, button, position, hotkey) work exactly the same way.</p> <h2> Frequently Asked Questions </h2> <h3> Is auto clicker.exe a virus?",
+        "link": "https://dev.to/opauto_clicker/auto-clicker-exe-30-safe-download-what-it-is-current-version-1fdk",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-18T14:18:36.000Z",
+        "keywords": [
+          "autoclicker",
+          "windows",
+          "gaming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "autoclicker",
+          "windows",
+          "gaming"
+        ],
+        "pros": [
+          "Great for autoclicker",
+          "windows-ready automation",
+          "Great for autoclicker"
+        ],
+        "cons": [
+          "Overkill for autoclicker experiments",
+          "Needs extra setup for windows workflows",
+          "Overkill for autoclicker experiments"
+        ],
+        "highlights": [
+          "Search for \"auto clicker.exe\" and the results mix official sources with download portals that repackage the tool inside installers carrying adware, browser hijackers, or worse.",
+          "Searching for \"auto clicker.exe 3.0\" means you found a reference to OP Auto Clicker version 3.0 — the long-standing stable release that dominated YouTube tutorials and Reddit threads for years.",
+          "The 3.0 tutorials still apply: the core settings (interval, button, position, hotkey) work exactly the same way.</p> <h2> Frequently Asked Questions </h2> <h3> Is auto clicker.exe a virus?"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best Auto Clicker in 2026",
+        "slug": "best-auto-clicker-in-2026",
+        "description": "If you want literally two settings and nothing else, it works.</p> <p>The tradeoffs: fewer options (no fixed-position mode, no click-count limit), closed-source, and a less active update history. A ten-line script can replicate everything an auto clicker does — and a hundred-line script can do things no clicker can (image recognition, conditional logic, pixel detection).</p> <p>The catch: you're writing code.",
+        "summary": "If you want literally two settings and nothing else, it works.</p> <p>The tradeoffs: fewer options (no fixed-position mode, no click-count limit), closed-source, and a less active update history. A ten-line script can replicate everything an auto clicker does — and a hundred-line script can do things no clicker can (image recognition, conditional logic, pixel detection).</p> <p>The catch: you're writing code.",
+        "link": "https://dev.to/opauto_clicker/best-auto-clicker-in-2026-honest-comparison-of-free-options-2hc8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-18T14:02:43.000Z",
+        "keywords": [
+          "autoclicker",
+          "windows",
+          "gaming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "autoclicker",
+          "windows",
+          "gaming"
+        ],
+        "pros": [
+          "Great for autoclicker",
+          "windows-ready automation",
+          "Great for autoclicker"
+        ],
+        "cons": [
+          "Overkill for autoclicker experiments",
+          "Needs extra setup for windows workflows",
+          "Overkill for autoclicker experiments"
+        ],
+        "highlights": [
+          "If you want literally two settings and nothing else, it works.</p> <p>The tradeoffs: fewer options (no fixed-position mode, no click-count limit), closed-source, and a less active update history.",
+          "Set your interval (from hours to 1 ms, sustaining 100+ CPS), pick your mouse button, choose cursor or fixed-position clicking, set a hotkey (F6 by default, remappable), and go.",
+          "The best auto clicker depends on what you need — but for most people, the answer is OP Auto Clicker: free, open-source, portable, and it does the one thing you need without getting in your way."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Humanizer",
+        "slug": "ai-humanizer",
+        "description": "Try it https://toolguest.com/ai-humanizer Everything runs in your browser, so your data never leaves your device. Most tools that do this want an account, an upload or a watermark The fix AI Humanizer does the job in the browser.",
+        "summary": "Try it https://toolguest.com/ai-humanizer Everything runs in your browser, so your data never leaves your device. Most tools that do this want an account, an upload or a watermark The fix AI Humanizer does the job in the browser.",
+        "link": "https://dev.to/mkaamir/ai-humanizer-rewrite-ai-text-so-it-reads-naturally-and-bypasses-detectors-5073",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-18T14:01:09.000Z",
+        "keywords": [
+          "ai",
+          "writing",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "writing",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "writing-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for writing workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Try it https://toolguest.com/ai-humanizer Everything runs in your browser, so your data never leaves your device.",
+          "Most tools that do this want an account, an upload or a watermark The fix AI Humanizer does the job in the browser.",
+          "The work happens When it helps When you need this once, right now, without starting a trial."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "top-software-for-remote-debugging",
+    "title": "Top Software for Remote Debugging and Observability",
+    "type": "top-software",
+    "focus": "Debugging & Observability",
+    "description": "The most cited tools for tracing, remote debugging, and incident analysis.",
+    "summary": "Reliable remote debugging minimizes downtime and cognitive load.",
+    "conclusion": "Combine teleportation-like tooling with rich traces to spot regressions sooner.",
+    "publishedDate": "2026-11-18T14:36:36.031Z",
+    "lastUpdated": "2026-11-18T14:36:36.031Z",
+    "visibleDate": "Nov 18, 2026",
+    "url": "pages/2026-11-18-143636031-top-software-for-remote-debugging.html",
+    "markdownPath": "data/generated/markdown/2026-11-18-143636031-top-software-for-remote-debugging.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Test devto",
+      "AI Productivity Hacks",
+      "Auto Clicker .exe 3.0"
+    ],
+    "metaDescription": "The most cited tools for tracing, remote debugging, and incident analysis. Highlights include Test devto, AI Productivity Hacks, Auto Clicker .exe 3.0. Reliable",
+    "tools": [
+      {
+        "name": "Test devto",
+        "slug": "test-devto",
+        "description": "test preview content for verification Price: $5.00 USD Published by AIWILLBERICH <p>test preview content for verification</p> <h2> Get It </h2> <p>Price: $5.00 USD</p> <p><em>Published by AIWILLBERICH</em></p>",
+        "summary": "test preview content for verification Price: $5.00 USD Published by AIWILLBERICH <p>test preview content for verification</p> <h2> Get It </h2> <p>Price: $5.00 USD</p> <p><em>Published by AIWILLBERICH</em></p>",
+        "link": "https://dev.to/gynius_lot_84/test-devto-5704",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-18T14:26:13.000Z",
+        "keywords": [
+          "ai",
+          "coding",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "coding",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "coding-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for coding workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [],
+        "pricing": "Paid plans starting at $5",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Productivity Hacks",
+        "slug": "ai-productivity-hacks",
+        "description": "Price: $9.99 USD Published by AIWILLBERICH <p>A comprehensive guide to AI productivity tools for developers.</p> <h2> Get It </h2> <p>Price: $9.99 USD</p> <p><em>Published by AIWILLBERICH</em></p> A comprehensive guide to AI productivity tools for developers.",
+        "summary": "Price: $9.99 USD Published by AIWILLBERICH <p>A comprehensive guide to AI productivity tools for developers.</p> <h2> Get It </h2> <p>Price: $9.99 USD</p> <p><em>Published by AIWILLBERICH</em></p> A comprehensive guide to AI productivity tools for developers.",
+        "link": "https://dev.to/gynius_lot_84/ai-productivity-hacks-ebook-18ai",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-18T14:25:44.000Z",
+        "keywords": [
+          "ai",
+          "coding",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "coding",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "coding-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for coding workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Price: $9.99 USD Published by AIWILLBERICH <p>A comprehensive guide to AI productivity tools for developers.</p> <h2> Get It </h2> <p>Price: $9.99 USD</p> <p><em>Published by AIWILLBERICH</em></p>",
+          "A comprehensive guide to AI productivity tools for developers."
+        ],
+        "pricing": "Paid plans starting at $9",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Auto Clicker .exe 3.0",
+        "slug": "auto-clicker-exe-3-0",
+        "description": "Here's what you need to know: the current version is 4.0, it's still free, and you can get it safely from the <a href=\"https://www.opauto-clicker.com/\" rel=\"noopener noreferrer\">official OP Auto Clicker site</a>. The 3.0 tutorials still apply: the core settings (interval, button, position, hotkey) work exactly the same way.</p> <h2> Frequently Asked Questions </h2> <h3> Is auto clicker.exe a virus?",
+        "summary": "Here's what you need to know: the current version is 4.0, it's still free, and you can get it safely from the <a href=\"https://www.opauto-clicker.com/\" rel=\"noopener noreferrer\">official OP Auto Clicker site</a>. The 3.0 tutorials still apply: the core settings (interval, button, position, hotkey) work exactly the same way.</p> <h2> Frequently Asked Questions </h2> <h3> Is auto clicker.exe a virus?",
+        "link": "https://dev.to/opauto_clicker/auto-clicker-exe-30-safe-download-what-it-is-current-version-1fdk",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-18T14:18:36.000Z",
+        "keywords": [
+          "autoclicker",
+          "windows",
+          "gaming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "autoclicker",
+          "windows",
+          "gaming"
+        ],
+        "pros": [
+          "Great for autoclicker",
+          "windows-ready automation",
+          "Great for autoclicker"
+        ],
+        "cons": [
+          "Overkill for autoclicker experiments",
+          "Needs extra setup for windows workflows",
+          "Overkill for autoclicker experiments"
+        ],
+        "highlights": [
+          "Search for \"auto clicker.exe\" and the results mix official sources with download portals that repackage the tool inside installers carrying adware, browser hijackers, or worse.",
+          "Searching for \"auto clicker.exe 3.0\" means you found a reference to OP Auto Clicker version 3.0 — the long-standing stable release that dominated YouTube tutorials and Reddit threads for years.",
+          "The 3.0 tutorials still apply: the core settings (interval, button, position, hotkey) work exactly the same way.</p> <h2> Frequently Asked Questions </h2> <h3> Is auto clicker.exe a virus?"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Best Auto Clicker in 2026",
+        "slug": "best-auto-clicker-in-2026",
+        "description": "If you want literally two settings and nothing else, it works.</p> <p>The tradeoffs: fewer options (no fixed-position mode, no click-count limit), closed-source, and a less active update history. A ten-line script can replicate everything an auto clicker does — and a hundred-line script can do things no clicker can (image recognition, conditional logic, pixel detection).</p> <p>The catch: you're writing code.",
+        "summary": "If you want literally two settings and nothing else, it works.</p> <p>The tradeoffs: fewer options (no fixed-position mode, no click-count limit), closed-source, and a less active update history. A ten-line script can replicate everything an auto clicker does — and a hundred-line script can do things no clicker can (image recognition, conditional logic, pixel detection).</p> <p>The catch: you're writing code.",
+        "link": "https://dev.to/opauto_clicker/best-auto-clicker-in-2026-honest-comparison-of-free-options-2hc8",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-18T14:02:43.000Z",
+        "keywords": [
+          "autoclicker",
+          "windows",
+          "gaming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "autoclicker",
+          "windows",
+          "gaming"
+        ],
+        "pros": [
+          "Great for autoclicker",
+          "windows-ready automation",
+          "Great for autoclicker"
+        ],
+        "cons": [
+          "Overkill for autoclicker experiments",
+          "Needs extra setup for windows workflows",
+          "Overkill for autoclicker experiments"
+        ],
+        "highlights": [
+          "If you want literally two settings and nothing else, it works.</p> <p>The tradeoffs: fewer options (no fixed-position mode, no click-count limit), closed-source, and a less active update history.",
+          "Set your interval (from hours to 1 ms, sustaining 100+ CPS), pick your mouse button, choose cursor or fixed-position clicking, set a hotkey (F6 by default, remappable), and go.",
+          "The best auto clicker depends on what you need — but for most people, the answer is OP Auto Clicker: free, open-source, portable, and it does the one thing you need without getting in your way."
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "gitpod-vscode-comparison",
+    "title": "Gitpod vs. VS Code: Browser IDE vs. Desktop Power",
+    "type": "comparison",
+    "focus": "IDE Experience",
+    "description": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience.",
+    "summary": "Gitpod brings zero-config workspaces while VS Code offers fine-grained extensions.",
+    "conclusion": "Use Gitpod when environment parity matters and VS Code when hardware access is critical.",
+    "publishedDate": "2026-11-18T14:36:36.031Z",
+    "lastUpdated": "2026-11-18T14:36:36.031Z",
+    "visibleDate": "Nov 18, 2026",
+    "url": "pages/2026-11-18-143636031-gitpod-vscode-comparison.html",
+    "markdownPath": "data/generated/markdown/2026-11-18-143636031-gitpod-vscode-comparison.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Test devto",
+      "AI Productivity Hacks"
+    ],
+    "metaDescription": "Compare the browser-first Gitpod workspaces with the desktop Visual Studio Code experience. Highlights include Test devto, AI Productivity Hacks. Gitpod brings ",
+    "tools": [
+      {
+        "name": "Test devto",
+        "slug": "test-devto",
+        "description": "test preview content for verification Price: $5.00 USD Published by AIWILLBERICH <p>test preview content for verification</p> <h2> Get It </h2> <p>Price: $5.00 USD</p> <p><em>Published by AIWILLBERICH</em></p>",
+        "summary": "test preview content for verification Price: $5.00 USD Published by AIWILLBERICH <p>test preview content for verification</p> <h2> Get It </h2> <p>Price: $5.00 USD</p> <p><em>Published by AIWILLBERICH</em></p>",
+        "link": "https://dev.to/gynius_lot_84/test-devto-5704",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-18T14:26:13.000Z",
+        "keywords": [
+          "ai",
+          "coding",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "coding",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "coding-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for coding workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [],
+        "pricing": "Paid plans starting at $5",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Productivity Hacks",
+        "slug": "ai-productivity-hacks",
+        "description": "Price: $9.99 USD Published by AIWILLBERICH <p>A comprehensive guide to AI productivity tools for developers.</p> <h2> Get It </h2> <p>Price: $9.99 USD</p> <p><em>Published by AIWILLBERICH</em></p> A comprehensive guide to AI productivity tools for developers.",
+        "summary": "Price: $9.99 USD Published by AIWILLBERICH <p>A comprehensive guide to AI productivity tools for developers.</p> <h2> Get It </h2> <p>Price: $9.99 USD</p> <p><em>Published by AIWILLBERICH</em></p> A comprehensive guide to AI productivity tools for developers.",
+        "link": "https://dev.to/gynius_lot_84/ai-productivity-hacks-ebook-18ai",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-18T14:25:44.000Z",
+        "keywords": [
+          "ai",
+          "coding",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "coding",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "coding-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for coding workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Price: $9.99 USD Published by AIWILLBERICH <p>A comprehensive guide to AI productivity tools for developers.</p> <h2> Get It </h2> <p>Price: $9.99 USD</p> <p><em>Published by AIWILLBERICH</em></p>",
+          "A comprehensive guide to AI productivity tools for developers."
+        ],
+        "pricing": "Paid plans starting at $9",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "new-collections-this-week",
+    "title": "New Tools This Week: Fresh Releases in Dev Productivity",
+    "type": "weekly-roundup",
+    "focus": "Fresh Releases",
+    "description": "Summaries of the newest developer tools pulled from developer feeds.",
+    "summary": "New launches that are shipping with automation-friendly APIs.",
+    "conclusion": "Bookmark this page and refresh the RSS for the latest releases.",
+    "publishedDate": "2026-11-18T14:36:36.031Z",
+    "lastUpdated": "2026-11-18T14:36:36.031Z",
+    "visibleDate": "Nov 18, 2026",
+    "url": "pages/2026-11-18-143636031-new-collections-this-week.html",
+    "markdownPath": "data/generated/markdown/2026-11-18-143636031-new-collections-this-week.md",
+    "categories": [
+      {
+        "slug": "developer-productivity",
+        "name": "Developer Productivity"
+      }
+    ],
+    "toolHighlights": [
+      "Test devto",
+      "AI Productivity Hacks",
+      "Auto Clicker .exe 3.0"
+    ],
+    "metaDescription": "Summaries of the newest developer tools pulled from developer feeds. Highlights include Test devto, AI Productivity Hacks, Auto Clicker .exe 3.0. New launches t",
+    "tools": [
+      {
+        "name": "Test devto",
+        "slug": "test-devto",
+        "description": "test preview content for verification Price: $5.00 USD Published by AIWILLBERICH <p>test preview content for verification</p> <h2> Get It </h2> <p>Price: $5.00 USD</p> <p><em>Published by AIWILLBERICH</em></p>",
+        "summary": "test preview content for verification Price: $5.00 USD Published by AIWILLBERICH <p>test preview content for verification</p> <h2> Get It </h2> <p>Price: $5.00 USD</p> <p><em>Published by AIWILLBERICH</em></p>",
+        "link": "https://dev.to/gynius_lot_84/test-devto-5704",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-18T14:26:13.000Z",
+        "keywords": [
+          "ai",
+          "coding",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "coding",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "coding-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for coding workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [],
+        "pricing": "Paid plans starting at $5",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "AI Productivity Hacks",
+        "slug": "ai-productivity-hacks",
+        "description": "Price: $9.99 USD Published by AIWILLBERICH <p>A comprehensive guide to AI productivity tools for developers.</p> <h2> Get It </h2> <p>Price: $9.99 USD</p> <p><em>Published by AIWILLBERICH</em></p> A comprehensive guide to AI productivity tools for developers.",
+        "summary": "Price: $9.99 USD Published by AIWILLBERICH <p>A comprehensive guide to AI productivity tools for developers.</p> <h2> Get It </h2> <p>Price: $9.99 USD</p> <p><em>Published by AIWILLBERICH</em></p> A comprehensive guide to AI productivity tools for developers.",
+        "link": "https://dev.to/gynius_lot_84/ai-productivity-hacks-ebook-18ai",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-18T14:25:44.000Z",
+        "keywords": [
+          "ai",
+          "coding",
+          "productivity",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "ai",
+          "coding",
+          "productivity"
+        ],
+        "pros": [
+          "Great for ai",
+          "coding-ready automation",
+          "Great for ai"
+        ],
+        "cons": [
+          "Overkill for ai experiments",
+          "Needs extra setup for coding workflows",
+          "Overkill for ai experiments"
+        ],
+        "highlights": [
+          "Price: $9.99 USD Published by AIWILLBERICH <p>A comprehensive guide to AI productivity tools for developers.</p> <h2> Get It </h2> <p>Price: $9.99 USD</p> <p><em>Published by AIWILLBERICH</em></p>",
+          "A comprehensive guide to AI productivity tools for developers."
+        ],
+        "pricing": "Paid plans starting at $9",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      },
+      {
+        "name": "Auto Clicker .exe 3.0",
+        "slug": "auto-clicker-exe-3-0",
+        "description": "Here's what you need to know: the current version is 4.0, it's still free, and you can get it safely from the <a href=\"https://www.opauto-clicker.com/\" rel=\"noopener noreferrer\">official OP Auto Clicker site</a>. The 3.0 tutorials still apply: the core settings (interval, button, position, hotkey) work exactly the same way.</p> <h2> Frequently Asked Questions </h2> <h3> Is auto clicker.exe a virus?",
+        "summary": "Here's what you need to know: the current version is 4.0, it's still free, and you can get it safely from the <a href=\"https://www.opauto-clicker.com/\" rel=\"noopener noreferrer\">official OP Auto Clicker site</a>. The 3.0 tutorials still apply: the core settings (interval, button, position, hotkey) work exactly the same way.</p> <h2> Frequently Asked Questions </h2> <h3> Is auto clicker.exe a virus?",
+        "link": "https://dev.to/opauto_clicker/auto-clicker-exe-30-safe-download-what-it-is-current-version-1fdk",
+        "source": "Dev.to Tools",
+        "isoDate": "2026-11-18T14:18:36.000Z",
+        "keywords": [
+          "autoclicker",
+          "windows",
+          "gaming",
+          "tools",
+          "dev",
+          "saas"
+        ],
+        "useCases": [
+          "autoclicker",
+          "windows",
+          "gaming"
+        ],
+        "pros": [
+          "Great for autoclicker",
+          "windows-ready automation",
+          "Great for autoclicker"
+        ],
+        "cons": [
+          "Overkill for autoclicker experiments",
+          "Needs extra setup for windows workflows",
+          "Overkill for autoclicker experiments"
+        ],
+        "highlights": [
+          "Search for \"auto clicker.exe\" and the results mix official sources with download portals that repackage the tool inside installers carrying adware, browser hijackers, or worse.",
+          "Searching for \"auto clicker.exe 3.0\" means you found a reference to OP Auto Clicker version 3.0 — the long-standing stable release that dominated YouTube tutorials and Reddit threads for years.",
+          "The 3.0 tutorials still apply: the core settings (interval, button, position, hotkey) work exactly the same way.</p> <h2> Frequently Asked Questions </h2> <h3> Is auto clicker.exe a virus?"
+        ],
+        "pricing": "Free tier available",
+        "mentions": 1,
+        "affiliates": [],
+        "affiliate": null
+      }
+    ]
+  },
+  {
+    "slug": "best-dev-tools-for-productivity",
+    "title": "Best Developer Tools for Productivity Workflows",
+    "type": "best-tools",
+    "focus": "Productivity & Automation",
+    "description": "Daily curated picks for developer tools that accelerate workflows.",
+    "summary": "Productivity stacks that keep developer teams in sync.",
+    "conclusion": "Pick tools that map to your delivery rhythm and instrument the workflows with APIs.",
     "publishedDate": "2026-11-17T14:56:35.113Z",
     "lastUpdated": "2026-11-17T14:56:35.113Z",
     "visibleDate": "Nov 17, 2026",
